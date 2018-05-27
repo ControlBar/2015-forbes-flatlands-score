@@ -1,0 +1,7542 @@
+timing:
+- zonesSum:
+  - 18
+  - 50
+  - 44
+  - 35
+  - 33
+  zonesFirst:
+  - 2015-01-01T01:37:43Z
+  - 2015-01-01T02:38:11Z
+  - 2015-01-01T04:04:28Z
+  - 2015-01-01T05:16:33Z
+  - 2015-01-01T05:36:51Z
+  zonesLast:
+  - 2015-01-01T02:50:32Z
+  - 2015-01-01T03:16:52Z
+  - 2015-01-01T04:55:36Z
+  - 2015-01-01T06:30:35Z
+  - 2015-01-01T06:50:09Z
+  zonesRankTime:
+  - - 2015-01-01T01:37:43Z
+    - 2015-01-01T01:38:43Z
+    - 2015-01-01T01:39:05Z
+    - 2015-01-01T01:40:32Z
+    - 2015-01-01T01:46:31Z
+    - 2015-01-01T01:55:51Z
+    - 2015-01-01T02:01:19Z
+    - 2015-01-01T02:03:56Z
+    - 2015-01-01T02:07:29Z
+    - 2015-01-01T02:29:51Z
+    - 2015-01-01T02:35:46Z
+    - 2015-01-01T02:37:07Z
+    - 2015-01-01T02:38:11Z
+    - 2015-01-01T02:41:00Z
+    - 2015-01-01T02:41:26Z
+    - 2015-01-01T02:45:32Z
+    - 2015-01-01T02:46:02Z
+    - 2015-01-01T02:50:32Z
+  - - 2015-01-01T02:38:11Z
+    - 2015-01-01T02:43:27Z
+    - 2015-01-01T02:45:02Z
+    - 2015-01-01T02:45:05Z
+    - 2015-01-01T02:45:14Z
+    - 2015-01-01T02:45:27Z
+    - 2015-01-01T02:45:32Z
+    - 2015-01-01T02:45:33Z
+    - 2015-01-01T02:45:35Z
+    - 2015-01-01T02:45:37Z
+    - 2015-01-01T02:45:42Z
+    - 2015-01-01T02:45:52Z
+    - 2015-01-01T02:46:12Z
+    - 2015-01-01T02:47:32Z
+    - 2015-01-01T02:48:16Z
+    - 2015-01-01T02:49:34Z
+    - 2015-01-01T02:57:09Z
+    - 2015-01-01T02:58:43Z
+    - 2015-01-01T03:00:54Z
+    - 2015-01-01T03:00:58Z
+    - 2015-01-01T03:01:05Z
+    - 2015-01-01T03:01:10Z
+    - 2015-01-01T03:01:10Z
+    - 2015-01-01T03:01:11Z
+    - 2015-01-01T03:01:12Z
+    - 2015-01-01T03:01:13Z
+    - 2015-01-01T03:01:13Z
+    - 2015-01-01T03:01:21Z
+    - 2015-01-01T03:01:22Z
+    - 2015-01-01T03:01:27Z
+    - 2015-01-01T03:01:28Z
+    - 2015-01-01T03:01:57Z
+    - 2015-01-01T03:02:06Z
+    - 2015-01-01T03:02:18Z
+    - 2015-01-01T03:02:23Z
+    - 2015-01-01T03:02:28Z
+    - 2015-01-01T03:02:38Z
+    - 2015-01-01T03:02:41Z
+    - 2015-01-01T03:03:03Z
+    - 2015-01-01T03:03:04Z
+    - 2015-01-01T03:04:26Z
+    - 2015-01-01T03:11:19Z
+    - 2015-01-01T03:15:07Z
+    - 2015-01-01T03:15:10Z
+    - 2015-01-01T03:15:12Z
+    - 2015-01-01T03:15:17Z
+    - 2015-01-01T03:15:26Z
+    - 2015-01-01T03:15:26Z
+    - 2015-01-01T03:16:16Z
+    - 2015-01-01T03:16:52Z
+  - - 2015-01-01T04:04:28Z
+    - 2015-01-01T04:04:46Z
+    - 2015-01-01T04:06:38Z
+    - 2015-01-01T04:07:29Z
+    - 2015-01-01T04:08:09Z
+    - 2015-01-01T04:08:11Z
+    - 2015-01-01T04:08:18Z
+    - 2015-01-01T04:08:23Z
+    - 2015-01-01T04:08:23Z
+    - 2015-01-01T04:08:35Z
+    - 2015-01-01T04:11:26Z
+    - 2015-01-01T04:11:38Z
+    - 2015-01-01T04:11:57Z
+    - 2015-01-01T04:12:34Z
+    - 2015-01-01T04:12:34Z
+    - 2015-01-01T04:13:08Z
+    - 2015-01-01T04:13:13Z
+    - 2015-01-01T04:14:11Z
+    - 2015-01-01T04:14:49Z
+    - 2015-01-01T04:17:54Z
+    - 2015-01-01T04:18:35Z
+    - 2015-01-01T04:19:34Z
+    - 2015-01-01T04:19:40Z
+    - 2015-01-01T04:19:55Z
+    - 2015-01-01T04:21:20Z
+    - 2015-01-01T04:23:54Z
+    - 2015-01-01T04:25:44Z
+    - 2015-01-01T04:26:31Z
+    - 2015-01-01T04:26:58Z
+    - 2015-01-01T04:26:58Z
+    - 2015-01-01T04:27:46Z
+    - 2015-01-01T04:27:52Z
+    - 2015-01-01T04:27:52Z
+    - 2015-01-01T04:29:22Z
+    - 2015-01-01T04:30:15Z
+    - 2015-01-01T04:31:53Z
+    - 2015-01-01T04:38:21Z
+    - 2015-01-01T04:40:20Z
+    - 2015-01-01T04:43:53Z
+    - 2015-01-01T04:43:59Z
+    - 2015-01-01T04:47:53Z
+    - 2015-01-01T04:48:22Z
+    - 2015-01-01T04:48:23Z
+    - 2015-01-01T04:55:36Z
+  - - 2015-01-01T05:16:33Z
+    - 2015-01-01T05:16:42Z
+    - 2015-01-01T05:23:25Z
+    - 2015-01-01T05:23:33Z
+    - 2015-01-01T05:27:02Z
+    - 2015-01-01T05:27:46Z
+    - 2015-01-01T05:28:11Z
+    - 2015-01-01T05:28:16Z
+    - 2015-01-01T05:28:31Z
+    - 2015-01-01T05:29:52Z
+    - 2015-01-01T05:29:55Z
+    - 2015-01-01T05:30:20Z
+    - 2015-01-01T05:31:39Z
+    - 2015-01-01T05:31:56Z
+    - 2015-01-01T05:32:37Z
+    - 2015-01-01T05:32:38Z
+    - 2015-01-01T05:32:46Z
+    - 2015-01-01T05:35:17Z
+    - 2015-01-01T05:35:19Z
+    - 2015-01-01T05:37:18Z
+    - 2015-01-01T05:37:18Z
+    - 2015-01-01T05:39:16Z
+    - 2015-01-01T05:42:59Z
+    - 2015-01-01T05:44:39Z
+    - 2015-01-01T05:45:20Z
+    - 2015-01-01T05:45:42Z
+    - 2015-01-01T05:45:52Z
+    - 2015-01-01T05:47:21Z
+    - 2015-01-01T05:47:21Z
+    - 2015-01-01T05:47:39Z
+    - 2015-01-01T05:52:30Z
+    - 2015-01-01T05:55:13Z
+    - 2015-01-01T06:00:42Z
+    - 2015-01-01T06:00:58Z
+    - 2015-01-01T06:30:35Z
+  - - 2015-01-01T05:36:51Z
+    - 2015-01-01T05:37:18Z
+    - 2015-01-01T05:38:10Z
+    - 2015-01-01T05:43:12Z
+    - 2015-01-01T05:43:31Z
+    - 2015-01-01T05:46:46Z
+    - 2015-01-01T05:47:11Z
+    - 2015-01-01T05:48:31Z
+    - 2015-01-01T05:48:32Z
+    - 2015-01-01T05:50:50Z
+    - 2015-01-01T05:53:14Z
+    - 2015-01-01T05:54:50Z
+    - 2015-01-01T05:55:49Z
+    - 2015-01-01T05:56:40Z
+    - 2015-01-01T05:57:18Z
+    - 2015-01-01T05:57:48Z
+    - 2015-01-01T05:59:49Z
+    - 2015-01-01T05:59:49Z
+    - 2015-01-01T06:01:38Z
+    - 2015-01-01T06:02:21Z
+    - 2015-01-01T06:02:29Z
+    - 2015-01-01T06:03:14Z
+    - 2015-01-01T06:04:06Z
+    - 2015-01-01T06:04:11Z
+    - 2015-01-01T06:06:14Z
+    - 2015-01-01T06:07:31Z
+    - 2015-01-01T06:12:15Z
+    - 2015-01-01T06:16:20Z
+    - 2015-01-01T06:16:52Z
+    - 2015-01-01T06:22:36Z
+    - 2015-01-01T06:27:05Z
+    - 2015-01-01T06:34:07Z
+    - 2015-01-01T06:50:09Z
+  zonesRankPilot:
+  - - Nils Vesk
+    - Lukas Bader
+    - Viv Clements
+    - Jon snr Durand
+    - Filippo Oppici
+    - Phil Schroder
+    - Gerolf Heinrichs
+    - Yoko Isomoto
+    - Kato Minoru
+    - Tullio Gervasoni
+    - Adam Jones
+    - Steve Blenkinsop
+    - Dale Regehr
+    - Zac Majors
+    - Rohan Taylor
+    - Trent Brown
+    - Len Paton
+    - Yasuhiro Noma
+  - - Phil Seeley
+    - Mikhail Karmazin
+    - Jon snr Durand
+    - Gijs Wanders
+    - Guy Hubbard
+    - Gavin Myers
+    - Simon Braithwaite
+    - Kato Minoru
+    - Olav Olsen
+    - Sander Van Schaik
+    - Chris Czajkowski
+    - Nils Vesk
+    - Harrison Rowntree
+    - Emiel Jansen
+    - Grant Heaney
+    - Mark Russell
+    - Thomas Lindal
+    - Dale Regehr
+    - Attila Bertok
+    - Conrad Loten
+    - Steve Blenkinsop
+    - Gerolf Heinrichs
+    - Lukas Bader
+    - Christian Voiblet
+    - Tullio Gervasoni
+    - Geoff Robertson
+    - Oyvind Ellefsen
+    - Peter Dall
+    - Sasha Serebrennikova
+    - Yoko Isomoto
+    - Federico Martini
+    - Andrew Barnes
+    - Jochen Zeischka
+    - Filippo Oppici
+    - Jonas Lobitz
+    - Takeshi Yokoyama
+    - Ryosuke Hattori
+    - Phil Schroder
+    - Gordon Rigg
+    - Olav Opsanger
+    - Josh Woods
+    - Viv Clements
+    - Trent Brown
+    - Zac Majors
+    - Jonny Durand
+    - Yasuhiro Noma
+    - Glen Mcfarlane
+    - Rohan Taylor
+    - Len Paton
+    - Victor Hare
+  - - Gavin Myers
+    - Guy Hubbard
+    - Kato Minoru
+    - Jon snr Durand
+    - Simon Braithwaite
+    - Harrison Rowntree
+    - Olav Olsen
+    - Gijs Wanders
+    - Nils Vesk
+    - Phil Seeley
+    - Grant Heaney
+    - Steve Blenkinsop
+    - Jochen Zeischka
+    - Christian Voiblet
+    - Tullio Gervasoni
+    - Olav Opsanger
+    - Geoff Robertson
+    - Oyvind Ellefsen
+    - Gerolf Heinrichs
+    - Jonas Lobitz
+    - Attila Bertok
+    - Mikhail Karmazin
+    - Gordon Rigg
+    - Andrew Barnes
+    - Mark Russell
+    - Len Paton
+    - Jonny Durand
+    - Phil Schroder
+    - Glen Mcfarlane
+    - Trent Brown
+    - Victor Hare
+    - Rohan Taylor
+    - Zac Majors
+    - Chris Czajkowski
+    - Filippo Oppici
+    - Thomas Lindal
+    - Dale Regehr
+    - Sander Van Schaik
+    - Sasha Serebrennikova
+    - Yasuhiro Noma
+    - Conrad Loten
+    - Lukas Bader
+    - Takeshi Yokoyama
+    - Viv Clements
+  - - Gerolf Heinrichs
+    - Olav Olsen
+    - Attila Bertok
+    - Olav Opsanger
+    - Gavin Myers
+    - Guy Hubbard
+    - Kato Minoru
+    - Harrison Rowntree
+    - Gijs Wanders
+    - Gordon Rigg
+    - Christian Voiblet
+    - Steve Blenkinsop
+    - Geoff Robertson
+    - Oyvind Ellefsen
+    - Jonny Durand
+    - Len Paton
+    - Nils Vesk
+    - Tullio Gervasoni
+    - Jochen Zeischka
+    - Andrew Barnes
+    - Mikhail Karmazin
+    - Grant Heaney
+    - Jon snr Durand
+    - Filippo Oppici
+    - Glen Mcfarlane
+    - Jonas Lobitz
+    - Zac Majors
+    - Phil Schroder
+    - Trent Brown
+    - Yasuhiro Noma
+    - Mark Russell
+    - Lukas Bader
+    - Conrad Loten
+    - Dale Regehr
+    - Takeshi Yokoyama
+  - - Attila Bertok
+    - Olav Olsen
+    - Olav Opsanger
+    - Gerolf Heinrichs
+    - Gijs Wanders
+    - Gavin Myers
+    - Harrison Rowntree
+    - Christian Voiblet
+    - Oyvind Ellefsen
+    - Kato Minoru
+    - Guy Hubbard
+    - Jonny Durand
+    - Gordon Rigg
+    - Len Paton
+    - Filippo Oppici
+    - Glen Mcfarlane
+    - Jonas Lobitz
+    - Steve Blenkinsop
+    - Andrew Barnes
+    - Grant Heaney
+    - Tullio Gervasoni
+    - Nils Vesk
+    - Jochen Zeischka
+    - Jon snr Durand
+    - Trent Brown
+    - Phil Schroder
+    - Mikhail Karmazin
+    - Zac Majors
+    - Mark Russell
+    - Lukas Bader
+    - Conrad Loten
+    - Dale Regehr
+    - Takeshi Yokoyama
+- zonesSum:
+  - 18
+  - 48
+  - 45
+  - 35
+  - 33
+  zonesFirst:
+  - 2015-01-02T01:46:52Z
+  - 2015-01-02T02:45:12Z
+  - 2015-01-02T03:47:22Z
+  - 2015-01-02T04:37:55Z
+  - 2015-01-02T05:24:44Z
+  zonesLast:
+  - 2015-01-02T03:20:34Z
+  - 2015-01-02T03:42:40Z
+  - 2015-01-02T05:05:16Z
+  - 2015-01-02T06:55:42Z
+  - 2015-01-02T07:53:05Z
+  zonesRankTime:
+  - - 2015-01-02T01:46:52Z
+    - 2015-01-02T01:48:48Z
+    - 2015-01-02T01:49:06Z
+    - 2015-01-02T01:51:26Z
+    - 2015-01-02T01:51:28Z
+    - 2015-01-02T01:51:34Z
+    - 2015-01-02T02:15:30Z
+    - 2015-01-02T02:15:44Z
+    - 2015-01-02T02:15:57Z
+    - 2015-01-02T02:16:18Z
+    - 2015-01-02T02:16:40Z
+    - 2015-01-02T02:16:45Z
+    - 2015-01-02T02:17:25Z
+    - 2015-01-02T02:26:08Z
+    - 2015-01-02T02:47:27Z
+    - 2015-01-02T02:48:19Z
+    - 2015-01-02T03:11:57Z
+    - 2015-01-02T03:20:34Z
+  - - 2015-01-02T02:45:12Z
+    - 2015-01-02T02:45:31Z
+    - 2015-01-02T02:45:35Z
+    - 2015-01-02T02:45:42Z
+    - 2015-01-02T02:45:55Z
+    - 2015-01-02T02:46:02Z
+    - 2015-01-02T02:46:05Z
+    - 2015-01-02T02:46:13Z
+    - 2015-01-02T02:46:23Z
+    - 2015-01-02T02:46:28Z
+    - 2015-01-02T02:46:59Z
+    - 2015-01-02T02:47:19Z
+    - 2015-01-02T02:47:28Z
+    - 2015-01-02T02:47:34Z
+    - 2015-01-02T02:48:09Z
+    - 2015-01-02T02:48:16Z
+    - 2015-01-02T02:48:18Z
+    - 2015-01-02T02:48:22Z
+    - 2015-01-02T02:48:22Z
+    - 2015-01-02T02:48:23Z
+    - 2015-01-02T02:48:27Z
+    - 2015-01-02T02:48:34Z
+    - 2015-01-02T02:49:03Z
+    - 2015-01-02T02:49:21Z
+    - 2015-01-02T02:49:53Z
+    - 2015-01-02T02:52:31Z
+    - 2015-01-02T02:58:34Z
+    - 2015-01-02T03:00:02Z
+    - 2015-01-02T03:00:07Z
+    - 2015-01-02T03:00:12Z
+    - 2015-01-02T03:01:53Z
+    - 2015-01-02T03:09:21Z
+    - 2015-01-02T03:10:05Z
+    - 2015-01-02T03:15:22Z
+    - 2015-01-02T03:16:45Z
+    - 2015-01-02T03:20:01Z
+    - 2015-01-02T03:20:05Z
+    - 2015-01-02T03:22:09Z
+    - 2015-01-02T03:24:34Z
+    - 2015-01-02T03:24:54Z
+    - 2015-01-02T03:27:58Z
+    - 2015-01-02T03:29:06Z
+    - 2015-01-02T03:31:13Z
+    - 2015-01-02T03:33:42Z
+    - 2015-01-02T03:34:07Z
+    - 2015-01-02T03:39:31Z
+    - 2015-01-02T03:42:32Z
+    - 2015-01-02T03:42:40Z
+  - - 2015-01-02T03:47:22Z
+    - 2015-01-02T03:47:26Z
+    - 2015-01-02T03:47:44Z
+    - 2015-01-02T03:48:01Z
+    - 2015-01-02T03:49:17Z
+    - 2015-01-02T03:49:50Z
+    - 2015-01-02T03:50:07Z
+    - 2015-01-02T03:50:15Z
+    - 2015-01-02T03:50:55Z
+    - 2015-01-02T03:51:30Z
+    - 2015-01-02T03:52:16Z
+    - 2015-01-02T03:52:48Z
+    - 2015-01-02T03:53:19Z
+    - 2015-01-02T03:53:20Z
+    - 2015-01-02T03:53:48Z
+    - 2015-01-02T03:54:24Z
+    - 2015-01-02T03:54:57Z
+    - 2015-01-02T03:55:00Z
+    - 2015-01-02T03:57:48Z
+    - 2015-01-02T03:59:20Z
+    - 2015-01-02T03:59:22Z
+    - 2015-01-02T03:59:23Z
+    - 2015-01-02T04:00:33Z
+    - 2015-01-02T04:01:23Z
+    - 2015-01-02T04:02:10Z
+    - 2015-01-02T04:03:05Z
+    - 2015-01-02T04:04:25Z
+    - 2015-01-02T04:06:32Z
+    - 2015-01-02T04:07:51Z
+    - 2015-01-02T04:08:49Z
+    - 2015-01-02T04:08:50Z
+    - 2015-01-02T04:11:56Z
+    - 2015-01-02T04:20:25Z
+    - 2015-01-02T04:24:30Z
+    - 2015-01-02T04:24:56Z
+    - 2015-01-02T04:32:26Z
+    - 2015-01-02T04:35:00Z
+    - 2015-01-02T04:37:19Z
+    - 2015-01-02T04:40:44Z
+    - 2015-01-02T04:45:46Z
+    - 2015-01-02T04:47:44Z
+    - 2015-01-02T05:00:38Z
+    - 2015-01-02T05:01:20Z
+    - 2015-01-02T05:03:44Z
+    - 2015-01-02T05:05:16Z
+  - - 2015-01-02T04:37:55Z
+    - 2015-01-02T04:37:59Z
+    - 2015-01-02T04:38:34Z
+    - 2015-01-02T04:39:18Z
+    - 2015-01-02T04:45:06Z
+    - 2015-01-02T04:55:28Z
+    - 2015-01-02T04:57:21Z
+    - 2015-01-02T04:57:39Z
+    - 2015-01-02T04:58:24Z
+    - 2015-01-02T05:00:23Z
+    - 2015-01-02T05:01:21Z
+    - 2015-01-02T05:01:46Z
+    - 2015-01-02T05:01:46Z
+    - 2015-01-02T05:02:12Z
+    - 2015-01-02T05:08:48Z
+    - 2015-01-02T05:13:23Z
+    - 2015-01-02T05:15:07Z
+    - 2015-01-02T05:15:53Z
+    - 2015-01-02T05:17:02Z
+    - 2015-01-02T05:19:21Z
+    - 2015-01-02T05:22:23Z
+    - 2015-01-02T05:22:55Z
+    - 2015-01-02T05:23:45Z
+    - 2015-01-02T05:25:15Z
+    - 2015-01-02T05:28:35Z
+    - 2015-01-02T05:29:36Z
+    - 2015-01-02T05:33:11Z
+    - 2015-01-02T05:40:11Z
+    - 2015-01-02T05:46:08Z
+    - 2015-01-02T05:50:46Z
+    - 2015-01-02T05:54:55Z
+    - 2015-01-02T05:59:57Z
+    - 2015-01-02T06:04:20Z
+    - 2015-01-02T06:06:19Z
+    - 2015-01-02T06:55:42Z
+  - - 2015-01-02T05:24:44Z
+    - 2015-01-02T05:28:25Z
+    - 2015-01-02T05:34:24Z
+    - 2015-01-02T05:56:05Z
+    - 2015-01-02T05:56:25Z
+    - 2015-01-02T05:56:35Z
+    - 2015-01-02T05:57:26Z
+    - 2015-01-02T05:57:26Z
+    - 2015-01-02T05:57:32Z
+    - 2015-01-02T05:58:19Z
+    - 2015-01-02T05:59:14Z
+    - 2015-01-02T05:59:28Z
+    - 2015-01-02T05:59:35Z
+    - 2015-01-02T06:03:15Z
+    - 2015-01-02T06:08:05Z
+    - 2015-01-02T06:08:53Z
+    - 2015-01-02T06:15:48Z
+    - 2015-01-02T06:16:08Z
+    - 2015-01-02T06:17:13Z
+    - 2015-01-02T06:19:11Z
+    - 2015-01-02T06:21:17Z
+    - 2015-01-02T06:22:10Z
+    - 2015-01-02T06:26:26Z
+    - 2015-01-02T06:28:43Z
+    - 2015-01-02T06:28:48Z
+    - 2015-01-02T06:31:48Z
+    - 2015-01-02T06:40:47Z
+    - 2015-01-02T06:49:06Z
+    - 2015-01-02T06:52:34Z
+    - 2015-01-02T07:14:43Z
+    - 2015-01-02T07:19:18Z
+    - 2015-01-02T07:27:20Z
+    - 2015-01-02T07:53:05Z
+  zonesRankPilot:
+  - - Gordon Rigg
+    - Steve Blenkinsop
+    - Guy Hubbard
+    - Trent Brown
+    - Harrison Rowntree
+    - Kato Minoru
+    - Nils Vesk
+    - Phil Schroder
+    - Gerolf Heinrichs
+    - Jochen Zeischka
+    - Olav Opsanger
+    - Jonny Durand
+    - Mikhail Karmazin
+    - Grant Heaney
+    - Peter Dall
+    - Emiel Jansen
+    - Ryosuke Hattori
+    - Yoko Isomoto
+  - - Conrad Loten
+    - Gordon Rigg
+    - Olav Olsen
+    - Guy Hubbard
+    - Andrew Barnes
+    - Steve Blenkinsop
+    - Geoff Robertson
+    - Zac Majors
+    - Grant Heaney
+    - Gavin Myers
+    - Nils Vesk
+    - Takeshi Yokoyama
+    - Len Paton
+    - Gijs Wanders
+    - Kato Minoru
+    - Lukas Bader
+    - Olav Opsanger
+    - Oyvind Ellefsen
+    - Tullio Gervasoni
+    - Jochen Zeischka
+    - Mark Russell
+    - Phil Schroder
+    - Victor Hare
+    - Christian Voiblet
+    - Viv Clements
+    - Mikhail Karmazin
+    - Simon Braithwaite
+    - Jonny Durand
+    - Trent Brown
+    - Jonas Lobitz
+    - Filippo Oppici
+    - Federico Martini
+    - Glen Mcfarlane
+    - Gerolf Heinrichs
+    - Harrison Rowntree
+    - Attila Bertok
+    - Jon snr Durand
+    - Josh Woods
+    - Yasuhiro Noma
+    - Emiel Jansen
+    - Sander Van Schaik
+    - Chris Czajkowski
+    - Peter Dall
+    - Sasha Serebrennikova
+    - Rohan Taylor
+    - Yoko Isomoto
+    - Dale Regehr
+    - Ryosuke Hattori
+  - - Len Paton
+    - Guy Hubbard
+    - Gordon Rigg
+    - Olav Olsen
+    - Zac Majors
+    - Jochen Zeischka
+    - Steve Blenkinsop
+    - Oyvind Ellefsen
+    - Kato Minoru
+    - Olav Opsanger
+    - Christian Voiblet
+    - Grant Heaney
+    - Trent Brown
+    - Gijs Wanders
+    - Mark Russell
+    - Jonas Lobitz
+    - Lukas Bader
+    - Conrad Loten
+    - Gavin Myers
+    - Victor Hare
+    - Tullio Gervasoni
+    - Nils Vesk
+    - Geoff Robertson
+    - Jonny Durand
+    - Gerolf Heinrichs
+    - Takeshi Yokoyama
+    - Filippo Oppici
+    - Phil Schroder
+    - Federico Martini
+    - Glen Mcfarlane
+    - Mikhail Karmazin
+    - Andrew Barnes
+    - Attila Bertok
+    - Jon snr Durand
+    - Simon Braithwaite
+    - Peter Dall
+    - Emiel Jansen
+    - Yasuhiro Noma
+    - Rohan Taylor
+    - Sasha Serebrennikova
+    - Harrison Rowntree
+    - Dale Regehr
+    - Josh Woods
+    - Chris Czajkowski
+    - Ryosuke Hattori
+  - - Zac Majors
+    - Kato Minoru
+    - Jochen Zeischka
+    - Gordon Rigg
+    - Olav Olsen
+    - Olav Opsanger
+    - Christian Voiblet
+    - Oyvind Ellefsen
+    - Jonas Lobitz
+    - Trent Brown
+    - Steve Blenkinsop
+    - Guy Hubbard
+    - Lukas Bader
+    - Conrad Loten
+    - Gijs Wanders
+    - Mark Russell
+    - Gerolf Heinrichs
+    - Jonny Durand
+    - Nils Vesk
+    - Victor Hare
+    - Attila Bertok
+    - Tullio Gervasoni
+    - Geoff Robertson
+    - Len Paton
+    - Federico Martini
+    - Phil Schroder
+    - Filippo Oppici
+    - Mikhail Karmazin
+    - Gavin Myers
+    - Glen Mcfarlane
+    - Yasuhiro Noma
+    - Andrew Barnes
+    - Rohan Taylor
+    - Harrison Rowntree
+    - Sasha Serebrennikova
+  - - Zac Majors
+    - Jochen Zeischka
+    - Gordon Rigg
+    - Conrad Loten
+    - Jonas Lobitz
+    - Christian Voiblet
+    - Guy Hubbard
+    - Lukas Bader
+    - Olav Opsanger
+    - Trent Brown
+    - Kato Minoru
+    - Jonny Durand
+    - Gijs Wanders
+    - Olav Olsen
+    - Oyvind Ellefsen
+    - Steve Blenkinsop
+    - Nils Vesk
+    - Attila Bertok
+    - Gerolf Heinrichs
+    - Tullio Gervasoni
+    - Mark Russell
+    - Geoff Robertson
+    - Federico Martini
+    - Filippo Oppici
+    - Gavin Myers
+    - Victor Hare
+    - Glen Mcfarlane
+    - Phil Schroder
+    - Mikhail Karmazin
+    - Andrew Barnes
+    - Rohan Taylor
+    - Harrison Rowntree
+    - Sasha Serebrennikova
+- zonesSum:
+  - 21
+  - 50
+  - 46
+  - 39
+  - 38
+  zonesFirst:
+  - 2015-01-03T01:37:32Z
+  - 2015-01-03T02:43:54Z
+  - 2015-01-03T03:59:29Z
+  - 2015-01-03T04:52:39Z
+  - 2015-01-03T05:10:32Z
+  zonesLast:
+  - 2015-01-03T02:59:33Z
+  - 2015-01-03T03:31:05Z
+  - 2015-01-03T05:10:25Z
+  - 2015-01-03T06:05:35Z
+  - 2015-01-03T06:29:04Z
+  zonesRankTime:
+  - - 2015-01-03T01:37:32Z
+    - 2015-01-03T01:40:49Z
+    - 2015-01-03T01:45:28Z
+    - 2015-01-03T01:45:32Z
+    - 2015-01-03T01:46:19Z
+    - 2015-01-03T01:52:32Z
+    - 2015-01-03T01:52:41Z
+    - 2015-01-03T01:52:43Z
+    - 2015-01-03T01:53:13Z
+    - 2015-01-03T02:01:01Z
+    - 2015-01-03T02:01:07Z
+    - 2015-01-03T02:01:11Z
+    - 2015-01-03T02:01:13Z
+    - 2015-01-03T02:17:12Z
+    - 2015-01-03T02:24:12Z
+    - 2015-01-03T02:24:42Z
+    - 2015-01-03T02:29:03Z
+    - 2015-01-03T02:44:52Z
+    - 2015-01-03T02:59:23Z
+    - 2015-01-03T02:59:31Z
+    - 2015-01-03T02:59:33Z
+  - - 2015-01-03T02:43:54Z
+    - 2015-01-03T02:44:00Z
+    - 2015-01-03T02:44:39Z
+    - 2015-01-03T02:44:43Z
+    - 2015-01-03T02:44:59Z
+    - 2015-01-03T02:45:02Z
+    - 2015-01-03T02:45:04Z
+    - 2015-01-03T02:45:07Z
+    - 2015-01-03T02:45:10Z
+    - 2015-01-03T02:45:12Z
+    - 2015-01-03T02:45:12Z
+    - 2015-01-03T02:45:12Z
+    - 2015-01-03T02:45:12Z
+    - 2015-01-03T02:45:12Z
+    - 2015-01-03T02:45:14Z
+    - 2015-01-03T02:45:14Z
+    - 2015-01-03T02:45:19Z
+    - 2015-01-03T02:45:20Z
+    - 2015-01-03T02:45:22Z
+    - 2015-01-03T02:45:25Z
+    - 2015-01-03T02:45:28Z
+    - 2015-01-03T02:45:39Z
+    - 2015-01-03T02:46:00Z
+    - 2015-01-03T02:46:02Z
+    - 2015-01-03T02:46:08Z
+    - 2015-01-03T02:46:22Z
+    - 2015-01-03T02:46:22Z
+    - 2015-01-03T02:46:24Z
+    - 2015-01-03T02:46:25Z
+    - 2015-01-03T02:46:27Z
+    - 2015-01-03T02:46:32Z
+    - 2015-01-03T02:46:32Z
+    - 2015-01-03T02:46:42Z
+    - 2015-01-03T02:46:43Z
+    - 2015-01-03T02:57:38Z
+    - 2015-01-03T03:00:10Z
+    - 2015-01-03T03:01:03Z
+    - 2015-01-03T03:02:02Z
+    - 2015-01-03T03:02:23Z
+    - 2015-01-03T03:02:36Z
+    - 2015-01-03T03:07:29Z
+    - 2015-01-03T03:12:11Z
+    - 2015-01-03T03:13:30Z
+    - 2015-01-03T03:13:35Z
+    - 2015-01-03T03:15:17Z
+    - 2015-01-03T03:15:26Z
+    - 2015-01-03T03:15:30Z
+    - 2015-01-03T03:16:24Z
+    - 2015-01-03T03:16:38Z
+    - 2015-01-03T03:31:05Z
+  - - 2015-01-03T03:59:29Z
+    - 2015-01-03T03:59:31Z
+    - 2015-01-03T03:59:36Z
+    - 2015-01-03T03:59:58Z
+    - 2015-01-03T04:04:37Z
+    - 2015-01-03T04:04:46Z
+    - 2015-01-03T04:04:48Z
+    - 2015-01-03T04:04:50Z
+    - 2015-01-03T04:04:52Z
+    - 2015-01-03T04:04:53Z
+    - 2015-01-03T04:05:00Z
+    - 2015-01-03T04:05:21Z
+    - 2015-01-03T04:05:27Z
+    - 2015-01-03T04:05:30Z
+    - 2015-01-03T04:06:15Z
+    - 2015-01-03T04:06:37Z
+    - 2015-01-03T04:07:07Z
+    - 2015-01-03T04:07:15Z
+    - 2015-01-03T04:07:20Z
+    - 2015-01-03T04:07:22Z
+    - 2015-01-03T04:09:30Z
+    - 2015-01-03T04:16:45Z
+    - 2015-01-03T04:17:17Z
+    - 2015-01-03T04:17:23Z
+    - 2015-01-03T04:17:36Z
+    - 2015-01-03T04:18:23Z
+    - 2015-01-03T04:18:31Z
+    - 2015-01-03T04:19:26Z
+    - 2015-01-03T04:19:28Z
+    - 2015-01-03T04:19:44Z
+    - 2015-01-03T04:22:39Z
+    - 2015-01-03T04:23:14Z
+    - 2015-01-03T04:25:54Z
+    - 2015-01-03T04:29:37Z
+    - 2015-01-03T04:33:15Z
+    - 2015-01-03T04:33:21Z
+    - 2015-01-03T04:40:36Z
+    - 2015-01-03T04:40:58Z
+    - 2015-01-03T04:41:45Z
+    - 2015-01-03T04:41:53Z
+    - 2015-01-03T04:42:59Z
+    - 2015-01-03T04:49:30Z
+    - 2015-01-03T04:50:16Z
+    - 2015-01-03T05:00:40Z
+    - 2015-01-03T05:04:13Z
+    - 2015-01-03T05:10:25Z
+  - - 2015-01-03T04:52:39Z
+    - 2015-01-03T04:53:08Z
+    - 2015-01-03T04:53:38Z
+    - 2015-01-03T04:53:51Z
+    - 2015-01-03T04:53:55Z
+    - 2015-01-03T04:53:56Z
+    - 2015-01-03T04:53:57Z
+    - 2015-01-03T04:53:59Z
+    - 2015-01-03T04:54:00Z
+    - 2015-01-03T04:54:06Z
+    - 2015-01-03T04:55:05Z
+    - 2015-01-03T04:55:31Z
+    - 2015-01-03T04:55:43Z
+    - 2015-01-03T04:56:21Z
+    - 2015-01-03T05:01:03Z
+    - 2015-01-03T05:02:20Z
+    - 2015-01-03T05:02:43Z
+    - 2015-01-03T05:04:35Z
+    - 2015-01-03T05:13:09Z
+    - 2015-01-03T05:13:56Z
+    - 2015-01-03T05:14:11Z
+    - 2015-01-03T05:22:13Z
+    - 2015-01-03T05:24:52Z
+    - 2015-01-03T05:27:28Z
+    - 2015-01-03T05:29:12Z
+    - 2015-01-03T05:29:58Z
+    - 2015-01-03T05:35:28Z
+    - 2015-01-03T05:35:34Z
+    - 2015-01-03T05:37:46Z
+    - 2015-01-03T05:39:51Z
+    - 2015-01-03T05:40:48Z
+    - 2015-01-03T05:48:38Z
+    - 2015-01-03T05:49:57Z
+    - 2015-01-03T05:51:00Z
+    - 2015-01-03T05:58:02Z
+    - 2015-01-03T06:00:35Z
+    - 2015-01-03T06:02:57Z
+    - 2015-01-03T06:04:32Z
+    - 2015-01-03T06:05:35Z
+  - - 2015-01-03T05:10:32Z
+    - 2015-01-03T05:10:43Z
+    - 2015-01-03T05:12:53Z
+    - 2015-01-03T05:13:07Z
+    - 2015-01-03T05:13:27Z
+    - 2015-01-03T05:13:30Z
+    - 2015-01-03T05:13:32Z
+    - 2015-01-03T05:13:51Z
+    - 2015-01-03T05:13:58Z
+    - 2015-01-03T05:14:16Z
+    - 2015-01-03T05:15:15Z
+    - 2015-01-03T05:15:17Z
+    - 2015-01-03T05:15:23Z
+    - 2015-01-03T05:15:39Z
+    - 2015-01-03T05:19:34Z
+    - 2015-01-03T05:21:01Z
+    - 2015-01-03T05:22:07Z
+    - 2015-01-03T05:24:25Z
+    - 2015-01-03T05:33:41Z
+    - 2015-01-03T05:36:38Z
+    - 2015-01-03T05:39:27Z
+    - 2015-01-03T05:47:34Z
+    - 2015-01-03T05:49:06Z
+    - 2015-01-03T05:51:06Z
+    - 2015-01-03T05:51:40Z
+    - 2015-01-03T05:53:47Z
+    - 2015-01-03T05:55:42Z
+    - 2015-01-03T05:55:48Z
+    - 2015-01-03T05:58:17Z
+    - 2015-01-03T05:59:18Z
+    - 2015-01-03T06:06:03Z
+    - 2015-01-03T06:08:19Z
+    - 2015-01-03T06:11:33Z
+    - 2015-01-03T06:13:28Z
+    - 2015-01-03T06:28:26Z
+    - 2015-01-03T06:28:29Z
+    - 2015-01-03T06:28:57Z
+    - 2015-01-03T06:29:04Z
+  zonesRankPilot:
+  - - Chris Czajkowski
+    - Yoko Isomoto
+    - Sasha Serebrennikova
+    - Jonas Lobitz
+    - Oyvind Ellefsen
+    - Steve Blenkinsop
+    - Gordon Rigg
+    - Attila Bertok
+    - Christian Voiblet
+    - Gerolf Heinrichs
+    - Olav Opsanger
+    - Jochen Zeischka
+    - Tullio Gervasoni
+    - Mark Russell
+    - Federico Martini
+    - Victor Hare
+    - Grant Heaney
+    - Enda Murphy
+    - Kato Minoru
+    - Adam Jones
+    - Yasuhiro Noma
+  - - Len Paton
+    - Federico Martini
+    - Mark Russell
+    - Lukas Bader
+    - Sasha Serebrennikova
+    - Olav Opsanger
+    - Chris Czajkowski
+    - Oyvind Ellefsen
+    - Filippo Oppici
+    - Gordon Rigg
+    - Jochen Zeischka
+    - Jonny Durand
+    - Trent Brown
+    - Tullio Gervasoni
+    - Gavin Myers
+    - Steve Blenkinsop
+    - Glen Mcfarlane
+    - Christian Voiblet
+    - Jon snr Durand
+    - Gerolf Heinrichs
+    - Simon Braithwaite
+    - Attila Bertok
+    - Harrison Rowntree
+    - Olav Olsen
+    - Jonas Lobitz
+    - Victor Hare
+    - Yoko Isomoto
+    - Guy Hubbard
+    - Ryosuke Hattori
+    - Andrew Barnes
+    - Conrad Loten
+    - Mikhail Karmazin
+    - Nils Vesk
+    - Grant Heaney
+    - Peter Dall
+    - Zac Majors
+    - Enda Murphy
+    - Thomas Lindal
+    - Dale Regehr
+    - Josh Woods
+    - Gijs Wanders
+    - Emiel Jansen
+    - Phil Schroder
+    - Sander Van Schaik
+    - Kato Minoru
+    - Adam Jones
+    - Yasuhiro Noma
+    - Rohan Taylor
+    - Geoff Robertson
+    - Viv Clements
+  - - Len Paton
+    - Attila Bertok
+    - Gerolf Heinrichs
+    - Olav Olsen
+    - Trent Brown
+    - Steve Blenkinsop
+    - Jochen Zeischka
+    - Jonny Durand
+    - Tullio Gervasoni
+    - Filippo Oppici
+    - Gordon Rigg
+    - Oyvind Ellefsen
+    - Gavin Myers
+    - Christian Voiblet
+    - Glen Mcfarlane
+    - Jonas Lobitz
+    - Lukas Bader
+    - Olav Opsanger
+    - Simon Braithwaite
+    - Andrew Barnes
+    - Sasha Serebrennikova
+    - Chris Czajkowski
+    - Federico Martini
+    - Conrad Loten
+    - Harrison Rowntree
+    - Victor Hare
+    - Jon snr Durand
+    - Zac Majors
+    - Grant Heaney
+    - Guy Hubbard
+    - Mikhail Karmazin
+    - Enda Murphy
+    - Gijs Wanders
+    - Mark Russell
+    - Peter Dall
+    - Yasuhiro Noma
+    - Kato Minoru
+    - Adam Jones
+    - Josh Woods
+    - Geoff Robertson
+    - Emiel Jansen
+    - Nils Vesk
+    - Rohan Taylor
+    - Phil Schroder
+    - Sander Van Schaik
+    - Dale Regehr
+  - - Jonny Durand
+    - Trent Brown
+    - Attila Bertok
+    - Len Paton
+    - Gordon Rigg
+    - Filippo Oppici
+    - Gerolf Heinrichs
+    - Tullio Gervasoni
+    - Olav Opsanger
+    - Steve Blenkinsop
+    - Jochen Zeischka
+    - Jonas Lobitz
+    - Glen Mcfarlane
+    - Oyvind Ellefsen
+    - Christian Voiblet
+    - Simon Braithwaite
+    - Gavin Myers
+    - Olav Olsen
+    - Andrew Barnes
+    - Zac Majors
+    - Conrad Loten
+    - Jon snr Durand
+    - Harrison Rowntree
+    - Guy Hubbard
+    - Federico Martini
+    - Grant Heaney
+    - Gijs Wanders
+    - Kato Minoru
+    - Mark Russell
+    - Mikhail Karmazin
+    - Yasuhiro Noma
+    - Victor Hare
+    - Enda Murphy
+    - Josh Woods
+    - Emiel Jansen
+    - Chris Czajkowski
+    - Sasha Serebrennikova
+    - Rohan Taylor
+    - Nils Vesk
+  - - Jonny Durand
+    - Attila Bertok
+    - Len Paton
+    - Gordon Rigg
+    - Gerolf Heinrichs
+    - Filippo Oppici
+    - Tullio Gervasoni
+    - Olav Opsanger
+    - Steve Blenkinsop
+    - Trent Brown
+    - Glen Mcfarlane
+    - Oyvind Ellefsen
+    - Jonas Lobitz
+    - Jochen Zeischka
+    - Christian Voiblet
+    - Simon Braithwaite
+    - Gavin Myers
+    - Olav Olsen
+    - Andrew Barnes
+    - Zac Majors
+    - Conrad Loten
+    - Harrison Rowntree
+    - Federico Martini
+    - Jon snr Durand
+    - Guy Hubbard
+    - Kato Minoru
+    - Gijs Wanders
+    - Grant Heaney
+    - Mark Russell
+    - Mikhail Karmazin
+    - Yasuhiro Noma
+    - Victor Hare
+    - Enda Murphy
+    - Josh Woods
+    - Chris Czajkowski
+    - Rohan Taylor
+    - Nils Vesk
+    - Sasha Serebrennikova
+- zonesSum:
+  - 38
+  - 51
+  - 43
+  - 37
+  - 27
+  zonesFirst:
+  - 2015-01-06T01:25:30Z
+  - 2015-01-06T02:39:24Z
+  - 2015-01-06T05:06:27Z
+  - 2015-01-06T06:23:26Z
+  - 2015-01-06T07:29:51Z
+  zonesLast:
+  - 2015-01-06T02:40:25Z
+  - 2015-01-06T03:29:03Z
+  - 2015-01-06T06:29:25Z
+  - 2015-01-06T08:06:14Z
+  - 2015-01-06T09:16:59Z
+  zonesRankTime:
+  - - 2015-01-06T01:25:30Z
+    - 2015-01-06T01:34:03Z
+    - 2015-01-06T01:38:42Z
+    - 2015-01-06T01:40:57Z
+    - 2015-01-06T01:44:34Z
+    - 2015-01-06T01:44:52Z
+    - 2015-01-06T01:45:02Z
+    - 2015-01-06T01:45:16Z
+    - 2015-01-06T01:54:03Z
+    - 2015-01-06T02:05:56Z
+    - 2015-01-06T02:08:22Z
+    - 2015-01-06T02:08:33Z
+    - 2015-01-06T02:08:34Z
+    - 2015-01-06T02:08:37Z
+    - 2015-01-06T02:08:40Z
+    - 2015-01-06T02:08:47Z
+    - 2015-01-06T02:08:48Z
+    - 2015-01-06T02:09:50Z
+    - 2015-01-06T02:09:55Z
+    - 2015-01-06T02:12:34Z
+    - 2015-01-06T02:21:26Z
+    - 2015-01-06T02:22:58Z
+    - 2015-01-06T02:23:33Z
+    - 2015-01-06T02:26:05Z
+    - 2015-01-06T02:29:21Z
+    - 2015-01-06T02:29:27Z
+    - 2015-01-06T02:29:53Z
+    - 2015-01-06T02:30:35Z
+    - 2015-01-06T02:30:36Z
+    - 2015-01-06T02:31:10Z
+    - 2015-01-06T02:32:07Z
+    - 2015-01-06T02:32:40Z
+    - 2015-01-06T02:34:12Z
+    - 2015-01-06T02:38:06Z
+    - 2015-01-06T02:38:09Z
+    - 2015-01-06T02:38:17Z
+    - 2015-01-06T02:40:15Z
+    - 2015-01-06T02:40:25Z
+  - - 2015-01-06T02:39:24Z
+    - 2015-01-06T02:45:22Z
+    - 2015-01-06T02:45:37Z
+    - 2015-01-06T02:45:50Z
+    - 2015-01-06T02:45:52Z
+    - 2015-01-06T02:45:53Z
+    - 2015-01-06T02:46:03Z
+    - 2015-01-06T02:46:03Z
+    - 2015-01-06T02:46:13Z
+    - 2015-01-06T02:46:18Z
+    - 2015-01-06T02:46:23Z
+    - 2015-01-06T02:46:31Z
+    - 2015-01-06T02:46:32Z
+    - 2015-01-06T02:46:32Z
+    - 2015-01-06T02:48:59Z
+    - 2015-01-06T02:49:10Z
+    - 2015-01-06T02:49:12Z
+    - 2015-01-06T02:49:14Z
+    - 2015-01-06T02:52:33Z
+    - 2015-01-06T02:52:47Z
+    - 2015-01-06T02:55:46Z
+    - 2015-01-06T02:55:54Z
+    - 2015-01-06T03:00:08Z
+    - 2015-01-06T03:00:10Z
+    - 2015-01-06T03:00:10Z
+    - 2015-01-06T03:00:12Z
+    - 2015-01-06T03:00:13Z
+    - 2015-01-06T03:00:15Z
+    - 2015-01-06T03:00:19Z
+    - 2015-01-06T03:00:19Z
+    - 2015-01-06T03:00:20Z
+    - 2015-01-06T03:00:22Z
+    - 2015-01-06T03:00:26Z
+    - 2015-01-06T03:00:32Z
+    - 2015-01-06T03:00:35Z
+    - 2015-01-06T03:00:41Z
+    - 2015-01-06T03:00:45Z
+    - 2015-01-06T03:01:03Z
+    - 2015-01-06T03:01:15Z
+    - 2015-01-06T03:01:33Z
+    - 2015-01-06T03:03:40Z
+    - 2015-01-06T03:04:01Z
+    - 2015-01-06T03:04:02Z
+    - 2015-01-06T03:04:05Z
+    - 2015-01-06T03:04:09Z
+    - 2015-01-06T03:04:24Z
+    - 2015-01-06T03:07:36Z
+    - 2015-01-06T03:15:24Z
+    - 2015-01-06T03:18:28Z
+    - 2015-01-06T03:18:33Z
+    - 2015-01-06T03:29:03Z
+  - - 2015-01-06T05:06:27Z
+    - 2015-01-06T05:06:34Z
+    - 2015-01-06T05:06:41Z
+    - 2015-01-06T05:08:27Z
+    - 2015-01-06T05:08:46Z
+    - 2015-01-06T05:09:05Z
+    - 2015-01-06T05:12:18Z
+    - 2015-01-06T05:13:05Z
+    - 2015-01-06T05:13:46Z
+    - 2015-01-06T05:14:40Z
+    - 2015-01-06T05:14:47Z
+    - 2015-01-06T05:14:49Z
+    - 2015-01-06T05:15:13Z
+    - 2015-01-06T05:15:19Z
+    - 2015-01-06T05:15:39Z
+    - 2015-01-06T05:16:27Z
+    - 2015-01-06T05:16:52Z
+    - 2015-01-06T05:24:48Z
+    - 2015-01-06T05:28:18Z
+    - 2015-01-06T05:29:19Z
+    - 2015-01-06T05:29:25Z
+    - 2015-01-06T05:30:15Z
+    - 2015-01-06T05:31:12Z
+    - 2015-01-06T05:31:21Z
+    - 2015-01-06T05:32:04Z
+    - 2015-01-06T05:35:40Z
+    - 2015-01-06T05:36:07Z
+    - 2015-01-06T05:37:32Z
+    - 2015-01-06T05:38:10Z
+    - 2015-01-06T05:38:32Z
+    - 2015-01-06T05:41:44Z
+    - 2015-01-06T05:43:53Z
+    - 2015-01-06T05:44:27Z
+    - 2015-01-06T05:51:33Z
+    - 2015-01-06T06:01:44Z
+    - 2015-01-06T06:07:36Z
+    - 2015-01-06T06:10:20Z
+    - 2015-01-06T06:13:50Z
+    - 2015-01-06T06:14:24Z
+    - 2015-01-06T06:21:42Z
+    - 2015-01-06T06:25:34Z
+    - 2015-01-06T06:28:37Z
+    - 2015-01-06T06:29:25Z
+  - - 2015-01-06T06:23:26Z
+    - 2015-01-06T06:23:36Z
+    - 2015-01-06T06:24:00Z
+    - 2015-01-06T06:24:09Z
+    - 2015-01-06T06:25:43Z
+    - 2015-01-06T06:25:57Z
+    - 2015-01-06T06:26:25Z
+    - 2015-01-06T06:26:25Z
+    - 2015-01-06T06:26:37Z
+    - 2015-01-06T06:27:22Z
+    - 2015-01-06T06:32:38Z
+    - 2015-01-06T06:32:54Z
+    - 2015-01-06T06:33:09Z
+    - 2015-01-06T06:33:27Z
+    - 2015-01-06T06:42:57Z
+    - 2015-01-06T06:42:58Z
+    - 2015-01-06T06:47:24Z
+    - 2015-01-06T06:49:58Z
+    - 2015-01-06T06:50:24Z
+    - 2015-01-06T06:52:31Z
+    - 2015-01-06T06:57:53Z
+    - 2015-01-06T07:02:14Z
+    - 2015-01-06T07:04:53Z
+    - 2015-01-06T07:05:04Z
+    - 2015-01-06T07:06:44Z
+    - 2015-01-06T07:06:56Z
+    - 2015-01-06T07:12:45Z
+    - 2015-01-06T07:18:18Z
+    - 2015-01-06T07:19:35Z
+    - 2015-01-06T07:23:36Z
+    - 2015-01-06T07:24:05Z
+    - 2015-01-06T07:24:50Z
+    - 2015-01-06T07:34:45Z
+    - 2015-01-06T07:42:50Z
+    - 2015-01-06T07:55:49Z
+    - 2015-01-06T07:56:41Z
+    - 2015-01-06T08:06:14Z
+  - - 2015-01-06T07:29:51Z
+    - 2015-01-06T07:31:04Z
+    - 2015-01-06T07:36:33Z
+    - 2015-01-06T07:42:27Z
+    - 2015-01-06T07:43:16Z
+    - 2015-01-06T07:47:26Z
+    - 2015-01-06T07:51:26Z
+    - 2015-01-06T07:53:37Z
+    - 2015-01-06T07:54:33Z
+    - 2015-01-06T07:57:40Z
+    - 2015-01-06T08:02:39Z
+    - 2015-01-06T08:16:15Z
+    - 2015-01-06T08:16:42Z
+    - 2015-01-06T08:19:18Z
+    - 2015-01-06T08:19:25Z
+    - 2015-01-06T08:19:26Z
+    - 2015-01-06T08:20:05Z
+    - 2015-01-06T08:22:52Z
+    - 2015-01-06T08:24:02Z
+    - 2015-01-06T08:24:55Z
+    - 2015-01-06T08:32:40Z
+    - 2015-01-06T08:34:36Z
+    - 2015-01-06T08:36:15Z
+    - 2015-01-06T08:47:41Z
+    - 2015-01-06T08:47:50Z
+    - 2015-01-06T09:00:36Z
+    - 2015-01-06T09:16:59Z
+  zonesRankPilot:
+  - - Geoff Robertson
+    - Josh Woods
+    - Peter Dall
+    - Gavin Myers
+    - Rohan Taylor
+    - Yasuhiro Noma
+    - Ryosuke Hattori
+    - Jonas Lobitz
+    - Chris Czajkowski
+    - Thomas Lindal
+    - Andrew Barnes
+    - Gijs Wanders
+    - Kato Minoru
+    - Guy Hubbard
+    - Olav Opsanger
+    - Attila Bertok
+    - Steve Blenkinsop
+    - Tullio Gervasoni
+    - Jon snr Durand
+    - Nils Vesk
+    - Jonny Durand
+    - Gerolf Heinrichs
+    - Sander Van Schaik
+    - Mark Russell
+    - Christian Voiblet
+    - Phil Seeley
+    - Simon Braithwaite
+    - Sasha Serebrennikova
+    - Mikhail Karmazin
+    - Harrison Rowntree
+    - Glen Mcfarlane
+    - Gordon Rigg
+    - Victor Hare
+    - Dale Regehr
+    - Len Paton
+    - Federico Martini
+    - Enda Murphy
+    - Takeshi Yokoyama
+  - - Josh Woods
+    - Steve Blenkinsop
+    - Conrad Loten
+    - Geoff Robertson
+    - Jonas Lobitz
+    - Gijs Wanders
+    - Gavin Myers
+    - Yoko Isomoto
+    - Guy Hubbard
+    - Rohan Taylor
+    - Lukas Bader
+    - Glen Mcfarlane
+    - Grant Heaney
+    - Jon snr Durand
+    - Ryosuke Hattori
+    - Phil Seeley
+    - Victor Hare
+    - Thomas Lindal
+    - Adam Jones
+    - Mikhail Karmazin
+    - Peter Dall
+    - Chris Czajkowski
+    - Christian Voiblet
+    - Attila Bertok
+    - Jochen Zeischka
+    - Zac Majors
+    - Gerolf Heinrichs
+    - Len Paton
+    - Filippo Oppici
+    - Kato Minoru
+    - Oyvind Ellefsen
+    - Jonny Durand
+    - Takeshi Yokoyama
+    - Phil Schroder
+    - Simon Braithwaite
+    - Tullio Gervasoni
+    - Olav Olsen
+    - Sasha Serebrennikova
+    - Andrew Barnes
+    - Harrison Rowntree
+    - Enda Murphy
+    - Yasuhiro Noma
+    - Gordon Rigg
+    - Olav Opsanger
+    - Federico Martini
+    - Nils Vesk
+    - Dale Regehr
+    - Trent Brown
+    - Mark Russell
+    - Sander Van Schaik
+    - Viv Clements
+  - - Jonas Lobitz
+    - Glen Mcfarlane
+    - Josh Woods
+    - Grant Heaney
+    - Gijs Wanders
+    - Jon snr Durand
+    - Zac Majors
+    - Guy Hubbard
+    - Olav Olsen
+    - Filippo Oppici
+    - Attila Bertok
+    - Kato Minoru
+    - Christian Voiblet
+    - Gerolf Heinrichs
+    - Lukas Bader
+    - Gordon Rigg
+    - Jonny Durand
+    - Rohan Taylor
+    - Olav Opsanger
+    - Len Paton
+    - Oyvind Ellefsen
+    - Phil Schroder
+    - Trent Brown
+    - Simon Braithwaite
+    - Harrison Rowntree
+    - Yasuhiro Noma
+    - Federico Martini
+    - Jochen Zeischka
+    - Sasha Serebrennikova
+    - Victor Hare
+    - Takeshi Yokoyama
+    - Ryosuke Hattori
+    - Yoko Isomoto
+    - Mikhail Karmazin
+    - Enda Murphy
+    - Nils Vesk
+    - Peter Dall
+    - Steve Blenkinsop
+    - Geoff Robertson
+    - Mark Russell
+    - Chris Czajkowski
+    - Thomas Lindal
+    - Sander Van Schaik
+  - - Zac Majors
+    - Jonas Lobitz
+    - Josh Woods
+    - Glen Mcfarlane
+    - Gerolf Heinrichs
+    - Jonny Durand
+    - Gordon Rigg
+    - Olav Olsen
+    - Jon snr Durand
+    - Grant Heaney
+    - Christian Voiblet
+    - Kato Minoru
+    - Lukas Bader
+    - Filippo Oppici
+    - Guy Hubbard
+    - Simon Braithwaite
+    - Trent Brown
+    - Phil Schroder
+    - Yasuhiro Noma
+    - Olav Opsanger
+    - Jochen Zeischka
+    - Oyvind Ellefsen
+    - Yoko Isomoto
+    - Len Paton
+    - Harrison Rowntree
+    - Rohan Taylor
+    - Ryosuke Hattori
+    - Sasha Serebrennikova
+    - Victor Hare
+    - Federico Martini
+    - Takeshi Yokoyama
+    - Nils Vesk
+    - Geoff Robertson
+    - Steve Blenkinsop
+    - Sander Van Schaik
+    - Mark Russell
+    - Chris Czajkowski
+  - - Jonas Lobitz
+    - Zac Majors
+    - Glen Mcfarlane
+    - Jonny Durand
+    - Olav Olsen
+    - Christian Voiblet
+    - Jon snr Durand
+    - Gordon Rigg
+    - Filippo Oppici
+    - Gerolf Heinrichs
+    - Josh Woods
+    - Lukas Bader
+    - Kato Minoru
+    - Jochen Zeischka
+    - Simon Braithwaite
+    - Trent Brown
+    - Guy Hubbard
+    - Grant Heaney
+    - Oyvind Ellefsen
+    - Phil Schroder
+    - Olav Opsanger
+    - Rohan Taylor
+    - Yasuhiro Noma
+    - Yoko Isomoto
+    - Sasha Serebrennikova
+    - Steve Blenkinsop
+    - Federico Martini
+- zonesSum:
+  - 29
+  - 51
+  - 31
+  - 1
+  zonesFirst:
+  - 2015-01-07T01:52:48Z
+  - 2015-01-07T03:00:01Z
+  - 2015-01-07T04:49:35Z
+  - 2015-01-07T06:21:06Z
+  zonesLast:
+  - 2015-01-07T02:53:02Z
+  - 2015-01-07T03:20:53Z
+  - 2015-01-07T05:50:07Z
+  - 2015-01-07T06:21:06Z
+  zonesRankTime:
+  - - 2015-01-07T01:52:48Z
+    - 2015-01-07T01:53:35Z
+    - 2015-01-07T01:54:30Z
+    - 2015-01-07T01:55:21Z
+    - 2015-01-07T01:56:13Z
+    - 2015-01-07T01:57:56Z
+    - 2015-01-07T01:58:11Z
+    - 2015-01-07T01:59:50Z
+    - 2015-01-07T01:59:53Z
+    - 2015-01-07T02:00:52Z
+    - 2015-01-07T02:02:48Z
+    - 2015-01-07T02:03:36Z
+    - 2015-01-07T02:05:04Z
+    - 2015-01-07T02:09:13Z
+    - 2015-01-07T02:10:21Z
+    - 2015-01-07T02:12:18Z
+    - 2015-01-07T02:12:47Z
+    - 2015-01-07T02:15:37Z
+    - 2015-01-07T02:15:58Z
+    - 2015-01-07T02:39:08Z
+    - 2015-01-07T02:39:08Z
+    - 2015-01-07T02:39:15Z
+    - 2015-01-07T02:40:26Z
+    - 2015-01-07T02:48:59Z
+    - 2015-01-07T02:49:09Z
+    - 2015-01-07T02:50:00Z
+    - 2015-01-07T02:50:44Z
+    - 2015-01-07T02:51:23Z
+    - 2015-01-07T02:53:02Z
+  - - 2015-01-07T03:00:01Z
+    - 2015-01-07T03:00:02Z
+    - 2015-01-07T03:00:16Z
+    - 2015-01-07T03:00:18Z
+    - 2015-01-07T03:00:23Z
+    - 2015-01-07T03:00:28Z
+    - 2015-01-07T03:00:34Z
+    - 2015-01-07T03:00:35Z
+    - 2015-01-07T03:00:41Z
+    - 2015-01-07T03:01:06Z
+    - 2015-01-07T03:01:08Z
+    - 2015-01-07T03:01:12Z
+    - 2015-01-07T03:01:13Z
+    - 2015-01-07T03:01:15Z
+    - 2015-01-07T03:01:18Z
+    - 2015-01-07T03:01:22Z
+    - 2015-01-07T03:01:24Z
+    - 2015-01-07T03:01:25Z
+    - 2015-01-07T03:01:27Z
+    - 2015-01-07T03:01:27Z
+    - 2015-01-07T03:01:28Z
+    - 2015-01-07T03:01:32Z
+    - 2015-01-07T03:01:32Z
+    - 2015-01-07T03:01:32Z
+    - 2015-01-07T03:01:36Z
+    - 2015-01-07T03:01:37Z
+    - 2015-01-07T03:01:42Z
+    - 2015-01-07T03:01:43Z
+    - 2015-01-07T03:01:43Z
+    - 2015-01-07T03:01:46Z
+    - 2015-01-07T03:01:55Z
+    - 2015-01-07T03:02:00Z
+    - 2015-01-07T03:02:13Z
+    - 2015-01-07T03:02:13Z
+    - 2015-01-07T03:02:25Z
+    - 2015-01-07T03:03:26Z
+    - 2015-01-07T03:03:26Z
+    - 2015-01-07T03:04:02Z
+    - 2015-01-07T03:04:13Z
+    - 2015-01-07T03:05:22Z
+    - 2015-01-07T03:12:06Z
+    - 2015-01-07T03:12:13Z
+    - 2015-01-07T03:12:27Z
+    - 2015-01-07T03:12:45Z
+    - 2015-01-07T03:13:06Z
+    - 2015-01-07T03:14:03Z
+    - 2015-01-07T03:14:14Z
+    - 2015-01-07T03:15:22Z
+    - 2015-01-07T03:16:09Z
+    - 2015-01-07T03:19:04Z
+    - 2015-01-07T03:20:53Z
+  - - 2015-01-07T04:49:35Z
+    - 2015-01-07T04:56:03Z
+    - 2015-01-07T04:57:25Z
+    - 2015-01-07T04:58:03Z
+    - 2015-01-07T04:58:08Z
+    - 2015-01-07T04:58:22Z
+    - 2015-01-07T04:58:47Z
+    - 2015-01-07T04:58:49Z
+    - 2015-01-07T04:58:59Z
+    - 2015-01-07T04:59:00Z
+    - 2015-01-07T04:59:01Z
+    - 2015-01-07T04:59:08Z
+    - 2015-01-07T04:59:09Z
+    - 2015-01-07T04:59:12Z
+    - 2015-01-07T04:59:23Z
+    - 2015-01-07T04:59:39Z
+    - 2015-01-07T04:59:43Z
+    - 2015-01-07T05:01:20Z
+    - 2015-01-07T05:05:31Z
+    - 2015-01-07T05:05:41Z
+    - 2015-01-07T05:05:52Z
+    - 2015-01-07T05:06:18Z
+    - 2015-01-07T05:06:19Z
+    - 2015-01-07T05:08:09Z
+    - 2015-01-07T05:08:21Z
+    - 2015-01-07T05:08:27Z
+    - 2015-01-07T05:11:44Z
+    - 2015-01-07T05:12:23Z
+    - 2015-01-07T05:15:55Z
+    - 2015-01-07T05:30:35Z
+    - 2015-01-07T05:50:07Z
+  - - 2015-01-07T06:21:06Z
+  zonesRankPilot:
+  - - Ryosuke Hattori
+    - Thomas Lindal
+    - Chris Czajkowski
+    - Tullio Gervasoni
+    - Yoko Isomoto
+    - Rohan Taylor
+    - Guy Hubbard
+    - Victor Hare
+    - Attila Bertok
+    - Oyvind Ellefsen
+    - Kato Minoru
+    - Glen Mcfarlane
+    - Steve Blenkinsop
+    - Filippo Oppici
+    - Gerolf Heinrichs
+    - Olav Olsen
+    - Trent Brown
+    - Zac Majors
+    - Gordon Rigg
+    - Federico Martini
+    - Sasha Serebrennikova
+    - Andrew Barnes
+    - Conrad Loten
+    - Mikhail Karmazin
+    - Takeshi Yokoyama
+    - Geoff Robertson
+    - Emiel Jansen
+    - Adam Jones
+    - Dale Regehr
+  - - Gijs Wanders
+    - Jon snr Durand
+    - Josh Woods
+    - Rohan Taylor
+    - Thomas Lindal
+    - Trent Brown
+    - Gavin Myers
+    - Phil Schroder
+    - Olav Olsen
+    - Gerolf Heinrichs
+    - Zac Majors
+    - Jonny Durand
+    - Victor Hare
+    - Glen Mcfarlane
+    - Attila Bertok
+    - Jochen Zeischka
+    - Yasuhiro Noma
+    - Andrew Barnes
+    - Guy Hubbard
+    - Oyvind Ellefsen
+    - Jonas Lobitz
+    - Christian Voiblet
+    - Kato Minoru
+    - Simon Braithwaite
+    - Filippo Oppici
+    - Olav Opsanger
+    - Tullio Gervasoni
+    - Conrad Loten
+    - Gordon Rigg
+    - Steve Blenkinsop
+    - Grant Heaney
+    - Harrison Rowntree
+    - Lukas Bader
+    - Yoko Isomoto
+    - Sander Van Schaik
+    - Federico Martini
+    - Sasha Serebrennikova
+    - Len Paton
+    - Mark Russell
+    - Chris Czajkowski
+    - Dale Regehr
+    - Ryosuke Hattori
+    - Emiel Jansen
+    - Phil Seeley
+    - Takeshi Yokoyama
+    - Adam Jones
+    - Geoff Robertson
+    - Nils Vesk
+    - Mikhail Karmazin
+    - Enda Murphy
+    - Viv Clements
+  - - Trent Brown
+    - Yasuhiro Noma
+    - Zac Majors
+    - Attila Bertok
+    - Kato Minoru
+    - Gordon Rigg
+    - Jochen Zeischka
+    - Gerolf Heinrichs
+    - Filippo Oppici
+    - Tullio Gervasoni
+    - Josh Woods
+    - Olav Opsanger
+    - Steve Blenkinsop
+    - Harrison Rowntree
+    - Christian Voiblet
+    - Jonas Lobitz
+    - Oyvind Ellefsen
+    - Len Paton
+    - Lukas Bader
+    - Olav Olsen
+    - Glen Mcfarlane
+    - Phil Schroder
+    - Yoko Isomoto
+    - Jonny Durand
+    - Simon Braithwaite
+    - Andrew Barnes
+    - Jon snr Durand
+    - Gijs Wanders
+    - Grant Heaney
+    - Nils Vesk
+    - Dale Regehr
+  - - Attila Bertok
+- zonesSum:
+  - 43
+  - 48
+  - 44
+  - 39
+  - 36
+  zonesFirst:
+  - 2015-01-08T01:23:00Z
+  - 2015-01-08T02:42:45Z
+  - 2015-01-08T03:32:56Z
+  - 2015-01-08T04:05:55Z
+  - 2015-01-08T05:11:00Z
+  zonesLast:
+  - 2015-01-08T02:53:25Z
+  - 2015-01-08T03:20:41Z
+  - 2015-01-08T04:40:47Z
+  - 2015-01-08T05:07:31Z
+  - 2015-01-08T06:35:26Z
+  zonesRankTime:
+  - - 2015-01-08T01:23:00Z
+    - 2015-01-08T01:23:02Z
+    - 2015-01-08T01:23:45Z
+    - 2015-01-08T01:32:53Z
+    - 2015-01-08T01:32:56Z
+    - 2015-01-08T01:33:06Z
+    - 2015-01-08T01:33:08Z
+    - 2015-01-08T01:33:20Z
+    - 2015-01-08T01:33:27Z
+    - 2015-01-08T01:41:09Z
+    - 2015-01-08T01:44:26Z
+    - 2015-01-08T01:52:16Z
+    - 2015-01-08T01:52:38Z
+    - 2015-01-08T01:53:50Z
+    - 2015-01-08T01:55:07Z
+    - 2015-01-08T01:55:18Z
+    - 2015-01-08T01:55:23Z
+    - 2015-01-08T01:55:41Z
+    - 2015-01-08T01:57:03Z
+    - 2015-01-08T01:57:17Z
+    - 2015-01-08T01:58:30Z
+    - 2015-01-08T01:58:43Z
+    - 2015-01-08T01:59:02Z
+    - 2015-01-08T01:59:10Z
+    - 2015-01-08T01:59:50Z
+    - 2015-01-08T01:59:54Z
+    - 2015-01-08T02:00:49Z
+    - 2015-01-08T02:02:00Z
+    - 2015-01-08T02:07:11Z
+    - 2015-01-08T02:07:17Z
+    - 2015-01-08T02:09:03Z
+    - 2015-01-08T02:09:10Z
+    - 2015-01-08T02:09:54Z
+    - 2015-01-08T02:11:42Z
+    - 2015-01-08T02:12:05Z
+    - 2015-01-08T02:18:08Z
+    - 2015-01-08T02:18:40Z
+    - 2015-01-08T02:18:48Z
+    - 2015-01-08T02:18:58Z
+    - 2015-01-08T02:22:15Z
+    - 2015-01-08T02:31:11Z
+    - 2015-01-08T02:32:13Z
+    - 2015-01-08T02:53:25Z
+  - - 2015-01-08T02:42:45Z
+    - 2015-01-08T02:45:07Z
+    - 2015-01-08T02:45:12Z
+    - 2015-01-08T02:45:12Z
+    - 2015-01-08T02:45:17Z
+    - 2015-01-08T02:45:19Z
+    - 2015-01-08T02:45:22Z
+    - 2015-01-08T02:45:22Z
+    - 2015-01-08T02:45:22Z
+    - 2015-01-08T02:45:26Z
+    - 2015-01-08T02:45:27Z
+    - 2015-01-08T02:45:30Z
+    - 2015-01-08T02:45:36Z
+    - 2015-01-08T02:45:42Z
+    - 2015-01-08T02:45:45Z
+    - 2015-01-08T02:45:46Z
+    - 2015-01-08T02:46:01Z
+    - 2015-01-08T02:46:02Z
+    - 2015-01-08T02:46:02Z
+    - 2015-01-08T02:46:28Z
+    - 2015-01-08T02:46:32Z
+    - 2015-01-08T02:46:32Z
+    - 2015-01-08T02:46:42Z
+    - 2015-01-08T02:46:42Z
+    - 2015-01-08T02:47:02Z
+    - 2015-01-08T02:47:03Z
+    - 2015-01-08T02:47:21Z
+    - 2015-01-08T02:47:45Z
+    - 2015-01-08T02:52:12Z
+    - 2015-01-08T02:52:42Z
+    - 2015-01-08T02:54:02Z
+    - 2015-01-08T02:57:05Z
+    - 2015-01-08T02:58:25Z
+    - 2015-01-08T02:58:55Z
+    - 2015-01-08T03:00:05Z
+    - 2015-01-08T03:00:09Z
+    - 2015-01-08T03:00:11Z
+    - 2015-01-08T03:00:11Z
+    - 2015-01-08T03:00:12Z
+    - 2015-01-08T03:00:15Z
+    - 2015-01-08T03:00:19Z
+    - 2015-01-08T03:00:33Z
+    - 2015-01-08T03:00:34Z
+    - 2015-01-08T03:01:00Z
+    - 2015-01-08T03:01:22Z
+    - 2015-01-08T03:01:31Z
+    - 2015-01-08T03:14:29Z
+    - 2015-01-08T03:20:41Z
+  - - 2015-01-08T03:32:56Z
+    - 2015-01-08T03:32:58Z
+    - 2015-01-08T03:33:06Z
+    - 2015-01-08T03:33:12Z
+    - 2015-01-08T03:34:48Z
+    - 2015-01-08T03:36:07Z
+    - 2015-01-08T03:37:23Z
+    - 2015-01-08T03:37:30Z
+    - 2015-01-08T03:40:05Z
+    - 2015-01-08T03:41:33Z
+    - 2015-01-08T03:44:12Z
+    - 2015-01-08T03:44:19Z
+    - 2015-01-08T03:44:49Z
+    - 2015-01-08T03:45:07Z
+    - 2015-01-08T03:45:29Z
+    - 2015-01-08T03:45:32Z
+    - 2015-01-08T03:45:35Z
+    - 2015-01-08T03:46:39Z
+    - 2015-01-08T03:46:48Z
+    - 2015-01-08T03:47:28Z
+    - 2015-01-08T03:48:18Z
+    - 2015-01-08T03:48:56Z
+    - 2015-01-08T03:50:04Z
+    - 2015-01-08T03:50:23Z
+    - 2015-01-08T03:50:26Z
+    - 2015-01-08T03:50:57Z
+    - 2015-01-08T03:51:00Z
+    - 2015-01-08T03:51:06Z
+    - 2015-01-08T03:51:21Z
+    - 2015-01-08T03:51:50Z
+    - 2015-01-08T03:52:55Z
+    - 2015-01-08T03:52:56Z
+    - 2015-01-08T03:53:29Z
+    - 2015-01-08T03:55:50Z
+    - 2015-01-08T03:57:01Z
+    - 2015-01-08T03:57:04Z
+    - 2015-01-08T03:57:27Z
+    - 2015-01-08T03:58:30Z
+    - 2015-01-08T03:58:55Z
+    - 2015-01-08T04:01:39Z
+    - 2015-01-08T04:04:32Z
+    - 2015-01-08T04:07:38Z
+    - 2015-01-08T04:20:53Z
+    - 2015-01-08T04:40:47Z
+  - - 2015-01-08T04:05:55Z
+    - 2015-01-08T04:07:12Z
+    - 2015-01-08T04:07:27Z
+    - 2015-01-08T04:09:27Z
+    - 2015-01-08T04:10:27Z
+    - 2015-01-08T04:11:13Z
+    - 2015-01-08T04:11:24Z
+    - 2015-01-08T04:11:33Z
+    - 2015-01-08T04:11:47Z
+    - 2015-01-08T04:11:52Z
+    - 2015-01-08T04:11:55Z
+    - 2015-01-08T04:12:06Z
+    - 2015-01-08T04:12:09Z
+    - 2015-01-08T04:12:11Z
+    - 2015-01-08T04:12:13Z
+    - 2015-01-08T04:12:23Z
+    - 2015-01-08T04:12:35Z
+    - 2015-01-08T04:12:52Z
+    - 2015-01-08T04:13:32Z
+    - 2015-01-08T04:14:03Z
+    - 2015-01-08T04:15:19Z
+    - 2015-01-08T04:16:28Z
+    - 2015-01-08T04:17:23Z
+    - 2015-01-08T04:17:26Z
+    - 2015-01-08T04:17:45Z
+    - 2015-01-08T04:17:58Z
+    - 2015-01-08T04:22:10Z
+    - 2015-01-08T04:22:50Z
+    - 2015-01-08T04:24:41Z
+    - 2015-01-08T04:26:41Z
+    - 2015-01-08T04:28:00Z
+    - 2015-01-08T04:28:12Z
+    - 2015-01-08T04:28:43Z
+    - 2015-01-08T04:30:48Z
+    - 2015-01-08T04:31:57Z
+    - 2015-01-08T04:36:00Z
+    - 2015-01-08T04:39:31Z
+    - 2015-01-08T05:01:27Z
+    - 2015-01-08T05:07:31Z
+  - - 2015-01-08T05:11:00Z
+    - 2015-01-08T05:11:58Z
+    - 2015-01-08T05:12:26Z
+    - 2015-01-08T05:12:27Z
+    - 2015-01-08T05:12:44Z
+    - 2015-01-08T05:16:28Z
+    - 2015-01-08T05:16:43Z
+    - 2015-01-08T05:17:10Z
+    - 2015-01-08T05:22:25Z
+    - 2015-01-08T05:23:59Z
+    - 2015-01-08T05:25:06Z
+    - 2015-01-08T05:25:20Z
+    - 2015-01-08T05:25:23Z
+    - 2015-01-08T05:25:40Z
+    - 2015-01-08T05:26:31Z
+    - 2015-01-08T05:27:27Z
+    - 2015-01-08T05:27:29Z
+    - 2015-01-08T05:29:02Z
+    - 2015-01-08T05:29:10Z
+    - 2015-01-08T05:29:40Z
+    - 2015-01-08T05:30:47Z
+    - 2015-01-08T05:32:52Z
+    - 2015-01-08T05:34:16Z
+    - 2015-01-08T05:34:22Z
+    - 2015-01-08T05:35:26Z
+    - 2015-01-08T05:35:41Z
+    - 2015-01-08T05:36:31Z
+    - 2015-01-08T05:37:58Z
+    - 2015-01-08T05:40:30Z
+    - 2015-01-08T05:45:03Z
+    - 2015-01-08T05:50:30Z
+    - 2015-01-08T05:51:10Z
+    - 2015-01-08T05:51:32Z
+    - 2015-01-08T06:03:29Z
+    - 2015-01-08T06:13:18Z
+    - 2015-01-08T06:35:26Z
+  zonesRankPilot:
+  - - Yoko Isomoto
+    - Adam Jones
+    - Victor Hare
+    - Kato Minoru
+    - Josh Woods
+    - Gijs Wanders
+    - Rohan Taylor
+    - Geoff Robertson
+    - Len Paton
+    - Jochen Zeischka
+    - Trent Brown
+    - Guy Hubbard
+    - Jon snr Durand
+    - Harrison Rowntree
+    - Christian Voiblet
+    - Filippo Oppici
+    - Gordon Rigg
+    - Steve Blenkinsop
+    - Oyvind Ellefsen
+    - Zac Majors
+    - Tullio Gervasoni
+    - Phil Schroder
+    - Lukas Bader
+    - Yasuhiro Noma
+    - Olav Olsen
+    - Olav Opsanger
+    - Jonas Lobitz
+    - Grant Heaney
+    - Mikhail Karmazin
+    - Gavin Myers
+    - Federico Martini
+    - Dale Regehr
+    - Conrad Loten
+    - Nils Vesk
+    - Simon Braithwaite
+    - Sasha Serebrennikova
+    - Mark Russell
+    - Viv Clements
+    - Sander Van Schaik
+    - Phil Seeley
+    - Emiel Jansen
+    - Thomas Lindal
+    - Chris Czajkowski
+  - - Dale Regehr
+    - Rohan Taylor
+    - Conrad Loten
+    - Phil Schroder
+    - Gordon Rigg
+    - Gerolf Heinrichs
+    - Tullio Gervasoni
+    - Yoko Isomoto
+    - Zac Majors
+    - Jonas Lobitz
+    - Christian Voiblet
+    - Steve Blenkinsop
+    - Olav Opsanger
+    - Geoff Robertson
+    - Jon snr Durand
+    - Yasuhiro Noma
+    - Lukas Bader
+    - Jochen Zeischka
+    - Victor Hare
+    - Glen Mcfarlane
+    - Gavin Myers
+    - Guy Hubbard
+    - Filippo Oppici
+    - Josh Woods
+    - Olav Olsen
+    - Federico Martini
+    - Gijs Wanders
+    - Harrison Rowntree
+    - Jonny Durand
+    - Sasha Serebrennikova
+    - Sander Van Schaik
+    - Trent Brown
+    - Ryosuke Hattori
+    - Emiel Jansen
+    - Nils Vesk
+    - Oyvind Ellefsen
+    - Attila Bertok
+    - Thomas Lindal
+    - Kato Minoru
+    - Len Paton
+    - Andrew Barnes
+    - Simon Braithwaite
+    - Mark Russell
+    - Grant Heaney
+    - Viv Clements
+    - Phil Seeley
+    - Chris Czajkowski
+    - Takeshi Yokoyama
+  - - Olav Olsen
+    - Harrison Rowntree
+    - Filippo Oppici
+    - Glen Mcfarlane
+    - Conrad Loten
+    - Zac Majors
+    - Jochen Zeischka
+    - Olav Opsanger
+    - Federico Martini
+    - Jonny Durand
+    - Gordon Rigg
+    - Gerolf Heinrichs
+    - Attila Bertok
+    - Yasuhiro Noma
+    - Steve Blenkinsop
+    - Lukas Bader
+    - Christian Voiblet
+    - Oyvind Ellefsen
+    - Jon snr Durand
+    - Kato Minoru
+    - Victor Hare
+    - Guy Hubbard
+    - Jonas Lobitz
+    - Geoff Robertson
+    - Gavin Myers
+    - Rohan Taylor
+    - Tullio Gervasoni
+    - Trent Brown
+    - Len Paton
+    - Phil Schroder
+    - Yoko Isomoto
+    - Sasha Serebrennikova
+    - Ryosuke Hattori
+    - Simon Braithwaite
+    - Nils Vesk
+    - Mark Russell
+    - Thomas Lindal
+    - Josh Woods
+    - Grant Heaney
+    - Andrew Barnes
+    - Gijs Wanders
+    - Emiel Jansen
+    - Viv Clements
+    - Chris Czajkowski
+  - - Jonny Durand
+    - Attila Bertok
+    - Olav Olsen
+    - Christian Voiblet
+    - Lukas Bader
+    - Jonas Lobitz
+    - Kato Minoru
+    - Geoff Robertson
+    - Trent Brown
+    - Zac Majors
+    - Oyvind Ellefsen
+    - Harrison Rowntree
+    - Jochen Zeischka
+    - Gavin Myers
+    - Yasuhiro Noma
+    - Steve Blenkinsop
+    - Tullio Gervasoni
+    - Guy Hubbard
+    - Victor Hare
+    - Filippo Oppici
+    - Jon snr Durand
+    - Rohan Taylor
+    - Len Paton
+    - Sasha Serebrennikova
+    - Phil Schroder
+    - Olav Opsanger
+    - Conrad Loten
+    - Gordon Rigg
+    - Simon Braithwaite
+    - Federico Martini
+    - Grant Heaney
+    - Nils Vesk
+    - Josh Woods
+    - Andrew Barnes
+    - Ryosuke Hattori
+    - Mark Russell
+    - Emiel Jansen
+    - Yoko Isomoto
+    - Viv Clements
+  - - Steve Blenkinsop
+    - Geoff Robertson
+    - Tullio Gervasoni
+    - Jonny Durand
+    - Attila Bertok
+    - Jon snr Durand
+    - Jochen Zeischka
+    - Trent Brown
+    - Kato Minoru
+    - Yasuhiro Noma
+    - Gavin Myers
+    - Guy Hubbard
+    - Harrison Rowntree
+    - Oyvind Ellefsen
+    - Jonas Lobitz
+    - Zac Majors
+    - Gordon Rigg
+    - Olav Opsanger
+    - Filippo Oppici
+    - Olav Olsen
+    - Len Paton
+    - Lukas Bader
+    - Andrew Barnes
+    - Victor Hare
+    - Nils Vesk
+    - Josh Woods
+    - Sasha Serebrennikova
+    - Simon Braithwaite
+    - Grant Heaney
+    - Phil Schroder
+    - Christian Voiblet
+    - Federico Martini
+    - Rohan Taylor
+    - Ryosuke Hattori
+    - Conrad Loten
+    - Yoko Isomoto
+tagging:
+- - - Adam Jones
+    - zonesTag:
+      - fix: 214
+        time: 2015-01-01T02:35:46Z
+        lat: -33.35884999
+        lng: 147.9353
+      - null
+      - null
+      - null
+      - null
+  - - Andrew Barnes
+    - zonesTag:
+      - null
+      - fix: 394
+        time: 2015-01-01T03:01:57Z
+        lat: -33.34805
+        lng: 147.98311599
+      - fix: 1326
+        time: 2015-01-01T04:19:55Z
+        lat: -33.5521
+        lng: 148.66793
+      - fix: 2253
+        time: 2015-01-01T05:37:18Z
+        lat: -33.12872999
+        lng: 148.83209999
+      - fix: 2545
+        time: 2015-01-01T06:01:38Z
+        lat: -33.1846
+        lng: 148.68271599
+  - - Attila Bertok
+    - zonesTag:
+      - null
+      - fix: 1980
+        time: 2015-01-01T03:00:54Z
+        lat: -33.34194999
+        lng: 147.98013
+      - fix: 3528
+        time: 2015-01-01T04:18:35Z
+        lat: -33.55258299
+        lng: 148.667483
+      - fix: 4820
+        time: 2015-01-01T05:23:25Z
+        lat: -33.128816
+        lng: 148.83231599
+      - fix: 5088
+        time: 2015-01-01T05:36:51Z
+        lat: -33.18392999
+        lng: 148.68303
+  - - Chris Czajkowski
+    - zonesTag:
+      - null
+      - fix: 372
+        time: 2015-01-01T02:45:42Z
+        lat: -33.36082999
+        lng: 147.98551599
+      - fix: 994
+        time: 2015-01-01T04:29:22Z
+        lat: -33.5516
+        lng: 148.66802999
+      - null
+      - null
+  - - Christian Voiblet
+    - zonesTag:
+      - null
+      - fix: 1335
+        time: 2015-01-01T03:01:11Z
+        lat: -33.34176
+        lng: 147.9806
+      - fix: 2757
+        time: 2015-01-01T04:12:34Z
+        lat: -33.55219999
+        lng: 148.66759999
+      - fix: 4300
+        time: 2015-01-01T05:29:55Z
+        lat: -33.126716
+        lng: 148.83119999
+      - fix: 4674
+        time: 2015-01-01T05:48:31Z
+        lat: -33.184083
+        lng: 148.68319999
+  - - Conrad Loten
+    - zonesTag:
+      - null
+      - fix: 457
+        time: 2015-01-01T03:00:58Z
+        lat: -33.34154999
+        lng: 147.97874999
+      - fix: 1095
+        time: 2015-01-01T04:47:53Z
+        lat: -33.55251599
+        lng: 148.66749999
+      - fix: 1531
+        time: 2015-01-01T06:00:42Z
+        lat: -33.11715
+        lng: 148.82836
+      - fix: 1689
+        time: 2015-01-01T06:27:05Z
+        lat: -33.18444999
+        lng: 148.681916
+  - - Dale Regehr
+    - zonesTag:
+      - fix: 13
+        time: 2015-01-01T02:38:11Z
+        lat: -33.35842999
+        lng: 147.93012999
+      - fix: 137
+        time: 2015-01-01T02:58:43Z
+        lat: -33.37053
+        lng: 147.98383
+      - fix: 734
+        time: 2015-01-01T04:38:21Z
+        lat: -33.556783
+        lng: 148.66929999
+      - fix: 1230
+        time: 2015-01-01T06:00:58Z
+        lat: -33.15594999
+        lng: 148.87313
+      - fix: 1431
+        time: 2015-01-01T06:34:07Z
+        lat: -33.18441599
+        lng: 148.6819
+  - - Emiel Jansen
+    - zonesTag:
+      - null
+      - fix: 1330
+        time: 2015-01-01T02:47:32Z
+        lat: -33.369683
+        lng: 147.984483
+      - null
+      - null
+      - null
+  - - Enda Murphy
+    - null
+  - - Federico Martini
+    - zonesTag:
+      - null
+      - fix: 469
+        time: 2015-01-01T03:01:28Z
+        lat: -33.343116
+        lng: 147.98105
+      - null
+      - null
+      - null
+  - - Filippo Oppici
+    - zonesTag:
+      - fix: 60
+        time: 2015-01-01T01:46:31Z
+        lat: -33.35782999
+        lng: 147.93001599
+      - fix: 2327
+        time: 2015-01-01T03:02:18Z
+        lat: -33.348716
+        lng: 147.98378299
+      - fix: 4960
+        time: 2015-01-01T04:30:15Z
+        lat: -33.55373
+        lng: 148.66718299
+      - fix: 7189
+        time: 2015-01-01T05:44:39Z
+        lat: -33.1343
+        lng: 148.83539999
+      - fix: 7570
+        time: 2015-01-01T05:57:18Z
+        lat: -33.18426
+        lng: 148.68286
+  - - Gavin Myers
+    - zonesTag:
+      - null
+      - fix: 317
+        time: 2015-01-01T02:45:27Z
+        lat: -33.3637
+        lng: 147.98512999
+      - fix: 1258
+        time: 2015-01-01T04:04:28Z
+        lat: -33.55225
+        lng: 148.66759999
+      - fix: 2247
+        time: 2015-01-01T05:27:02Z
+        lat: -33.133
+        lng: 148.83459999
+      - fix: 2483
+        time: 2015-01-01T05:46:46Z
+        lat: -33.18444999
+        lng: 148.68321599
+  - - Geoff Robertson
+    - zonesTag:
+      - null
+      - fix: 452
+        time: 2015-01-01T03:01:13Z
+        lat: -33.34273
+        lng: 147.97968299
+      - fix: 884
+        time: 2015-01-01T04:13:13Z
+        lat: -33.55102999
+        lng: 148.66884999
+      - fix: 1353
+        time: 2015-01-01T05:31:39Z
+        lat: -33.13405
+        lng: 148.83519999
+      - null
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - fix: 534
+        time: 2015-01-01T02:01:19Z
+        lat: -33.3579
+        lng: 147.92969999
+      - fix: 1731
+        time: 2015-01-01T03:01:10Z
+        lat: -33.34259999
+        lng: 147.980983
+      - fix: 3204
+        time: 2015-01-01T04:14:49Z
+        lat: -33.55026
+        lng: 148.67103
+      - fix: 4429
+        time: 2015-01-01T05:16:33Z
+        lat: -33.13405
+        lng: 148.83545
+      - fix: 4962
+        time: 2015-01-01T05:43:12Z
+        lat: -33.18506
+        lng: 148.68305
+  - - Gijs Wanders
+    - zonesTag:
+      - null
+      - fix: 710
+        time: 2015-01-01T02:45:05Z
+        lat: -33.36788299
+        lng: 147.98475999
+      - fix: 2369
+        time: 2015-01-01T04:08:23Z
+        lat: -33.55246
+        lng: 148.667583
+      - fix: 3969
+        time: 2015-01-01T05:28:31Z
+        lat: -33.13881599
+        lng: 148.838983
+      - fix: 4269
+        time: 2015-01-01T05:43:31Z
+        lat: -33.18424999
+        lng: 148.68285
+  - - Glen Mcfarlane
+    - zonesTag:
+      - null
+      - fix: 888
+        time: 2015-01-01T03:15:26Z
+        lat: -33.37256
+        lng: 147.98355
+      - fix: 3033
+        time: 2015-01-01T04:26:58Z
+        lat: -33.552016
+        lng: 148.66781599
+      - fix: 5381
+        time: 2015-01-01T05:45:20Z
+        lat: -33.133983
+        lng: 148.83512999
+      - fix: 5756
+        time: 2015-01-01T05:57:48Z
+        lat: -33.18345
+        lng: 148.6824
+  - - Gordon Rigg
+    - zonesTag:
+      - null
+      - fix: 1074
+        time: 2015-01-01T03:03:03Z
+        lat: -33.35139999
+        lng: 147.98453
+      - fix: 1984
+        time: 2015-01-01T04:19:40Z
+        lat: -33.55154999
+        lng: 148.668316
+      - fix: 2811
+        time: 2015-01-01T05:29:52Z
+        lat: -33.135483
+        lng: 148.83626
+      - fix: 3113
+        time: 2015-01-01T05:55:49Z
+        lat: -33.18402999
+        lng: 148.68315
+  - - Grant Heaney
+    - zonesTag:
+      - null
+      - fix: 862
+        time: 2015-01-01T02:48:16Z
+        lat: -33.36251599
+        lng: 147.98498299
+      - fix: 1860
+        time: 2015-01-01T04:11:26Z
+        lat: -33.55272999
+        lng: 148.66791599
+      - fix: 2914
+        time: 2015-01-01T05:39:16Z
+        lat: -33.13203
+        lng: 148.83449999
+      - fix: 3191
+        time: 2015-01-01T06:02:21Z
+        lat: -33.18426
+        lng: 148.681983
+  - - Guy Hubbard
+    - zonesTag:
+      - null
+      - fix: 624
+        time: 2015-01-01T02:45:14Z
+        lat: -33.36453
+        lng: 147.98502999
+      - fix: 1817
+        time: 2015-01-01T04:04:46Z
+        lat: -33.55301599
+        lng: 148.66752999
+      - fix: 3062
+        time: 2015-01-01T05:27:46Z
+        lat: -33.14948299
+        lng: 148.85355999
+      - fix: 3443
+        time: 2015-01-01T05:53:14Z
+        lat: -33.18363
+        lng: 148.680483
+  - - Harrison Rowntree
+    - zonesTag:
+      - null
+      - fix: 1458
+        time: 2015-01-01T02:46:12Z
+        lat: -33.361983
+        lng: 147.98545999
+      - fix: 3080
+        time: 2015-01-01T04:08:11Z
+        lat: -33.55445999
+        lng: 148.66731599
+      - fix: 4672
+        time: 2015-01-01T05:28:16Z
+        lat: -33.13241599
+        lng: 148.83411599
+      - fix: 5047
+        time: 2015-01-01T05:47:11Z
+        lat: -33.1843
+        lng: 148.68342999
+  - - Jochen Zeischka
+    - zonesTag:
+      - null
+      - fix: 357
+        time: 2015-01-01T03:02:06Z
+        lat: -33.34878299
+        lng: 147.98326
+      - fix: 775
+        time: 2015-01-01T04:11:57Z
+        lat: -33.55246
+        lng: 148.667516
+      - fix: 1275
+        time: 2015-01-01T05:35:19Z
+        lat: -33.131416
+        lng: 148.83349999
+      - fix: 1448
+        time: 2015-01-01T06:04:06Z
+        lat: -33.18484999
+        lng: 148.68065
+  - - Jon snr Durand
+    - zonesTag:
+      - fix: 18
+        time: 2015-01-01T01:40:32Z
+        lat: -33.35775
+        lng: 147.93372999
+      - fix: 405
+        time: 2015-01-01T02:45:02Z
+        lat: -33.36378299
+        lng: 147.98488299
+      - fix: 899
+        time: 2015-01-01T04:07:29Z
+        lat: -33.550583
+        lng: 148.66985999
+      - fix: 1472
+        time: 2015-01-01T05:42:59Z
+        lat: -33.1306
+        lng: 148.83418299
+      - fix: 1604
+        time: 2015-01-01T06:04:11Z
+        lat: -33.18605
+        lng: 148.68315999
+  - - Jonas Lobitz
+    - zonesTag:
+      - null
+      - fix: 1118
+        time: 2015-01-01T03:02:23Z
+        lat: -33.35222999
+        lng: 147.98481599
+      - fix: 2021
+        time: 2015-01-01T04:17:54Z
+        lat: -33.55203
+        lng: 148.66888299
+      - fix: 3075
+        time: 2015-01-01T05:45:42Z
+        lat: -33.130816
+        lng: 148.8332
+      - fix: 3245
+        time: 2015-01-01T05:59:49Z
+        lat: -33.184283
+        lng: 148.681916
+  - - Jonny Durand
+    - zonesTag:
+      - null
+      - fix: 380
+        time: 2015-01-01T03:15:12Z
+        lat: -33.37142999
+        lng: 147.98255
+      - fix: 803
+        time: 2015-01-01T04:25:44Z
+        lat: -33.55068299
+        lng: 148.67346
+      - fix: 1206
+        time: 2015-01-01T05:32:37Z
+        lat: -33.13615999
+        lng: 148.8369
+      - fix: 1339
+        time: 2015-01-01T05:54:50Z
+        lat: -33.18399999
+        lng: 148.68323
+  - - Josh Woods
+    - zonesTag:
+      - null
+      - fix: 501
+        time: 2015-01-01T03:04:26Z
+        lat: -33.37921599
+        lng: 147.98045999
+      - null
+      - null
+      - null
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 45
+        time: 2015-01-01T02:07:29Z
+        lat: -33.359583
+        lng: 147.928716
+      - fix: 499
+        time: 2015-01-01T02:45:33Z
+        lat: -33.36113
+        lng: 147.98482999
+      - fix: 1467
+        time: 2015-01-01T04:06:38Z
+        lat: -33.55096
+        lng: 148.6688
+      - fix: 2443
+        time: 2015-01-01T05:28:11Z
+        lat: -33.13996
+        lng: 148.84018299
+      - fix: 2715
+        time: 2015-01-01T05:50:50Z
+        lat: -33.18399999
+        lng: 148.68209999
+  - - Len Paton
+    - zonesTag:
+      - fix: 14
+        time: 2015-01-01T02:46:02Z
+        lat: -33.35778299
+        lng: 147.9316
+      - fix: 197
+        time: 2015-01-01T03:16:16Z
+        lat: -33.37349999
+        lng: 147.98259999
+      - fix: 603
+        time: 2015-01-01T04:23:54Z
+        lat: -33.55048299
+        lng: 148.66999999
+      - fix: 1017
+        time: 2015-01-01T05:32:38Z
+        lat: -33.12776
+        lng: 148.8316
+      - fix: 1162
+        time: 2015-01-01T05:56:40Z
+        lat: -33.18455999
+        lng: 148.68279999
+  - - Lukas Bader
+    - zonesTag:
+      - fix: 101
+        time: 2015-01-01T01:38:43Z
+        lat: -33.3573
+        lng: 147.93135
+      - fix: 5048
+        time: 2015-01-01T03:01:10Z
+        lat: -33.34205
+        lng: 147.98072999
+      - fix: 11480
+        time: 2015-01-01T04:48:22Z
+        lat: -33.55075
+        lng: 148.66919999
+      - fix: 15491
+        time: 2015-01-01T05:55:13Z
+        lat: -33.1323
+        lng: 148.83411599
+      - fix: 17134
+        time: 2015-01-01T06:22:36Z
+        lat: -33.18371599
+        lng: 148.6827
+  - - Mark Russell
+    - zonesTag:
+      - null
+      - fix: 334
+        time: 2015-01-01T02:49:34Z
+        lat: -33.35103
+        lng: 147.984283
+      - fix: 883
+        time: 2015-01-01T04:21:20Z
+        lat: -33.55346
+        lng: 148.66722999
+      - fix: 1431
+        time: 2015-01-01T05:52:30Z
+        lat: -33.13888299
+        lng: 148.83901599
+      - fix: 1578
+        time: 2015-01-01T06:16:52Z
+        lat: -33.18441599
+        lng: 148.682783
+  - - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - fix: 1155
+        time: 2015-01-01T02:43:27Z
+        lat: -33.366883
+        lng: 147.98496
+      - fix: 4024
+        time: 2015-01-01T04:19:34Z
+        lat: -33.55218299
+        lng: 148.667716
+      - fix: 6351
+        time: 2015-01-01T05:37:18Z
+        lat: -33.14359999
+        lng: 148.84418299
+      - fix: 7399
+        time: 2015-01-01T06:12:15Z
+        lat: -33.18334999
+        lng: 148.68235
+  - - Nils Vesk
+    - zonesTag:
+      - fix: 51
+        time: 2015-01-01T01:37:43Z
+        lat: -33.35779999
+        lng: 147.93375
+      - fix: 460
+        time: 2015-01-01T02:45:52Z
+        lat: -33.35875999
+        lng: 147.98512999
+      - fix: 954
+        time: 2015-01-01T04:08:23Z
+        lat: -33.55368299
+        lng: 148.66725999
+      - fix: 1461
+        time: 2015-01-01T05:32:46Z
+        lat: -33.135916
+        lng: 148.83655999
+      - fix: 1646
+        time: 2015-01-01T06:03:14Z
+        lat: -33.18435999
+        lng: 148.68344999
+  - - Olav Olsen
+    - zonesTag:
+      - null
+      - fix: 1328
+        time: 2015-01-01T02:45:35Z
+        lat: -33.35916
+        lng: 147.98564999
+      - fix: 2971
+        time: 2015-01-01T04:08:18Z
+        lat: -33.55349999
+        lng: 148.6673
+      - fix: 4336
+        time: 2015-01-01T05:16:42Z
+        lat: -33.13615
+        lng: 148.83672999
+      - fix: 4750
+        time: 2015-01-01T05:37:18Z
+        lat: -33.184116
+        lng: 148.68334999
+  - - Olav Opsanger
+    - zonesTag:
+      - null
+      - fix: 403
+        time: 2015-01-01T03:03:04Z
+        lat: -33.35048299
+        lng: 147.98416
+      - fix: 1243
+        time: 2015-01-01T04:13:08Z
+        lat: -33.55122999
+        lng: 148.66855
+      - fix: 2071
+        time: 2015-01-01T05:23:33Z
+        lat: -33.128216
+        lng: 148.83176
+      - fix: 2248
+        time: 2015-01-01T05:38:10Z
+        lat: -33.18375
+        lng: 148.683016
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - fix: 607
+        time: 2015-01-01T03:01:13Z
+        lat: -33.35138299
+        lng: 147.98384999
+      - fix: 1483
+        time: 2015-01-01T04:14:11Z
+        lat: -33.55073
+        lng: 148.669383
+      - fix: 2416
+        time: 2015-01-01T05:31:56Z
+        lat: -33.11945999
+        lng: 148.8288
+      - fix: 2618
+        time: 2015-01-01T05:48:32Z
+        lat: -33.184316
+        lng: 148.6833
+  - - Peter Dall
+    - zonesTag:
+      - null
+      - fix: 816
+        time: 2015-01-01T03:01:21Z
+        lat: -33.36788299
+        lng: 147.98496
+      - null
+      - null
+      - null
+  - - Phil Schroder
+    - zonesTag:
+      - fix: 119
+        time: 2015-01-01T01:55:51Z
+        lat: -33.358516
+        lng: 147.92955
+      - fix: 921
+        time: 2015-01-01T03:02:41Z
+        lat: -33.35029999
+        lng: 147.9838
+      - fix: 1927
+        time: 2015-01-01T04:26:31Z
+        lat: -33.55122999
+        lng: 148.66843
+      - fix: 2897
+        time: 2015-01-01T05:47:21Z
+        lat: -33.12872999
+        lng: 148.83238299
+      - fix: 3139
+        time: 2015-01-01T06:07:31Z
+        lat: -33.18439999
+        lng: 148.68245999
+  - - Phil Seeley
+    - zonesTag:
+      - null
+      - fix: 961
+        time: 2015-01-01T02:38:11Z
+        lat: -33.36769999
+        lng: 147.98509999
+      - fix: 6109
+        time: 2015-01-01T04:08:35Z
+        lat: -33.55225
+        lng: 148.66759999
+      - null
+      - null
+  - - Rohan Taylor
+    - zonesTag:
+      - fix: 102
+        time: 2015-01-01T02:41:26Z
+        lat: -33.3581
+        lng: 147.929316
+      - fix: 1933
+        time: 2015-01-01T03:15:26Z
+        lat: -33.36618299
+        lng: 147.98529999
+      - fix: 5857
+        time: 2015-01-01T04:27:52Z
+        lat: -33.55279999
+        lng: 148.667516
+      - null
+      - null
+  - - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - fix: 485
+        time: 2015-01-01T03:02:38Z
+        lat: -33.34968299
+        lng: 147.98359999
+      - null
+      - null
+      - null
+  - - Sander Van Schaik
+    - zonesTag:
+      - null
+      - fix: 317
+        time: 2015-01-01T02:45:37Z
+        lat: -33.36441599
+        lng: 147.98461599
+      - fix: 1003
+        time: 2015-01-01T04:40:20Z
+        lat: -33.5514
+        lng: 148.66939999
+      - null
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - null
+      - fix: 614
+        time: 2015-01-01T03:01:22Z
+        lat: -33.3425
+        lng: 147.98109999
+      - fix: 1379
+        time: 2015-01-01T04:43:53Z
+        lat: -33.550283
+        lng: 148.67238299
+      - null
+      - null
+  - - Simon Braithwaite
+    - zonesTag:
+      - null
+      - fix: 214
+        time: 2015-01-01T02:45:32Z
+        lat: -33.36285999
+        lng: 147.98478299
+      - fix: 709
+        time: 2015-01-01T04:08:09Z
+        lat: -33.55131599
+        lng: 148.66845
+      - null
+      - null
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 40
+        time: 2015-01-01T02:37:07Z
+        lat: -33.357616
+        lng: 147.93001599
+      - fix: 508
+        time: 2015-01-01T03:01:05Z
+        lat: -33.3427
+        lng: 147.98089999
+      - fix: 1885
+        time: 2015-01-01T04:11:38Z
+        lat: -33.55225
+        lng: 148.66759999
+      - fix: 3424
+        time: 2015-01-01T05:30:20Z
+        lat: -33.13558299
+        lng: 148.83625
+      - fix: 3996
+        time: 2015-01-01T05:59:49Z
+        lat: -33.184516
+        lng: 148.68279999
+  - - Takeshi Yokoyama
+    - zonesTag:
+      - null
+      - fix: 262
+        time: 2015-01-01T03:02:28Z
+        lat: -33.35023
+        lng: 147.983283
+      - fix: 894
+        time: 2015-01-01T04:48:23Z
+        lat: -33.55049999
+        lng: 148.67291599
+      - fix: 1506
+        time: 2015-01-01T06:30:35Z
+        lat: -33.15406
+        lng: 148.86921599
+      - fix: 1623
+        time: 2015-01-01T06:50:09Z
+        lat: -33.1839
+        lng: 148.68206
+  - - Thomas Lindal
+    - zonesTag:
+      - null
+      - fix: 1595
+        time: 2015-01-01T02:57:09Z
+        lat: -33.34335999
+        lng: 147.98131599
+      - fix: 3474
+        time: 2015-01-01T04:31:53Z
+        lat: -33.55212999
+        lng: 148.66781599
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - fix: 624
+        time: 2015-01-01T02:45:32Z
+        lat: -33.35755999
+        lng: 147.931416
+      - fix: 980
+        time: 2015-01-01T03:15:07Z
+        lat: -33.364116
+        lng: 147.98568299
+      - fix: 1838
+        time: 2015-01-01T04:26:58Z
+        lat: -33.55108299
+        lng: 148.66875999
+      - fix: 2802
+        time: 2015-01-01T05:47:21Z
+        lat: -33.129083
+        lng: 148.83234999
+      - fix: 3028
+        time: 2015-01-01T06:06:14Z
+        lat: -33.18435999
+        lng: 148.6827
+  - - Tullio Gervasoni
+    - zonesTag:
+      - fix: 22
+        time: 2015-01-01T02:29:51Z
+        lat: -33.35755
+        lng: 147.93154999
+      - fix: 212
+        time: 2015-01-01T03:01:12Z
+        lat: -33.34244999
+        lng: 147.98029999
+      - fix: 640
+        time: 2015-01-01T04:12:34Z
+        lat: -33.5531
+        lng: 148.66759999
+      - fix: 1138
+        time: 2015-01-01T05:35:17Z
+        lat: -33.131
+        lng: 148.83331599
+      - fix: 1302
+        time: 2015-01-01T06:02:29Z
+        lat: -33.18455999
+        lng: 148.68199999
+  - - Victor Hare
+    - zonesTag:
+      - null
+      - fix: 241
+        time: 2015-01-01T03:16:52Z
+        lat: -33.36958299
+        lng: 147.983283
+      - fix: 665
+        time: 2015-01-01T04:27:46Z
+        lat: -33.55088299
+        lng: 148.669216
+      - null
+      - null
+  - - Viv Clements
+    - zonesTag:
+      - fix: 94
+        time: 2015-01-01T01:39:05Z
+        lat: -33.357367
+        lng: 147.931667
+      - fix: 5628
+        time: 2015-01-01T03:11:19Z
+        lat: -33.36849998
+        lng: 147.98498298
+      - fix: 11885
+        time: 2015-01-01T04:55:36Z
+        lat: -33.5514
+        lng: 148.66833299
+      - null
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - fix: 428
+        time: 2015-01-01T02:50:32Z
+        lat: -33.35848299
+        lng: 147.934883
+      - fix: 923
+        time: 2015-01-01T03:15:17Z
+        lat: -33.3663
+        lng: 147.985116
+      - fix: 2697
+        time: 2015-01-01T04:43:59Z
+        lat: -33.55062999
+        lng: 148.67172999
+      - fix: 3970
+        time: 2015-01-01T05:47:39Z
+        lat: -33.12919999
+        lng: 148.832883
+      - null
+  - - Yoko Isomoto
+    - zonesTag:
+      - fix: 20
+        time: 2015-01-01T02:03:56Z
+        lat: -33.35758299
+        lng: 147.93295
+      - fix: 712
+        time: 2015-01-01T03:01:27Z
+        lat: -33.34295999
+        lng: 147.98089999
+      - null
+      - null
+      - null
+  - - Zac Majors
+    - zonesTag:
+      - fix: 40
+        time: 2015-01-01T02:41:00Z
+        lat: -33.35884999
+        lng: 147.9284
+      - fix: 1063
+        time: 2015-01-01T03:15:10Z
+        lat: -33.37258299
+        lng: 147.983516
+      - fix: 3236
+        time: 2015-01-01T04:27:52Z
+        lat: -33.55145999
+        lng: 148.66835
+      - fix: 5570
+        time: 2015-01-01T05:45:52Z
+        lat: -33.14202999
+        lng: 148.84229999
+      - fix: 6482
+        time: 2015-01-01T06:16:20Z
+        lat: -33.184783
+        lng: 148.6834
+- - - Andrew Barnes
+    - zonesTag:
+      - null
+      - fix: 586
+        time: 2015-01-02T02:45:55Z
+        lat: -33.41599999
+        lng: 147.8477
+      - fix: 1616
+        time: 2015-01-02T04:11:56Z
+        lat: -33.75005
+        lng: 147.52772999
+      - fix: 2910
+        time: 2015-01-02T05:59:57Z
+        lat: -34.08174999
+        lng: 148.01901599
+      - fix: 3804
+        time: 2015-01-02T07:14:43Z
+        lat: -34.49669999
+        lng: 147.8976
+  - - Attila Bertok
+    - zonesTag:
+      - null
+      - fix: 1904
+        time: 2015-01-02T03:20:01Z
+        lat: -33.432983
+        lng: 147.86793
+      - fix: 3108
+        time: 2015-01-02T04:20:25Z
+        lat: -33.74992999
+        lng: 147.52918299
+      - fix: 4343
+        time: 2015-01-02T05:22:23Z
+        lat: -33.99802999
+        lng: 148.009016
+      - fix: 5414
+        time: 2015-01-02T06:16:08Z
+        lat: -34.49654999
+        lng: 147.89546
+  - - Chris Czajkowski
+    - zonesTag:
+      - null
+      - fix: 141
+        time: 2015-01-02T03:29:06Z
+        lat: -33.44205999
+        lng: 147.89051599
+      - fix: 709
+        time: 2015-01-02T05:03:44Z
+        lat: -33.75251599
+        lng: 147.53274999
+      - null
+      - null
+  - - Christian Voiblet
+    - zonesTag:
+      - null
+      - fix: 1146
+        time: 2015-01-02T02:49:21Z
+        lat: -33.42784999
+        lng: 147.86086
+      - fix: 2403
+        time: 2015-01-02T03:52:16Z
+        lat: -33.754783
+        lng: 147.52459999
+      - fix: 3704
+        time: 2015-01-02T04:57:21Z
+        lat: -34.04545
+        lng: 148.00826
+      - fix: 4888
+        time: 2015-01-02T05:56:35Z
+        lat: -34.496816
+        lng: 147.89459999
+  - - Conrad Loten
+    - zonesTag:
+      - null
+      - fix: 196
+        time: 2015-01-02T02:45:12Z
+        lat: -33.415083
+        lng: 147.84798299
+      - fix: 612
+        time: 2015-01-02T03:55:00Z
+        lat: -33.75343
+        lng: 147.5244
+      - fix: 1016
+        time: 2015-01-02T05:02:12Z
+        lat: -34.06855999
+        lng: 148.01394999
+      - fix: 1338
+        time: 2015-01-02T05:56:05Z
+        lat: -34.49699999
+        lng: 147.89551599
+  - - Dale Regehr
+    - zonesTag:
+      - null
+      - fix: 172
+        time: 2015-01-02T03:42:32Z
+        lat: -33.44863
+        lng: 147.9163
+      - fix: 640
+        time: 2015-01-02T05:00:38Z
+        lat: -33.75168299
+        lng: 147.53229999
+      - null
+      - null
+  - - Emiel Jansen
+    - zonesTag:
+      - fix: 145
+        time: 2015-01-02T02:48:19Z
+        lat: -33.35743
+        lng: 147.93253
+      - fix: 1242
+        time: 2015-01-02T03:24:54Z
+        lat: -33.44819999
+        lng: 147.90691599
+      - fix: 3343
+        time: 2015-01-02T04:35:00Z
+        lat: -33.75039999
+        lng: 147.52645
+      - null
+      - null
+  - - Enda Murphy
+    - null
+  - - Federico Martini
+    - zonesTag:
+      - null
+      - fix: 211
+        time: 2015-01-02T03:09:21Z
+        lat: -33.446283
+        lng: 147.89973
+      - fix: 561
+        time: 2015-01-02T04:07:51Z
+        lat: -33.75025
+        lng: 147.53063
+      - fix: 1046
+        time: 2015-01-02T05:28:35Z
+        lat: -34.00493
+        lng: 148.00722999
+      - fix: 1392
+        time: 2015-01-02T06:26:26Z
+        lat: -34.49736
+        lng: 147.8968
+  - - Filippo Oppici
+    - zonesTag:
+      - null
+      - fix: 1557
+        time: 2015-01-02T03:01:53Z
+        lat: -33.42289999
+        lng: 147.85445999
+      - fix: 3429
+        time: 2015-01-02T04:04:25Z
+        lat: -33.75003
+        lng: 147.5283
+      - fix: 6086
+        time: 2015-01-02T05:33:11Z
+        lat: -34.11413
+        lng: 148.03755
+      - fix: 7751
+        time: 2015-01-02T06:28:43Z
+        lat: -34.4966
+        lng: 147.89492999
+  - - Gavin Myers
+    - zonesTag:
+      - null
+      - fix: 719
+        time: 2015-01-02T02:46:28Z
+        lat: -33.416583
+        lng: 147.84755999
+      - fix: 1573
+        time: 2015-01-02T03:57:48Z
+        lat: -33.75351599
+        lng: 147.52436
+      - fix: 2871
+        time: 2015-01-02T05:46:08Z
+        lat: -34.15715999
+        lng: 148.0814
+      - fix: 3381
+        time: 2015-01-02T06:28:48Z
+        lat: -34.496783
+        lng: 147.89738299
+  - - Geoff Robertson
+    - zonesTag:
+      - null
+      - fix: 142
+        time: 2015-01-02T02:46:05Z
+        lat: -33.41688299
+        lng: 147.84929999
+      - fix: 588
+        time: 2015-01-02T04:00:33Z
+        lat: -33.75031599
+        lng: 147.53063
+      - fix: 1089
+        time: 2015-01-02T05:23:45Z
+        lat: -34.0998
+        lng: 148.02816
+      - fix: 1440
+        time: 2015-01-02T06:22:10Z
+        lat: -34.496416
+        lng: 147.89668299
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - fix: 697
+        time: 2015-01-02T02:15:57Z
+        lat: -33.35849999
+        lng: 147.929383
+      - fix: 1885
+        time: 2015-01-02T03:15:22Z
+        lat: -33.41844999
+        lng: 147.849716
+      - fix: 2821
+        time: 2015-01-02T04:02:10Z
+        lat: -33.75323
+        lng: 147.53258299
+      - fix: 4280
+        time: 2015-01-02T05:15:07Z
+        lat: -34.05395
+        lng: 148.0105
+      - fix: 5522
+        time: 2015-01-02T06:17:13Z
+        lat: -34.49685
+        lng: 147.8984
+  - - Gijs Wanders
+    - zonesTag:
+      - null
+      - fix: 1166
+        time: 2015-01-02T02:47:34Z
+        lat: -33.42334999
+        lng: 147.85468299
+      - fix: 2480
+        time: 2015-01-02T03:53:20Z
+        lat: -33.74994999
+        lng: 147.52774999
+      - fix: 3989
+        time: 2015-01-02T05:08:48Z
+        lat: -34.03779999
+        lng: 148.00726
+      - fix: 5003
+        time: 2015-01-02T05:59:35Z
+        lat: -34.49691599
+        lng: 147.89492999
+  - - Glen Mcfarlane
+    - zonesTag:
+      - null
+      - fix: 677
+        time: 2015-01-02T03:10:05Z
+        lat: -33.444983
+        lng: 147.89495999
+      - fix: 2436
+        time: 2015-01-02T04:08:49Z
+        lat: -33.74994999
+        lng: 147.5293
+      - fix: 5494
+        time: 2015-01-02T05:50:46Z
+        lat: -34.04746
+        lng: 148.00873
+      - fix: 6993
+        time: 2015-01-02T06:40:47Z
+        lat: -34.49654999
+        lng: 147.8956
+  - - Gordon Rigg
+    - zonesTag:
+      - fix: 12
+        time: 2015-01-02T01:46:52Z
+        lat: -33.35802999
+        lng: 147.93244999
+      - fix: 705
+        time: 2015-01-02T02:45:31Z
+        lat: -33.4127
+        lng: 147.84495
+      - fix: 1442
+        time: 2015-01-02T03:47:44Z
+        lat: -33.75012999
+        lng: 147.53
+      - fix: 2057
+        time: 2015-01-02T04:39:18Z
+        lat: -34.01291599
+        lng: 148.00656
+      - fix: 2710
+        time: 2015-01-02T05:34:24Z
+        lat: -34.49692999
+        lng: 147.897683
+  - - Grant Heaney
+    - zonesTag:
+      - fix: 505
+        time: 2015-01-02T02:26:08Z
+        lat: -33.35875
+        lng: 147.92865
+      - fix: 748
+        time: 2015-01-02T02:46:23Z
+        lat: -33.41299999
+        lng: 147.844683
+      - fix: 1545
+        time: 2015-01-02T03:52:48Z
+        lat: -33.75323
+        lng: 147.52456
+      - null
+      - null
+  - - Guy Hubbard
+    - zonesTag:
+      - fix: 226
+        time: 2015-01-02T01:49:06Z
+        lat: -33.36316
+        lng: 147.92893
+      - fix: 1075
+        time: 2015-01-02T02:45:42Z
+        lat: -33.41668299
+        lng: 147.848216
+      - fix: 2001
+        time: 2015-01-02T03:47:26Z
+        lat: -33.75075999
+        lng: 147.53011599
+      - fix: 3116
+        time: 2015-01-02T05:01:46Z
+        lat: -34.06158299
+        lng: 148.011816
+      - fix: 3951
+        time: 2015-01-02T05:57:26Z
+        lat: -34.4971
+        lng: 147.89553
+  - - Harrison Rowntree
+    - zonesTag:
+      - fix: 120
+        time: 2015-01-02T01:51:28Z
+        lat: -33.357616
+        lng: 147.933983
+      - fix: 1814
+        time: 2015-01-02T03:16:45Z
+        lat: -33.4457
+        lng: 147.89699999
+      - fix: 3629
+        time: 2015-01-02T04:47:44Z
+        lat: -33.75418299
+        lng: 147.53278299
+      - fix: 5197
+        time: 2015-01-02T06:06:19Z
+        lat: -34.05946
+        lng: 148.01128299
+      - fix: 6583
+        time: 2015-01-02T07:27:20Z
+        lat: -34.49665
+        lng: 147.89494999
+  - - Jochen Zeischka
+    - zonesTag:
+      - fix: 120
+        time: 2015-01-02T02:16:18Z
+        lat: -33.35731599
+        lng: 147.93253
+      - fix: 313
+        time: 2015-01-02T02:48:23Z
+        lat: -33.423783
+        lng: 147.85535999
+      - fix: 681
+        time: 2015-01-02T03:49:50Z
+        lat: -33.75106
+        lng: 147.52565
+      - fix: 974
+        time: 2015-01-02T04:38:34Z
+        lat: -34.0362
+        lng: 148.007383
+      - fix: 1272
+        time: 2015-01-02T05:28:25Z
+        lat: -34.497083
+        lng: 147.89529999
+  - - Jon snr Durand
+    - zonesTag:
+      - null
+      - fix: 176
+        time: 2015-01-02T03:20:05Z
+        lat: -33.44946
+        lng: 147.92051599
+      - fix: 563
+        time: 2015-01-02T04:24:30Z
+        lat: -33.74994999
+        lng: 147.52771599
+      - null
+      - null
+  - - Jonas Lobitz
+    - zonesTag:
+      - null
+      - fix: 733
+        time: 2015-01-02T03:00:12Z
+        lat: -33.42036
+        lng: 147.85179999
+      - fix: 1383
+        time: 2015-01-02T03:54:24Z
+        lat: -33.75515999
+        lng: 147.53236
+      - fix: 2152
+        time: 2015-01-02T04:58:24Z
+        lat: -34.04379999
+        lng: 148.00812999
+      - fix: 2847
+        time: 2015-01-02T05:56:25Z
+        lat: -34.49692999
+        lng: 147.89475999
+  - - Jonny Durand
+    - zonesTag:
+      - fix: 150
+        time: 2015-01-02T02:16:45Z
+        lat: -33.357683
+        lng: 147.932783
+      - fix: 412
+        time: 2015-01-02T03:00:02Z
+        lat: -33.42218299
+        lng: 147.85599999
+      - fix: 781
+        time: 2015-01-02T04:01:23Z
+        lat: -33.75162999
+        lng: 147.53216
+      - fix: 1229
+        time: 2015-01-02T05:15:53Z
+        lat: -34.07241599
+        lng: 148.015383
+      - fix: 1490
+        time: 2015-01-02T05:59:28Z
+        lat: -34.49846
+        lng: 147.89599999
+  - - Josh Woods
+    - zonesTag:
+      - null
+      - fix: 151
+        time: 2015-01-02T03:22:09Z
+        lat: -33.44863
+        lng: 147.919383
+      - fix: 745
+        time: 2015-01-02T05:01:20Z
+        lat: -33.75213
+        lng: 147.5326
+      - null
+      - null
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 133
+        time: 2015-01-02T01:51:34Z
+        lat: -33.35758299
+        lng: 147.93376
+      - fix: 817
+        time: 2015-01-02T02:48:09Z
+        lat: -33.42443
+        lng: 147.85599999
+      - fix: 1569
+        time: 2015-01-02T03:50:55Z
+        lat: -33.75253
+        lng: 147.52469999
+      - fix: 2135
+        time: 2015-01-02T04:37:59Z
+        lat: -33.97468299
+        lng: 148.01375999
+      - fix: 3107
+        time: 2015-01-02T05:59:14Z
+        lat: -34.496583
+        lng: 147.89725999
+  - - Len Paton
+    - zonesTag:
+      - null
+      - fix: 317
+        time: 2015-01-02T02:47:28Z
+        lat: -33.4185
+        lng: 147.85095999
+      - fix: 676
+        time: 2015-01-02T03:47:22Z
+        lat: -33.75126
+        lng: 147.532083
+      - fix: 1265
+        time: 2015-01-02T05:25:15Z
+        lat: -34.13734999
+        lng: 148.05772999
+      - null
+  - - Lukas Bader
+    - zonesTag:
+      - null
+      - fix: 2435
+        time: 2015-01-02T02:48:16Z
+        lat: -33.423
+        lng: 147.85435
+      - fix: 6436
+        time: 2015-01-02T03:54:57Z
+        lat: -33.75435999
+        lng: 147.52455
+      - fix: 10445
+        time: 2015-01-02T05:01:46Z
+        lat: -34.069
+        lng: 148.01412999
+      - fix: 13785
+        time: 2015-01-02T05:57:26Z
+        lat: -34.49645999
+        lng: 147.8966
+  - - Mark Russell
+    - zonesTag:
+      - null
+      - fix: 210
+        time: 2015-01-02T02:48:27Z
+        lat: -33.42201599
+        lng: 147.85506
+      - fix: 602
+        time: 2015-01-02T03:53:48Z
+        lat: -33.750016
+        lng: 147.5274
+      - fix: 1082
+        time: 2015-01-02T05:13:23Z
+        lat: -34.04663
+        lng: 148.00861599
+      - fix: 1489
+        time: 2015-01-02T06:21:17Z
+        lat: -34.49754999
+        lng: 147.89626
+  - - Mikhail Karmazin
+    - zonesTag:
+      - fix: 147
+        time: 2015-01-02T02:17:25Z
+        lat: -33.35948299
+        lng: 147.93578299
+      - fix: 1189
+        time: 2015-01-02T02:52:31Z
+        lat: -33.435316
+        lng: 147.87188299
+      - fix: 3470
+        time: 2015-01-02T04:08:50Z
+        lat: -33.75003
+        lng: 147.52986
+      - fix: 6203
+        time: 2015-01-02T05:40:11Z
+        lat: -34.06683
+        lng: 148.013516
+      - fix: 8363
+        time: 2015-01-02T06:52:34Z
+        lat: -34.49636
+        lng: 147.8968
+  - - Nils Vesk
+    - zonesTag:
+      - fix: 88
+        time: 2015-01-02T02:15:30Z
+        lat: -33.358783
+        lng: 147.92949999
+      - fix: 278
+        time: 2015-01-02T02:46:59Z
+        lat: -33.414416
+        lng: 147.84583
+      - fix: 712
+        time: 2015-01-02T03:59:23Z
+        lat: -33.750416
+        lng: 147.526316
+      - fix: 1179
+        time: 2015-01-02T05:17:02Z
+        lat: -34.04995999
+        lng: 148.00909999
+      - fix: 1533
+        time: 2015-01-02T06:15:48Z
+        lat: -34.49648299
+        lng: 147.89599999
+  - - Olav Olsen
+    - zonesTag:
+      - null
+      - fix: 999
+        time: 2015-01-02T02:45:35Z
+        lat: -33.415283
+        lng: 147.8471
+      - fix: 2239
+        time: 2015-01-02T03:48:01Z
+        lat: -33.75003
+        lng: 147.52948299
+      - fix: 3380
+        time: 2015-01-02T04:45:06Z
+        lat: -33.937516
+        lng: 148.03143
+      - fix: 4941
+        time: 2015-01-02T06:03:15Z
+        lat: -34.49629999
+        lng: 147.89644999
+  - - Olav Opsanger
+    - zonesTag:
+      - fix: 82
+        time: 2015-01-02T02:16:40Z
+        lat: -33.35806
+        lng: 147.933816
+      - fix: 462
+        time: 2015-01-02T02:48:18Z
+        lat: -33.42301599
+        lng: 147.85523
+      - fix: 1220
+        time: 2015-01-02T03:51:30Z
+        lat: -33.752183
+        lng: 147.52465
+      - fix: 1988
+        time: 2015-01-02T04:55:28Z
+        lat: -34.02705999
+        lng: 148.006483
+      - fix: 2731
+        time: 2015-01-02T05:57:32Z
+        lat: -34.49676
+        lng: 147.896283
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - fix: 690
+        time: 2015-01-02T02:48:22Z
+        lat: -33.42374999
+        lng: 147.85605
+      - fix: 1433
+        time: 2015-01-02T03:50:15Z
+        lat: -33.75184999
+        lng: 147.52484999
+      - fix: 2244
+        time: 2015-01-02T04:57:39Z
+        lat: -34.045183
+        lng: 148.008316
+      - fix: 3089
+        time: 2015-01-02T06:08:05Z
+        lat: -34.496383
+        lng: 147.8973
+  - - Peter Dall
+    - zonesTag:
+      - fix: 252
+        time: 2015-01-02T02:47:27Z
+        lat: -33.36229999
+        lng: 147.928683
+      - fix: 786
+        time: 2015-01-02T03:31:13Z
+        lat: -33.44101599
+        lng: 147.88412999
+      - fix: 1528
+        time: 2015-01-02T04:32:26Z
+        lat: -33.75312999
+        lng: 147.52481599
+      - null
+      - null
+  - - Phil Schroder
+    - zonesTag:
+      - fix: 76
+        time: 2015-01-02T02:15:44Z
+        lat: -33.358783
+        lng: 147.92959999
+      - fix: 273
+        time: 2015-01-02T02:48:34Z
+        lat: -33.42445
+        lng: 147.85689999
+      - fix: 740
+        time: 2015-01-02T04:06:32Z
+        lat: -33.75692999
+        lng: 147.5278
+      - fix: 1239
+        time: 2015-01-02T05:29:36Z
+        lat: -34.03302999
+        lng: 148.00679999
+      - fix: 1713
+        time: 2015-01-02T06:49:06Z
+        lat: -34.49683
+        lng: 147.89795
+  - - Phil Seeley
+    - null
+  - - Rohan Taylor
+    - zonesTag:
+      - null
+      - fix: 906
+        time: 2015-01-02T03:34:07Z
+        lat: -33.43585999
+        lng: 147.87431599
+      - fix: 1705
+        time: 2015-01-02T04:40:44Z
+        lat: -33.75182999
+        lng: 147.53183
+      - fix: 2708
+        time: 2015-01-02T06:04:20Z
+        lat: -34.06888299
+        lng: 148.01425
+      - fix: 3607
+        time: 2015-01-02T07:19:18Z
+        lat: -34.4966
+        lng: 147.89713
+  - - Ryosuke Hattori
+    - zonesTag:
+      - fix: 109
+        time: 2015-01-02T03:11:57Z
+        lat: -33.35844999
+        lng: 147.9343
+      - fix: 568
+        time: 2015-01-02T03:42:40Z
+        lat: -33.44989999
+        lng: 147.917516
+      - fix: 1805
+        time: 2015-01-02T05:05:16Z
+        lat: -33.75446
+        lng: 147.524583
+      - null
+      - null
+  - - Sander Van Schaik
+    - zonesTag:
+      - null
+      - fix: 186
+        time: 2015-01-02T03:27:58Z
+        lat: -33.449683
+        lng: 147.9189
+      - null
+      - null
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - null
+      - fix: 668
+        time: 2015-01-02T03:33:42Z
+        lat: -33.43975999
+        lng: 147.88072999
+      - fix: 2818
+        time: 2015-01-02T04:45:46Z
+        lat: -33.75079999
+        lng: 147.53153
+      - fix: 6698
+        time: 2015-01-02T06:55:42Z
+        lat: -34.17365
+        lng: 148.108483
+      - fix: 8407
+        time: 2015-01-02T07:53:05Z
+        lat: -34.5016
+        lng: 147.89983
+  - - Simon Braithwaite
+    - zonesTag:
+      - null
+      - fix: 215
+        time: 2015-01-02T02:58:34Z
+        lat: -33.38909999
+        lng: 147.83053
+      - fix: 733
+        time: 2015-01-02T04:24:56Z
+        lat: -33.75018299
+        lng: 147.5303
+      - null
+      - null
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 234
+        time: 2015-01-02T01:48:48Z
+        lat: -33.36346
+        lng: 147.92914999
+      - fix: 1353
+        time: 2015-01-02T02:46:02Z
+        lat: -33.41655999
+        lng: 147.848283
+      - fix: 2631
+        time: 2015-01-02T03:50:07Z
+        lat: -33.75099999
+        lng: 147.525483
+      - fix: 4047
+        time: 2015-01-02T05:01:21Z
+        lat: -34.03415999
+        lng: 148.007
+      - fix: 5365
+        time: 2015-01-02T06:08:53Z
+        lat: -34.4964
+        lng: 147.89592999
+  - - Takeshi Yokoyama
+    - zonesTag:
+      - null
+      - fix: 202
+        time: 2015-01-02T02:47:19Z
+        lat: -33.42336
+        lng: 147.855783
+      - fix: 656
+        time: 2015-01-02T04:03:05Z
+        lat: -33.7554
+        lng: 147.5252
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - fix: 103
+        time: 2015-01-02T01:51:26Z
+        lat: -33.35751599
+        lng: 147.93272999
+      - fix: 922
+        time: 2015-01-02T03:00:07Z
+        lat: -33.421716
+        lng: 147.85349999
+      - fix: 1556
+        time: 2015-01-02T03:53:19Z
+        lat: -33.752116
+        lng: 147.52483
+      - fix: 2356
+        time: 2015-01-02T05:00:23Z
+        lat: -34.04402999
+        lng: 148.00835
+      - fix: 3045
+        time: 2015-01-02T05:58:19Z
+        lat: -34.496616
+        lng: 147.89676
+  - - Tullio Gervasoni
+    - zonesTag:
+      - null
+      - fix: 270
+        time: 2015-01-02T02:48:22Z
+        lat: -33.42325
+        lng: 147.85486
+      - fix: 696
+        time: 2015-01-02T03:59:22Z
+        lat: -33.74989999
+        lng: 147.52905999
+      - fix: 1199
+        time: 2015-01-02T05:22:55Z
+        lat: -34.09259999
+        lng: 148.024516
+      - fix: 1536
+        time: 2015-01-02T06:19:11Z
+        lat: -34.496983
+        lng: 147.89752999
+  - - Victor Hare
+    - zonesTag:
+      - null
+      - fix: 138
+        time: 2015-01-02T02:49:03Z
+        lat: -33.423116
+        lng: 147.85625999
+      - fix: 559
+        time: 2015-01-02T03:59:20Z
+        lat: -33.75654999
+        lng: 147.5268
+      - fix: 1040
+        time: 2015-01-02T05:19:21Z
+        lat: -34.09835
+        lng: 148.02726
+      - fix: 1475
+        time: 2015-01-02T06:31:48Z
+        lat: -34.49734999
+        lng: 147.89672999
+  - - Viv Clements
+    - zonesTag:
+      - null
+      - fix: 1389
+        time: 2015-01-02T02:49:53Z
+        lat: -33.427467
+        lng: 147.859933
+      - null
+      - null
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - fix: 900
+        time: 2015-01-02T03:24:34Z
+        lat: -33.44969999
+        lng: 147.917
+      - fix: 2355
+        time: 2015-01-02T04:37:19Z
+        lat: -33.75175
+        lng: 147.53229999
+      - fix: 3907
+        time: 2015-01-02T05:54:55Z
+        lat: -33.93804999
+        lng: 148.03139999
+      - null
+  - - Yoko Isomoto
+    - zonesTag:
+      - fix: 258
+        time: 2015-01-02T03:20:34Z
+        lat: -33.35976
+        lng: 147.92835999
+      - fix: 485
+        time: 2015-01-02T03:39:31Z
+        lat: -33.447983
+        lng: 147.906
+      - null
+      - null
+      - null
+  - - Zac Majors
+    - zonesTag:
+      - null
+      - fix: 1166
+        time: 2015-01-02T02:46:13Z
+        lat: -33.41696
+        lng: 147.84796
+      - fix: 3054
+        time: 2015-01-02T03:49:17Z
+        lat: -33.75168299
+        lng: 147.5249
+      - fix: 4512
+        time: 2015-01-02T04:37:55Z
+        lat: -34.03818299
+        lng: 148.00736
+      - fix: 5914
+        time: 2015-01-02T05:24:44Z
+        lat: -34.49688299
+        lng: 147.89809999
+- - - Adam Jones
+    - zonesTag:
+      - fix: 47
+        time: 2015-01-03T02:59:31Z
+        lat: -33.35829999
+        lng: 147.93323
+      - fix: 142
+        time: 2015-01-03T03:15:26Z
+        lat: -33.4448
+        lng: 147.89743
+      - fix: 654
+        time: 2015-01-03T04:40:58Z
+        lat: -34.15346
+        lng: 147.39324999
+      - null
+      - null
+  - - Andrew Barnes
+    - zonesTag:
+      - null
+      - fix: 338
+        time: 2015-01-03T02:46:27Z
+        lat: -33.44725999
+        lng: 147.903116
+      - fix: 1306
+        time: 2015-01-03T04:07:22Z
+        lat: -34.15283
+        lng: 147.39305999
+      - fix: 2095
+        time: 2015-01-03T05:13:09Z
+        lat: -34.41302999
+        lng: 146.85855
+      - fix: 2341
+        time: 2015-01-03T05:33:41Z
+        lat: -34.71115
+        lng: 146.776283
+  - - Attila Bertok
+    - zonesTag:
+      - fix: 323
+        time: 2015-01-03T01:52:43Z
+        lat: -33.35775999
+        lng: 147.9299
+      - fix: 1377
+        time: 2015-01-03T02:45:39Z
+        lat: -33.41948299
+        lng: 147.85128299
+      - fix: 2850
+        time: 2015-01-03T03:59:31Z
+        lat: -34.14974999
+        lng: 147.3993
+      - fix: 3927
+        time: 2015-01-03T04:53:38Z
+        lat: -34.4149
+        lng: 146.85734999
+      - fix: 4268
+        time: 2015-01-03T05:10:43Z
+        lat: -34.711516
+        lng: 146.77654999
+  - - Chris Czajkowski
+    - zonesTag:
+      - fix: 64
+        time: 2015-01-03T01:37:32Z
+        lat: -33.35842999
+        lng: 147.92969999
+      - fix: 469
+        time: 2015-01-03T02:45:04Z
+        lat: -33.41984999
+        lng: 147.85083
+      - fix: 1019
+        time: 2015-01-03T04:16:45Z
+        lat: -34.15315999
+        lng: 147.3931
+      - fix: 1643
+        time: 2015-01-03T06:00:35Z
+        lat: -34.41599999
+        lng: 146.85435
+      - fix: 1811
+        time: 2015-01-03T06:28:26Z
+        lat: -34.71242999
+        lng: 146.77918299
+  - - Christian Voiblet
+    - zonesTag:
+      - fix: 91
+        time: 2015-01-03T01:53:13Z
+        lat: -33.35772999
+        lng: 147.93026
+      - fix: 1127
+        time: 2015-01-03T02:45:20Z
+        lat: -33.4217
+        lng: 147.85329999
+      - fix: 2726
+        time: 2015-01-03T04:05:30Z
+        lat: -34.149216
+        lng: 147.39686
+      - fix: 3835
+        time: 2015-01-03T05:01:03Z
+        lat: -34.41598299
+        lng: 146.853516
+      - fix: 4206
+        time: 2015-01-03T05:19:34Z
+        lat: -34.71112999
+        lng: 146.77692999
+  - - Conrad Loten
+    - zonesTag:
+      - null
+      - fix: 303
+        time: 2015-01-03T02:46:32Z
+        lat: -33.44812999
+        lng: 147.91336
+      - fix: 846
+        time: 2015-01-03T04:17:23Z
+        lat: -34.150483
+        lng: 147.39411599
+      - fix: 1186
+        time: 2015-01-03T05:14:11Z
+        lat: -34.41315999
+        lng: 146.858383
+      - fix: 1338
+        time: 2015-01-03T05:39:27Z
+        lat: -34.71229999
+        lng: 146.7777
+  - - Dale Regehr
+    - zonesTag:
+      - null
+      - fix: 186
+        time: 2015-01-03T03:02:23Z
+        lat: -33.4183
+        lng: 147.84972999
+      - fix: 954
+        time: 2015-01-03T05:10:25Z
+        lat: -34.15156
+        lng: 147.39331599
+      - null
+      - null
+  - - Emiel Jansen
+    - zonesTag:
+      - null
+      - fix: 871
+        time: 2015-01-03T03:12:11Z
+        lat: -33.43285
+        lng: 147.86762999
+      - fix: 3592
+        time: 2015-01-03T04:42:59Z
+        lat: -34.1509
+        lng: 147.401
+      - fix: 5842
+        time: 2015-01-03T05:58:02Z
+        lat: -34.415883
+        lng: 146.85302999
+      - null
+  - - Enda Murphy
+    - zonesTag:
+      - fix: 44
+        time: 2015-01-03T02:44:52Z
+        lat: -33.35745
+        lng: 147.93229999
+      - fix: 287
+        time: 2015-01-03T03:01:03Z
+        lat: -33.4446
+        lng: 147.89359999
+      - fix: 1510
+        time: 2015-01-03T04:23:14Z
+        lat: -34.150483
+        lng: 147.39418299
+      - fix: 2800
+        time: 2015-01-03T05:49:57Z
+        lat: -34.409283
+        lng: 146.8562
+      - fix: 3123
+        time: 2015-01-03T06:11:33Z
+        lat: -34.710816
+        lng: 146.77702999
+  - - Federico Martini
+    - zonesTag:
+      - fix: 57
+        time: 2015-01-03T02:24:12Z
+        lat: -33.35735999
+        lng: 147.93309999
+      - fix: 175
+        time: 2015-01-03T02:44:00Z
+        lat: -33.417583
+        lng: 147.848983
+      - fix: 733
+        time: 2015-01-03T04:17:17Z
+        lat: -34.150716
+        lng: 147.39383
+      - fix: 1164
+        time: 2015-01-03T05:29:12Z
+        lat: -34.41531599
+        lng: 146.85676
+      - fix: 1284
+        time: 2015-01-03T05:49:06Z
+        lat: -34.71285
+        lng: 146.77685999
+  - - Filippo Oppici
+    - zonesTag:
+      - null
+      - fix: 2195
+        time: 2015-01-03T02:45:10Z
+        lat: -33.42123
+        lng: 147.85222999
+      - fix: 4582
+        time: 2015-01-03T04:04:53Z
+        lat: -34.15312999
+        lng: 147.3933
+      - fix: 6054
+        time: 2015-01-03T04:53:56Z
+        lat: -34.40896
+        lng: 146.85496
+      - fix: 6641
+        time: 2015-01-03T05:13:30Z
+        lat: -34.7109
+        lng: 146.776383
+  - - Gavin Myers
+    - zonesTag:
+      - null
+      - fix: 826
+        time: 2015-01-03T02:45:14Z
+        lat: -33.42051599
+        lng: 147.85205999
+      - fix: 1784
+        time: 2015-01-03T04:05:27Z
+        lat: -34.14952999
+        lng: 147.39549999
+      - fix: 2469
+        time: 2015-01-03T05:02:43Z
+        lat: -34.41324999
+        lng: 146.85849999
+      - fix: 2702
+        time: 2015-01-03T05:22:07Z
+        lat: -34.71329999
+        lng: 146.78021599
+  - - Geoff Robertson
+    - zonesTag:
+      - null
+      - fix: 189
+        time: 2015-01-03T03:16:38Z
+        lat: -33.40931599
+        lng: 147.84263
+      - fix: 700
+        time: 2015-01-03T04:41:53Z
+        lat: -34.14936
+        lng: 147.39886
+      - null
+      - null
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - fix: 308
+        time: 2015-01-03T02:01:01Z
+        lat: -33.357283
+        lng: 147.93122999
+      - fix: 1196
+        time: 2015-01-03T02:45:25Z
+        lat: -33.42198299
+        lng: 147.85375999
+      - fix: 2662
+        time: 2015-01-03T03:59:36Z
+        lat: -34.14979999
+        lng: 147.39945
+      - fix: 3749
+        time: 2015-01-03T04:53:57Z
+        lat: -34.4097
+        lng: 146.85506
+      - fix: 4139
+        time: 2015-01-03T05:13:27Z
+        lat: -34.71202999
+        lng: 146.778816
+  - - Gijs Wanders
+    - zonesTag:
+      - null
+      - fix: 380
+        time: 2015-01-03T03:07:29Z
+        lat: -33.43746
+        lng: 147.87622999
+      - fix: 1946
+        time: 2015-01-03T04:25:54Z
+        lat: -34.1535
+        lng: 147.3933
+      - fix: 3337
+        time: 2015-01-03T05:35:28Z
+        lat: -34.41449999
+        lng: 146.85779999
+      - fix: 3742
+        time: 2015-01-03T05:55:42Z
+        lat: -34.710816
+        lng: 146.77543
+  - - Glen Mcfarlane
+    - zonesTag:
+      - null
+      - fix: 2152
+        time: 2015-01-03T02:45:19Z
+        lat: -33.42135999
+        lng: 147.85263
+      - fix: 4575
+        time: 2015-01-03T04:06:15Z
+        lat: -34.15514999
+        lng: 147.39449999
+      - fix: 6057
+        time: 2015-01-03T04:55:43Z
+        lat: -34.41042999
+        lng: 146.857783
+      - fix: 6643
+        time: 2015-01-03T05:15:15Z
+        lat: -34.71083
+        lng: 146.77452999
+  - - Gordon Rigg
+    - zonesTag:
+      - fix: 89
+        time: 2015-01-03T01:52:41Z
+        lat: -33.358083
+        lng: 147.92959999
+      - fix: 709
+        time: 2015-01-03T02:45:12Z
+        lat: -33.42131599
+        lng: 147.85308299
+      - fix: 1658
+        time: 2015-01-03T04:05:00Z
+        lat: -34.15229999
+        lng: 147.39324999
+      - fix: 2244
+        time: 2015-01-03T04:53:55Z
+        lat: -34.41009999
+        lng: 146.85728299
+      - fix: 2474
+        time: 2015-01-03T05:13:07Z
+        lat: -34.710683
+        lng: 146.77678299
+  - - Grant Heaney
+    - zonesTag:
+      - fix: 605
+        time: 2015-01-03T02:29:03Z
+        lat: -33.35746
+        lng: 147.93084999
+      - fix: 817
+        time: 2015-01-03T02:46:43Z
+        lat: -33.44686
+        lng: 147.9026
+      - fix: 1930
+        time: 2015-01-03T04:19:28Z
+        lat: -34.15543
+        lng: 147.39963
+      - fix: 2776
+        time: 2015-01-03T05:29:58Z
+        lat: -34.41061599
+        lng: 146.85642999
+      - fix: 3086
+        time: 2015-01-03T05:55:48Z
+        lat: -34.71092999
+        lng: 146.77685999
+  - - Guy Hubbard
+    - zonesTag:
+      - null
+      - fix: 1071
+        time: 2015-01-03T02:46:24Z
+        lat: -33.42001599
+        lng: 147.85095999
+      - fix: 2471
+        time: 2015-01-03T04:19:44Z
+        lat: -34.150716
+        lng: 147.39436
+      - fix: 3487
+        time: 2015-01-03T05:27:28Z
+        lat: -34.41152999
+        lng: 146.85842999
+      - fix: 3850
+        time: 2015-01-03T05:51:40Z
+        lat: -34.71115
+        lng: 146.77682999
+  - - Harrison Rowntree
+    - zonesTag:
+      - null
+      - fix: 675
+        time: 2015-01-03T02:46:00Z
+        lat: -33.42369999
+        lng: 147.85509999
+      - fix: 2504
+        time: 2015-01-03T04:17:36Z
+        lat: -34.15251599
+        lng: 147.39315999
+      - fix: 3849
+        time: 2015-01-03T05:24:52Z
+        lat: -34.41578299
+        lng: 146.85599999
+      - fix: 4303
+        time: 2015-01-03T05:47:34Z
+        lat: -34.71159999
+        lng: 146.77143
+  - - Jochen Zeischka
+    - zonesTag:
+      - fix: 51
+        time: 2015-01-03T02:01:11Z
+        lat: -33.35842999
+        lng: 147.93274999
+      - fix: 314
+        time: 2015-01-03T02:45:12Z
+        lat: -33.42131599
+        lng: 147.85265
+      - fix: 790
+        time: 2015-01-03T04:04:48Z
+        lat: -34.151983
+        lng: 147.3932
+      - fix: 1092
+        time: 2015-01-03T04:55:05Z
+        lat: -34.411216
+        lng: 146.8583
+      - fix: 1216
+        time: 2015-01-03T05:15:39Z
+        lat: -34.71273
+        lng: 146.77102999
+  - - Jon snr Durand
+    - zonesTag:
+      - null
+      - fix: 235
+        time: 2015-01-03T02:45:22Z
+        lat: -33.42145
+        lng: 147.85259999
+      - fix: 794
+        time: 2015-01-03T04:18:31Z
+        lat: -34.149683
+        lng: 147.395116
+      - fix: 1177
+        time: 2015-01-03T05:22:13Z
+        lat: -34.4149
+        lng: 146.857516
+      - fix: 1352
+        time: 2015-01-03T05:51:06Z
+        lat: -34.71206
+        lng: 146.77415999
+  - - Jonas Lobitz
+    - zonesTag:
+      - fix: 92
+        time: 2015-01-03T01:45:32Z
+        lat: -33.35746
+        lng: 147.93313
+      - fix: 817
+        time: 2015-01-03T02:46:08Z
+        lat: -33.42005
+        lng: 147.85134999
+      - fix: 1781
+        time: 2015-01-03T04:06:37Z
+        lat: -34.15209999
+        lng: 147.3932
+      - fix: 2368
+        time: 2015-01-03T04:55:31Z
+        lat: -34.40958299
+        lng: 146.85628299
+      - fix: 2607
+        time: 2015-01-03T05:15:23Z
+        lat: -34.71159999
+        lng: 146.77408299
+  - - Jonny Durand
+    - zonesTag:
+      - null
+      - fix: 238
+        time: 2015-01-03T02:45:12Z
+        lat: -33.4209
+        lng: 147.85205999
+      - fix: 715
+        time: 2015-01-03T04:04:50Z
+        lat: -34.152016
+        lng: 147.39331599
+      - fix: 1003
+        time: 2015-01-03T04:52:39Z
+        lat: -34.41212999
+        lng: 146.85863
+      - fix: 1111
+        time: 2015-01-03T05:10:32Z
+        lat: -34.71118299
+        lng: 146.77653
+  - - Josh Woods
+    - zonesTag:
+      - null
+      - fix: 147
+        time: 2015-01-03T03:02:36Z
+        lat: -33.44315
+        lng: 147.89265
+      - fix: 741
+        time: 2015-01-03T04:41:45Z
+        lat: -34.15556
+        lng: 147.39975999
+      - fix: 1157
+        time: 2015-01-03T05:51:00Z
+        lat: -34.41561599
+        lng: 146.85623
+      - fix: 1294
+        time: 2015-01-03T06:13:28Z
+        lat: -34.71439999
+        lng: 146.78001599
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 120
+        time: 2015-01-03T02:59:23Z
+        lat: -33.35801599
+        lng: 147.93306
+      - fix: 313
+        time: 2015-01-03T03:15:17Z
+        lat: -33.44722999
+        lng: 147.90331599
+      - fix: 1334
+        time: 2015-01-03T04:40:36Z
+        lat: -34.15214999
+        lng: 147.40161599
+      - fix: 1993
+        time: 2015-01-03T05:35:34Z
+        lat: -34.41364999
+        lng: 146.858316
+      - fix: 2212
+        time: 2015-01-03T05:53:47Z
+        lat: -34.714516
+        lng: 146.78178299
+  - - Len Paton
+    - zonesTag:
+      - null
+      - fix: 234
+        time: 2015-01-03T02:43:54Z
+        lat: -33.42135999
+        lng: 147.85375999
+      - fix: 688
+        time: 2015-01-03T03:59:29Z
+        lat: -34.15251599
+        lng: 147.39305999
+      - fix: 1015
+        time: 2015-01-03T04:53:51Z
+        lat: -34.4136
+        lng: 146.8583
+      - fix: 1131
+        time: 2015-01-03T05:12:53Z
+        lat: -34.712783
+        lng: 146.77479999
+  - - Lukas Bader
+    - zonesTag:
+      - null
+      - fix: 2609
+        time: 2015-01-03T02:44:43Z
+        lat: -33.42016
+        lng: 147.8511
+      - fix: 7553
+        time: 2015-01-03T04:07:07Z
+        lat: -34.15455
+        lng: 147.393716
+      - null
+      - null
+  - - Mark Russell
+    - zonesTag:
+      - fix: 15
+        time: 2015-01-03T02:17:12Z
+        lat: -33.35784999
+        lng: 147.93104999
+      - fix: 179
+        time: 2015-01-03T02:44:39Z
+        lat: -33.41763
+        lng: 147.8494
+      - fix: 808
+        time: 2015-01-03T04:29:37Z
+        lat: -34.14994999
+        lng: 147.40005999
+      - fix: 1218
+        time: 2015-01-03T05:37:46Z
+        lat: -34.41068299
+        lng: 146.858
+      - fix: 1342
+        time: 2015-01-03T05:58:17Z
+        lat: -34.7128
+        lng: 146.7758
+  - - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - fix: 1018
+        time: 2015-01-03T02:46:32Z
+        lat: -33.448816
+        lng: 147.910016
+      - fix: 3892
+        time: 2015-01-03T04:22:39Z
+        lat: -34.15209999
+        lng: 147.39321599
+      - fix: 6205
+        time: 2015-01-03T05:39:51Z
+        lat: -34.416083
+        lng: 146.85392999
+      - fix: 6789
+        time: 2015-01-03T05:59:18Z
+        lat: -34.71415999
+        lng: 146.78163
+  - - Nils Vesk
+    - zonesTag:
+      - null
+      - fix: 291
+        time: 2015-01-03T02:46:42Z
+        lat: -33.44783
+        lng: 147.90659999
+      - fix: 1028
+        time: 2015-01-03T04:49:30Z
+        lat: -34.15003
+        lng: 147.39478299
+      - fix: 1486
+        time: 2015-01-03T06:05:35Z
+        lat: -34.41081599
+        lng: 146.858
+      - fix: 1627
+        time: 2015-01-03T06:28:57Z
+        lat: -34.7117
+        lng: 146.7775
+  - - Olav Olsen
+    - zonesTag:
+      - null
+      - fix: 1129
+        time: 2015-01-03T02:46:02Z
+        lat: -33.44704999
+        lng: 147.90362999
+      - fix: 2591
+        time: 2015-01-03T03:59:58Z
+        lat: -34.14991599
+        lng: 147.39994999
+      - fix: 3882
+        time: 2015-01-03T05:04:35Z
+        lat: -34.40955
+        lng: 146.856583
+      - fix: 4279
+        time: 2015-01-03T05:24:25Z
+        lat: -34.71289999
+        lng: 146.78055
+  - - Olav Opsanger
+    - zonesTag:
+      - fix: 100
+        time: 2015-01-03T02:01:07Z
+        lat: -33.35824999
+        lng: 147.93071599
+      - fix: 627
+        time: 2015-01-03T02:45:02Z
+        lat: -33.42138299
+        lng: 147.8528
+      - fix: 1613
+        time: 2015-01-03T04:07:15Z
+        lat: -34.15612999
+        lng: 147.39648299
+      - fix: 2175
+        time: 2015-01-03T04:54:00Z
+        lat: -34.41044999
+        lng: 146.85756
+      - fix: 2414
+        time: 2015-01-03T05:13:51Z
+        lat: -34.71178299
+        lng: 146.77645
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - fix: 19
+        time: 2015-01-03T01:46:19Z
+        lat: -33.35835999
+        lng: 147.93452999
+      - fix: 725
+        time: 2015-01-03T02:45:07Z
+        lat: -33.42152999
+        lng: 147.85281599
+      - fix: 1689
+        time: 2015-01-03T04:05:21Z
+        lat: -34.15285999
+        lng: 147.39324999
+      - fix: 2301
+        time: 2015-01-03T04:56:21Z
+        lat: -34.41042999
+        lng: 146.850783
+      - fix: 2529
+        time: 2015-01-03T05:15:17Z
+        lat: -34.71098299
+        lng: 146.77505999
+  - - Peter Dall
+    - zonesTag:
+      - null
+      - fix: 572
+        time: 2015-01-03T02:57:38Z
+        lat: -33.44809999
+        lng: 147.90864999
+      - fix: 1729
+        time: 2015-01-03T04:33:15Z
+        lat: -34.14976
+        lng: 147.39535
+      - null
+      - null
+  - - Phil Schroder
+    - zonesTag:
+      - null
+      - fix: 715
+        time: 2015-01-03T03:13:30Z
+        lat: -33.43064999
+        lng: 147.86563
+      - fix: 2001
+        time: 2015-01-03T05:00:40Z
+        lat: -34.153216
+        lng: 147.393516
+      - null
+      - null
+  - - Phil Seeley
+    - null
+  - - Rohan Taylor
+    - zonesTag:
+      - null
+      - fix: 1224
+        time: 2015-01-03T03:16:24Z
+        lat: -33.409016
+        lng: 147.84143
+      - fix: 6416
+        time: 2015-01-03T04:50:16Z
+        lat: -34.15014999
+        lng: 147.40043
+      - fix: 10565
+        time: 2015-01-03T06:04:32Z
+        lat: -34.413516
+        lng: 146.85836
+      - fix: 11932
+        time: 2015-01-03T06:28:29Z
+        lat: -34.71059999
+        lng: 146.77588299
+  - - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - fix: 1095
+        time: 2015-01-03T02:46:25Z
+        lat: -33.422083
+        lng: 147.854
+      - null
+      - null
+      - null
+  - - Sander Van Schaik
+    - zonesTag:
+      - null
+      - fix: 186
+        time: 2015-01-03T03:13:35Z
+        lat: -33.432133
+        lng: 147.86709999
+      - fix: 849
+        time: 2015-01-03T05:04:13Z
+        lat: -34.14973298
+        lng: 147.39494998
+      - null
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - fix: 166
+        time: 2015-01-03T01:45:28Z
+        lat: -33.35913
+        lng: 147.93534999
+      - fix: 1931
+        time: 2015-01-03T02:44:59Z
+        lat: -33.421483
+        lng: 147.85259999
+      - fix: 4454
+        time: 2015-01-03T04:09:30Z
+        lat: -34.152816
+        lng: 147.39308299
+      - fix: 7842
+        time: 2015-01-03T06:02:57Z
+        lat: -34.41604999
+        lng: 146.85409999
+      - fix: 8623
+        time: 2015-01-03T06:29:04Z
+        lat: -34.71159999
+        lng: 146.77905
+  - - Simon Braithwaite
+    - zonesTag:
+      - null
+      - fix: 176
+        time: 2015-01-03T02:45:28Z
+        lat: -33.420816
+        lng: 147.85205999
+      - fix: 667
+        time: 2015-01-03T04:07:20Z
+        lat: -34.153916
+        lng: 147.39334999
+      - fix: 998
+        time: 2015-01-03T05:02:20Z
+        lat: -34.4144
+        lng: 146.85793
+      - fix: 1111
+        time: 2015-01-03T05:21:01Z
+        lat: -34.71312999
+        lng: 146.775483
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 195
+        time: 2015-01-03T01:52:32Z
+        lat: -33.357716
+        lng: 147.930216
+      - fix: 1225
+        time: 2015-01-03T02:45:14Z
+        lat: -33.421016
+        lng: 147.85259999
+      - fix: 2811
+        time: 2015-01-03T04:04:46Z
+        lat: -34.15185999
+        lng: 147.3932
+      - fix: 3796
+        time: 2015-01-03T04:54:06Z
+        lat: -34.40931599
+        lng: 146.85586
+      - fix: 4193
+        time: 2015-01-03T05:13:58Z
+        lat: -34.71143
+        lng: 146.77598299
+  - - Takeshi Yokoyama
+    - null
+  - - Thomas Lindal
+    - zonesTag:
+      - null
+      - fix: 495
+        time: 2015-01-03T03:02:02Z
+        lat: -33.44812999
+        lng: 147.90858299
+      - null
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - null
+      - fix: 735
+        time: 2015-01-03T02:45:12Z
+        lat: -33.4215
+        lng: 147.85301599
+      - fix: 1684
+        time: 2015-01-03T04:04:37Z
+        lat: -34.14956
+        lng: 147.39574999
+      - fix: 2264
+        time: 2015-01-03T04:53:08Z
+        lat: -34.41035
+        lng: 146.85775
+      - fix: 2518
+        time: 2015-01-03T05:14:16Z
+        lat: -34.711683
+        lng: 146.77598299
+  - - Tullio Gervasoni
+    - zonesTag:
+      - fix: 53
+        time: 2015-01-03T02:01:13Z
+        lat: -33.357483
+        lng: 147.93112999
+      - fix: 318
+        time: 2015-01-03T02:45:12Z
+        lat: -33.4204
+        lng: 147.853216
+      - fix: 796
+        time: 2015-01-03T04:04:52Z
+        lat: -34.15259999
+        lng: 147.39318299
+      - fix: 1092
+        time: 2015-01-03T04:53:59Z
+        lat: -34.40912999
+        lng: 146.855116
+      - fix: 1210
+        time: 2015-01-03T05:13:32Z
+        lat: -34.713816
+        lng: 146.77549999
+  - - Victor Hare
+    - zonesTag:
+      - fix: 21
+        time: 2015-01-03T02:24:42Z
+        lat: -33.35979999
+        lng: 147.93408299
+      - fix: 152
+        time: 2015-01-03T02:46:22Z
+        lat: -33.42651599
+        lng: 147.85919999
+      - fix: 704
+        time: 2015-01-03T04:18:23Z
+        lat: -34.149816
+        lng: 147.395
+      - fix: 1246
+        time: 2015-01-03T05:48:38Z
+        lat: -34.41315999
+        lng: 146.85839999
+      - fix: 1365
+        time: 2015-01-03T06:08:19Z
+        lat: -34.71328299
+        lng: 146.77639999
+  - - Viv Clements
+    - zonesTag:
+      - null
+      - fix: 1309
+        time: 2015-01-03T03:31:05Z
+        lat: -33.444217
+        lng: 147.89195
+      - null
+      - null
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - fix: 370
+        time: 2015-01-03T02:59:33Z
+        lat: -33.35873
+        lng: 147.93511599
+      - fix: 689
+        time: 2015-01-03T03:15:30Z
+        lat: -33.44724999
+        lng: 147.9036
+      - fix: 2246
+        time: 2015-01-03T04:33:21Z
+        lat: -34.14954999
+        lng: 147.398583
+      - fix: 3595
+        time: 2015-01-03T05:40:48Z
+        lat: -34.41128299
+        lng: 146.85783
+      - fix: 4100
+        time: 2015-01-03T06:06:03Z
+        lat: -34.71229999
+        lng: 146.778883
+  - - Yoko Isomoto
+    - zonesTag:
+      - fix: 89
+        time: 2015-01-03T01:40:49Z
+        lat: -33.35815
+        lng: 147.93126
+      - fix: 875
+        time: 2015-01-03T02:46:22Z
+        lat: -33.41901599
+        lng: 147.84993
+      - null
+      - null
+      - null
+  - - Zac Majors
+    - zonesTag:
+      - null
+      - fix: 1839
+        time: 2015-01-03T03:00:10Z
+        lat: -33.44468299
+        lng: 147.89375999
+      - fix: 4213
+        time: 2015-01-03T04:19:26Z
+        lat: -34.15012999
+        lng: 147.39445
+      - fix: 5846
+        time: 2015-01-03T05:13:56Z
+        lat: -34.41006
+        lng: 146.857416
+      - fix: 6527
+        time: 2015-01-03T05:36:38Z
+        lat: -34.710683
+        lng: 146.77645999
+- - - Adam Jones
+    - zonesTag:
+      - null
+      - fix: 175
+        time: 2015-01-06T02:52:33Z
+        lat: -33.368816
+        lng: 147.8803
+      - null
+      - null
+      - null
+  - - Andrew Barnes
+    - zonesTag:
+      - fix: 59
+        time: 2015-01-06T02:08:22Z
+        lat: -33.35735999
+        lng: 147.93235
+      - fix: 690
+        time: 2015-01-06T03:01:15Z
+        lat: -33.36482999
+        lng: 147.8793
+      - null
+      - null
+      - null
+  - - Attila Bertok
+    - zonesTag:
+      - fix: 525
+        time: 2015-01-06T02:08:47Z
+        lat: -33.35864999
+        lng: 147.928583
+      - fix: 1549
+        time: 2015-01-06T03:00:10Z
+        lat: -33.37492999
+        lng: 147.88111599
+      - fix: 4232
+        time: 2015-01-06T05:14:47Z
+        lat: -33.44556
+        lng: 146.7741
+      - null
+      - null
+  - - Chris Czajkowski
+    - zonesTag:
+      - fix: 127
+        time: 2015-01-06T01:54:03Z
+        lat: -33.36184999
+        lng: 147.93521599
+      - fix: 498
+        time: 2015-01-06T02:55:54Z
+        lat: -33.3616
+        lng: 147.87968299
+      - fix: 1755
+        time: 2015-01-06T06:25:34Z
+        lat: -33.49412999
+        lng: 146.71872999
+      - fix: 2362
+        time: 2015-01-06T08:06:14Z
+        lat: -33.808016
+        lng: 146.235183
+      - null
+  - - Christian Voiblet
+    - zonesTag:
+      - fix: 854
+        time: 2015-01-06T02:29:21Z
+        lat: -33.36422999
+        lng: 147.93268299
+      - fix: 1469
+        time: 2015-01-06T03:00:08Z
+        lat: -33.37109999
+        lng: 147.88018299
+      - fix: 4165
+        time: 2015-01-06T05:15:13Z
+        lat: -33.4421
+        lng: 146.77411599
+      - fix: 5712
+        time: 2015-01-06T06:32:38Z
+        lat: -33.799616
+        lng: 146.252483
+      - fix: 7208
+        time: 2015-01-06T07:47:26Z
+        lat: -34.04231599
+        lng: 145.41429999
+  - - Conrad Loten
+    - zonesTag:
+      - null
+      - fix: 265
+        time: 2015-01-06T02:45:37Z
+        lat: -33.36905999
+        lng: 147.87985
+      - null
+      - null
+      - null
+  - - Dale Regehr
+    - zonesTag:
+      - fix: 120
+        time: 2015-01-06T02:38:06Z
+        lat: -33.36269999
+        lng: 147.93462999
+      - fix: 298
+        time: 2015-01-06T03:07:36Z
+        lat: -33.39051599
+        lng: 147.89254999
+      - null
+      - null
+      - null
+  - - Emiel Jansen
+    - null
+  - - Enda Murphy
+    - zonesTag:
+      - fix: 118
+        time: 2015-01-06T02:40:15Z
+        lat: -33.36415999
+        lng: 147.93085999
+      - fix: 466
+        time: 2015-01-06T03:03:40Z
+        lat: -33.37946
+        lng: 147.88301599
+      - fix: 2022
+        time: 2015-01-06T06:01:44Z
+        lat: -33.423616
+        lng: 146.76509999
+      - null
+      - null
+  - - Federico Martini
+    - zonesTag:
+      - fix: 156
+        time: 2015-01-06T02:38:17Z
+        lat: -33.36339999
+        lng: 147.93206
+      - fix: 312
+        time: 2015-01-06T03:04:09Z
+        lat: -33.372416
+        lng: 147.88159999
+      - fix: 1216
+        time: 2015-01-06T05:36:07Z
+        lat: -33.412416
+        lng: 146.75169999
+      - fix: 1854
+        time: 2015-01-06T07:23:36Z
+        lat: -33.79704999
+        lng: 146.26818299
+      - fix: 2531
+        time: 2015-01-06T09:16:59Z
+        lat: -34.03846
+        lng: 145.41263
+  - - Filippo Oppici
+    - zonesTag:
+      - null
+      - fix: 2316
+        time: 2015-01-06T03:00:19Z
+        lat: -33.36552999
+        lng: 147.878883
+      - fix: 6339
+        time: 2015-01-06T05:14:40Z
+        lat: -33.446283
+        lng: 146.77473
+      - fix: 8702
+        time: 2015-01-06T06:33:27Z
+        lat: -33.80324999
+        lng: 146.24306
+      - fix: 11135
+        time: 2015-01-06T07:54:33Z
+        lat: -34.038983
+        lng: 145.41345999
+  - - Gavin Myers
+    - zonesTag:
+      - fix: 58
+        time: 2015-01-06T01:40:57Z
+        lat: -33.362816
+        lng: 147.93525999
+      - fix: 831
+        time: 2015-01-06T02:46:03Z
+        lat: -33.36543
+        lng: 147.8786
+      - null
+      - null
+      - null
+  - - Geoff Robertson
+    - zonesTag:
+      - fix: 60
+        time: 2015-01-06T01:25:30Z
+        lat: -33.35882999
+        lng: 147.93559999
+      - fix: 1019
+        time: 2015-01-06T02:45:50Z
+        lat: -33.36852999
+        lng: 147.87961599
+      - fix: 3508
+        time: 2015-01-06T06:14:24Z
+        lat: -33.4793
+        lng: 146.76095
+      - fix: 4468
+        time: 2015-01-06T07:34:45Z
+        lat: -33.81965
+        lng: 146.22364999
+      - null
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - fix: 3
+        time: 2015-01-06T02:22:58Z
+        lat: -33.36169999
+        lng: 147.93489999
+      - fix: 748
+        time: 2015-01-06T03:00:13Z
+        lat: -33.36574999
+        lng: 147.87871599
+      - fix: 3450
+        time: 2015-01-06T05:15:19Z
+        lat: -33.442
+        lng: 146.773816
+      - fix: 4858
+        time: 2015-01-06T06:25:43Z
+        lat: -33.82995999
+        lng: 146.32256
+      - fix: 6696
+        time: 2015-01-06T07:57:40Z
+        lat: -34.04352999
+        lng: 145.41355999
+  - - Gijs Wanders
+    - zonesTag:
+      - fix: 218
+        time: 2015-01-06T02:08:33Z
+        lat: -33.35818299
+        lng: 147.9292
+      - fix: 963
+        time: 2015-01-06T02:45:53Z
+        lat: -33.363016
+        lng: 147.8786
+      - fix: 3818
+        time: 2015-01-06T05:08:46Z
+        lat: -33.46685999
+        lng: 146.77053
+      - null
+      - null
+  - - Glen Mcfarlane
+    - zonesTag:
+      - fix: 1545
+        time: 2015-01-06T02:32:07Z
+        lat: -33.36161599
+        lng: 147.92786
+      - fix: 1976
+        time: 2015-01-06T02:46:31Z
+        lat: -33.35949999
+        lng: 147.87829999
+      - fix: 6171
+        time: 2015-01-06T05:06:34Z
+        lat: -33.42736
+        lng: 146.76786
+      - fix: 8496
+        time: 2015-01-06T06:24:09Z
+        lat: -33.821983
+        lng: 146.22208299
+      - fix: 10666
+        time: 2015-01-06T07:36:33Z
+        lat: -34.038516
+        lng: 145.41291599
+  - - Gordon Rigg
+    - zonesTag:
+      - fix: 478
+        time: 2015-01-06T02:32:40Z
+        lat: -33.36354999
+        lng: 147.92981599
+      - fix: 850
+        time: 2015-01-06T03:04:02Z
+        lat: -33.37349999
+        lng: 147.880916
+      - fix: 2420
+        time: 2015-01-06T05:16:27Z
+        lat: -33.47326
+        lng: 146.7663
+      - fix: 3258
+        time: 2015-01-06T06:26:25Z
+        lat: -33.797116
+        lng: 146.27205
+      - fix: 4300
+        time: 2015-01-06T07:53:37Z
+        lat: -34.04038299
+        lng: 145.413383
+  - - Grant Heaney
+    - zonesTag:
+      - null
+      - fix: 1434
+        time: 2015-01-06T02:46:32Z
+        lat: -33.35738299
+        lng: 147.87862999
+      - fix: 3137
+        time: 2015-01-06T05:08:27Z
+        lat: -33.42524999
+        lng: 146.76574999
+      - fix: 4084
+        time: 2015-01-06T06:27:22Z
+        lat: -33.80622999
+        lng: 146.30252999
+      - fix: 5470
+        time: 2015-01-06T08:22:52Z
+        lat: -34.03908299
+        lng: 145.41364999
+  - - Guy Hubbard
+    - zonesTag:
+      - fix: 288
+        time: 2015-01-06T02:08:37Z
+        lat: -33.3588
+        lng: 147.92915999
+      - fix: 852
+        time: 2015-01-06T02:46:13Z
+        lat: -33.35763
+        lng: 147.8788
+      - fix: 3055
+        time: 2015-01-06T05:13:05Z
+        lat: -33.44259999
+        lng: 146.7741
+      - fix: 4402
+        time: 2015-01-06T06:42:57Z
+        lat: -33.79981599
+        lng: 146.28771599
+      - fix: 5859
+        time: 2015-01-06T08:20:05Z
+        lat: -34.038716
+        lng: 145.41184999
+  - - Harrison Rowntree
+    - zonesTag:
+      - fix: 395
+        time: 2015-01-06T02:31:10Z
+        lat: -33.35755999
+        lng: 147.93029999
+      - fix: 999
+        time: 2015-01-06T03:01:33Z
+        lat: -33.3648
+        lng: 147.87899999
+      - fix: 4003
+        time: 2015-01-06T05:32:04Z
+        lat: -33.4857
+        lng: 146.75253
+      - fix: 5895
+        time: 2015-01-06T07:06:44Z
+        lat: -33.82221599
+        lng: 146.22205999
+      - null
+  - - Jochen Zeischka
+    - zonesTag:
+      - null
+      - fix: 449
+        time: 2015-01-06T03:00:10Z
+        lat: -33.36043
+        lng: 147.87925999
+      - fix: 1386
+        time: 2015-01-06T05:37:32Z
+        lat: -33.45935999
+        lng: 146.77335999
+      - fix: 1867
+        time: 2015-01-06T06:57:53Z
+        lat: -33.79715
+        lng: 146.27299999
+      - fix: 2354
+        time: 2015-01-06T08:19:18Z
+        lat: -34.03971599
+        lng: 145.414016
+  - - Jon snr Durand
+    - zonesTag:
+      - fix: 14
+        time: 2015-01-06T02:09:55Z
+        lat: -33.359616
+        lng: 147.92983
+      - fix: 235
+        time: 2015-01-06T02:46:32Z
+        lat: -33.35971599
+        lng: 147.87972999
+      - fix: 1090
+        time: 2015-01-06T05:09:05Z
+        lat: -33.42652999
+        lng: 146.7674
+      - fix: 1556
+        time: 2015-01-06T06:26:37Z
+        lat: -33.80041599
+        lng: 146.25059999
+      - fix: 2067
+        time: 2015-01-06T07:51:26Z
+        lat: -34.04043
+        lng: 145.41453
+  - - Jonas Lobitz
+    - zonesTag:
+      - fix: 47
+        time: 2015-01-06T01:45:16Z
+        lat: -33.35956
+        lng: 147.9359
+      - fix: 772
+        time: 2015-01-06T02:45:52Z
+        lat: -33.370916
+        lng: 147.87961599
+      - fix: 2456
+        time: 2015-01-06T05:06:27Z
+        lat: -33.42786
+        lng: 146.7684
+      - fix: 3382
+        time: 2015-01-06T06:23:36Z
+        lat: -33.815783
+        lng: 146.22656
+      - fix: 4177
+        time: 2015-01-06T07:29:51Z
+        lat: -34.04035999
+        lng: 145.4145
+  - - Jonny Durand
+    - zonesTag:
+      - fix: 38
+        time: 2015-01-06T02:21:26Z
+        lat: -33.362416
+        lng: 147.93546
+      - fix: 274
+        time: 2015-01-06T03:00:22Z
+        lat: -33.3766
+        lng: 147.88214999
+      - fix: 1092
+        time: 2015-01-06T05:16:52Z
+        lat: -33.44153
+        lng: 146.77403
+      - fix: 1507
+        time: 2015-01-06T06:25:57Z
+        lat: -33.8006
+        lng: 146.24911599
+      - fix: 1967
+        time: 2015-01-06T07:42:27Z
+        lat: -34.04051599
+        lng: 145.41426
+  - - Josh Woods
+    - zonesTag:
+      - fix: 34
+        time: 2015-01-06T01:34:03Z
+        lat: -33.358983
+        lng: 147.93475
+      - fix: 426
+        time: 2015-01-06T02:39:24Z
+        lat: -33.37558299
+        lng: 147.88118299
+      - fix: 1310
+        time: 2015-01-06T05:06:41Z
+        lat: -33.42826
+        lng: 146.76846
+      - fix: 1774
+        time: 2015-01-06T06:24:00Z
+        lat: -33.8153
+        lng: 146.227
+      - fix: 2367
+        time: 2015-01-06T08:02:39Z
+        lat: -34.0426
+        lng: 145.41429999
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 136
+        time: 2015-01-06T02:08:34Z
+        lat: -33.358316
+        lng: 147.92893
+      - fix: 754
+        time: 2015-01-06T03:00:19Z
+        lat: -33.36655999
+        lng: 147.879083
+      - fix: 2361
+        time: 2015-01-06T05:14:49Z
+        lat: -33.4316
+        lng: 146.769516
+      - fix: 3295
+        time: 2015-01-06T06:32:54Z
+        lat: -33.79764999
+        lng: 146.26991599
+      - fix: 4537
+        time: 2015-01-06T08:16:42Z
+        lat: -34.03882999
+        lng: 145.41326
+  - - Len Paton
+    - zonesTag:
+      - fix: 27
+        time: 2015-01-06T02:38:09Z
+        lat: -33.35861599
+        lng: 147.92898299
+      - fix: 161
+        time: 2015-01-06T03:00:15Z
+        lat: -33.37819999
+        lng: 147.88346
+      - fix: 1055
+        time: 2015-01-06T05:29:19Z
+        lat: -33.41302999
+        lng: 146.75292999
+      - fix: 1630
+        time: 2015-01-06T07:05:04Z
+        lat: -33.81195999
+        lng: 146.230216
+      - null
+  - - Lukas Bader
+    - zonesTag:
+      - null
+      - fix: 1350
+        time: 2015-01-06T02:46:23Z
+        lat: -33.35605
+        lng: 147.87851599
+      - fix: 10306
+        time: 2015-01-06T05:15:39Z
+        lat: -33.44108299
+        lng: 146.77385
+      - fix: 14956
+        time: 2015-01-06T06:33:09Z
+        lat: -33.79701599
+        lng: 146.26922999
+      - fix: 21142
+        time: 2015-01-06T08:16:15Z
+        lat: -34.0381
+        lng: 145.411716
+  - - Mark Russell
+    - zonesTag:
+      - fix: 81
+        time: 2015-01-06T02:26:05Z
+        lat: -33.36173
+        lng: 147.934716
+      - fix: 396
+        time: 2015-01-06T03:18:28Z
+        lat: -33.3911
+        lng: 147.89225999
+      - fix: 1495
+        time: 2015-01-06T06:21:42Z
+        lat: -33.40598299
+        lng: 146.73572999
+      - fix: 2066
+        time: 2015-01-06T07:56:41Z
+        lat: -33.80239999
+        lng: 146.24479999
+      - null
+  - - Mikhail Karmazin
+    - zonesTag:
+      - fix: 585
+        time: 2015-01-06T02:30:36Z
+        lat: -33.36363
+        lng: 147.9343
+      - fix: 1246
+        time: 2015-01-06T02:52:47Z
+        lat: -33.36484999
+        lng: 147.87845999
+      - fix: 6588
+        time: 2015-01-06T05:51:33Z
+        lat: -33.46735
+        lng: 146.770283
+      - null
+      - null
+  - - Nils Vesk
+    - zonesTag:
+      - fix: 45
+        time: 2015-01-06T02:12:34Z
+        lat: -33.35779999
+        lng: 147.93372999
+      - fix: 357
+        time: 2015-01-06T03:04:24Z
+        lat: -33.37251599
+        lng: 147.880516
+      - fix: 1456
+        time: 2015-01-06T06:07:36Z
+        lat: -33.45503
+        lng: 146.77428299
+      - fix: 1920
+        time: 2015-01-06T07:24:50Z
+        lat: -33.812916
+        lng: 146.31174999
+      - null
+  - - Olav Olsen
+    - zonesTag:
+      - null
+      - fix: 1539
+        time: 2015-01-06T03:00:45Z
+        lat: -33.36269999
+        lng: 147.878983
+      - fix: 4193
+        time: 2015-01-06T05:13:46Z
+        lat: -33.4423
+        lng: 146.77418299
+      - fix: 5641
+        time: 2015-01-06T06:26:25Z
+        lat: -33.79946
+        lng: 146.28778299
+      - fix: 7150
+        time: 2015-01-06T07:43:16Z
+        lat: -34.03936
+        lng: 145.41381599
+  - - Olav Opsanger
+    - zonesTag:
+      - fix: 174
+        time: 2015-01-06T02:08:40Z
+        lat: -33.35844999
+        lng: 147.92939999
+      - fix: 839
+        time: 2015-01-06T03:04:05Z
+        lat: -33.37211599
+        lng: 147.880016
+      - fix: 2570
+        time: 2015-01-06T05:28:18Z
+        lat: -33.438783
+        lng: 146.77318299
+      - fix: 3581
+        time: 2015-01-06T06:52:31Z
+        lat: -33.79936
+        lng: 146.25345999
+      - fix: 4783
+        time: 2015-01-06T08:32:40Z
+        lat: -34.03824999
+        lng: 145.41042999
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - fix: 948
+        time: 2015-01-06T03:00:20Z
+        lat: -33.36543
+        lng: 147.87855999
+      - fix: 2735
+        time: 2015-01-06T05:29:25Z
+        lat: -33.47401599
+        lng: 146.76592999
+      - fix: 3849
+        time: 2015-01-06T07:02:14Z
+        lat: -33.82392999
+        lng: 146.22098299
+      - fix: 4832
+        time: 2015-01-06T08:24:02Z
+        lat: -34.03875
+        lng: 145.413183
+  - - Peter Dall
+    - zonesTag:
+      - fix: 367
+        time: 2015-01-06T01:38:42Z
+        lat: -33.358583
+        lng: 147.92981599
+      - fix: 1319
+        time: 2015-01-06T02:55:46Z
+        lat: -33.35842999
+        lng: 147.8788
+      - fix: 3734
+        time: 2015-01-06T06:10:20Z
+        lat: -33.41006
+        lng: 146.74692999
+      - null
+      - null
+  - - Phil Schroder
+    - zonesTag:
+      - null
+      - fix: 220
+        time: 2015-01-06T03:00:32Z
+        lat: -33.37695999
+        lng: 147.882
+      - fix: 1117
+        time: 2015-01-06T05:30:15Z
+        lat: -33.466016
+        lng: 146.77082999
+      - fix: 1595
+        time: 2015-01-06T06:49:58Z
+        lat: -33.79905999
+        lng: 146.28655
+      - fix: 2165
+        time: 2015-01-06T08:24:55Z
+        lat: -34.04059999
+        lng: 145.41322999
+  - - Phil Seeley
+    - zonesTag:
+      - fix: 181
+        time: 2015-01-06T02:29:27Z
+        lat: -33.36005
+        lng: 147.930216
+      - fix: 1362
+        time: 2015-01-06T02:49:10Z
+        lat: -33.36214999
+        lng: 147.878316
+      - null
+      - null
+      - null
+  - - Rohan Taylor
+    - zonesTag:
+      - fix: 862
+        time: 2015-01-06T01:44:34Z
+        lat: -33.36256
+        lng: 147.935716
+      - fix: 4279
+        time: 2015-01-06T02:46:18Z
+        lat: -33.35451599
+        lng: 147.87874999
+      - fix: 13109
+        time: 2015-01-06T05:24:48Z
+        lat: -33.42241599
+        lng: 146.76412999
+      - fix: 18881
+        time: 2015-01-06T07:06:56Z
+        lat: -33.79825
+        lng: 146.2834
+      - fix: 23852
+        time: 2015-01-06T08:34:36Z
+        lat: -34.03868299
+        lng: 145.41306
+  - - Ryosuke Hattori
+    - zonesTag:
+      - fix: 271
+        time: 2015-01-06T01:45:02Z
+        lat: -33.36243
+        lng: 147.93546
+      - fix: 1228
+        time: 2015-01-06T02:48:59Z
+        lat: -33.36195
+        lng: 147.87829999
+      - fix: 3849
+        time: 2015-01-06T05:43:53Z
+        lat: -33.44921599
+        lng: 146.77484999
+      - fix: 5182
+        time: 2015-01-06T07:12:45Z
+        lat: -33.79802999
+        lng: 146.28165
+      - null
+  - - Sander Van Schaik
+    - zonesTag:
+      - fix: 38
+        time: 2015-01-06T02:23:33Z
+        lat: -33.35928299
+        lng: 147.93583
+      - fix: 863
+        time: 2015-01-06T03:18:33Z
+        lat: -33.3913
+        lng: 147.89315999
+      - fix: 3726
+        time: 2015-01-06T06:29:25Z
+        lat: -33.442416
+        lng: 146.77428299
+      - fix: 5022
+        time: 2015-01-06T07:55:49Z
+        lat: -33.82229999
+        lng: 146.31882999
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - fix: 1747
+        time: 2015-01-06T02:30:35Z
+        lat: -33.36426
+        lng: 147.93235
+      - fix: 2651
+        time: 2015-01-06T03:01:03Z
+        lat: -33.36556
+        lng: 147.87871599
+      - fix: 7333
+        time: 2015-01-06T05:38:10Z
+        lat: -33.476283
+        lng: 146.76398299
+      - fix: 10317
+        time: 2015-01-06T07:18:18Z
+        lat: -33.81238299
+        lng: 146.2298
+      - fix: 12988
+        time: 2015-01-06T08:47:50Z
+        lat: -34.03855
+        lng: 145.4129
+  - - Simon Braithwaite
+    - zonesTag:
+      - fix: 74
+        time: 2015-01-06T02:29:53Z
+        lat: -33.3577
+        lng: 147.93026
+      - fix: 259
+        time: 2015-01-06T03:00:35Z
+        lat: -33.37575999
+        lng: 147.88163
+      - fix: 1164
+        time: 2015-01-06T05:31:21Z
+        lat: -33.491683
+        lng: 146.738683
+      - fix: 1595
+        time: 2015-01-06T06:42:58Z
+        lat: -33.79746
+        lng: 146.27855999
+      - fix: 2175
+        time: 2015-01-06T08:19:25Z
+        lat: -34.03963
+        lng: 145.414083
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 567
+        time: 2015-01-06T02:08:48Z
+        lat: -33.35873
+        lng: 147.92862999
+      - fix: 1281
+        time: 2015-01-06T02:45:22Z
+        lat: -33.36638299
+        lng: 147.8786
+      - fix: 5437
+        time: 2015-01-06T06:13:50Z
+        lat: -33.45329999
+        lng: 146.77463
+      - fix: 7205
+        time: 2015-01-06T07:42:50Z
+        lat: -33.8134
+        lng: 146.22874999
+      - fix: 8733
+        time: 2015-01-06T09:00:36Z
+        lat: -34.04113
+        lng: 145.41444999
+  - - Takeshi Yokoyama
+    - zonesTag:
+      - fix: 93
+        time: 2015-01-06T02:40:25Z
+        lat: -33.36319999
+        lng: 147.92959999
+      - fix: 214
+        time: 2015-01-06T03:00:26Z
+        lat: -33.37772999
+        lng: 147.8822
+      - fix: 1180
+        time: 2015-01-06T05:41:44Z
+        lat: -33.41648299
+        lng: 146.7578
+      - fix: 1793
+        time: 2015-01-06T07:24:05Z
+        lat: -33.797516
+        lng: 146.263
+      - null
+  - - Thomas Lindal
+    - zonesTag:
+      - fix: 871
+        time: 2015-01-06T02:05:56Z
+        lat: -33.36209999
+        lng: 147.93565
+      - fix: 1731
+        time: 2015-01-06T02:49:14Z
+        lat: -33.36051599
+        lng: 147.878183
+      - fix: 6080
+        time: 2015-01-06T06:28:37Z
+        lat: -33.43051599
+        lng: 146.76983
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - null
+      - fix: 1036
+        time: 2015-01-06T03:15:24Z
+        lat: -33.37075999
+        lng: 147.87972999
+      - fix: 2653
+        time: 2015-01-06T05:31:12Z
+        lat: -33.47014999
+        lng: 146.76863
+      - fix: 3563
+        time: 2015-01-06T06:47:24Z
+        lat: -33.798
+        lng: 146.25989999
+      - fix: 4660
+        time: 2015-01-06T08:19:26Z
+        lat: -34.04026
+        lng: 145.413416
+  - - Tullio Gervasoni
+    - zonesTag:
+      - fix: 46
+        time: 2015-01-06T02:09:50Z
+        lat: -33.35778299
+        lng: 147.9298
+      - fix: 353
+        time: 2015-01-06T03:00:41Z
+        lat: -33.3673
+        lng: 147.87945999
+      - null
+      - null
+      - null
+  - - Victor Hare
+    - zonesTag:
+      - fix: 40
+        time: 2015-01-06T02:34:12Z
+        lat: -33.35884999
+        lng: 147.930216
+      - fix: 131
+        time: 2015-01-06T02:49:12Z
+        lat: -33.36184999
+        lng: 147.878883
+      - fix: 1148
+        time: 2015-01-06T05:38:32Z
+        lat: -33.4846
+        lng: 146.75389999
+      - fix: 1754
+        time: 2015-01-06T07:19:35Z
+        lat: -33.79793
+        lng: 146.25992999
+      - null
+  - - Viv Clements
+    - zonesTag:
+      - null
+      - fix: 1452
+        time: 2015-01-06T03:29:03Z
+        lat: -33.37154999
+        lng: 147.87972999
+      - null
+      - null
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - fix: 595
+        time: 2015-01-06T01:44:52Z
+        lat: -33.36296
+        lng: 147.93503
+      - fix: 2178
+        time: 2015-01-06T03:04:01Z
+        lat: -33.37254999
+        lng: 147.88021599
+      - fix: 5211
+        time: 2015-01-06T05:35:40Z
+        lat: -33.46835
+        lng: 146.76978299
+      - fix: 6705
+        time: 2015-01-06T06:50:24Z
+        lat: -33.813383
+        lng: 146.31153
+      - fix: 8822
+        time: 2015-01-06T08:36:15Z
+        lat: -34.04035999
+        lng: 145.41402999
+  - - Yoko Isomoto
+    - zonesTag:
+      - null
+      - fix: 832
+        time: 2015-01-06T02:46:03Z
+        lat: -33.370583
+        lng: 147.879816
+      - fix: 2969
+        time: 2015-01-06T05:44:27Z
+        lat: -33.44964999
+        lng: 146.77485999
+      - fix: 3935
+        time: 2015-01-06T07:04:53Z
+        lat: -33.80503
+        lng: 146.30109999
+      - fix: 5167
+        time: 2015-01-06T08:47:41Z
+        lat: -34.039183
+        lng: 145.41368299
+  - - Zac Majors
+    - zonesTag:
+      - null
+      - fix: 2228
+        time: 2015-01-06T03:00:12Z
+        lat: -33.36813
+        lng: 147.879183
+      - fix: 6183
+        time: 2015-01-06T05:12:18Z
+        lat: -33.460216
+        lng: 146.77325999
+      - fix: 8313
+        time: 2015-01-06T06:23:26Z
+        lat: -33.81486
+        lng: 146.22742999
+      - fix: 10339
+        time: 2015-01-06T07:31:04Z
+        lat: -34.03914999
+        lng: 145.41336
+- - - Adam Jones
+    - zonesTag:
+      - fix: 16
+        time: 2015-01-07T02:51:23Z
+        lat: -33.35844999
+        lng: 147.93276
+      - fix: 153
+        time: 2015-01-07T03:14:03Z
+        lat: -33.44205999
+        lng: 147.88822999
+      - null
+      - null
+  - - Andrew Barnes
+    - zonesTag:
+      - fix: 79
+        time: 2015-01-07T02:39:15Z
+        lat: -33.35781599
+        lng: 147.9336
+      - fix: 343
+        time: 2015-01-07T03:01:25Z
+        lat: -33.4273
+        lng: 147.85955999
+      - fix: 1863
+        time: 2015-01-07T05:08:27Z
+        lat: -34.15113
+        lng: 147.40115
+      - null
+  - - Attila Bertok
+    - zonesTag:
+      - fix: 264
+        time: 2015-01-07T01:59:53Z
+        lat: -33.35772999
+        lng: 147.9302
+      - fix: 1487
+        time: 2015-01-07T03:01:18Z
+        lat: -33.42671599
+        lng: 147.85901599
+      - fix: 3814
+        time: 2015-01-07T04:58:03Z
+        lat: -34.14936
+        lng: 147.39876
+      - fix: 5469
+        time: 2015-01-07T06:21:06Z
+        lat: -34.41401599
+        lng: 146.85793
+  - - Chris Czajkowski
+    - zonesTag:
+      - fix: 48
+        time: 2015-01-07T01:54:30Z
+        lat: -33.35952999
+        lng: 147.92831599
+      - fix: 474
+        time: 2015-01-07T03:05:22Z
+        lat: -33.43959999
+        lng: 147.88423
+      - null
+      - null
+  - - Christian Voiblet
+    - zonesTag:
+      - null
+      - fix: 972
+        time: 2015-01-07T03:01:32Z
+        lat: -33.42674999
+        lng: 147.859283
+      - fix: 3324
+        time: 2015-01-07T04:59:23Z
+        lat: -34.15292999
+        lng: 147.39318299
+      - null
+  - - Conrad Loten
+    - zonesTag:
+      - fix: 39
+        time: 2015-01-07T02:40:26Z
+        lat: -33.35795
+        lng: 147.92959999
+      - fix: 168
+        time: 2015-01-07T03:01:43Z
+        lat: -33.42569999
+        lng: 147.858283
+      - null
+      - null
+  - - Dale Regehr
+    - zonesTag:
+      - fix: 78
+        time: 2015-01-07T02:53:02Z
+        lat: -33.3573
+        lng: 147.93292999
+      - fix: 192
+        time: 2015-01-07T03:12:06Z
+        lat: -33.444516
+        lng: 147.89426
+      - fix: 1139
+        time: 2015-01-07T05:50:07Z
+        lat: -34.15323
+        lng: 147.39311599
+      - null
+  - - Emiel Jansen
+    - zonesTag:
+      - fix: 158
+        time: 2015-01-07T02:50:44Z
+        lat: -33.35759999
+        lng: 147.9333
+      - fix: 810
+        time: 2015-01-07T03:12:27Z
+        lat: -33.4448
+        lng: 147.89414999
+      - null
+      - null
+  - - Enda Murphy
+    - zonesTag:
+      - null
+      - fix: 558
+        time: 2015-01-07T03:19:04Z
+        lat: -33.41496
+        lng: 147.84694999
+      - null
+      - null
+  - - Federico Martini
+    - zonesTag:
+      - fix: 74
+        time: 2015-01-07T02:39:08Z
+        lat: -33.35731599
+        lng: 147.93092999
+      - fix: 795
+        time: 2015-01-07T03:03:26Z
+        lat: -33.44174999
+        lng: 147.88552999
+      - null
+      - null
+  - - Filippo Oppici
+    - zonesTag:
+      - fix: 83
+        time: 2015-01-07T02:09:13Z
+        lat: -33.357283
+        lng: 147.931183
+      - fix: 1647
+        time: 2015-01-07T03:01:36Z
+        lat: -33.4262
+        lng: 147.85824999
+      - fix: 5157
+        time: 2015-01-07T04:58:59Z
+        lat: -34.15168299
+        lng: 147.39325999
+      - null
+  - - Gavin Myers
+    - zonesTag:
+      - null
+      - fix: 455
+        time: 2015-01-07T03:00:34Z
+        lat: -33.43402999
+        lng: 147.87104999
+      - null
+      - null
+  - - Geoff Robertson
+    - zonesTag:
+      - fix: 23
+        time: 2015-01-07T02:50:00Z
+        lat: -33.358283
+        lng: 147.93223
+      - fix: 170
+        time: 2015-01-07T03:14:14Z
+        lat: -33.4425
+        lng: 147.891183
+      - null
+      - null
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - fix: 205
+        time: 2015-01-07T02:10:21Z
+        lat: -33.35798299
+        lng: 147.93078299
+      - fix: 1220
+        time: 2015-01-07T03:01:06Z
+        lat: -33.42663
+        lng: 147.85892999
+      - fix: 3568
+        time: 2015-01-07T04:58:49Z
+        lat: -34.14959999
+        lng: 147.39869999
+      - null
+  - - Gijs Wanders
+    - zonesTag:
+      - null
+      - fix: 864
+        time: 2015-01-07T03:00:01Z
+        lat: -33.43115
+        lng: 147.86504999
+      - fix: 3509
+        time: 2015-01-07T05:12:23Z
+        lat: -34.152383
+        lng: 147.39318299
+      - null
+  - - Glen Mcfarlane
+    - zonesTag:
+      - fix: 49
+        time: 2015-01-07T02:03:36Z
+        lat: -33.36175
+        lng: 147.93593
+      - fix: 1776
+        time: 2015-01-07T03:01:15Z
+        lat: -33.44792999
+        lng: 147.90761599
+      - fix: 5508
+        time: 2015-01-07T05:05:52Z
+        lat: -34.14914999
+        lng: 147.39695
+      - null
+  - - Gordon Rigg
+    - zonesTag:
+      - fix: 59
+        time: 2015-01-07T02:15:58Z
+        lat: -33.357916
+        lng: 147.92984999
+      - fix: 599
+        time: 2015-01-07T03:01:43Z
+        lat: -33.42604999
+        lng: 147.85811599
+      - fix: 1986
+        time: 2015-01-07T04:58:22Z
+        lat: -34.14928299
+        lng: 147.39799999
+      - null
+  - - Grant Heaney
+    - zonesTag:
+      - null
+      - fix: 1136
+        time: 2015-01-07T03:01:55Z
+        lat: -33.42616
+        lng: 147.85875999
+      - fix: 2744
+        time: 2015-01-07T05:15:55Z
+        lat: -34.14929999
+        lng: 147.39809999
+      - null
+  - - Guy Hubbard
+    - zonesTag:
+      - fix: 113
+        time: 2015-01-07T01:58:11Z
+        lat: -33.357416
+        lng: 147.93306
+      - fix: 1062
+        time: 2015-01-07T03:01:27Z
+        lat: -33.42519999
+        lng: 147.85685
+      - null
+      - null
+  - - Harrison Rowntree
+    - zonesTag:
+      - null
+      - fix: 766
+        time: 2015-01-07T03:02:00Z
+        lat: -33.425716
+        lng: 147.85746
+      - fix: 3105
+        time: 2015-01-07T04:59:12Z
+        lat: -34.15115999
+        lng: 147.39352999
+      - null
+  - - Jochen Zeischka
+    - zonesTag:
+      - null
+      - fix: 337
+        time: 2015-01-07T03:01:22Z
+        lat: -33.42605999
+        lng: 147.85842999
+      - fix: 1041
+        time: 2015-01-07T04:58:47Z
+        lat: -34.15129999
+        lng: 147.39349999
+      - null
+  - - Jon snr Durand
+    - zonesTag:
+      - null
+      - fix: 266
+        time: 2015-01-07T03:00:02Z
+        lat: -33.43594999
+        lng: 147.87452999
+      - fix: 1057
+        time: 2015-01-07T05:11:44Z
+        lat: -34.154516
+        lng: 147.39365
+      - null
+  - - Jonas Lobitz
+    - zonesTag:
+      - null
+      - fix: 581
+        time: 2015-01-07T03:01:28Z
+        lat: -33.426116
+        lng: 147.85943
+      - fix: 1999
+        time: 2015-01-07T04:59:39Z
+        lat: -34.15019999
+        lng: 147.394483
+      - null
+  - - Jonny Durand
+    - zonesTag:
+      - null
+      - fix: 287
+        time: 2015-01-07T03:01:12Z
+        lat: -33.42719999
+        lng: 147.8617
+      - fix: 1048
+        time: 2015-01-07T05:08:09Z
+        lat: -34.15095
+        lng: 147.40092999
+      - null
+  - - Josh Woods
+    - zonesTag:
+      - null
+      - fix: 239
+        time: 2015-01-07T03:00:16Z
+        lat: -33.43568299
+        lng: 147.87375
+      - fix: 951
+        time: 2015-01-07T04:59:01Z
+        lat: -34.152016
+        lng: 147.39318299
+      - null
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 46
+        time: 2015-01-07T02:02:48Z
+        lat: -33.35916
+        lng: 147.92823
+      - fix: 749
+        time: 2015-01-07T03:01:32Z
+        lat: -33.42631599
+        lng: 147.85914999
+      - fix: 2144
+        time: 2015-01-07T04:58:08Z
+        lat: -34.14985999
+        lng: 147.39988299
+      - null
+  - - Len Paton
+    - zonesTag:
+      - null
+      - fix: 209
+        time: 2015-01-07T03:04:02Z
+        lat: -33.440283
+        lng: 147.88519999
+      - fix: 912
+        time: 2015-01-07T05:01:20Z
+        lat: -34.14925
+        lng: 147.3968
+      - null
+  - - Lukas Bader
+    - zonesTag:
+      - null
+      - fix: 2289
+        time: 2015-01-07T03:02:13Z
+        lat: -33.42654999
+        lng: 147.85853
+      - fix: 9687
+        time: 2015-01-07T05:05:31Z
+        lat: -34.15043
+        lng: 147.39412999
+      - null
+  - - Mark Russell
+    - zonesTag:
+      - null
+      - fix: 217
+        time: 2015-01-07T03:04:13Z
+        lat: -33.44915
+        lng: 147.93148299
+      - null
+      - null
+  - - Mikhail Karmazin
+    - zonesTag:
+      - fix: 304
+        time: 2015-01-07T02:48:59Z
+        lat: -33.36064999
+        lng: 147.93602999
+      - fix: 1112
+        time: 2015-01-07T03:16:09Z
+        lat: -33.44575999
+        lng: 147.897916
+      - null
+      - null
+  - - Nils Vesk
+    - zonesTag:
+      - null
+      - fix: 313
+        time: 2015-01-07T03:15:22Z
+        lat: -33.41055999
+        lng: 147.84309999
+      - fix: 1124
+        time: 2015-01-07T05:30:35Z
+        lat: -34.15129999
+        lng: 147.3934
+      - null
+  - - Olav Olsen
+    - zonesTag:
+      - fix: 140
+        time: 2015-01-07T02:12:18Z
+        lat: -33.36149999
+        lng: 147.92824999
+      - fix: 1108
+        time: 2015-01-07T03:00:41Z
+        lat: -33.449283
+        lng: 147.91309999
+      - fix: 3605
+        time: 2015-01-07T05:05:41Z
+        lat: -34.149616
+        lng: 147.39952999
+      - null
+  - - Olav Opsanger
+    - zonesTag:
+      - null
+      - fix: 711
+        time: 2015-01-07T03:01:37Z
+        lat: -33.44753
+        lng: 147.9062
+      - fix: 2119
+        time: 2015-01-07T04:59:08Z
+        lat: -34.154516
+        lng: 147.39383
+      - null
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - fix: 28
+        time: 2015-01-07T02:00:52Z
+        lat: -33.35929999
+        lng: 147.92835999
+      - fix: 755
+        time: 2015-01-07T03:01:27Z
+        lat: -33.42608299
+        lng: 147.85945
+      - fix: 2174
+        time: 2015-01-07T04:59:43Z
+        lat: -34.15358299
+        lng: 147.39328299
+      - null
+  - - Phil Schroder
+    - zonesTag:
+      - null
+      - fix: 255
+        time: 2015-01-07T03:00:35Z
+        lat: -33.426616
+        lng: 147.85935
+      - fix: 1007
+        time: 2015-01-07T05:06:18Z
+        lat: -34.1495
+        lng: 147.3991
+      - null
+  - - Phil Seeley
+    - zonesTag:
+      - null
+      - fix: 1451
+        time: 2015-01-07T03:12:45Z
+        lat: -33.444816
+        lng: 147.893783
+      - null
+      - null
+  - - Rohan Taylor
+    - zonesTag:
+      - fix: 205
+        time: 2015-01-07T01:57:56Z
+        lat: -33.359
+        lng: 147.92914999
+      - fix: 953
+        time: 2015-01-07T03:00:18Z
+        lat: -33.425583
+        lng: 147.85785999
+      - null
+      - null
+  - - Ryosuke Hattori
+    - zonesTag:
+      - fix: 94
+        time: 2015-01-07T01:52:48Z
+        lat: -33.35772999
+        lng: 147.93213
+      - fix: 1282
+        time: 2015-01-07T03:12:13Z
+        lat: -33.44509999
+        lng: 147.89592999
+      - null
+      - null
+  - - Sander Van Schaik
+    - zonesTag:
+      - null
+      - fix: 413
+        time: 2015-01-07T03:02:25Z
+        lat: -33.42334999
+        lng: 147.85586
+      - null
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - fix: 74
+        time: 2015-01-07T02:39:08Z
+        lat: -33.35731599
+        lng: 147.93092999
+      - fix: 795
+        time: 2015-01-07T03:03:26Z
+        lat: -33.44174999
+        lng: 147.88552999
+      - null
+      - null
+  - - Simon Braithwaite
+    - zonesTag:
+      - null
+      - fix: 257
+        time: 2015-01-07T03:01:32Z
+        lat: -33.4253
+        lng: 147.859316
+      - fix: 1017
+        time: 2015-01-07T05:08:21Z
+        lat: -34.15086
+        lng: 147.40092999
+      - null
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 60
+        time: 2015-01-07T02:05:04Z
+        lat: -33.35896
+        lng: 147.9283
+      - fix: 1167
+        time: 2015-01-07T03:01:46Z
+        lat: -33.425983
+        lng: 147.85859999
+      - fix: 3507
+        time: 2015-01-07T04:59:09Z
+        lat: -34.14963
+        lng: 147.39925999
+      - null
+  - - Takeshi Yokoyama
+    - zonesTag:
+      - fix: 62
+        time: 2015-01-07T02:49:09Z
+        lat: -33.36115999
+        lng: 147.9362
+      - fix: 206
+        time: 2015-01-07T03:13:06Z
+        lat: -33.44441599
+        lng: 147.89599999
+      - null
+      - null
+  - - Thomas Lindal
+    - zonesTag:
+      - fix: 136
+        time: 2015-01-07T01:53:35Z
+        lat: -33.35822999
+        lng: 147.92969999
+      - fix: 1461
+        time: 2015-01-07T03:00:23Z
+        lat: -33.43473
+        lng: 147.87112999
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - fix: 89
+        time: 2015-01-07T02:12:47Z
+        lat: -33.35793
+        lng: 147.93395
+      - fix: 658
+        time: 2015-01-07T03:00:28Z
+        lat: -33.41805999
+        lng: 147.85005
+      - fix: 1960
+        time: 2015-01-07T04:49:35Z
+        lat: -34.150016
+        lng: 147.39471599
+      - null
+  - - Tullio Gervasoni
+    - zonesTag:
+      - fix: 44
+        time: 2015-01-07T01:55:21Z
+        lat: -33.35782999
+        lng: 147.92985999
+      - fix: 443
+        time: 2015-01-07T03:01:42Z
+        lat: -33.42668299
+        lng: 147.85871599
+      - fix: 1147
+        time: 2015-01-07T04:59:00Z
+        lat: -34.15185999
+        lng: 147.3932
+      - null
+  - - Victor Hare
+    - zonesTag:
+      - fix: 33
+        time: 2015-01-07T01:59:50Z
+        lat: -33.35916
+        lng: 147.92879999
+      - fix: 402
+        time: 2015-01-07T03:01:13Z
+        lat: -33.4286
+        lng: 147.86205
+      - null
+      - null
+  - - Viv Clements
+    - zonesTag:
+      - null
+      - fix: 2017
+        time: 2015-01-07T03:20:53Z
+        lat: -33.44324999
+        lng: 147.8891
+      - null
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - fix: 790
+        time: 2015-01-07T03:01:24Z
+        lat: -33.4427
+        lng: 147.888483
+      - fix: 3083
+        time: 2015-01-07T04:56:03Z
+        lat: -34.15012999
+        lng: 147.4002
+      - null
+  - - Yoko Isomoto
+    - zonesTag:
+      - fix: 40
+        time: 2015-01-07T01:56:13Z
+        lat: -33.35759999
+        lng: 147.93126
+      - fix: 832
+        time: 2015-01-07T03:02:13Z
+        lat: -33.42636
+        lng: 147.85926
+      - fix: 2319
+        time: 2015-01-07T05:06:19Z
+        lat: -34.149683
+        lng: 147.39945
+      - null
+  - - Zac Majors
+    - zonesTag:
+      - fix: 55
+        time: 2015-01-07T02:15:37Z
+        lat: -33.35815999
+        lng: 147.92959999
+      - fix: 1417
+        time: 2015-01-07T03:01:08Z
+        lat: -33.448183
+        lng: 147.90802999
+      - fix: 4902
+        time: 2015-01-07T04:57:25Z
+        lat: -34.14971599
+        lng: 147.39945
+      - null
+- - - Adam Jones
+    - zonesTag:
+      - fix: 51
+        time: 2015-01-08T01:23:02Z
+        lat: -33.357416
+        lng: 147.93286
+      - null
+      - null
+      - null
+      - null
+  - - Andrew Barnes
+    - zonesTag:
+      - null
+      - fix: 477
+        time: 2015-01-08T03:00:19Z
+        lat: -33.44342999
+        lng: 147.97195999
+      - fix: 1207
+        time: 2015-01-08T04:01:39Z
+        lat: -33.82576
+        lng: 148.07665
+      - fix: 1556
+        time: 2015-01-08T04:30:48Z
+        lat: -33.81855999
+        lng: 147.90036
+      - fix: 2313
+        time: 2015-01-08T05:34:16Z
+        lat: -33.62044999
+        lng: 148.40556
+  - - Attila Bertok
+    - zonesTag:
+      - null
+      - fix: 1836
+        time: 2015-01-08T03:00:11Z
+        lat: -33.44871599
+        lng: 147.951683
+      - fix: 2725
+        time: 2015-01-08T03:44:49Z
+        lat: -33.828716
+        lng: 148.073516
+      - fix: 3170
+        time: 2015-01-08T04:07:12Z
+        lat: -33.808883
+        lng: 147.897983
+      - fix: 4475
+        time: 2015-01-08T05:12:44Z
+        lat: -33.61975
+        lng: 148.405616
+  - - Chris Czajkowski
+    - zonesTag:
+      - fix: 12
+        time: 2015-01-08T02:53:25Z
+        lat: -33.36316
+        lng: 147.92904999
+      - fix: 138
+        time: 2015-01-08T03:14:29Z
+        lat: -33.43265
+        lng: 147.99573
+      - fix: 655
+        time: 2015-01-08T04:40:47Z
+        lat: -33.83583
+        lng: 148.0662
+      - null
+      - null
+  - - Christian Voiblet
+    - zonesTag:
+      - fix: 232
+        time: 2015-01-08T01:55:07Z
+        lat: -33.35968299
+        lng: 147.9283
+      - fix: 1237
+        time: 2015-01-08T02:45:27Z
+        lat: -33.38602999
+        lng: 148.03509999
+      - fix: 2437
+        time: 2015-01-08T03:45:35Z
+        lat: -33.8267
+        lng: 148.07544999
+      - fix: 2913
+        time: 2015-01-08T04:09:27Z
+        lat: -33.80534999
+        lng: 147.8974
+      - fix: 4931
+        time: 2015-01-08T05:50:30Z
+        lat: -33.62101599
+        lng: 148.40646
+  - - Conrad Loten
+    - zonesTag:
+      - fix: 44
+        time: 2015-01-08T02:09:54Z
+        lat: -33.35873
+        lng: 147.93178299
+      - fix: 256
+        time: 2015-01-08T02:45:12Z
+        lat: -33.44022999
+        lng: 147.9796
+      - fix: 552
+        time: 2015-01-08T03:34:48Z
+        lat: -33.81772999
+        lng: 148.09261599
+      - fix: 837
+        time: 2015-01-08T04:22:10Z
+        lat: -33.85719999
+        lng: 147.89973
+      - fix: 1502
+        time: 2015-01-08T06:13:18Z
+        lat: -33.620083
+        lng: 148.40575
+  - - Dale Regehr
+    - zonesTag:
+      - fix: 38
+        time: 2015-01-08T02:09:10Z
+        lat: -33.35753299
+        lng: 147.931317
+      - fix: 239
+        time: 2015-01-08T02:42:45Z
+        lat: -33.3937
+        lng: 148.03104999
+      - null
+      - null
+      - null
+  - - Emiel Jansen
+    - zonesTag:
+      - fix: 298
+        time: 2015-01-08T02:31:11Z
+        lat: -33.35862999
+        lng: 147.92893
+      - fix: 1130
+        time: 2015-01-08T02:58:55Z
+        lat: -33.44469999
+        lng: 147.96983
+      - fix: 3186
+        time: 2015-01-08T04:07:38Z
+        lat: -33.84151599
+        lng: 148.06253
+      - fix: 4143
+        time: 2015-01-08T04:39:31Z
+        lat: -33.814016
+        lng: 147.899483
+      - null
+  - - Federico Martini
+    - zonesTag:
+      - fix: 52
+        time: 2015-01-08T02:09:03Z
+        lat: -33.35746
+        lng: 147.93184999
+      - fix: 281
+        time: 2015-01-08T02:47:03Z
+        lat: -33.448016
+        lng: 147.95215999
+      - fix: 597
+        time: 2015-01-08T03:40:05Z
+        lat: -33.82276
+        lng: 148.081716
+      - fix: 879
+        time: 2015-01-08T04:26:41Z
+        lat: -33.832183
+        lng: 147.9016
+      - fix: 1382
+        time: 2015-01-08T05:51:10Z
+        lat: -33.621316
+        lng: 148.40653
+  - - Filippo Oppici
+    - zonesTag:
+      - fix: 673
+        time: 2015-01-08T01:55:18Z
+        lat: -33.3635
+        lng: 147.93446
+      - fix: 2211
+        time: 2015-01-08T02:46:42Z
+        lat: -33.44912999
+        lng: 147.95029999
+      - fix: 3601
+        time: 2015-01-08T03:33:06Z
+        lat: -33.82506
+        lng: 148.077516
+      - fix: 4829
+        time: 2015-01-08T04:14:03Z
+        lat: -33.813583
+        lng: 147.89946
+      - fix: 7075
+        time: 2015-01-08T05:29:10Z
+        lat: -33.62122999
+        lng: 148.406
+  - - Gavin Myers
+    - zonesTag:
+      - fix: 62
+        time: 2015-01-08T02:07:17Z
+        lat: -33.35826
+        lng: 147.934816
+      - fix: 529
+        time: 2015-01-08T02:46:32Z
+        lat: -33.44129999
+        lng: 147.97906
+      - fix: 1289
+        time: 2015-01-08T03:50:26Z
+        lat: -33.83375999
+        lng: 148.06784999
+      - fix: 1551
+        time: 2015-01-08T04:12:11Z
+        lat: -33.81034999
+        lng: 147.89873
+      - fix: 2420
+        time: 2015-01-08T05:25:06Z
+        lat: -33.62039999
+        lng: 148.40559999
+  - - Geoff Robertson
+    - zonesTag:
+      - fix: 72
+        time: 2015-01-08T01:33:20Z
+        lat: -33.35844999
+        lng: 147.93235999
+      - fix: 507
+        time: 2015-01-08T02:45:42Z
+        lat: -33.39475
+        lng: 148.03156
+      - fix: 896
+        time: 2015-01-08T03:50:23Z
+        lat: -33.83229999
+        lng: 148.06926
+      - fix: 1024
+        time: 2015-01-08T04:11:33Z
+        lat: -33.81049999
+        lng: 147.898683
+      - fix: 1386
+        time: 2015-01-08T05:11:58Z
+        lat: -33.62053
+        lng: 148.40594999
+  - - Gerolf Heinrichs
+    - zonesTag:
+      - null
+      - fix: 124
+        time: 2015-01-08T02:45:19Z
+        lat: -33.38656
+        lng: 148.03485
+      - fix: 1273
+        time: 2015-01-08T03:44:19Z
+        lat: -33.81501599
+        lng: 148.11152999
+      - null
+      - null
+  - - Gijs Wanders
+    - zonesTag:
+      - fix: 80
+        time: 2015-01-08T01:33:06Z
+        lat: -33.357716
+        lng: 147.93155999
+      - fix: 1561
+        time: 2015-01-08T02:47:21Z
+        lat: -33.42861599
+        lng: 148.0026
+      - fix: 3098
+        time: 2015-01-08T04:04:32Z
+        lat: -33.82249999
+        lng: 148.08162999
+      - null
+      - null
+  - - Glen Mcfarlane
+    - zonesTag:
+      - null
+      - fix: 2158
+        time: 2015-01-08T02:46:28Z
+        lat: -33.4495
+        lng: 147.948316
+      - fix: 3553
+        time: 2015-01-08T03:33:12Z
+        lat: -33.82502999
+        lng: 148.07759999
+      - null
+      - null
+  - - Gordon Rigg
+    - zonesTag:
+      - fix: 74
+        time: 2015-01-08T01:55:23Z
+        lat: -33.360683
+        lng: 147.9282
+      - fix: 667
+        time: 2015-01-08T02:45:17Z
+        lat: -33.38708299
+        lng: 148.034116
+      - fix: 1365
+        time: 2015-01-08T03:44:12Z
+        lat: -33.81459999
+        lng: 148.11182999
+      - fix: 1823
+        time: 2015-01-08T04:22:50Z
+        lat: -33.81465
+        lng: 147.89965
+      - fix: 2589
+        time: 2015-01-08T05:27:29Z
+        lat: -33.61938299
+        lng: 148.40536
+  - - Grant Heaney
+    - zonesTag:
+      - fix: 478
+        time: 2015-01-08T02:02:00Z
+        lat: -33.357683
+        lng: 147.93039999
+      - fix: 1186
+        time: 2015-01-08T03:01:00Z
+        lat: -33.449016
+        lng: 147.95244999
+      - fix: 1881
+        time: 2015-01-08T03:58:55Z
+        lat: -33.82824999
+        lng: 148.07423
+      - fix: 2230
+        time: 2015-01-08T04:28:00Z
+        lat: -33.82936
+        lng: 147.901
+      - fix: 3100
+        time: 2015-01-08T05:40:30Z
+        lat: -33.620316
+        lng: 148.40649999
+  - - Guy Hubbard
+    - zonesTag:
+      - fix: 177
+        time: 2015-01-08T01:52:16Z
+        lat: -33.35755999
+        lng: 147.93068299
+      - fix: 990
+        time: 2015-01-08T02:46:32Z
+        lat: -33.44148299
+        lng: 147.97874999
+      - fix: 1926
+        time: 2015-01-08T03:48:56Z
+        lat: -33.82813
+        lng: 148.07398299
+      - fix: 2285
+        time: 2015-01-08T04:12:52Z
+        lat: -33.814216
+        lng: 147.89903
+      - fix: 3372
+        time: 2015-01-08T05:25:20Z
+        lat: -33.62044999
+        lng: 148.40555
+  - - Harrison Rowntree
+    - zonesTag:
+      - fix: 78
+        time: 2015-01-08T01:53:50Z
+        lat: -33.35731599
+        lng: 147.93154999
+      - fix: 1149
+        time: 2015-01-08T02:47:45Z
+        lat: -33.429983
+        lng: 148.00059999
+      - fix: 2047
+        time: 2015-01-08T03:32:58Z
+        lat: -33.82764999
+        lng: 148.074116
+      - fix: 2825
+        time: 2015-01-08T04:12:06Z
+        lat: -33.80635999
+        lng: 147.89762999
+      - fix: 4268
+        time: 2015-01-08T05:25:23Z
+        lat: -33.621783
+        lng: 148.40753
+  - - Jochen Zeischka
+    - zonesTag:
+      - fix: 43
+        time: 2015-01-08T01:41:09Z
+        lat: -33.35759999
+        lng: 147.93205
+      - fix: 432
+        time: 2015-01-08T02:46:02Z
+        lat: -33.44791599
+        lng: 147.94798299
+      - fix: 739
+        time: 2015-01-08T03:37:23Z
+        lat: -33.82325999
+        lng: 148.08025
+      - fix: 950
+        time: 2015-01-08T04:12:09Z
+        lat: -33.807816
+        lng: 147.897983
+      - fix: 1336
+        time: 2015-01-08T05:16:43Z
+        lat: -33.62035
+        lng: 148.40605999
+  - - Jon snr Durand
+    - zonesTag:
+      - fix: 22
+        time: 2015-01-08T01:52:38Z
+        lat: -33.36113
+        lng: 147.9292
+      - fix: 340
+        time: 2015-01-08T02:45:45Z
+        lat: -33.38541599
+        lng: 148.03495
+      - fix: 707
+        time: 2015-01-08T03:46:48Z
+        lat: -33.82391599
+        lng: 148.07919999
+      - fix: 878
+        time: 2015-01-08T04:15:19Z
+        lat: -33.808883
+        lng: 147.89723
+      - fix: 1245
+        time: 2015-01-08T05:16:28Z
+        lat: -33.61854999
+        lng: 148.40626
+  - - Jonas Lobitz
+    - zonesTag:
+      - fix: 243
+        time: 2015-01-08T02:00:49Z
+        lat: -33.36182999
+        lng: 147.93605999
+      - fix: 779
+        time: 2015-01-08T02:45:26Z
+        lat: -33.38608299
+        lng: 148.0346
+      - fix: 1554
+        time: 2015-01-08T03:50:04Z
+        lat: -33.824283
+        lng: 148.078683
+      - fix: 1809
+        time: 2015-01-08T04:11:13Z
+        lat: -33.811016
+        lng: 147.89889999
+      - fix: 2713
+        time: 2015-01-08T05:26:31Z
+        lat: -33.62039999
+        lng: 148.40636
+  - - Jonny Durand
+    - zonesTag:
+      - null
+      - fix: 465
+        time: 2015-01-08T02:52:12Z
+        lat: -33.44995
+        lng: 147.93351599
+      - fix: 761
+        time: 2015-01-08T03:41:33Z
+        lat: -33.81672999
+        lng: 148.0959
+      - fix: 909
+        time: 2015-01-08T04:05:55Z
+        lat: -33.80789999
+        lng: 147.898016
+      - fix: 1308
+        time: 2015-01-08T05:12:27Z
+        lat: -33.620316
+        lng: 148.405683
+  - - Josh Woods
+    - zonesTag:
+      - fix: 57
+        time: 2015-01-08T01:32:56Z
+        lat: -33.35725
+        lng: 147.93205
+      - fix: 501
+        time: 2015-01-08T02:46:42Z
+        lat: -33.44218299
+        lng: 147.97759999
+      - fix: 932
+        time: 2015-01-08T03:58:30Z
+        lat: -33.83829999
+        lng: 148.0644
+      - fix: 1115
+        time: 2015-01-08T04:28:43Z
+        lat: -33.81692999
+        lng: 147.90005999
+      - fix: 1515
+        time: 2015-01-08T05:35:41Z
+        lat: -33.62115
+        lng: 148.406216
+  - - Kato Minoru
+    - zonesTag:
+      - fix: 98
+        time: 2015-01-08T01:32:53Z
+        lat: -33.35731599
+        lng: 147.93192999
+      - fix: 1140
+        time: 2015-01-08T03:00:12Z
+        lat: -33.447983
+        lng: 147.953316
+      - fix: 1701
+        time: 2015-01-08T03:47:28Z
+        lat: -33.81593
+        lng: 148.10025999
+      - fix: 1987
+        time: 2015-01-08T04:11:24Z
+        lat: -33.81875
+        lng: 147.90039999
+      - fix: 2833
+        time: 2015-01-08T05:22:25Z
+        lat: -33.62044999
+        lng: 148.40629999
+  - - Len Paton
+    - zonesTag:
+      - fix: 12
+        time: 2015-01-08T01:33:27Z
+        lat: -33.35815999
+        lng: 147.93139999
+      - fix: 535
+        time: 2015-01-08T03:00:15Z
+        lat: -33.45029999
+        lng: 147.92439999
+      - fix: 841
+        time: 2015-01-08T03:51:21Z
+        lat: -33.83245
+        lng: 148.06899999
+      - fix: 999
+        time: 2015-01-08T04:17:23Z
+        lat: -33.81009999
+        lng: 147.89855
+      - fix: 1437
+        time: 2015-01-08T05:30:47Z
+        lat: -33.6201
+        lng: 148.40698299
+  - - Lukas Bader
+    - zonesTag:
+      - fix: 248
+        time: 2015-01-08T01:59:02Z
+        lat: -33.357367
+        lng: 147.932183
+      - fix: 3067
+        time: 2015-01-08T02:46:01Z
+        lat: -33.39933298
+        lng: 148.02921699
+      - fix: 6638
+        time: 2015-01-08T03:45:32Z
+        lat: -33.8269
+        lng: 148.075017
+      - fix: 8133
+        time: 2015-01-08T04:10:27Z
+        lat: -33.807183
+        lng: 147.89783299
+      - fix: 13078
+        time: 2015-01-08T05:32:52Z
+        lat: -33.62199998
+        lng: 148.40864998
+  - - Mark Russell
+    - zonesTag:
+      - fix: 57
+        time: 2015-01-08T02:18:40Z
+        lat: -33.360216
+        lng: 147.92922999
+      - fix: 309
+        time: 2015-01-08T03:00:34Z
+        lat: -33.44809999
+        lng: 147.95082999
+      - fix: 648
+        time: 2015-01-08T03:57:04Z
+        lat: -33.835616
+        lng: 148.066316
+      - fix: 883
+        time: 2015-01-08T04:36:00Z
+        lat: -33.81334999
+        lng: 147.8994
+      - null
+  - - Mikhail Karmazin
+    - zonesTag:
+      - fix: 140
+        time: 2015-01-08T02:07:11Z
+        lat: -33.35759999
+        lng: 147.9341
+      - null
+      - null
+      - null
+      - null
+  - - Nils Vesk
+    - zonesTag:
+      - fix: 89
+        time: 2015-01-08T02:11:42Z
+        lat: -33.36115999
+        lng: 147.93573
+      - fix: 380
+        time: 2015-01-08T03:00:05Z
+        lat: -33.44865
+        lng: 147.95203
+      - fix: 721
+        time: 2015-01-08T03:57:01Z
+        lat: -33.83675999
+        lng: 148.065516
+      - fix: 909
+        time: 2015-01-08T04:28:12Z
+        lat: -33.816383
+        lng: 147.89991599
+      - fix: 1311
+        time: 2015-01-08T05:35:26Z
+        lat: -33.61925999
+        lng: 148.4068
+  - - Olav Olsen
+    - zonesTag:
+      - fix: 440
+        time: 2015-01-08T01:59:50Z
+        lat: -33.36395
+        lng: 147.93286
+      - fix: 1383
+        time: 2015-01-08T02:47:02Z
+        lat: -33.427683
+        lng: 148.00343
+      - fix: 2300
+        time: 2015-01-08T03:32:56Z
+        lat: -33.82829999
+        lng: 148.07326
+      - fix: 2990
+        time: 2015-01-08T04:07:27Z
+        lat: -33.83941599
+        lng: 147.90168299
+      - fix: 4633
+        time: 2015-01-08T05:29:40Z
+        lat: -33.62095
+        lng: 148.40605999
+  - - Olav Opsanger
+    - zonesTag:
+      - fix: 304
+        time: 2015-01-08T01:59:54Z
+        lat: -33.36386
+        lng: 147.93163
+      - fix: 852
+        time: 2015-01-08T02:45:36Z
+        lat: -33.38641599
+        lng: 148.03493
+      - fix: 1473
+        time: 2015-01-08T03:37:30Z
+        lat: -33.8147
+        lng: 148.111716
+      - fix: 1959
+        time: 2015-01-08T04:17:58Z
+        lat: -33.80944999
+        lng: 147.8985
+      - fix: 2810
+        time: 2015-01-08T05:29:02Z
+        lat: -33.62121599
+        lng: 148.407416
+  - - Oyvind Ellefsen
+    - zonesTag:
+      - fix: 34
+        time: 2015-01-08T01:57:03Z
+        lat: -33.35929999
+        lng: 147.92813
+      - fix: 790
+        time: 2015-01-08T03:00:09Z
+        lat: -33.44448299
+        lng: 147.97101599
+      - fix: 1346
+        time: 2015-01-08T03:46:39Z
+        lat: -33.82775
+        lng: 148.07391599
+      - fix: 1651
+        time: 2015-01-08T04:11:55Z
+        lat: -33.80606
+        lng: 147.89752999
+      - fix: 2533
+        time: 2015-01-08T05:25:40Z
+        lat: -33.62082999
+        lng: 148.406383
+  - - Phil Schroder
+    - zonesTag:
+      - fix: 22
+        time: 2015-01-08T01:58:43Z
+        lat: -33.35931599
+        lng: 147.92928299
+      - fix: 300
+        time: 2015-01-08T02:45:12Z
+        lat: -33.38609999
+        lng: 148.03451599
+      - fix: 696
+        time: 2015-01-08T03:51:50Z
+        lat: -33.82195999
+        lng: 148.08248299
+      - fix: 852
+        time: 2015-01-08T04:17:45Z
+        lat: -33.80858299
+        lng: 147.89823
+      - fix: 1369
+        time: 2015-01-08T05:45:03Z
+        lat: -33.6188
+        lng: 148.405716
+  - - Phil Seeley
+    - zonesTag:
+      - fix: 564
+        time: 2015-01-08T02:22:15Z
+        lat: -33.358583
+        lng: 147.92883
+      - fix: 2918
+        time: 2015-01-08T03:01:31Z
+        lat: -33.44169999
+        lng: 147.97881599
+      - null
+      - null
+      - null
+  - - Rohan Taylor
+    - zonesTag:
+      - fix: 252
+        time: 2015-01-08T01:33:08Z
+        lat: -33.35745
+        lng: 147.932983
+      - fix: 1114
+        time: 2015-01-08T02:45:07Z
+        lat: -33.41794999
+        lng: 148.01455
+      - fix: 1904
+        time: 2015-01-08T03:50:57Z
+        lat: -33.83173
+        lng: 148.06971599
+      - fix: 2210
+        time: 2015-01-08T04:16:28Z
+        lat: -33.80776
+        lng: 147.89796
+      - fix: 3350
+        time: 2015-01-08T05:51:32Z
+        lat: -33.62136
+        lng: 148.40825
+  - - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - fix: 548
+        time: 2015-01-08T02:58:25Z
+        lat: -33.4446
+        lng: 147.96945999
+      - fix: 1370
+        time: 2015-01-08T03:53:29Z
+        lat: -33.816
+        lng: 148.09943
+      - fix: 1949
+        time: 2015-01-08T04:31:57Z
+        lat: -33.82488299
+        lng: 147.90098299
+      - fix: 3317
+        time: 2015-01-08T06:03:29Z
+        lat: -33.621416
+        lng: 148.40653
+  - - Sander Van Schaik
+    - zonesTag:
+      - fix: 38
+        time: 2015-01-08T02:18:58Z
+        lat: -33.35846
+        lng: 147.93004999
+      - fix: 564
+        time: 2015-01-08T02:54:02Z
+        lat: -33.44558299
+        lng: 147.967116
+      - null
+      - null
+      - null
+  - - Sasha Serebrennikova
+    - zonesTag:
+      - fix: 119
+        time: 2015-01-08T02:18:08Z
+        lat: -33.35914999
+        lng: 147.9284
+      - fix: 1145
+        time: 2015-01-08T02:52:42Z
+        lat: -33.44955
+        lng: 147.94839999
+      - fix: 2935
+        time: 2015-01-08T03:52:56Z
+        lat: -33.835383
+        lng: 148.066483
+      - fix: 3667
+        time: 2015-01-08T04:17:26Z
+        lat: -33.803083
+        lng: 147.89672999
+      - fix: 6020
+        time: 2015-01-08T05:36:31Z
+        lat: -33.620516
+        lng: 148.405683
+  - - Simon Braithwaite
+    - zonesTag:
+      - fix: 66
+        time: 2015-01-08T02:12:05Z
+        lat: -33.35905999
+        lng: 147.93518299
+      - fix: 358
+        time: 2015-01-08T03:00:33Z
+        lat: -33.44859999
+        lng: 147.95411599
+      - fix: 689
+        time: 2015-01-08T03:55:50Z
+        lat: -33.82365
+        lng: 148.079583
+      - fix: 864
+        time: 2015-01-08T04:24:41Z
+        lat: -33.81353
+        lng: 147.8993
+      - fix: 1303
+        time: 2015-01-08T05:37:58Z
+        lat: -33.61965
+        lng: 148.40583
+  - - Steve Blenkinsop
+    - zonesTag:
+      - fix: 502
+        time: 2015-01-08T01:55:41Z
+        lat: -33.36352999
+        lng: 147.93459999
+      - fix: 1475
+        time: 2015-01-08T02:45:30Z
+        lat: -33.38886
+        lng: 148.03399999
+      - fix: 2646
+        time: 2015-01-08T03:45:29Z
+        lat: -33.82656
+        lng: 148.0754
+      - fix: 3172
+        time: 2015-01-08T04:12:23Z
+        lat: -33.81345999
+        lng: 147.89928299
+      - fix: 4316
+        time: 2015-01-08T05:11:00Z
+        lat: -33.62015999
+        lng: 148.40552999
+  - - Takeshi Yokoyama
+    - zonesTag:
+      - null
+      - fix: 152
+        time: 2015-01-08T03:20:41Z
+        lat: -33.44955999
+        lng: 147.92429999
+      - null
+      - null
+      - null
+  - - Thomas Lindal
+    - zonesTag:
+      - fix: 115
+        time: 2015-01-08T02:32:13Z
+        lat: -33.35763
+        lng: 147.93063
+      - fix: 671
+        time: 2015-01-08T03:00:11Z
+        lat: -33.44511599
+        lng: 147.96945999
+      - fix: 1806
+        time: 2015-01-08T03:57:27Z
+        lat: -33.82292999
+        lng: 148.0809
+      - null
+      - null
+  - - Trent Brown
+    - zonesTag:
+      - fix: 52
+        time: 2015-01-08T01:44:26Z
+        lat: -33.35861599
+        lng: 147.93421599
+      - fix: 920
+        time: 2015-01-08T02:57:05Z
+        lat: -33.44852999
+        lng: 147.954516
+      - fix: 1565
+        time: 2015-01-08T03:51:06Z
+        lat: -33.83373
+        lng: 148.068016
+      - fix: 1814
+        time: 2015-01-08T04:11:47Z
+        lat: -33.80742999
+        lng: 147.897983
+      - fix: 2593
+        time: 2015-01-08T05:17:10Z
+        lat: -33.62002999
+        lng: 148.40605999
+  - - Tullio Gervasoni
+    - zonesTag:
+      - fix: 69
+        time: 2015-01-08T01:58:30Z
+        lat: -33.36318299
+        lng: 147.929616
+      - fix: 351
+        time: 2015-01-08T02:45:22Z
+        lat: -33.38711599
+        lng: 148.0346
+      - fix: 745
+        time: 2015-01-08T03:51:00Z
+        lat: -33.82631599
+        lng: 148.075783
+      - fix: 877
+        time: 2015-01-08T04:12:35Z
+        lat: -33.80988299
+        lng: 147.89862999
+      - fix: 1235
+        time: 2015-01-08T05:12:26Z
+        lat: -33.61986
+        lng: 148.406
+  - - Victor Hare
+    - zonesTag:
+      - fix: 35
+        time: 2015-01-08T01:23:45Z
+        lat: -33.35752999
+        lng: 147.93272999
+      - fix: 530
+        time: 2015-01-08T02:46:02Z
+        lat: -33.44168299
+        lng: 147.978
+      - fix: 903
+        time: 2015-01-08T03:48:18Z
+        lat: -33.82222999
+        lng: 148.08221599
+      - fix: 1056
+        time: 2015-01-08T04:13:32Z
+        lat: -33.80944999
+        lng: 147.89834999
+      - fix: 1539
+        time: 2015-01-08T05:34:22Z
+        lat: -33.62049999
+        lng: 148.407216
+  - - Viv Clements
+    - zonesTag:
+      - fix: 185
+        time: 2015-01-08T02:18:48Z
+        lat: -33.36144998
+        lng: 147.927883
+      - fix: 2739
+        time: 2015-01-08T03:01:22Z
+        lat: -33.44109998
+        lng: 147.98019998
+      - fix: 7510
+        time: 2015-01-08T04:20:53Z
+        lat: -33.819583
+        lng: 148.08764998
+      - fix: 10308
+        time: 2015-01-08T05:07:31Z
+        lat: -33.796767
+        lng: 147.89459998
+      - null
+  - - Yasuhiro Noma
+    - zonesTag:
+      - fix: 150
+        time: 2015-01-08T01:59:10Z
+        lat: -33.35735999
+        lng: 147.93245999
+      - fix: 1082
+        time: 2015-01-08T02:45:46Z
+        lat: -33.39835
+        lng: 148.02956
+      - fix: 2269
+        time: 2015-01-08T03:45:07Z
+        lat: -33.82186
+        lng: 148.08338299
+      - fix: 2811
+        time: 2015-01-08T04:12:13Z
+        lat: -33.81654999
+        lng: 147.89984999
+      - fix: 4246
+        time: 2015-01-08T05:23:59Z
+        lat: -33.62101599
+        lng: 148.406
+  - - Yoko Isomoto
+    - zonesTag:
+      - fix: 66
+        time: 2015-01-08T01:23:00Z
+        lat: -33.35795
+        lng: 147.93115
+      - fix: 1054
+        time: 2015-01-08T02:45:22Z
+        lat: -33.386316
+        lng: 148.03476
+      - fix: 1864
+        time: 2015-01-08T03:52:55Z
+        lat: -33.8173
+        lng: 148.13013
+      - fix: 2686
+        time: 2015-01-08T05:01:27Z
+        lat: -33.837516
+        lng: 147.9017
+      - fix: 3812
+        time: 2015-01-08T06:35:26Z
+        lat: -33.620783
+        lng: 148.40583
+  - - Zac Majors
+    - zonesTag:
+      - fix: 403
+        time: 2015-01-08T01:57:17Z
+        lat: -33.36424999
+        lng: 147.93303
+      - fix: 1843
+        time: 2015-01-08T02:45:22Z
+        lat: -33.40551599
+        lng: 148.02526
+      - fix: 3356
+        time: 2015-01-08T03:36:07Z
+        lat: -33.82965
+        lng: 148.07175
+      - fix: 4426
+        time: 2015-01-08T04:11:52Z
+        lat: -33.830716
+        lng: 147.90154999
+      - fix: 6686
+        time: 2015-01-08T05:27:27Z
+        lat: -33.61978299
+        lng: 148.405516

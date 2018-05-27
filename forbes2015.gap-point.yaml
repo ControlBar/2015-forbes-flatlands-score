@@ -1,0 +1,4729 @@
+validityWorking:
+- time:
+    bestDistance: 135.6 km
+    nominalTime: 1.5 h
+    bestTime: 2.584998 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 51
+    present: 52
+  distance:
+    sum: 5196.8 km
+    flying: 51
+    area: 63.82751787
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 135.6 km
+- time:
+    bestDistance: 163.4 km
+    nominalTime: 1.5 h
+    bestTime: 2.641944 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 48
+    present: 50
+  distance:
+    sum: 5882.3 km
+    flying: 48
+    area: 67.30215725
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 163.4 km
+- time:
+    bestDistance: 192.5 km
+    nominalTime: 1.5 h
+    bestTime: 2.417777 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 50
+    present: 52
+  distance:
+    sum: 7961.6 km
+    flying: 50
+    area: 70.94146337
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 192.5 km
+- time:
+    bestDistance: 250.3 km
+    nominalTime: 1.5 h
+    bestTime: 4.514444 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 51
+    present: 52
+  distance:
+    sum: 9604.4 km
+    flying: 51
+    area: 78.16634712
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 250.3 km
+- time:
+    bestDistance: 158.4 km
+    nominalTime: 1.5 h
+    bestTime: 3.33 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 51
+    present: 51
+  distance:
+    sum: 4397.2 km
+    flying: 51
+    area: 66.67962912
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 158.4 km
+- time:
+    bestDistance: 123.1 km
+    nominalTime: 1.5 h
+    bestTime: 2.209166 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 50
+    present: 50
+  distance:
+    sum: 4583.6 km
+    flying: 50
+    area: 62.26890062
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 123.1 km
+validity:
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+allocation:
+- goalRatio: 0.64705882
+  weight:
+    distance: 0.38082821
+    leading: 0.10835506
+    arrival: 7.739647e-2
+    time: 0.43342025
+  points:
+    reach: 190.4
+    effort: 190.4
+    distance: 380.8
+    leading: 108.3
+    arrival: 77.3
+    time: 433.4
+  taskPoints: 1000
+- goalRatio: 0.6875
+  weight:
+    distance: 0.37422631
+    leading: 0.10951039
+    arrival: 7.822171e-2
+    time: 0.43804157
+  points:
+    reach: 187.1
+    effort: 187.1
+    distance: 374.2
+    leading: 109.5
+    arrival: 78.2
+    time: 438.0
+  taskPoints: 1000
+- goalRatio: 0.76
+  weight:
+    distance: 0.36634988
+    leading: 0.11088876
+    arrival: 7.920626e-2
+    time: 0.44355507
+  points:
+    reach: 183.1
+    effort: 183.1
+    distance: 366.3
+    leading: 110.8
+    arrival: 79.2
+    time: 443.5
+  taskPoints: 1000
+- goalRatio: 0.52941176
+  weight:
+    distance: 0.41154345
+    leading: 0.10297989
+    arrival: 7.355706e-2
+    time: 0.41191958
+  points:
+    reach: 205.7
+    effort: 205.7
+    distance: 411.5
+    leading: 102.9
+    arrival: 73.5
+    time: 411.9
+  taskPoints: 1000
+- goalRatio: 1.960784e-2
+  weight:
+    distance: 0.8680071
+    leading: 2.309875e-2
+    arrival: 1.649911e-2
+    time: 9.239502e-2
+  points:
+    reach: 434.0
+    effort: 434.0
+    distance: 868.0
+    leading: 23.0
+    arrival: 16.4
+    time: 92.3
+  taskPoints: 1000
+- goalRatio: 0.72
+  weight:
+    distance: 0.37012262
+    leading: 0.11022854
+    arrival: 7.873467e-2
+    time: 0.44091416
+  points:
+    reach: 185.0
+    effort: 185.0
+    distance: 370.1
+    leading: 110.2
+    arrival: 78.7
+    time: 440.9
+  taskPoints: 1000
+score:
+- - - Adam Jones
+    - total: 6.0
+      breakdown:
+        reach: 4.8
+        effort: 1.7
+        distance: 6.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        es: null
+        distance: 3.4 km
+        elapsed: null
+        velocity: null
+  - - Peter Dall
+    - total: 54.0
+      breakdown:
+        reach: 54.7
+        effort: 0
+        distance: 54.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:01:21Z
+        es: null
+        distance: 39.0 km
+        elapsed: null
+        velocity: null
+  - - Yoko Isomoto
+    - total: 65.0
+      breakdown:
+        reach: 65.3
+        effort: 0
+        distance: 65.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:01:27Z
+        es: null
+        distance: 46.5 km
+        elapsed: null
+        velocity: null
+  - - Emiel Jansen
+    - total: 68.0
+      breakdown:
+        reach: 68.9
+        effort: 0
+        distance: 68.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:47:32Z
+        es: null
+        distance: 49.1 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 69.0
+      breakdown:
+        reach: 69.1
+        effort: 0
+        distance: 69.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:02:38Z
+        es: null
+        distance: 49.2 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 93.0
+      breakdown:
+        reach: 93.2
+        effort: 0
+        distance: 93.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:01:28Z
+        es: null
+        distance: 66.3 km
+        elapsed: null
+        velocity: null
+  - - Josh Woods
+    - total: 100.0
+      breakdown:
+        reach: 100.2
+        effort: 0
+        distance: 100.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:04:26Z
+        es: null
+        distance: 71.4 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 100.0
+      breakdown:
+        reach: 100.8
+        effort: 0
+        distance: 100.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:38:11Z
+        es: null
+        distance: 71.8 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 101.0
+      breakdown:
+        reach: 101.4
+        effort: 0
+        distance: 101.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:15:26Z
+        es: null
+        distance: 72.2 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 149.0
+      breakdown:
+        reach: 100.5
+        effort: 49.3
+        distance: 149.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:45:37Z
+        es: null
+        distance: 71.6 km
+        elapsed: null
+        velocity: null
+  - - Chris Czajkowski
+    - total: 157.0
+      breakdown:
+        reach: 100.7
+        effort: 56.3
+        distance: 157.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:45:42Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 157.0
+      breakdown:
+        reach: 100.7
+        effort: 56.3
+        distance: 157.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:16:52Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Sasha Serebrennikova
+    - total: 157.0
+      breakdown:
+        reach: 100.7
+        effort: 56.3
+        distance: 157.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:01:22Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Simon Braithwaite
+    - total: 157.0
+      breakdown:
+        reach: 100.7
+        effort: 56.3
+        distance: 157.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:45:32Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Thomas Lindal
+    - total: 157.0
+      breakdown:
+        reach: 100.8
+        effort: 56.3
+        distance: 157.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T02:57:09Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 162.0
+      breakdown:
+        reach: 104.9
+        effort: 57.1
+        distance: 162.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:11:19Z
+        es: null
+        distance: 74.7 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 168.0
+      breakdown:
+        reach: 168.4
+        effort: 0
+        distance: 168.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:01:13Z
+        es: null
+        distance: 119.9 km
+        elapsed: null
+        velocity: null
+  - - Yasuhiro Noma
+    - total: 278.0
+      breakdown:
+        reach: 183.1
+        effort: 95.2
+        distance: 278.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-01T03:15:17Z
+        es: null
+        distance: 130.4 km
+        elapsed: null
+        velocity: null
+  - - Takeshi Yokoyama
+    - total: 578.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.2
+        arrival: 15.5
+        time: 74.8
+      velocity:
+        ss: 2015-01-01T03:02:28Z
+        es: 2015-01-01T06:50:09Z
+        distance: 135.6 km
+        elapsed: 3.794722 h
+        velocity: 35.7 km / h
+  - - Dale Regehr
+    - total: 620.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.5
+        arrival: 15.7
+        time: 116.5
+      velocity:
+        ss: 2015-01-01T02:58:43Z
+        es: 2015-01-01T06:34:07Z
+        distance: 135.6 km
+        elapsed: 3.589999 h
+        velocity: 37.7 km / h
+  - - Mikhail Karmazin
+    - total: 645.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.7
+        arrival: 17.0
+        time: 140.1
+      velocity:
+        ss: 2015-01-01T02:43:27Z
+        es: 2015-01-01T06:12:15Z
+        distance: 135.6 km
+        elapsed: 3.479998 h
+        velocity: 38.9 km / h
+  - - Mark Russell
+    - total: 650.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 16.3
+        time: 145.6
+      velocity:
+        ss: 2015-01-01T02:49:34Z
+        es: 2015-01-01T06:16:52Z
+        distance: 135.6 km
+        elapsed: 3.455 h
+        velocity: 39.2 km / h
+  - - Conrad Loten
+    - total: 654.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.4
+        arrival: 15.8
+        time: 149.9
+      velocity:
+        ss: 2015-01-01T03:00:58Z
+        es: 2015-01-01T06:27:05Z
+        distance: 135.6 km
+        elapsed: 3.435277 h
+        velocity: 39.4 km / h
+  - - Lukas Bader
+    - total: 672.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 16.0
+        time: 167.6
+      velocity:
+        ss: 2015-01-01T03:01:10Z
+        es: 2015-01-01T06:22:36Z
+        distance: 135.6 km
+        elapsed: 3.357222 h
+        velocity: 40.3 km / h
+  - - Jon snr Durand
+    - total: 684.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 108.3
+        arrival: 18.6
+        time: 176.4
+      velocity:
+        ss: 2015-01-01T02:45:02Z
+        es: 2015-01-01T06:04:11Z
+        distance: 135.6 km
+        elapsed: 3.319166 h
+        velocity: 40.8 km / h
+  - - Nils Vesk
+    - total: 692.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 108.2
+        arrival: 20.2
+        time: 183.3
+      velocity:
+        ss: 2015-01-01T02:45:52Z
+        es: 2015-01-01T06:03:14Z
+        distance: 135.6 km
+        elapsed: 3.289444 h
+        velocity: 41.2 km / h
+  - - Grant Heaney
+    - total: 707.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.8
+        arrival: 22.2
+        time: 196.5
+      velocity:
+        ss: 2015-01-01T02:48:16Z
+        es: 2015-01-01T06:02:21Z
+        distance: 135.6 km
+        elapsed: 3.234722 h
+        velocity: 41.9 km / h
+  - - Phil Schroder
+    - total: 741.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.7
+        arrival: 17.4
+        time: 235.6
+      velocity:
+        ss: 2015-01-01T03:02:41Z
+        es: 2015-01-01T06:07:31Z
+        distance: 135.6 km
+        elapsed: 3.080554 h
+        velocity: 44.0 km / h
+  - - Guy Hubbard
+    - total: 749.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.9
+        arrival: 38.9
+        time: 221.8
+      velocity:
+        ss: 2015-01-01T02:45:14Z
+        es: 2015-01-01T05:53:14Z
+        distance: 135.6 km
+        elapsed: 3.133332 h
+        velocity: 43.2 km / h
+  - - Jochen Zeischka
+    - total: 756.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.8
+        arrival: 19.3
+        time: 248.4
+      velocity:
+        ss: 2015-01-01T03:02:06Z
+        es: 2015-01-01T06:04:06Z
+        distance: 135.6 km
+        elapsed: 3.033332 h
+        velocity: 44.7 km / h
+  - - Zac Majors
+    - total: 757.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 16.6
+        time: 252.2
+      velocity:
+        ss: 2015-01-01T03:15:10Z
+        es: 2015-01-01T06:16:20Z
+        distance: 135.6 km
+        elapsed: 3.019444 h
+        velocity: 44.9 km / h
+  - - Tullio Gervasoni
+    - total: 761.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.8
+        arrival: 21.1
+        time: 251.7
+      velocity:
+        ss: 2015-01-01T03:01:12Z
+        es: 2015-01-01T06:02:29Z
+        distance: 135.6 km
+        elapsed: 3.021387 h
+        velocity: 44.8 km / h
+  - - Kato Minoru
+    - total: 764.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 108.3
+        arrival: 41.7
+        time: 233.6
+      velocity:
+        ss: 2015-01-01T02:45:33Z
+        es: 2015-01-01T05:50:50Z
+        distance: 135.6 km
+        elapsed: 3.088055 h
+        velocity: 43.9 km / h
+  - - Andrew Barnes
+    - total: 771.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 23.4
+        time: 259.2
+      velocity:
+        ss: 2015-01-01T03:01:57Z
+        es: 2015-01-01T06:01:38Z
+        distance: 135.6 km
+        elapsed: 2.994721 h
+        velocity: 45.2 km / h
+  - - Steve Blenkinsop
+    - total: 777.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.8
+        arrival: 24.8
+        time: 263.7
+      velocity:
+        ss: 2015-01-01T03:01:05Z
+        es: 2015-01-01T05:59:49Z
+        distance: 135.6 km
+        elapsed: 2.978887 h
+        velocity: 45.5 km / h
+  - - Jonas Lobitz
+    - total: 784.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.5
+        arrival: 26.3
+        time: 270.0
+      velocity:
+        ss: 2015-01-01T03:02:23Z
+        es: 2015-01-01T05:59:49Z
+        distance: 135.6 km
+        elapsed: 2.957221 h
+        velocity: 45.8 km / h
+  - - Harrison Rowntree
+    - total: 793.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.8
+        arrival: 51.3
+        time: 253.1
+      velocity:
+        ss: 2015-01-01T02:46:12Z
+        es: 2015-01-01T05:47:11Z
+        distance: 135.6 km
+        elapsed: 3.016388 h
+        velocity: 44.9 km / h
+  - - Gavin Myers
+    - total: 795.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.9
+        arrival: 55.0
+        time: 251.5
+      velocity:
+        ss: 2015-01-01T02:45:27Z
+        es: 2015-01-01T05:46:46Z
+        distance: 135.6 km
+        elapsed: 3.021943 h
+        velocity: 44.8 km / h
+  - - Filippo Oppici
+    - total: 800.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.7
+        arrival: 29.8
+        time: 282.1
+      velocity:
+        ss: 2015-01-01T03:02:18Z
+        es: 2015-01-01T05:57:18Z
+        distance: 135.6 km
+        elapsed: 2.916666 h
+        velocity: 46.4 km / h
+  - - Trent Brown
+    - total: 808.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 18.0
+        time: 302.4
+      velocity:
+        ss: 2015-01-01T03:15:07Z
+        es: 2015-01-01T06:06:14Z
+        distance: 135.6 km
+        elapsed: 2.851944 h
+        velocity: 47.5 km / h
+  - - Gijs Wanders
+    - total: 812.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.9
+        arrival: 59.0
+        time: 265.1
+      velocity:
+        ss: 2015-01-01T02:45:05Z
+        es: 2015-01-01T05:43:31Z
+        distance: 135.6 km
+        elapsed: 2.973888 h
+        velocity: 45.6 km / h
+  - - Gordon Rigg
+    - total: 816.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 34.0
+        time: 293.6
+      velocity:
+        ss: 2015-01-01T03:03:03Z
+        es: 2015-01-01T05:55:49Z
+        distance: 135.6 km
+        elapsed: 2.879443 h
+        velocity: 47.0 km / h
+  - - Oyvind Ellefsen
+    - total: 857.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 44.7
+        time: 324.1
+      velocity:
+        ss: 2015-01-01T03:01:13Z
+        es: 2015-01-01T05:48:32Z
+        distance: 135.6 km
+        elapsed: 2.78861 h
+        velocity: 48.6 km / h
+  - - Olav Olsen
+    - total: 860.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.9
+        arrival: 72.3
+        time: 299.2
+      velocity:
+        ss: 2015-01-01T02:45:35Z
+        es: 2015-01-01T05:37:18Z
+        distance: 135.6 km
+        elapsed: 2.861943 h
+        velocity: 47.3 km / h
+  - - Christian Voiblet
+    - total: 860.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 47.9
+        time: 324.0
+      velocity:
+        ss: 2015-01-01T03:01:11Z
+        es: 2015-01-01T05:48:31Z
+        distance: 135.6 km
+        elapsed: 2.788888 h
+        velocity: 48.6 km / h
+  - - Glen Mcfarlane
+    - total: 872.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.4
+        arrival: 27.9
+        time: 356.1
+      velocity:
+        ss: 2015-01-01T03:15:26Z
+        es: 2015-01-01T05:57:48Z
+        distance: 135.6 km
+        elapsed: 2.70611 h
+        velocity: 50.1 km / h
+  - - Len Paton
+    - total: 891.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.6
+        arrival: 31.8
+        time: 370.7
+      velocity:
+        ss: 2015-01-01T03:16:16Z
+        es: 2015-01-01T05:56:40Z
+        distance: 135.6 km
+        elapsed: 2.673332 h
+        velocity: 50.7 km / h
+  - - Jonny Durand
+    - total: 901.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.5
+        arrival: 36.3
+        time: 376.9
+      velocity:
+        ss: 2015-01-01T03:15:12Z
+        es: 2015-01-01T05:54:50Z
+        distance: 135.6 km
+        elapsed: 2.660555 h
+        velocity: 50.9 km / h
+  - - Gerolf Heinrichs
+    - total: 910.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.9
+        arrival: 63.2
+        time: 358.4
+      velocity:
+        ss: 2015-01-01T03:01:10Z
+        es: 2015-01-01T05:43:12Z
+        distance: 135.6 km
+        elapsed: 2.700555 h
+        velocity: 50.2 km / h
+  - - Attila Bertok
+    - total: 980.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.7
+        arrival: 77.3
+        time: 414.9
+      velocity:
+        ss: 2015-01-01T03:00:54Z
+        es: 2015-01-01T05:36:51Z
+        distance: 135.6 km
+        elapsed: 2.599165 h
+        velocity: 52.1 km / h
+  - - Olav Opsanger
+    - total: 989.0
+      breakdown:
+        reach: 190.4
+        effort: 190.4
+        distance: 380.8
+        leading: 107.7
+        arrival: 67.6
+        time: 433.4
+      velocity:
+        ss: 2015-01-01T03:03:04Z
+        es: 2015-01-01T05:38:10Z
+        distance: 135.6 km
+        elapsed: 2.584998 h
+        velocity: 52.4 km / h
+- - - Yoko Isomoto
+    - total: 31.0
+      breakdown:
+        reach: 31.3
+        effort: 0
+        distance: 31.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:39:31Z
+        es: null
+        distance: 27.4 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 31.0
+      breakdown:
+        reach: 31.5
+        effort: 0
+        distance: 31.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:27:58Z
+        es: null
+        distance: 27.5 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 49.0
+      breakdown:
+        reach: 49.8
+        effort: 0
+        distance: 49.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:49:53Z
+        es: null
+        distance: 43.4 km
+        elapsed: null
+        velocity: null
+  - - Takeshi Yokoyama
+    - total: 65.0
+      breakdown:
+        reach: 65.7
+        effort: 0
+        distance: 65.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:47:19Z
+        es: null
+        distance: 57.3 km
+        elapsed: null
+        velocity: null
+  - - Josh Woods
+    - total: 65.0
+      breakdown:
+        reach: 65.8
+        effort: 0
+        distance: 65.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:22:09Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Yasuhiro Noma
+    - total: 65.0
+      breakdown:
+        reach: 65.8
+        effort: 0
+        distance: 65.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:24:34Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Simon Braithwaite
+    - total: 65.0
+      breakdown:
+        reach: 65.8
+        effort: 0
+        distance: 65.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:58:34Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 65.0
+      breakdown:
+        reach: 65.8
+        effort: 0
+        distance: 65.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:42:32Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 65.0
+      breakdown:
+        reach: 65.9
+        effort: 0
+        distance: 65.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:20:05Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Chris Czajkowski
+    - total: 65.0
+      breakdown:
+        reach: 65.9
+        effort: 0
+        distance: 65.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:29:06Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Grant Heaney
+    - total: 80.0
+      breakdown:
+        reach: 80.5
+        effort: 0
+        distance: 80.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:46:23Z
+        es: null
+        distance: 70.3 km
+        elapsed: null
+        velocity: null
+  - - Emiel Jansen
+    - total: 97.0
+      breakdown:
+        reach: 97.1
+        effort: 0
+        distance: 97.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:24:54Z
+        es: null
+        distance: 84.8 km
+        elapsed: null
+        velocity: null
+  - - Peter Dall
+    - total: 111.0
+      breakdown:
+        reach: 111.3
+        effort: 0
+        distance: 111.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:31:13Z
+        es: null
+        distance: 97.2 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 111.0
+      breakdown:
+        reach: 111.7
+        effort: 0
+        distance: 111.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:42:40Z
+        es: null
+        distance: 97.6 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 135.0
+      breakdown:
+        reach: 135.4
+        effort: 0
+        distance: 135.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:47:28Z
+        es: null
+        distance: 118.3 km
+        elapsed: null
+        velocity: null
+  - - Sasha Serebrennikova
+    - total: 497.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 107.6
+        arrival: 15.7
+        time: 0
+      velocity:
+        ss: 2015-01-02T03:33:42Z
+        es: 2015-01-02T07:53:05Z
+        distance: 163.4 km
+        elapsed: 4.323055 h
+        velocity: 37.8 km / h
+  - - Andrew Barnes
+    - total: 498.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.1
+        arrival: 16.2
+        time: 0
+      velocity:
+        ss: 2015-01-02T02:45:55Z
+        es: 2015-01-02T07:14:43Z
+        distance: 163.4 km
+        elapsed: 4.48 h
+        velocity: 36.4 km / h
+  - - Harrison Rowntree
+    - total: 514.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.2
+        arrival: 15.8
+        time: 16.4
+      velocity:
+        ss: 2015-01-02T03:16:45Z
+        es: 2015-01-02T07:27:20Z
+        distance: 163.4 km
+        elapsed: 4.176388 h
+        velocity: 39.1 km / h
+  - - Phil Schroder
+    - total: 547.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.8
+        arrival: 16.8
+        time: 47.7
+      velocity:
+        ss: 2015-01-02T02:48:34Z
+        es: 2015-01-02T06:49:06Z
+        distance: 163.4 km
+        elapsed: 4.008887 h
+        velocity: 40.7 km / h
+  - - Mikhail Karmazin
+    - total: 548.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.7
+        arrival: 16.4
+        time: 49.2
+      velocity:
+        ss: 2015-01-02T02:52:31Z
+        es: 2015-01-02T06:52:34Z
+        distance: 163.4 km
+        elapsed: 4.000833 h
+        velocity: 40.8 km / h
+  - - Rohan Taylor
+    - total: 596.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 107.9
+        arrival: 16.0
+        time: 98.1
+      velocity:
+        ss: 2015-01-02T03:34:07Z
+        es: 2015-01-02T07:19:18Z
+        distance: 163.4 km
+        elapsed: 3.753054 h
+        velocity: 43.5 km / h
+  - - Victor Hare
+    - total: 606.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.5
+        arrival: 17.6
+        time: 106.4
+      velocity:
+        ss: 2015-01-02T02:49:03Z
+        es: 2015-01-02T06:31:48Z
+        distance: 163.4 km
+        elapsed: 3.712499 h
+        velocity: 44.0 km / h
+  - - Gavin Myers
+    - total: 608.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.4
+        arrival: 18.1
+        time: 107.8
+      velocity:
+        ss: 2015-01-02T02:46:28Z
+        es: 2015-01-02T06:28:48Z
+        distance: 163.4 km
+        elapsed: 3.705554 h
+        velocity: 44.1 km / h
+  - - Geoff Robertson
+    - total: 632.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.5
+        arrival: 20.4
+        time: 129.8
+      velocity:
+        ss: 2015-01-02T02:46:05Z
+        es: 2015-01-02T06:22:10Z
+        distance: 163.4 km
+        elapsed: 3.601388 h
+        velocity: 45.3 km / h
+  - - Mark Russell
+    - total: 645.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.6
+        arrival: 21.3
+        time: 141.5
+      velocity:
+        ss: 2015-01-02T02:48:27Z
+        es: 2015-01-02T06:21:17Z
+        distance: 163.4 km
+        elapsed: 3.547222 h
+        velocity: 46.0 km / h
+  - - Glen Mcfarlane
+    - total: 648.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.2
+        arrival: 17.1
+        time: 149.3
+      velocity:
+        ss: 2015-01-02T03:10:05Z
+        es: 2015-01-02T06:40:47Z
+        distance: 163.4 km
+        elapsed: 3.511665 h
+        velocity: 46.5 km / h
+  - - Tullio Gervasoni
+    - total: 654.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.5
+        arrival: 22.4
+        time: 148.9
+      velocity:
+        ss: 2015-01-02T02:48:22Z
+        es: 2015-01-02T06:19:11Z
+        distance: 163.4 km
+        elapsed: 3.513611 h
+        velocity: 46.5 km / h
+  - - Filippo Oppici
+    - total: 665.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.4
+        arrival: 18.8
+        time: 163.7
+      velocity:
+        ss: 2015-01-02T03:01:53Z
+        es: 2015-01-02T06:28:43Z
+        distance: 163.4 km
+        elapsed: 3.447222 h
+        velocity: 47.4 km / h
+  - - Nils Vesk
+    - total: 666.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.9
+        arrival: 26.6
+        time: 156.3
+      velocity:
+        ss: 2015-01-02T02:46:59Z
+        es: 2015-01-02T06:15:48Z
+        distance: 163.4 km
+        elapsed: 3.480277 h
+        velocity: 46.9 km / h
+  - - Steve Blenkinsop
+    - total: 690.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.1
+        arrival: 28.2
+        time: 179.0
+      velocity:
+        ss: 2015-01-02T02:46:02Z
+        es: 2015-01-02T06:08:53Z
+        distance: 163.4 km
+        elapsed: 3.380832 h
+        velocity: 48.3 km / h
+  - - Federico Martini
+    - total: 704.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.3
+        arrival: 19.5
+        time: 202.0
+      velocity:
+        ss: 2015-01-02T03:09:21Z
+        es: 2015-01-02T06:26:26Z
+        distance: 163.4 km
+        elapsed: 3.284721 h
+        velocity: 49.7 km / h
+  - - Oyvind Ellefsen
+    - total: 704.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.7
+        arrival: 30.1
+        time: 191.4
+      velocity:
+        ss: 2015-01-02T02:48:22Z
+        es: 2015-01-02T06:08:05Z
+        distance: 163.4 km
+        elapsed: 3.32861 h
+        velocity: 49.0 km / h
+  - - Olav Olsen
+    - total: 714.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.8
+        arrival: 32.1
+        time: 199.6
+      velocity:
+        ss: 2015-01-02T02:45:35Z
+        es: 2015-01-02T06:03:15Z
+        distance: 163.4 km
+        elapsed: 3.294443 h
+        velocity: 49.6 km / h
+  - - Gijs Wanders
+    - total: 740.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.7
+        arrival: 34.3
+        time: 223.1
+      velocity:
+        ss: 2015-01-02T02:47:34Z
+        es: 2015-01-02T05:59:35Z
+        distance: 163.4 km
+        elapsed: 3.200276 h
+        velocity: 51.0 km / h
+  - - Kato Minoru
+    - total: 750.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.3
+        arrival: 39.3
+        time: 227.2
+      velocity:
+        ss: 2015-01-02T02:48:09Z
+        es: 2015-01-02T05:59:14Z
+        distance: 163.4 km
+        elapsed: 3.184721 h
+        velocity: 51.3 km / h
+  - - Guy Hubbard
+    - total: 759.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.2
+        arrival: 51.9
+        time: 224.4
+      velocity:
+        ss: 2015-01-02T02:45:42Z
+        es: 2015-01-02T05:57:26Z
+        distance: 163.4 km
+        elapsed: 3.195555 h
+        velocity: 51.1 km / h
+  - - Olav Opsanger
+    - total: 763.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.2
+        arrival: 45.2
+        time: 235.2
+      velocity:
+        ss: 2015-01-02T02:48:18Z
+        es: 2015-01-02T05:57:32Z
+        distance: 163.4 km
+        elapsed: 3.153887 h
+        velocity: 51.8 km / h
+  - - Lukas Bader
+    - total: 767.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.7
+        arrival: 48.4
+        time: 235.5
+      velocity:
+        ss: 2015-01-02T02:48:16Z
+        es: 2015-01-02T05:57:26Z
+        distance: 163.4 km
+        elapsed: 3.152776 h
+        velocity: 51.8 km / h
+  - - Conrad Loten
+    - total: 775.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.1
+        arrival: 63.8
+        time: 228.0
+      velocity:
+        ss: 2015-01-02T02:45:12Z
+        es: 2015-01-02T05:56:05Z
+        distance: 163.4 km
+        elapsed: 3.181388 h
+        velocity: 51.3 km / h
+  - - Gerolf Heinrichs
+    - total: 775.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.8
+        arrival: 23.7
+        time: 269.2
+      velocity:
+        ss: 2015-01-02T03:15:22Z
+        es: 2015-01-02T06:17:13Z
+        distance: 163.4 km
+        elapsed: 3.030832 h
+        velocity: 53.9 km / h
+  - - Christian Voiblet
+    - total: 782.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.8
+        arrival: 55.6
+        time: 244.1
+      velocity:
+        ss: 2015-01-02T02:49:21Z
+        es: 2015-01-02T05:56:35Z
+        distance: 163.4 km
+        elapsed: 3.120554 h
+        velocity: 52.3 km / h
+  - - Jonny Durand
+    - total: 800.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.9
+        arrival: 36.7
+        time: 281.0
+      velocity:
+        ss: 2015-01-02T03:00:02Z
+        es: 2015-01-02T05:59:28Z
+        distance: 163.4 km
+        elapsed: 2.990555 h
+        velocity: 54.6 km / h
+  - - Attila Bertok
+    - total: 805.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.3
+        arrival: 25.0
+        time: 298.1
+      velocity:
+        ss: 2015-01-02T03:20:01Z
+        es: 2015-01-02T06:16:08Z
+        distance: 163.4 km
+        elapsed: 2.935277 h
+        velocity: 55.6 km / h
+  - - Trent Brown
+    - total: 812.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.1
+        arrival: 42.1
+        time: 287.3
+      velocity:
+        ss: 2015-01-02T03:00:07Z
+        es: 2015-01-02T05:58:19Z
+        distance: 163.4 km
+        elapsed: 2.97 h
+        velocity: 55.0 km / h
+  - - Jonas Lobitz
+    - total: 840.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 108.7
+        arrival: 59.6
+        time: 297.6
+      velocity:
+        ss: 2015-01-02T03:00:12Z
+        es: 2015-01-02T05:56:25Z
+        distance: 163.4 km
+        elapsed: 2.936943 h
+        velocity: 55.6 km / h
+  - - Gordon Rigg
+    - total: 891.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.3
+        arrival: 68.3
+        time: 339.7
+      velocity:
+        ss: 2015-01-02T02:45:31Z
+        es: 2015-01-02T05:34:24Z
+        distance: 163.4 km
+        elapsed: 2.814722 h
+        velocity: 58.0 km / h
+  - - Jochen Zeischka
+    - total: 967.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.5
+        arrival: 73.1
+        time: 410.7
+      velocity:
+        ss: 2015-01-02T02:48:23Z
+        es: 2015-01-02T05:28:25Z
+        distance: 163.4 km
+        elapsed: 2.667222 h
+        velocity: 61.2 km / h
+  - - Zac Majors
+    - total: 999.0
+      breakdown:
+        reach: 187.1
+        effort: 187.1
+        distance: 374.2
+        leading: 109.0
+        arrival: 78.2
+        time: 438.0
+      velocity:
+        ss: 2015-01-02T02:46:13Z
+        es: 2015-01-02T05:24:44Z
+        distance: 163.4 km
+        elapsed: 2.641944 h
+        velocity: 61.8 km / h
+- - - Thomas Lindal
+    - total: 22.0
+      breakdown:
+        reach: 22.0
+        effort: 0
+        distance: 22.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:02:02Z
+        es: null
+        distance: 23.1 km
+        elapsed: null
+        velocity: null
+  - - Yoko Isomoto
+    - total: 43.0
+      breakdown:
+        reach: 43.2
+        effort: 0
+        distance: 43.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T02:46:22Z
+        es: null
+        distance: 45.4 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 66.0
+      breakdown:
+        reach: 66.8
+        effort: 0
+        distance: 66.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:31:05Z
+        es: null
+        distance: 70.2 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 84.0
+      breakdown:
+        reach: 84.8
+        effort: 0
+        distance: 84.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T02:46:25Z
+        es: null
+        distance: 89.2 km
+        elapsed: null
+        velocity: null
+  - - Peter Dall
+    - total: 96.0
+      breakdown:
+        reach: 96.4
+        effort: 0
+        distance: 96.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T02:57:38Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Phil Schroder
+    - total: 96.0
+      breakdown:
+        reach: 96.5
+        effort: 0
+        distance: 96.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:13:30Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 96.0
+      breakdown:
+        reach: 96.5
+        effort: 0
+        distance: 96.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:16:38Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 96.0
+      breakdown:
+        reach: 96.5
+        effort: 0
+        distance: 96.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:02:23Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 96.0
+      breakdown:
+        reach: 96.5
+        effort: 0
+        distance: 96.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:13:35Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Lukas Bader
+    - total: 96.0
+      breakdown:
+        reach: 96.5
+        effort: 0
+        distance: 96.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T02:44:43Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Adam Jones
+    - total: 142.0
+      breakdown:
+        reach: 142.4
+        effort: 0
+        distance: 142.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:15:26Z
+        es: null
+        distance: 149.7 km
+        elapsed: null
+        velocity: null
+  - - Emiel Jansen
+    - total: 151.0
+      breakdown:
+        reach: 151.0
+        effort: 0
+        distance: 151.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-03T03:12:11Z
+        es: null
+        distance: 158.7 km
+        elapsed: null
+        velocity: null
+  - - Sasha Serebrennikova
+    - total: 539.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 15.9
+        time: 46.4
+      velocity:
+        ss: 2015-01-03T02:44:59Z
+        es: 2015-01-03T06:29:04Z
+        distance: 192.5 km
+        elapsed: 3.734722 h
+        velocity: 51.5 km / h
+  - - Chris Czajkowski
+    - total: 541.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 16.3
+        time: 48.9
+      velocity:
+        ss: 2015-01-03T02:45:04Z
+        es: 2015-01-03T06:28:26Z
+        distance: 192.5 km
+        elapsed: 3.722776 h
+        velocity: 51.7 km / h
+  - - Nils Vesk
+    - total: 544.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.7
+        arrival: 16.0
+        time: 52.6
+      velocity:
+        ss: 2015-01-03T02:46:42Z
+        es: 2015-01-03T06:28:57Z
+        distance: 192.5 km
+        elapsed: 3.704165 h
+        velocity: 51.9 km / h
+  - - Victor Hare
+    - total: 618.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.2
+        arrival: 17.0
+        time: 124.6
+      velocity:
+        ss: 2015-01-03T02:46:22Z
+        es: 2015-01-03T06:08:19Z
+        distance: 192.5 km
+        elapsed: 3.365832 h
+        velocity: 57.2 km / h
+  - - Mark Russell
+    - total: 651.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 18.2
+        time: 156.5
+      velocity:
+        ss: 2015-01-03T02:44:39Z
+        es: 2015-01-03T05:58:17Z
+        distance: 192.5 km
+        elapsed: 3.227221 h
+        velocity: 59.6 km / h
+  - - Mikhail Karmazin
+    - total: 654.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.0
+        arrival: 17.7
+        time: 159.9
+      velocity:
+        ss: 2015-01-03T02:46:32Z
+        es: 2015-01-03T05:59:18Z
+        distance: 192.5 km
+        elapsed: 3.212776 h
+        velocity: 59.9 km / h
+  - - Rohan Taylor
+    - total: 654.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.5
+        arrival: 16.1
+        time: 162.6
+      velocity:
+        ss: 2015-01-03T03:16:24Z
+        es: 2015-01-03T06:28:29Z
+        distance: 192.5 km
+        elapsed: 3.201388 h
+        velocity: 60.1 km / h
+  - - Josh Woods
+    - total: 660.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.7
+        arrival: 16.5
+        time: 167.5
+      velocity:
+        ss: 2015-01-03T03:02:36Z
+        es: 2015-01-03T06:13:28Z
+        distance: 192.5 km
+        elapsed: 3.181111 h
+        velocity: 60.5 km / h
+  - - Enda Murphy
+    - total: 662.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 16.7
+        time: 169.0
+      velocity:
+        ss: 2015-01-03T03:01:03Z
+        es: 2015-01-03T06:11:33Z
+        distance: 192.5 km
+        elapsed: 3.174999 h
+        velocity: 60.6 km / h
+  - - Grant Heaney
+    - total: 670.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 18.7
+        time: 174.7
+      velocity:
+        ss: 2015-01-03T02:46:43Z
+        es: 2015-01-03T05:55:48Z
+        distance: 192.5 km
+        elapsed: 3.151387 h
+        velocity: 61.0 km / h
+  - - Jon snr Durand
+    - total: 686.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 21.6
+        time: 188.5
+      velocity:
+        ss: 2015-01-03T02:45:22Z
+        es: 2015-01-03T05:51:06Z
+        distance: 192.5 km
+        elapsed: 3.095555 h
+        velocity: 62.1 km / h
+  - - Guy Hubbard
+    - total: 687.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 20.8
+        time: 190.5
+      velocity:
+        ss: 2015-01-03T02:46:24Z
+        es: 2015-01-03T05:51:40Z
+        distance: 192.5 km
+        elapsed: 3.087776 h
+        velocity: 62.3 km / h
+  - - Federico Martini
+    - total: 690.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.3
+        arrival: 22.6
+        time: 191.2
+      velocity:
+        ss: 2015-01-03T02:44:00Z
+        es: 2015-01-03T05:49:06Z
+        distance: 192.5 km
+        elapsed: 3.084998 h
+        velocity: 62.4 km / h
+  - - Harrison Rowntree
+    - total: 706.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 23.7
+        time: 206.2
+      velocity:
+        ss: 2015-01-03T02:46:00Z
+        es: 2015-01-03T05:47:34Z
+        distance: 192.5 km
+        elapsed: 3.026111 h
+        velocity: 63.6 km / h
+  - - Conrad Loten
+    - total: 746.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.2
+        arrival: 24.8
+        time: 245.4
+      velocity:
+        ss: 2015-01-03T02:46:32Z
+        es: 2015-01-03T05:39:27Z
+        distance: 192.5 km
+        elapsed: 2.881943 h
+        velocity: 66.8 km / h
+  - - Yasuhiro Noma
+    - total: 750.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.9
+        arrival: 17.3
+        time: 256.8
+      velocity:
+        ss: 2015-01-03T03:15:30Z
+        es: 2015-01-03T06:06:03Z
+        distance: 192.5 km
+        elapsed: 2.842499 h
+        velocity: 67.7 km / h
+  - - Gijs Wanders
+    - total: 764.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.8
+        arrival: 19.3
+        time: 268.4
+      velocity:
+        ss: 2015-01-03T03:07:29Z
+        es: 2015-01-03T05:55:42Z
+        distance: 192.5 km
+        elapsed: 2.803611 h
+        velocity: 68.6 km / h
+  - - Andrew Barnes
+    - total: 777.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.3
+        arrival: 27.5
+        time: 273.4
+      velocity:
+        ss: 2015-01-03T02:46:27Z
+        es: 2015-01-03T05:33:41Z
+        distance: 192.5 km
+        elapsed: 2.787221 h
+        velocity: 69.0 km / h
+  - - Kato Minoru
+    - total: 818.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 109.9
+        arrival: 20.0
+        time: 321.7
+      velocity:
+        ss: 2015-01-03T03:15:17Z
+        es: 2015-01-03T05:53:47Z
+        distance: 192.5 km
+        elapsed: 2.641665 h
+        velocity: 72.8 km / h
+  - - Olav Olsen
+    - total: 828.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 29.0
+        time: 322.4
+      velocity:
+        ss: 2015-01-03T02:46:02Z
+        es: 2015-01-03T05:24:25Z
+        distance: 192.5 km
+        elapsed: 2.639721 h
+        velocity: 72.9 km / h
+  - - Zac Majors
+    - total: 836.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.1
+        arrival: 26.1
+        time: 334.3
+      velocity:
+        ss: 2015-01-03T03:00:10Z
+        es: 2015-01-03T05:36:38Z
+        distance: 192.5 km
+        elapsed: 2.607777 h
+        velocity: 73.8 km / h
+  - - Gavin Myers
+    - total: 839.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 30.7
+        time: 331.6
+      velocity:
+        ss: 2015-01-03T02:45:14Z
+        es: 2015-01-03T05:22:07Z
+        distance: 192.5 km
+        elapsed: 2.614721 h
+        velocity: 73.6 km / h
+  - - Simon Braithwaite
+    - total: 849.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 32.5
+        time: 340.2
+      velocity:
+        ss: 2015-01-03T02:45:28Z
+        es: 2015-01-03T05:21:01Z
+        distance: 192.5 km
+        elapsed: 2.592499 h
+        velocity: 74.2 km / h
+  - - Christian Voiblet
+    - total: 860.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 34.4
+        time: 349.1
+      velocity:
+        ss: 2015-01-03T02:45:20Z
+        es: 2015-01-03T05:19:34Z
+        distance: 192.5 km
+        elapsed: 2.570555 h
+        velocity: 74.8 km / h
+  - - Jochen Zeischka
+    - total: 890.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.6
+        arrival: 36.5
+        time: 377.3
+      velocity:
+        ss: 2015-01-03T02:45:12Z
+        es: 2015-01-03T05:15:39Z
+        distance: 192.5 km
+        elapsed: 2.507499 h
+        velocity: 76.7 km / h
+  - - Oyvind Ellefsen
+    - total: 897.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 41.1
+        time: 379.6
+      velocity:
+        ss: 2015-01-03T02:45:07Z
+        es: 2015-01-03T05:15:17Z
+        distance: 192.5 km
+        elapsed: 2.502777 h
+        velocity: 76.9 km / h
+  - - Glen Mcfarlane
+    - total: 902.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 43.6
+        time: 381.6
+      velocity:
+        ss: 2015-01-03T02:45:19Z
+        es: 2015-01-03T05:15:15Z
+        distance: 192.5 km
+        elapsed: 2.498887 h
+        velocity: 77.0 km / h
+  - - Jonas Lobitz
+    - total: 903.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.6
+        arrival: 38.7
+        time: 387.5
+      velocity:
+        ss: 2015-01-03T02:46:08Z
+        es: 2015-01-03T05:15:23Z
+        distance: 192.5 km
+        elapsed: 2.487499 h
+        velocity: 77.3 km / h
+  - - Trent Brown
+    - total: 912.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.5
+        arrival: 46.3
+        time: 389.2
+      velocity:
+        ss: 2015-01-03T02:45:12Z
+        es: 2015-01-03T05:14:16Z
+        distance: 192.5 km
+        elapsed: 2.484443 h
+        velocity: 77.4 km / h
+  - - Steve Blenkinsop
+    - total: 918.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 49.2
+        time: 392.2
+      velocity:
+        ss: 2015-01-03T02:45:14Z
+        es: 2015-01-03T05:13:58Z
+        distance: 192.5 km
+        elapsed: 2.478887 h
+        velocity: 77.6 km / h
+  - - Olav Opsanger
+    - total: 920.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 52.3
+        time: 391.5
+      velocity:
+        ss: 2015-01-03T02:45:02Z
+        es: 2015-01-03T05:13:51Z
+        distance: 192.5 km
+        elapsed: 2.480277 h
+        velocity: 77.6 km / h
+  - - Tullio Gervasoni
+    - total: 928.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 55.5
+        time: 396.0
+      velocity:
+        ss: 2015-01-03T02:45:12Z
+        es: 2015-01-03T05:13:32Z
+        distance: 192.5 km
+        elapsed: 2.472221 h
+        velocity: 77.8 km / h
+  - - Filippo Oppici
+    - total: 931.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.5
+        arrival: 58.9
+        time: 396.0
+      velocity:
+        ss: 2015-01-03T02:45:10Z
+        es: 2015-01-03T05:13:30Z
+        distance: 192.5 km
+        elapsed: 2.472221 h
+        velocity: 77.8 km / h
+  - - Len Paton
+    - total: 937.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.5
+        arrival: 70.4
+        time: 389.9
+      velocity:
+        ss: 2015-01-03T02:43:54Z
+        es: 2015-01-03T05:12:53Z
+        distance: 192.5 km
+        elapsed: 2.483054 h
+        velocity: 77.5 km / h
+  - - Gerolf Heinrichs
+    - total: 938.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.8
+        arrival: 62.6
+        time: 399.0
+      velocity:
+        ss: 2015-01-03T02:45:25Z
+        es: 2015-01-03T05:13:27Z
+        distance: 192.5 km
+        elapsed: 2.467222 h
+        velocity: 78.0 km / h
+  - - Gordon Rigg
+    - total: 943.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.7
+        arrival: 66.4
+        time: 400.2
+      velocity:
+        ss: 2015-01-03T02:45:12Z
+        es: 2015-01-03T05:13:07Z
+        distance: 192.5 km
+        elapsed: 2.465276 h
+        velocity: 78.0 km / h
+  - - Jonny Durand
+    - total: 990.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.4
+        arrival: 79.2
+        time: 434.6
+      velocity:
+        ss: 2015-01-03T02:45:12Z
+        es: 2015-01-03T05:10:32Z
+        distance: 192.5 km
+        elapsed: 2.422222 h
+        velocity: 79.4 km / h
+  - - Attila Bertok
+    - total: 995.0
+      breakdown:
+        reach: 183.1
+        effort: 183.1
+        distance: 366.3
+        leading: 110.8
+        arrival: 74.7
+        time: 443.5
+      velocity:
+        ss: 2015-01-03T02:45:39Z
+        es: 2015-01-03T05:10:43Z
+        distance: 192.5 km
+        elapsed: 2.417777 h
+        velocity: 79.6 km / h
+- - - Adam Jones
+    - total: 11.0
+      breakdown:
+        reach: 4.4
+        effort: 7.5
+        distance: 11.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:52:33Z
+        es: null
+        distance: 5.4 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 21.0
+      breakdown:
+        reach: 21.0
+        effort: 0
+        distance: 21.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:46:03Z
+        es: null
+        distance: 25.5 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 21.0
+      breakdown:
+        reach: 21.3
+        effort: 0
+        distance: 21.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:07:36Z
+        es: null
+        distance: 25.9 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 22.0
+      breakdown:
+        reach: 22.8
+        effort: 0
+        distance: 22.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:49:10Z
+        es: null
+        distance: 27.8 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 26.0
+      breakdown:
+        reach: 26.1
+        effort: 0
+        distance: 26.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:29:03Z
+        es: null
+        distance: 31.7 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 29.0
+      breakdown:
+        reach: 29.0
+        effort: 0
+        distance: 29.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:01:15Z
+        es: null
+        distance: 35.3 km
+        elapsed: null
+        velocity: null
+  - - Tullio Gervasoni
+    - total: 43.0
+      breakdown:
+        reach: 43.1
+        effort: 0
+        distance: 43.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:00:41Z
+        es: null
+        distance: 52.4 km
+        elapsed: null
+        velocity: null
+  - - Thomas Lindal
+    - total: 94.0
+      breakdown:
+        reach: 94.5
+        effort: 0
+        distance: 94.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:49:14Z
+        es: null
+        distance: 114.9 km
+        elapsed: null
+        velocity: null
+  - - Conrad Loten
+    - total: 120.0
+      breakdown:
+        reach: 77.8
+        effort: 42.6
+        distance: 120.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:45:37Z
+        es: null
+        distance: 94.6 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 122.0
+      breakdown:
+        reach: 122.4
+        effort: 0
+        distance: 122.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:52:47Z
+        es: null
+        distance: 148.9 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 125.0
+      breakdown:
+        reach: 125.8
+        effort: 0
+        distance: 125.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:00:10Z
+        es: null
+        distance: 153.1 km
+        elapsed: null
+        velocity: null
+  - - Peter Dall
+    - total: 128.0
+      breakdown:
+        reach: 128.4
+        effort: 0
+        distance: 128.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:55:46Z
+        es: null
+        distance: 156.2 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 131.0
+      breakdown:
+        reach: 86.6
+        effort: 45.1
+        distance: 131.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:03:40Z
+        es: null
+        distance: 105.4 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 135.0
+      breakdown:
+        reach: 135.8
+        effort: 0
+        distance: 135.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:18:33Z
+        es: null
+        distance: 165.2 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 141.0
+      breakdown:
+        reach: 141.0
+        effort: 0
+        distance: 141.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:00:15Z
+        es: null
+        distance: 171.6 km
+        elapsed: null
+        velocity: null
+  - - Gijs Wanders
+    - total: 141.0
+      breakdown:
+        reach: 141.6
+        effort: 0
+        distance: 141.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:45:53Z
+        es: null
+        distance: 172.2 km
+        elapsed: null
+        velocity: null
+  - - Mark Russell
+    - total: 167.0
+      breakdown:
+        reach: 167.6
+        effort: 0
+        distance: 167.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:18:28Z
+        es: null
+        distance: 203.9 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 186.0
+      breakdown:
+        reach: 186.3
+        effort: 0
+        distance: 186.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:49:12Z
+        es: null
+        distance: 226.7 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 194.0
+      breakdown:
+        reach: 194.0
+        effort: 0
+        distance: 194.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:48:59Z
+        es: null
+        distance: 236.0 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 194.0
+      breakdown:
+        reach: 194.3
+        effort: 0
+        distance: 194.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:04:24Z
+        es: null
+        distance: 236.4 km
+        elapsed: null
+        velocity: null
+  - - Takeshi Yokoyama
+    - total: 194.0
+      breakdown:
+        reach: 194.4
+        effort: 0
+        distance: 194.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:00:26Z
+        es: null
+        distance: 236.5 km
+        elapsed: null
+        velocity: null
+  - - Chris Czajkowski
+    - total: 195.0
+      breakdown:
+        reach: 195.5
+        effort: 0
+        distance: 195.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:55:54Z
+        es: null
+        distance: 237.9 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 196.0
+      breakdown:
+        reach: 196.6
+        effort: 0
+        distance: 196.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T02:45:50Z
+        es: null
+        distance: 239.2 km
+        elapsed: null
+        velocity: null
+  - - Harrison Rowntree
+    - total: 203.0
+      breakdown:
+        reach: 203.0
+        effort: 0
+        distance: 203.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-06T03:01:33Z
+        es: null
+        distance: 246.9 km
+        elapsed: null
+        velocity: null
+  - - Steve Blenkinsop
+    - total: 580.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.0
+        arrival: 14.9
+        time: 51.4
+      velocity:
+        ss: 2015-01-06T02:45:22Z
+        es: 2015-01-06T09:00:36Z
+        distance: 250.3 km
+        elapsed: 6.253887 h
+        velocity: 40.0 km / h
+  - - Federico Martini
+    - total: 585.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.3
+        arrival: 14.8
+        time: 56.9
+      velocity:
+        ss: 2015-01-06T03:04:09Z
+        es: 2015-01-06T09:16:59Z
+        distance: 250.3 km
+        elapsed: 6.213887 h
+        velocity: 40.2 km / h
+  - - Yoko Isomoto
+    - total: 612.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.1
+        arrival: 15.4
+        time: 83.4
+      velocity:
+        ss: 2015-01-06T02:46:03Z
+        es: 2015-01-06T08:47:41Z
+        distance: 250.3 km
+        elapsed: 6.027222 h
+        velocity: 41.5 km / h
+  - - Rohan Taylor
+    - total: 646.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.5
+        arrival: 16.2
+        time: 116.4
+      velocity:
+        ss: 2015-01-06T02:46:18Z
+        es: 2015-01-06T08:34:36Z
+        distance: 250.3 km
+        elapsed: 5.804998 h
+        velocity: 43.1 km / h
+  - - Sasha Serebrennikova
+    - total: 649.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.3
+        arrival: 15.1
+        time: 120.3
+      velocity:
+        ss: 2015-01-06T03:01:03Z
+        es: 2015-01-06T08:47:50Z
+        distance: 250.3 km
+        elapsed: 5.779721 h
+        velocity: 43.3 km / h
+  - - Grant Heaney
+    - total: 681.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.4
+        arrival: 19.3
+        time: 147.7
+      velocity:
+        ss: 2015-01-06T02:46:32Z
+        es: 2015-01-06T08:22:52Z
+        distance: 250.3 km
+        elapsed: 5.605554 h
+        velocity: 44.6 km / h
+  - - Yasuhiro Noma
+    - total: 688.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.3
+        arrival: 15.8
+        time: 158.9
+      velocity:
+        ss: 2015-01-06T03:04:01Z
+        es: 2015-01-06T08:36:15Z
+        distance: 250.3 km
+        elapsed: 5.537221 h
+        velocity: 45.2 km / h
+  - - Guy Hubbard
+    - total: 689.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.6
+        arrival: 20.5
+        time: 154.4
+      velocity:
+        ss: 2015-01-06T02:46:13Z
+        es: 2015-01-06T08:20:05Z
+        distance: 250.3 km
+        elapsed: 5.564443 h
+        velocity: 44.9 km / h
+  - - Olav Opsanger
+    - total: 699.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.3
+        arrival: 16.8
+        time: 169.0
+      velocity:
+        ss: 2015-01-06T03:04:05Z
+        es: 2015-01-06T08:32:40Z
+        distance: 250.3 km
+        elapsed: 5.476388 h
+        velocity: 45.7 km / h
+  - - Lukas Bader
+    - total: 708.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.3
+        arrival: 29.3
+        time: 165.4
+      velocity:
+        ss: 2015-01-06T02:46:23Z
+        es: 2015-01-06T08:16:15Z
+        distance: 250.3 km
+        elapsed: 5.497777 h
+        velocity: 45.5 km / h
+  - - Phil Schroder
+    - total: 712.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.2
+        arrival: 17.5
+        time: 180.9
+      velocity:
+        ss: 2015-01-06T03:00:32Z
+        es: 2015-01-06T08:24:55Z
+        distance: 250.3 km
+        elapsed: 5.406387 h
+        velocity: 46.3 km / h
+  - - Oyvind Ellefsen
+    - total: 715.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.2
+        arrival: 18.4
+        time: 182.9
+      velocity:
+        ss: 2015-01-06T03:00:20Z
+        es: 2015-01-06T08:24:02Z
+        distance: 250.3 km
+        elapsed: 5.394999 h
+        velocity: 46.4 km / h
+  - - Josh Woods
+    - total: 730.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.8
+        arrival: 31.8
+        time: 184.2
+      velocity:
+        ss: 2015-01-06T02:39:24Z
+        es: 2015-01-06T08:02:39Z
+        distance: 250.3 km
+        elapsed: 5.3875 h
+        velocity: 46.4 km / h
+  - - Simon Braithwaite
+    - total: 734.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.4
+        arrival: 23.4
+        time: 197.2
+      velocity:
+        ss: 2015-01-06T03:00:35Z
+        es: 2015-01-06T08:19:25Z
+        distance: 250.3 km
+        elapsed: 5.313888 h
+        velocity: 47.1 km / h
+  - - Jochen Zeischka
+    - total: 735.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.1
+        arrival: 25.1
+        time: 196.3
+      velocity:
+        ss: 2015-01-06T03:00:10Z
+        es: 2015-01-06T08:19:18Z
+        distance: 250.3 km
+        elapsed: 5.318888 h
+        velocity: 47.0 km / h
+  - - Kato Minoru
+    - total: 745.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.6
+        arrival: 27.1
+        time: 204.6
+      velocity:
+        ss: 2015-01-06T03:00:19Z
+        es: 2015-01-06T08:16:42Z
+        distance: 250.3 km
+        elapsed: 5.273055 h
+        velocity: 47.4 km / h
+  - - Trent Brown
+    - total: 779.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.1
+        arrival: 21.8
+        time: 244.0
+      velocity:
+        ss: 2015-01-06T03:15:24Z
+        es: 2015-01-06T08:19:26Z
+        distance: 250.3 km
+        elapsed: 5.067222 h
+        velocity: 49.4 km / h
+  - - Jon snr Durand
+    - total: 800.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.8
+        arrival: 44.5
+        time: 241.1
+      velocity:
+        ss: 2015-01-06T02:46:32Z
+        es: 2015-01-06T07:51:26Z
+        distance: 250.3 km
+        elapsed: 5.081666 h
+        velocity: 49.2 km / h
+  - - Gerolf Heinrichs
+    - total: 815.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.6
+        arrival: 34.5
+        time: 267.0
+      velocity:
+        ss: 2015-01-06T03:00:13Z
+        es: 2015-01-06T07:57:40Z
+        distance: 250.3 km
+        elapsed: 4.957499 h
+        velocity: 50.4 km / h
+  - - Filippo Oppici
+    - total: 830.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.4
+        arrival: 37.5
+        time: 279.0
+      velocity:
+        ss: 2015-01-06T03:00:19Z
+        es: 2015-01-06T07:54:33Z
+        distance: 250.3 km
+        elapsed: 4.903888 h
+        velocity: 51.0 km / h
+  - - Gordon Rigg
+    - total: 852.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.5
+        arrival: 40.8
+        time: 297.2
+      velocity:
+        ss: 2015-01-06T03:04:02Z
+        es: 2015-01-06T07:53:37Z
+        distance: 250.3 km
+        elapsed: 4.826387 h
+        velocity: 51.8 km / h
+  - - Christian Voiblet
+    - total: 869.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.6
+        arrival: 48.4
+        time: 306.8
+      velocity:
+        ss: 2015-01-06T03:00:08Z
+        es: 2015-01-06T07:47:26Z
+        distance: 250.3 km
+        elapsed: 4.788332 h
+        velocity: 52.2 km / h
+  - - Glen Mcfarlane
+    - total: 872.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.9
+        arrival: 62.3
+        time: 295.4
+      velocity:
+        ss: 2015-01-06T02:46:31Z
+        es: 2015-01-06T07:36:33Z
+        distance: 250.3 km
+        elapsed: 4.833887 h
+        velocity: 51.7 km / h
+  - - Olav Olsen
+    - total: 895.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.4
+        arrival: 52.7
+        time: 328.3
+      velocity:
+        ss: 2015-01-06T03:00:45Z
+        es: 2015-01-06T07:43:16Z
+        distance: 250.3 km
+        elapsed: 4.708611 h
+        velocity: 53.1 km / h
+  - - Jonny Durand
+    - total: 902.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.6
+        arrival: 57.3
+        time: 330.4
+      velocity:
+        ss: 2015-01-06T03:00:22Z
+        es: 2015-01-06T07:42:27Z
+        distance: 250.3 km
+        elapsed: 4.701387 h
+        velocity: 53.2 km / h
+  - - Jonas Lobitz
+    - total: 909.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.9
+        arrival: 73.5
+        time: 321.4
+      velocity:
+        ss: 2015-01-06T02:45:52Z
+        es: 2015-01-06T07:29:51Z
+        distance: 250.3 km
+        elapsed: 4.733055 h
+        velocity: 52.8 km / h
+  - - Zac Majors
+    - total: 993.0
+      breakdown:
+        reach: 205.7
+        effort: 205.7
+        distance: 411.5
+        leading: 102.5
+        arrival: 67.7
+        time: 411.9
+      velocity:
+        ss: 2015-01-06T03:00:12Z
+        es: 2015-01-06T07:31:04Z
+        distance: 250.3 km
+        elapsed: 4.514444 h
+        velocity: 55.4 km / h
+- - - Mark Russell
+    - total: 47.0
+      breakdown:
+        reach: 47.7
+        effort: 0
+        distance: 47.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:04:13Z
+        es: null
+        distance: 17.4 km
+        elapsed: null
+        velocity: null
+  - - Adam Jones
+    - total: 74.0
+      breakdown:
+        reach: 74.6
+        effort: 0
+        distance: 74.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:14:03Z
+        es: null
+        distance: 27.2 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 123.0
+      breakdown:
+        reach: 123.8
+        effort: 0
+        distance: 123.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:12:13Z
+        es: null
+        distance: 45.2 km
+        elapsed: null
+        velocity: null
+  - - Emiel Jansen
+    - total: 130.0
+      breakdown:
+        reach: 130.7
+        effort: 0
+        distance: 130.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:12:27Z
+        es: null
+        distance: 47.7 km
+        elapsed: null
+        velocity: null
+  - - Guy Hubbard
+    - total: 150.0
+      breakdown:
+        reach: 150.1
+        effort: 0
+        distance: 150.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:27Z
+        es: null
+        distance: 54.8 km
+        elapsed: null
+        velocity: null
+  - - Conrad Loten
+    - total: 157.0
+      breakdown:
+        reach: 157.7
+        effort: 0
+        distance: 157.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:43Z
+        es: null
+        distance: 57.6 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 159.0
+      breakdown:
+        reach: 159.3
+        effort: 0
+        distance: 159.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:20:53Z
+        es: null
+        distance: 58.1 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 203.0
+      breakdown:
+        reach: 203.1
+        effort: 0
+        distance: 203.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:12:45Z
+        es: null
+        distance: 74.1 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 210.0
+      breakdown:
+        reach: 210.1
+        effort: 0
+        distance: 210.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:16:09Z
+        es: null
+        distance: 76.7 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 234.0
+      breakdown:
+        reach: 234.6
+        effort: 0
+        distance: 234.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:02:25Z
+        es: null
+        distance: 85.6 km
+        elapsed: null
+        velocity: null
+  - - Chris Czajkowski
+    - total: 246.0
+      breakdown:
+        reach: 246.2
+        effort: 0
+        distance: 246.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:05:22Z
+        es: null
+        distance: 89.9 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 249.0
+      breakdown:
+        reach: 249.3
+        effort: 0
+        distance: 249.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:14:14Z
+        es: null
+        distance: 91.0 km
+        elapsed: null
+        velocity: null
+  - - Thomas Lindal
+    - total: 256.0
+      breakdown:
+        reach: 256.4
+        effort: 0
+        distance: 256.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:23Z
+        es: null
+        distance: 93.6 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 258.0
+      breakdown:
+        reach: 258.6
+        effort: 0
+        distance: 258.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:19:04Z
+        es: null
+        distance: 94.4 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 264.0
+      breakdown:
+        reach: 264.7
+        effort: 0
+        distance: 264.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:18Z
+        es: null
+        distance: 96.6 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 269.0
+      breakdown:
+        reach: 269.6
+        effort: 0
+        distance: 269.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:03:26Z
+        es: null
+        distance: 98.4 km
+        elapsed: null
+        velocity: null
+  - - Takeshi Yokoyama
+    - total: 269.0
+      breakdown:
+        reach: 269.9
+        effort: 0
+        distance: 269.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:13:06Z
+        es: null
+        distance: 98.5 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 272.0
+      breakdown:
+        reach: 272.5
+        effort: 0
+        distance: 272.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:13Z
+        es: null
+        distance: 99.4 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 274.0
+      breakdown:
+        reach: 274.2
+        effort: 0
+        distance: 274.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:34Z
+        es: null
+        distance: 100.1 km
+        elapsed: null
+        velocity: null
+  - - Sasha Serebrennikova
+    - total: 275.0
+      breakdown:
+        reach: 275.0
+        effort: 0
+        distance: 275.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:03:26Z
+        es: null
+        distance: 100.4 km
+        elapsed: null
+        velocity: null
+  - - Grant Heaney
+    - total: 277.0
+      breakdown:
+        reach: 277.5
+        effort: 0
+        distance: 277.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:55Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Jonny Durand
+    - total: 277.0
+      breakdown:
+        reach: 277.5
+        effort: 0
+        distance: 277.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:12Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 277.0
+      breakdown:
+        reach: 277.5
+        effort: 0
+        distance: 277.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:04:02Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Simon Braithwaite
+    - total: 277.0
+      breakdown:
+        reach: 277.6
+        effort: 0
+        distance: 277.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:32Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Jonas Lobitz
+    - total: 277.0
+      breakdown:
+        reach: 277.7
+        effort: 0
+        distance: 277.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:28Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Lukas Bader
+    - total: 277.0
+      breakdown:
+        reach: 277.7
+        effort: 0
+        distance: 277.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:02:13Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Gijs Wanders
+    - total: 277.0
+      breakdown:
+        reach: 277.9
+        effort: 0
+        distance: 277.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:01Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Josh Woods
+    - total: 277.0
+      breakdown:
+        reach: 277.9
+        effort: 0
+        distance: 277.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:16Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:15:22Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Phil Schroder
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:35Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Olav Opsanger
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:37Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Harrison Rowntree
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:02:00Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Yasuhiro Noma
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:24Z
+        es: null
+        distance: 101.4 km
+        elapsed: null
+        velocity: null
+  - - Jochen Zeischka
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:22Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 278.0
+      breakdown:
+        reach: 278.0
+        effort: 0
+        distance: 278.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:02Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Christian Voiblet
+    - total: 278.0
+      breakdown:
+        reach: 278.1
+        effort: 0
+        distance: 278.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:32Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Oyvind Ellefsen
+    - total: 278.0
+      breakdown:
+        reach: 278.1
+        effort: 0
+        distance: 278.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:27Z
+        es: null
+        distance: 101.5 km
+        elapsed: null
+        velocity: null
+  - - Glen Mcfarlane
+    - total: 285.0
+      breakdown:
+        reach: 285.5
+        effort: 0
+        distance: 285.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:15Z
+        es: null
+        distance: 104.2 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 290.0
+      breakdown:
+        reach: 290.5
+        effort: 0
+        distance: 290.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:12:06Z
+        es: null
+        distance: 106.0 km
+        elapsed: null
+        velocity: null
+  - - Olav Olsen
+    - total: 290.0
+      breakdown:
+        reach: 290.8
+        effort: 0
+        distance: 290.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:41Z
+        es: null
+        distance: 106.1 km
+        elapsed: null
+        velocity: null
+  - - Steve Blenkinsop
+    - total: 291.0
+      breakdown:
+        reach: 291.1
+        effort: 0
+        distance: 291.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:46Z
+        es: null
+        distance: 106.2 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 299.0
+      breakdown:
+        reach: 299.6
+        effort: 0
+        distance: 299.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:25Z
+        es: null
+        distance: 109.3 km
+        elapsed: null
+        velocity: null
+  - - Yoko Isomoto
+    - total: 304.0
+      breakdown:
+        reach: 304.6
+        effort: 0
+        distance: 304.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:02:13Z
+        es: null
+        distance: 111.2 km
+        elapsed: null
+        velocity: null
+  - - Filippo Oppici
+    - total: 315.0
+      breakdown:
+        reach: 315.2
+        effort: 0
+        distance: 315.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:36Z
+        es: null
+        distance: 115.0 km
+        elapsed: null
+        velocity: null
+  - - Tullio Gervasoni
+    - total: 315.0
+      breakdown:
+        reach: 315.5
+        effort: 0
+        distance: 315.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:42Z
+        es: null
+        distance: 115.2 km
+        elapsed: null
+        velocity: null
+  - - Zac Majors
+    - total: 315.0
+      breakdown:
+        reach: 315.6
+        effort: 0
+        distance: 315.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:08Z
+        es: null
+        distance: 115.2 km
+        elapsed: null
+        velocity: null
+  - - Kato Minoru
+    - total: 316.0
+      breakdown:
+        reach: 316.1
+        effort: 0
+        distance: 316.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:32Z
+        es: null
+        distance: 115.4 km
+        elapsed: null
+        velocity: null
+  - - Gerolf Heinrichs
+    - total: 321.0
+      breakdown:
+        reach: 321.8
+        effort: 0
+        distance: 321.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:06Z
+        es: null
+        distance: 117.4 km
+        elapsed: null
+        velocity: null
+  - - Trent Brown
+    - total: 603.0
+      breakdown:
+        reach: 396.2
+        effort: 207.4
+        distance: 603.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:00:28Z
+        es: null
+        distance: 144.6 km
+        elapsed: null
+        velocity: null
+  - - Gordon Rigg
+    - total: 627.0
+      breakdown:
+        reach: 411.9
+        effort: 215.4
+        distance: 627.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-07T03:01:43Z
+        es: null
+        distance: 150.3 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 1000
+      breakdown:
+        reach: 434.0
+        effort: 434.0
+        distance: 868.0
+        leading: 23.0
+        arrival: 16.4
+        time: 92.3
+      velocity:
+        ss: 2015-01-07T03:01:18Z
+        es: 2015-01-07T06:21:06Z
+        distance: 158.4 km
+        elapsed: 3.33 h
+        velocity: 47.5 km / h
+- - - Adam Jones
+    - total: 14.0
+      breakdown:
+        reach: 2.4
+        effort: 12.1
+        distance: 14.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        es: null
+        distance: 1.6 km
+        elapsed: null
+        velocity: null
+  - - Takeshi Yokoyama
+    - total: 16.0
+      breakdown:
+        reach: 16.1
+        effort: 0
+        distance: 16.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:20:41Z
+        es: null
+        distance: 10.7 km
+        elapsed: null
+        velocity: null
+  - - Sander Van Schaik
+    - total: 16.0
+      breakdown:
+        reach: 16.6
+        effort: 0
+        distance: 16.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:54:02Z
+        es: null
+        distance: 11.0 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 17.0
+      breakdown:
+        reach: 17.6
+        effort: 0
+        distance: 17.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:42:45Z
+        es: null
+        distance: 11.7 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 22.0
+      breakdown:
+        reach: 10.7
+        effort: 12.1
+        distance: 22.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        es: null
+        distance: 7.1 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 56.0
+      breakdown:
+        reach: 56.1
+        effort: 0
+        distance: 56.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:01:31Z
+        es: null
+        distance: 37.3 km
+        elapsed: null
+        velocity: null
+  - - Gerolf Heinrichs
+    - total: 76.0
+      breakdown:
+        reach: 76.5
+        effort: 0
+        distance: 76.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:45:19Z
+        es: null
+        distance: 50.9 km
+        elapsed: null
+        velocity: null
+  - - Glen Mcfarlane
+    - total: 80.0
+      breakdown:
+        reach: 80.9
+        effort: 0
+        distance: 80.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:46:28Z
+        es: null
+        distance: 53.8 km
+        elapsed: null
+        velocity: null
+  - - Chris Czajkowski
+    - total: 82.0
+      breakdown:
+        reach: 82.2
+        effort: 0
+        distance: 82.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:14:29Z
+        es: null
+        distance: 54.7 km
+        elapsed: null
+        velocity: null
+  - - Thomas Lindal
+    - total: 87.0
+      breakdown:
+        reach: 87.7
+        effort: 0
+        distance: 87.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:00:11Z
+        es: null
+        distance: 58.3 km
+        elapsed: null
+        velocity: null
+  - - Viv Clements
+    - total: 107.0
+      breakdown:
+        reach: 107.6
+        effort: 0
+        distance: 107.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:01:22Z
+        es: null
+        distance: 71.6 km
+        elapsed: null
+        velocity: null
+  - - Emiel Jansen
+    - total: 146.0
+      breakdown:
+        reach: 146.7
+        effort: 0
+        distance: 146.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:58:55Z
+        es: null
+        distance: 97.6 km
+        elapsed: null
+        velocity: null
+  - - Gijs Wanders
+    - total: 168.0
+      breakdown:
+        reach: 88.1
+        effort: 80.3
+        distance: 168.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:47:21Z
+        es: null
+        distance: 58.6 km
+        elapsed: null
+        velocity: null
+  - - Mark Russell
+    - total: 170.0
+      breakdown:
+        reach: 170.5
+        effort: 0
+        distance: 170.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2015-01-08T03:00:34Z
+        es: null
+        distance: 113.4 km
+        elapsed: null
+        velocity: null
+  - - Yoko Isomoto
+    - total: 495.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.4
+        arrival: 15.8
+        time: 0
+      velocity:
+        ss: 2015-01-08T02:45:22Z
+        es: 2015-01-08T06:35:26Z
+        distance: 123.1 km
+        elapsed: 3.834443 h
+        velocity: 32.1 km / h
+  - - Conrad Loten
+    - total: 542.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 15.9
+        time: 46.1
+      velocity:
+        ss: 2015-01-08T02:45:12Z
+        es: 2015-01-08T06:13:18Z
+        distance: 123.1 km
+        elapsed: 3.468332 h
+        velocity: 35.5 km / h
+  - - Rohan Taylor
+    - total: 622.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 16.2
+        time: 125.8
+      velocity:
+        ss: 2015-01-08T02:45:07Z
+        es: 2015-01-08T05:51:32Z
+        distance: 123.1 km
+        elapsed: 3.106943 h
+        velocity: 39.6 km / h
+  - - Ryosuke Hattori
+    - total: 626.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.2
+        arrival: 16.0
+        time: 131.1
+      velocity:
+        ss: 2015-01-08T02:58:25Z
+        es: 2015-01-08T06:03:29Z
+        distance: 123.1 km
+        elapsed: 3.084443 h
+        velocity: 39.9 km / h
+  - - Christian Voiblet
+    - total: 627.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 16.7
+        time: 131.2
+      velocity:
+        ss: 2015-01-08T02:45:27Z
+        es: 2015-01-08T05:50:30Z
+        distance: 123.1 km
+        elapsed: 3.084166 h
+        velocity: 39.9 km / h
+  - - Federico Martini
+    - total: 631.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 16.4
+        time: 134.8
+      velocity:
+        ss: 2015-01-08T02:47:03Z
+        es: 2015-01-08T05:51:10Z
+        distance: 123.1 km
+        elapsed: 3.068611 h
+        velocity: 40.1 km / h
+  - - Phil Schroder
+    - total: 648.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 17.0
+        time: 152.0
+      velocity:
+        ss: 2015-01-08T02:45:12Z
+        es: 2015-01-08T05:45:03Z
+        distance: 123.1 km
+        elapsed: 2.9975 h
+        velocity: 41.0 km / h
+  - - Josh Woods
+    - total: 696.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.6
+        arrival: 19.0
+        time: 198.1
+      velocity:
+        ss: 2015-01-08T02:46:42Z
+        es: 2015-01-08T05:35:41Z
+        distance: 123.1 km
+        elapsed: 2.816387 h
+        velocity: 43.7 km / h
+  - - Victor Hare
+    - total: 701.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 20.4
+        time: 201.0
+      velocity:
+        ss: 2015-01-08T02:46:02Z
+        es: 2015-01-08T05:34:22Z
+        distance: 123.1 km
+        elapsed: 2.805555 h
+        velocity: 43.8 km / h
+  - - Lukas Bader
+    - total: 710.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 22.3
+        time: 207.7
+      velocity:
+        ss: 2015-01-08T02:46:01Z
+        es: 2015-01-08T05:32:52Z
+        distance: 123.1 km
+        elapsed: 2.780832 h
+        velocity: 44.2 km / h
+  - - Sasha Serebrennikova
+    - total: 719.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 18.4
+        time: 221.6
+      velocity:
+        ss: 2015-01-08T02:52:42Z
+        es: 2015-01-08T05:36:31Z
+        distance: 123.1 km
+        elapsed: 2.730277 h
+        velocity: 45.1 km / h
+  - - Olav Opsanger
+    - total: 730.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 27.4
+        time: 223.4
+      velocity:
+        ss: 2015-01-08T02:45:36Z
+        es: 2015-01-08T05:29:02Z
+        distance: 123.1 km
+        elapsed: 2.723888 h
+        velocity: 45.2 km / h
+  - - Olav Olsen
+    - total: 732.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 110.0
+        arrival: 24.6
+        time: 227.2
+      velocity:
+        ss: 2015-01-08T02:47:02Z
+        es: 2015-01-08T05:29:40Z
+        distance: 123.1 km
+        elapsed: 2.710554 h
+        velocity: 45.4 km / h
+  - - Filippo Oppici
+    - total: 734.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 110.0
+        arrival: 25.9
+        time: 228.0
+      velocity:
+        ss: 2015-01-08T02:46:42Z
+        es: 2015-01-08T05:29:10Z
+        distance: 123.1 km
+        elapsed: 2.707777 h
+        velocity: 45.4 km / h
+  - - Gordon Rigg
+    - total: 738.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 29.0
+        time: 229.3
+      velocity:
+        ss: 2015-01-08T02:45:17Z
+        es: 2015-01-08T05:27:29Z
+        distance: 123.1 km
+        elapsed: 2.703333 h
+        velocity: 45.5 km / h
+  - - Grant Heaney
+    - total: 739.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.6
+        arrival: 17.4
+        time: 242.3
+      velocity:
+        ss: 2015-01-08T03:01:00Z
+        es: 2015-01-08T05:40:30Z
+        distance: 123.1 km
+        elapsed: 2.658332 h
+        velocity: 46.3 km / h
+  - - Zac Majors
+    - total: 740.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 110.0
+        arrival: 30.8
+        time: 229.8
+      velocity:
+        ss: 2015-01-08T02:45:22Z
+        es: 2015-01-08T05:27:27Z
+        distance: 123.1 km
+        elapsed: 2.701388 h
+        velocity: 45.5 km / h
+  - - Jonas Lobitz
+    - total: 747.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 32.7
+        time: 234.6
+      velocity:
+        ss: 2015-01-08T02:45:26Z
+        es: 2015-01-08T05:26:31Z
+        distance: 123.1 km
+        elapsed: 2.684721 h
+        velocity: 45.8 km / h
+  - - Simon Braithwaite
+    - total: 750.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.6
+        arrival: 17.8
+        time: 252.7
+      velocity:
+        ss: 2015-01-08T03:00:33Z
+        es: 2015-01-08T05:37:58Z
+        distance: 123.1 km
+        elapsed: 2.62361 h
+        velocity: 46.9 km / h
+  - - Nils Vesk
+    - total: 762.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.6
+        arrival: 19.6
+        time: 263.3
+      velocity:
+        ss: 2015-01-08T03:00:05Z
+        es: 2015-01-08T05:35:26Z
+        distance: 123.1 km
+        elapsed: 2.589166 h
+        velocity: 47.5 km / h
+  - - Guy Hubbard
+    - total: 765.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 39.3
+        time: 245.8
+      velocity:
+        ss: 2015-01-08T02:46:32Z
+        es: 2015-01-08T05:25:20Z
+        distance: 123.1 km
+        elapsed: 2.646666 h
+        velocity: 46.5 km / h
+  - - Harrison Rowntree
+    - total: 768.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 110.1
+        arrival: 37.0
+        time: 251.6
+      velocity:
+        ss: 2015-01-08T02:47:45Z
+        es: 2015-01-08T05:25:23Z
+        distance: 123.1 km
+        elapsed: 2.627222 h
+        velocity: 46.8 km / h
+  - - Gavin Myers
+    - total: 768.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 41.9
+        time: 246.9
+      velocity:
+        ss: 2015-01-08T02:46:32Z
+        es: 2015-01-08T05:25:06Z
+        distance: 123.1 km
+        elapsed: 2.642777 h
+        velocity: 46.5 km / h
+  - - Andrew Barnes
+    - total: 771.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.4
+        arrival: 21.3
+        time: 270.6
+      velocity:
+        ss: 2015-01-08T03:00:19Z
+        es: 2015-01-08T05:34:16Z
+        distance: 123.1 km
+        elapsed: 2.565833 h
+        velocity: 47.9 km / h
+  - - Yasuhiro Noma
+    - total: 773.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 44.7
+        time: 248.7
+      velocity:
+        ss: 2015-01-08T02:45:46Z
+        es: 2015-01-08T05:23:59Z
+        distance: 123.1 km
+        elapsed: 2.636944 h
+        velocity: 46.7 km / h
+  - - Len Paton
+    - total: 792.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 23.4
+        time: 289.2
+      velocity:
+        ss: 2015-01-08T03:00:15Z
+        es: 2015-01-08T05:30:47Z
+        distance: 123.1 km
+        elapsed: 2.508887 h
+        velocity: 49.0 km / h
+  - - Jochen Zeischka
+    - total: 822.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 110.2
+        arrival: 54.1
+        time: 288.4
+      velocity:
+        ss: 2015-01-08T02:46:02Z
+        es: 2015-01-08T05:16:43Z
+        distance: 123.1 km
+        elapsed: 2.511388 h
+        velocity: 49.0 km / h
+  - - Jon snr Durand
+    - total: 825.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 57.6
+        time: 288.2
+      velocity:
+        ss: 2015-01-08T02:45:45Z
+        es: 2015-01-08T05:16:28Z
+        distance: 123.1 km
+        elapsed: 2.511944 h
+        velocity: 49.0 km / h
+  - - Oyvind Ellefsen
+    - total: 833.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 34.7
+        time: 318.9
+      velocity:
+        ss: 2015-01-08T03:00:09Z
+        es: 2015-01-08T05:25:40Z
+        distance: 123.1 km
+        elapsed: 2.425276 h
+        velocity: 50.7 km / h
+  - - Tullio Gervasoni
+    - total: 859.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 69.6
+        time: 309.4
+      velocity:
+        ss: 2015-01-08T02:45:22Z
+        es: 2015-01-08T05:12:26Z
+        distance: 123.1 km
+        elapsed: 2.451111 h
+        velocity: 50.2 km / h
+  - - Kato Minoru
+    - total: 868.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 47.6
+        time: 340.6
+      velocity:
+        ss: 2015-01-08T03:00:12Z
+        es: 2015-01-08T05:22:25Z
+        distance: 123.1 km
+        elapsed: 2.370277 h
+        velocity: 51.9 km / h
+  - - Geoff Robertson
+    - total: 868.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 74.0
+        time: 314.3
+      velocity:
+        ss: 2015-01-08T02:45:42Z
+        es: 2015-01-08T05:11:58Z
+        distance: 123.1 km
+        elapsed: 2.437777 h
+        velocity: 50.5 km / h
+  - - Steve Blenkinsop
+    - total: 877.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.9
+        arrival: 78.7
+        time: 319.1
+      velocity:
+        ss: 2015-01-08T02:45:30Z
+        es: 2015-01-08T05:11:00Z
+        distance: 123.1 km
+        elapsed: 2.424999 h
+        velocity: 50.7 km / h
+  - - Trent Brown
+    - total: 886.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.8
+        arrival: 50.7
+        time: 356.0
+      velocity:
+        ss: 2015-01-08T02:57:05Z
+        es: 2015-01-08T05:17:10Z
+        distance: 123.1 km
+        elapsed: 2.334722 h
+        velocity: 52.7 km / h
+  - - Jonny Durand
+    - total: 900.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.7
+        arrival: 65.4
+        time: 354.7
+      velocity:
+        ss: 2015-01-08T02:52:12Z
+        es: 2015-01-08T05:12:27Z
+        distance: 123.1 km
+        elapsed: 2.337499 h
+        velocity: 52.6 km / h
+  - - Attila Bertok
+    - total: 982.0
+      breakdown:
+        reach: 185.0
+        effort: 185.0
+        distance: 370.1
+        leading: 109.6
+        arrival: 61.4
+        time: 440.9
+      velocity:
+        ss: 2015-01-08T03:00:11Z
+        es: 2015-01-08T05:12:44Z
+        distance: 123.1 km
+        elapsed: 2.209166 h
+        velocity: 55.7 km / h
