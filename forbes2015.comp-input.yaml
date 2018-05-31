@@ -1,5 +1,6 @@
 comp:
   compName: Forbes Flatlands Hang Gliding Championships 2015
+  discipline: hg
   location: Forbes, Australia
   from: '2015-01-01'
   to: '2015-01-08'
