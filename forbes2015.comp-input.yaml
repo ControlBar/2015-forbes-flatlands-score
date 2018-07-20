@@ -18,25 +18,80 @@ tasks:
 - taskName: goong he fat choi
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 5000.0 m
   - zoneName: CANOWI
     lat: -33.55378
-    lng: 148.67146999
+    lng: 148.67147
     radius: 400.0 m
   - zoneName: MOLONG
     lat: -33.11155
-    lng: 148.88159999
+    lng: 148.8816
     radius: 5000.0 m
   - zoneName: MANI15
     lat: -33.185
     lng: 148.68153
     radius: 200.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 5000.0 m
+  - cylinder:
+      center:
+      - -33.55378 deg
+      - 148.67147 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.11155 deg
+      - 148.8816 deg
+      radius: 5000.0 m
+  - line:
+      center:
+      - -33.185 deg
+      - 148.68153 deg
+      radius: 200.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 5000.0 m
+    - cylinder:
+        center:
+        - -33.55378 deg
+        - 148.67147 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.11155 deg
+        - 148.8816 deg
+        radius: 5000.0 m
+    goal:
+      line:
+        center:
+        - -33.185 deg
+        - 148.68153 deg
+        radius: 200.0 m
+  stopped: null
   speedSection:
   - 2
   - 5
@@ -49,29 +104,83 @@ tasks:
   - 2015-01-01T03:15:00Z
   - 2015-01-01T03:30:00Z
   absent: []
-  stopped: null
 - taskName: mezzanine
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 10000.0 m
   - zoneName: MARSDE
     lat: -33.75343
-    lng: 147.52864999
+    lng: 147.52865
     radius: 400.0 m
   - zoneName: TYAGON
     lat: -34.02107
-    lng: 148.22329999
+    lng: 148.2233
     radius: 20000.0 m
   - zoneName: STOC15
     lat: -34.49992
     lng: 147.89652
     radius: 400.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 10000.0 m
+  - cylinder:
+      center:
+      - -33.75343 deg
+      - 147.52865 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -34.02107 deg
+      - 148.2233 deg
+      radius: 20000.0 m
+  - circle:
+      center:
+      - -34.50008 deg
+      - 147.89652 deg
+      radius: 400.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 10000.0 m
+    - cylinder:
+        center:
+        - -33.75343 deg
+        - 147.52865 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -34.02107 deg
+        - 148.2233 deg
+        radius: 20000.0 m
+    goal:
+      circle:
+        center:
+        - -34.50008 deg
+        - 147.89652 deg
+        radius: 400.0 m
+  stopped: null
   speedSection:
   - 2
   - 5
@@ -85,17 +194,17 @@ tasks:
   - 2015-01-02T03:30:00Z
   - 2015-01-02T03:45:00Z
   absent:
-  - Thomas Lindal
-  stopped: null
+  - - '96'
+    - Thomas Lindal
 - taskName: Forbes BBQ Champions
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 10000.0 m
   - zoneName: BARME
     lat: -34.1527
@@ -103,12 +212,67 @@ tasks:
     radius: 400.0 m
   - zoneName: ARDLE
     lat: -34.4125
-    lng: 146.85429999
+    lng: 146.8543
     radius: 400.0 m
   - zoneName: GRON15
-    lat: -34.71591999
+    lat: -34.71592
     lng: 146.77547
     radius: 600.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 10000.0 m
+  - cylinder:
+      center:
+      - -34.1527 deg
+      - 147.3974 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -34.4125 deg
+      - 146.8543 deg
+      radius: 400.0 m
+  - line:
+      center:
+      - -34.71592 deg
+      - 146.77547 deg
+      radius: 600.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 10000.0 m
+    - cylinder:
+        center:
+        - -34.1527 deg
+        - 147.3974 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -34.4125 deg
+        - 146.8543 deg
+        radius: 400.0 m
+    goal:
+      line:
+        center:
+        - -34.71592 deg
+        - 146.77547 deg
+        radius: 600.0 m
+  stopped: null
   speedSection:
   - 2
   - 5
@@ -122,29 +286,83 @@ tasks:
   - 2015-01-03T03:30:00Z
   - 2015-01-03T03:45:00Z
   absent: []
-  stopped: null
 - taskName: Moyes Delta Gliders
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 5000.0 m
   - zoneName: TULLIB
     lat: -33.44923
     lng: 146.72102
     radius: 5000.0 m
   - zoneName: RANKIN
-    lat: -33.84192999
-    lng: 146.27054999
+    lat: -33.84193
+    lng: 146.27055
     radius: 5000.0 m
   - zoneName: GUNBAR
     lat: -34.0414
     lng: 145.41037
     radius: 400.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 5000.0 m
+  - cylinder:
+      center:
+      - -33.44923 deg
+      - 146.72102 deg
+      radius: 5000.0 m
+  - cylinder:
+      center:
+      - -33.84193 deg
+      - 146.27055 deg
+      radius: 5000.0 m
+  - circle:
+      center:
+      - -34.0414 deg
+      - 145.41037 deg
+      radius: 400.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 5000.0 m
+    - cylinder:
+        center:
+        - -33.44923 deg
+        - 146.72102 deg
+        radius: 5000.0 m
+    - cylinder:
+        center:
+        - -33.84193 deg
+        - 146.27055 deg
+        radius: 5000.0 m
+    goal:
+      circle:
+        center:
+        - -34.0414 deg
+        - 145.41037 deg
+        radius: 400.0 m
+  stopped: null
   speedSection:
   - 2
   - 5
@@ -166,16 +384,15 @@ tasks:
   - 2015-01-06T03:30:00Z
   - 2015-01-06T03:45:00Z
   absent: []
-  stopped: null
 - taskName: no money
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 10000.0 m
   - zoneName: BARME
     lat: -34.1527
@@ -183,8 +400,54 @@ tasks:
     radius: 400.0 m
   - zoneName: ARDLE
     lat: -34.4125
-    lng: 146.85429999
+    lng: 146.8543
     radius: 400.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 10000.0 m
+  - cylinder:
+      center:
+      - -34.1527 deg
+      - 147.3974 deg
+      radius: 400.0 m
+  - circle:
+      center:
+      - -34.4125 deg
+      - 146.8543 deg
+      radius: 400.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 10000.0 m
+    - cylinder:
+        center:
+        - -34.1527 deg
+        - 147.3974 deg
+        radius: 400.0 m
+    goal:
+      circle:
+        center:
+        - -34.4125 deg
+        - 146.8543 deg
+        radius: 400.0 m
+  stopped:
+    announced: 2015-01-07T05:15:00Z
   speedSection:
   - 2
   - 4
@@ -197,31 +460,85 @@ tasks:
   - 2015-01-07T03:30:00Z
   - 2015-01-07T03:45:00Z
   absent:
-  - Peter Dall
-  stopped:
-    announced: 2015-01-07T05:15:00Z
+  - - '102'
+    - Peter Dall
 - taskName: no money
   zones:
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 400.0 m
   - zoneName: FORBE
-    lat: -33.36079999
-    lng: 147.93199999
+    lat: -33.3608
+    lng: 147.932
     radius: 10000.0 m
   - zoneName: GRENF
     lat: -33.8596
-    lng: 148.11209999
+    lng: 148.1121
     radius: 5000.0 m
   - zoneName: CARAGA
-    lat: -33.83612999
+    lat: -33.83613
     lng: 147.73937
     radius: 15000.0 m
   - zoneName: GOOL15
     lat: -33.61847
     lng: 148.40897
     radius: 400.0 m
+  strictZones:
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 400.0 m
+  - cylinder:
+      center:
+      - -33.3608 deg
+      - 147.932 deg
+      radius: 10000.0 m
+  - cylinder:
+      center:
+      - -33.8596 deg
+      - 148.1121 deg
+      radius: 5000.0 m
+  - cylinder:
+      center:
+      - -33.83613 deg
+      - 147.73937 deg
+      radius: 15000.0 m
+  - line:
+      center:
+      - -33.61847 deg
+      - 148.40897 deg
+      radius: 400.0 m
+  kindZones:
+    turnpoints:
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 400.0 m
+    - cylinder:
+        center:
+        - -33.3608 deg
+        - 147.932 deg
+        radius: 10000.0 m
+    - cylinder:
+        center:
+        - -33.8596 deg
+        - 148.1121 deg
+        radius: 5000.0 m
+    - cylinder:
+        center:
+        - -33.83613 deg
+        - 147.73937 deg
+        radius: 15000.0 m
+    goal:
+      line:
+        center:
+        - -33.61847 deg
+        - 148.40897 deg
+        radius: 400.0 m
+  stopped: null
   speedSection:
   - 2
   - 5
@@ -234,9 +551,10 @@ tasks:
   - 2015-01-08T03:15:00Z
   - 2015-01-08T03:30:00Z
   absent:
-  - Enda Murphy
-  - Peter Dall
-  stopped: null
+  - - '36'
+    - Enda Murphy
+  - - '102'
+    - Peter Dall
 taskFolders:
 - - day 1
 - - day 2
@@ -245,617 +563,924 @@ taskFolders:
 - - day 7
 - - day 8
 pilots:
-- - - Adam Jones
+- - - - '101'
+      - Adam Jones
     - Adam Jones.20150101-085835.36774.101.igc
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150101-082034.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150101-085236.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150101-085140.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150101-082906.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150101-084123.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150101-090033.30649.80.igc
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - Emiel Jansen.20150101-072913.24338.88.igc
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - null
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150101-083259.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150101-090951.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150101-091223.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150101-082150.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150101-092759.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150101-084313.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150101-082736.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150101-090446.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150101-091026.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150101-091131.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150101-093712.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150101-084136.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150101-094028.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150101-093326.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150101-094057.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods.20150101-080954.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150101-092122.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150101-091306.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150101-094437.6992.40.igc
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150101-083249.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150101-083143.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150101-082305.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150101-213220.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150101-213248.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150101-213147.7308.95.igc
-  - - Peter Dall
+  - - - '102'
+      - Peter Dall
     - Peter Dall.20150101-091359.7384.102.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150101-084307.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - Phil Seeley.20150101-084904.36770.69.igc
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150101-082821.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150101-080634.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150101-073020.13729.90.igc
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150101-090539.[CIVLID].97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150101-093509.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150101-083139.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150101-091948.7760.86.igc
-  - - Thomas Lindal
+  - - - '96'
+      - Thomas Lindal
     - Thomas Lindal.20150101-213413.25497.96.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150101-094120.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150101-090711.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150101-093219.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv Clements.20150101-081846.[CIVLID].93.kml
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150101-093119.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150101-080745.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150101-212206.10613.99.igc
-- - - Andrew Barnes
+- - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150102-080046.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150102-095244.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150102-093904.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150102-074823.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150102-095108.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150102-093103.30649.80.igc
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - Emiel Jansen.20150102-073126.24338.88.igc
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - null
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150102-102841.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150102-074415.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150102-103645.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150102-080111.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150102-213737.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150102-080132.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150102-075257.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150102-074446.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150102-104232.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150102-103502.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150102-215026.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150102-210710.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150102-075325.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150102-074512.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150102-074528.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods.20150102-093729.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150102-110526.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150102-104458.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150102-110625.6992.40.igc
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150102-075509.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150102-104152.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150102-080158.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150102-075542.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150102-074551.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150102-075610.7308.95.igc
-  - - Peter Dall
+  - - - '102'
+      - Peter Dall
     - Peter Dall.20150102-103320.7384.102.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150102-075635.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - null
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150102-211058.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150102-084809.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150102-072852.13729.90.igc
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150102-213809.30169.97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150102-075120.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150102-105532.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150102-104338.7760.86.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150102-074609.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150102-074631.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150102-074651.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv Clements.20150102-070725.[CIVLID].93.kml
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150102-103943.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150102-084703.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150102-075908.10613.99.igc
-- - - Adam Jones
+- - - - '101'
+      - Adam Jones
     - Adam Jones.20150103-071017.36774.101.igc
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150103-071035.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150103-100345.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150103-111728.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150103-071059.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150103-095925.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150103-112252.30649.80.igc
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - Emiel Jansen.20150103-211818.24338.88.igc
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - Enda Murphy.20150103-091609.295.36.igc
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150103-092950.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150103-071116.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150103-071136.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150103-111428.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150103-212150.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150103-071200.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150103-071217.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150103-100946.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150103-095643.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150103-095801.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150103-071238.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150103-211608.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150103-071256.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150103-071315.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150103-071354.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods.20150103-111304.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150103-110501.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150103-100311.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150103-210814.6992.40.igc
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150103-071413.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150103-100225.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150103-071453.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150103-071516.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150103-071534.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150103-114252.7308.95.igc
-  - - Peter Dall
+  - - - '102'
+      - Peter Dall
     - Peter Dall.20150103-105040.7384.102.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150103-221258.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - null
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150103-111202.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150103-091834.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150103-115309.13729.90.kml
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150103-101004.30169.97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150103-071553.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150103-071609.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150103-110254.7760.86.igc
-  - - Thomas Lindal
+  - - - '96'
+      - Thomas Lindal
     - Thomas Lindal.20150103-114314.25497.96.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150103-071625.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150103-071639.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150103-071657.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv Clements.20150103-113020.[CIVLID].93.kml
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150103-104952.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150103-091923.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150103-083333.10613.99.igc
-- - - Adam Jones
+- - - - '101'
+      - Adam Jones
     - Adam Jones.20150106-100534.36774.101.igc
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150106-230433.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150106-212133.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150106-210108.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150106-212221.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150106-094313.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150106-100405.30649.80.igc
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - null
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - Enda Murphy.20150106-095017.295.36.igc
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150106-212543.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150106-094050.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150106-212953.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150106-230132.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150106-212253.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150106-094200.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150106-094755.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150106-212326.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150106-221927.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150106-221942.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150106-221540.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150106-212355.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150106-095606.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150106-095630.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150106-095654.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods.20150106-095709.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150106-220047.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150106-225505.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150106-212510.6992.40.igc
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150106-212609.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150106-212424.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150106-221038.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150106-095730.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150106-211553.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150106-095747.7308.95.igc
-  - - Peter Dall
+  - - - '102'
+      - Peter Dall
     - Peter Dall.20150106-233710.7384.102.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150107-091056.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - Phil Seeley.20150106-100459.36770.69.igc
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150106-211431.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150106-220535.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150106-211622.13729.90.igc
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150106-212647.30169.97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150106-095905.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150106-211520.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150106-215904.7760.86.igc
-  - - Thomas Lindal
+  - - - '96'
+      - Thomas Lindal
     - Thomas Lindal.20150106-095506.25497.96.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150106-095923.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150106-095937.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150106-221315.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv Clements.20150106-212728.[CIVLID].93.igc
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150106-220327.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150106-220711.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150106-100127.10613.99.igc
-- - - Adam Jones
+- - - - '101'
+      - Adam Jones
     - Adam Jones.20150107-103809.36774.101.igc
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150107-085058.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150107-100903.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150107-102131.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150107-080151.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150107-073219.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150107-102241.30649.80.igc
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - Emiel Jansen.20150107-092150.24338.88.igc
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - Enda Murphy.20150107-084444.295.36.igc
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150107-213841.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150107-083355.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150107-074823.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150107-084729.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150107-212310.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150107-090940.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150107-075728.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150107-103522.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150107-075039.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150107-075147.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150107-082115.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150107-090814.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150107-085325.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150107-081646.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150107-085159.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods.20150107-222308.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150107-093209.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150107-075252.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150107-212331.6992.40.igc
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150107-105214.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150107-095025.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150107-084930.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150107-103538.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150107-103553.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150107-103506.7308.95.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150107-091138.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - Phil Seeley.20150107-103828.36770.69.igc
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150107-084815.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150107-090330.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150107-090713.13729.90.igc
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150107-212539.30169.97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150107-081509.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150107-080007.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150107-092941.7760.86.igc
-  - - Thomas Lindal
+  - - - '96'
+      - Thomas Lindal
     - Thomas Lindal.20150107-103214.25497.96.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150107-101006.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150107-083449.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150107-081805.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv Clements.20150107-212623.[CIVLID].93.igc
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150107-085654.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150107-093059.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150107-083421.10613.99.igc
-- - - Adam Jones
+- - - - '101'
+      - Adam Jones
     - Adam Jones.20150108-075840.36774.101.igc
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - Andrew Barnes.20150108-065601.5800.2.igc
-  - - Attila Bertok
+  - - - '3'
+      - Attila Bertok
     - Attila Bertok.20150108-075100.5885.3.igc
-  - - Chris Czajkowski
+  - - - '71'
+      - Chris Czajkowski
     - Chris Czajkowski.20150108-065111.36202.71.igc
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - Christian Voiblet.20150108-065616.6040.62.igc
-  - - Conrad Loten
+  - - - '103'
+      - Conrad Loten
     - Conrad Loten.20150108-074803.6067.103.igc
-  - - Dale Regehr
+  - - - '80'
+      - Dale Regehr
     - Dale Regehr.20150108-082805.30649.80.kml
-  - - Emiel Jansen
+  - - - '88'
+      - Emiel Jansen
     - Emiel Jansen.20150108-070944.24338.88.igc
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - Federico Martini.20150108-073709.6279.8.igc
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - Filippo Oppici.20150108-070020.6295.33.igc
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - Gavin Myers.20150108-071351.18334.51.igc
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - Geoff Robertson.20150108-071405.12153.45.igc
-  - - Gerolf Heinrichs
+  - - - '77'
+      - Gerolf Heinrichs
     - Gerolf Heinrichs.20150108-073133.6405.77.igc
-  - - Gijs Wanders
+  - - - '89'
+      - Gijs Wanders
     - Gijs Wanders.20150108-070412.13730.89.igc
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - Glen Mcfarlane.20150108-071421.17641.34.igc
-  - - Gordon Rigg
+  - - - '98'
+      - Gordon Rigg
     - Gordon Rigg.20150108-071436.6433.98.igc
-  - - Grant Heaney
+  - - - '72'
+      - Grant Heaney
     - Grant Heaney.20150108-075911.6441.72.igc
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - Guy Hubbard.20150108-075925.6467.28.igc
-  - - Harrison Rowntree
+  - - - '73'
+      - Harrison Rowntree
     - Harrison Rowntree.20150108-071527.35158.73.igc
-  - - Jochen Zeischka
+  - - - '79'
+      - Jochen Zeischka
     - Jochen Zeischka.20150108-073250.15187.79.igc
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - Jon snr Durand.20150108-071545.6731.37.igc
-  - - Jonas Lobitz
+  - - - '4'
+      - Jonas Lobitz
     - Jonas Lobitz.20150108-071600.12354.4.igc
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - Jonny Durand.20150108-071614.2231.39.igc
-  - - Josh Woods
+  - - - '75'
+      - Josh Woods
     - Josh Woods2.20150108-071635.42097.75.igc
-  - - Kato Minoru
+  - - - '85'
+      - Kato Minoru
     - Kato Minoru.20150108-071649.6848.85.igc
-  - - Len Paton
+  - - - '6'
+      - Len Paton
     - Len Paton.20150108-071702.6946.6.igc
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - Lukas Bader.20150108-082931.6992.40.kml
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - Mark Russell.20150108-073941.14776.58.igc
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - Mikhail Karmazin.20150108-074435.7169.14.igc
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - Nils Vesk.20150108-071721.7250.20.igc
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - Olav Olsen.20150108-072750.7270.52.igc
-  - - Olav Opsanger
+  - - - '94'
+      - Olav Opsanger
     - Olav Opsanger.20150108-072808.7271.94.igc
-  - - Oyvind Ellefsen
+  - - - '95'
+      - Oyvind Ellefsen
     - Oyvind Ellefsen.20150108-074032.7308.95.igc
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - Phil Schroder.20150108-074047.7419.30.igc
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - Phil Seeley.20150108-075857.36770.69.igc
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - Rohan Taylor.20150108-072615.7545.18.igc
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - Ryosuke Hattori.20150108-080220.15164.5.igc
-  - - Sander Van Schaik
+  - - - '90'
+      - Sander Van Schaik
     - Sander Van Schaik.20150108-065543.13729.90.igc
-  - - Sasha Serebrennikova
+  - - - '97'
+      - Sasha Serebrennikova
     - Sasha Serebrennikova.20150108-075958.30169.97.igc
-  - - Simon Braithwaite
+  - - - '92'
+      - Simon Braithwaite
     - Simon Braithwaite.20150108-074100.28188.92.igc
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - Steve Blenkinsop.20150108-074113.7701.24.igc
-  - - Takeshi Yokoyama
+  - - - '86'
+      - Takeshi Yokoyama
     - Takeshi Yokoyama.20150108-073342.7760.86.igc
-  - - Thomas Lindal
+  - - - '96'
+      - Thomas Lindal
     - Thomas Lindal.20150108-072402.25497.96.igc
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - Trent Brown.20150108-074130.7853.42.igc
-  - - Tullio Gervasoni
+  - - - '83'
+      - Tullio Gervasoni
     - Tullio Gervasoni.20150108-074144.7865.83.igc
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - Victor Hare.20150108-074202.24476.48.igc
-  - - Viv Clements
+  - - - '93'
+      - Viv Clements
     - Viv_Clements.20150108-082424.[CIVLID].93.kml
-  - - Yasuhiro Noma
+  - - - '1'
+      - Yasuhiro Noma
     - Yasuhiro Noma.20150108-073539.7971.1.igc
-  - - Yoko Isomoto
+  - - - '87'
+      - Yoko Isomoto
     - Yoko Isomoto.20150108-080102.12517.87.igc
-  - - Zac Majors
+  - - - '99'
+      - Zac Majors
     - Zac Majors.20150108-075942.10613.99.igc
