@@ -1,0 +1,1777 @@
+ssBestTime:
+- 2.587062 h
+- 2.641497 h
+- 2.420835 h
+- 4.513846 h
+- 3.329458 h
+- 2.213298 h
+gsBestTime:
+- 2.616423 h
+- 2.661878 h
+- 2.429386 h
+- 4.517508 h
+- 3.351363 h
+- 2.217060 h
+taskDistance:
+- 134.912505 km
+- 162.070504 km
+- 191.664950 km
+- 249.642409 km
+- 157.626715 km
+- 120.926673 km
+taskSpeedDistance:
+- 130.312505 km
+- 152.470504 km
+- 182.064950 km
+- 245.042409 km
+- 148.026715 km
+- 111.326673 km
+ssSpeed:
+- - - - '94'
+      - Olav Opsanger
+    - time: 2.587062 h
+      frac: 1
+  - - - '3'
+      - Attila Bertok
+    - time: 2.600649 h
+      frac: 0.9585218
+  - - - '39'
+      - Jonny Durand
+    - time: 2.660609 h
+      frac: 0.87212773
+  - - - '6'
+      - Len Paton
+    - time: 2.673452 h
+      frac: 0.85764439
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 2.701845 h
+      frac: 0.82795228
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.707454 h
+      frac: 0.82239183
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.790514 h
+      frac: 0.74801627
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.790671 h
+      frac: 0.74788622
+  - - - '42'
+      - Trent Brown
+    - time: 2.853371 h
+      frac: 0.69847566
+  - - - '52'
+      - Olav Olsen
+    - time: 2.864883 h
+      frac: 0.68984819
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.880578 h
+      frac: 0.67827434
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.917833 h
+      frac: 0.65159604
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.957892 h
+      frac: 0.62400592
+  - - - '89'
+      - Gijs Wanders
+    - time: 2.975021 h
+      frac: 0.6125148
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.979740 h
+      frac: 0.60937867
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.995293 h
+      frac: 0.5991314
+  - - - '73'
+      - Harrison Rowntree
+    - time: 3.018023 h
+      frac: 0.58438641
+  - - - '99'
+      - Zac Majors
+    - time: 3.020675 h
+      frac: 0.58268295
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 3.021161 h
+      frac: 0.582371
+  - - - '51'
+      - Gavin Myers
+    - time: 3.023024 h
+      frac: 0.58117749
+  - - - '79'
+      - Jochen Zeischka
+    - time: 3.031042 h
+      frac: 0.57605792
+  - - - '30'
+      - Phil Schroder
+    - time: 3.081239 h
+      frac: 0.54467703
+  - - - '85'
+      - Kato Minoru
+    - time: 3.087892 h
+      frac: 0.54059945
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.132241 h
+      frac: 0.51386461
+  - - - '72'
+      - Grant Heaney
+    - time: 3.234552 h
+      frac: 0.45480336
+  - - - '20'
+      - Nils Vesk
+    - time: 3.291395 h
+      frac: 0.42334442
+  - - - '37'
+      - Jon snr Durand
+    - time: 3.319153 h
+      frac: 0.40829137
+  - - - '40'
+      - Lukas Bader
+    - time: 3.358927 h
+      frac: 0.38704937
+  - - - '103'
+      - Conrad Loten
+    - time: 3.434258 h
+      frac: 0.34779034
+  - - - '58'
+      - Mark Russell
+    - time: 3.457071 h
+      frac: 0.3361342
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 3.482611 h
+      frac: 0.32320488
+  - - - '80'
+      - Dale Regehr
+    - time: 3.589458 h
+      frac: 0.27039036
+  - - - '86'
+      - Takeshi Yokoyama
+    - time: 3.794406 h
+      frac: 0.17405385
+- - - - '99'
+      - Zac Majors
+    - time: 2.641497 h
+      frac: 1
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.666210 h
+      frac: 0.93862327
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.813055 h
+      frac: 0.77664735
+  - - - '3'
+      - Attila Bertok
+    - time: 2.935009 h
+      frac: 0.68050256
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.936145 h
+      frac: 0.67967849
+  - - - '42'
+      - Trent Brown
+    - time: 2.968920 h
+      frac: 0.65634461
+  - - - '39'
+      - Jonny Durand
+    - time: 2.985278 h
+      frac: 0.64499225
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 3.030280 h
+      frac: 0.61465038
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.119749 h
+      frac: 0.55759376
+  - - - '40'
+      - Lukas Bader
+    - time: 3.152369 h
+      frac: 0.53769914
+  - - - '94'
+      - Olav Opsanger
+    - time: 3.152441 h
+      frac: 0.53765575
+  - - - '103'
+      - Conrad Loten
+    - time: 3.177630 h
+      frac: 0.52258207
+  - - - '85'
+      - Kato Minoru
+    - time: 3.184349 h
+      frac: 0.51860204
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.193676 h
+      frac: 0.51310339
+  - - - '89'
+      - Gijs Wanders
+    - time: 3.199792 h
+      frac: 0.50951497
+  - - - '8'
+      - Federico Martini
+    - time: 3.282755 h
+      frac: 0.46205408
+  - - - '52'
+      - Olav Olsen
+    - time: 3.293671 h
+      frac: 0.45596621
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 3.327333 h
+      frac: 0.43740384
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 3.380029 h
+      frac: 0.40894272
+  - - - '33'
+      - Filippo Oppici
+    - time: 3.446919 h
+      frac: 0.37377221
+  - - - '20'
+      - Nils Vesk
+    - time: 3.479702 h
+      frac: 0.35689264
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.511094 h
+      frac: 0.34093397
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 3.512601 h
+      frac: 0.34017305
+  - - - '58'
+      - Mark Russell
+    - time: 3.543553 h
+      frac: 0.32463421
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.599579 h
+      frac: 0.29695162
+  - - - '51'
+      - Gavin Myers
+    - time: 3.704989 h
+      frac: 0.2462864
+  - - - '48'
+      - Victor Hare
+    - time: 3.709287 h
+      frac: 0.24425735
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.751505 h
+      frac: 0.224466
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 4.000641 h
+      frac: 0.11237996
+  - - - '30'
+      - Phil Schroder
+    - time: 4.007614 h
+      frac: 0.10934698
+  - - - '73'
+      - Harrison Rowntree
+    - time: 4.175970 h
+      frac: 3.759855e-2
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 4.322263 h
+      frac: 0
+  - - - '2'
+      - Andrew Barnes
+    - time: 4.479601 h
+      frac: 0
+- - - - '3'
+      - Attila Bertok
+    - time: 2.420835 h
+      frac: 1
+  - - - '39'
+      - Jonny Durand
+    - time: 2.425886 h
+      frac: 0.97807619
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.468890 h
+      frac: 0.90156045
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 2.470574 h
+      frac: 0.89927358
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 2.472381 h
+      frac: 0.8968496
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.476438 h
+      frac: 0.89150479
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.481947 h
+      frac: 0.88445232
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.482849 h
+      frac: 0.88331764
+  - - - '6'
+      - Len Paton
+    - time: 2.483999 h
+      frac: 0.88188011
+  - - - '42'
+      - Trent Brown
+    - time: 2.487380 h
+      frac: 0.87770106
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.490242 h
+      frac: 0.87421915
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.502423 h
+      frac: 0.85990293
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.506413 h
+      frac: 0.85537206
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.510064 h
+      frac: 0.85128697
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.573883 h
+      frac: 0.78690993
+  - - - '92'
+      - Simon Braithwaite
+    - time: 2.594784 h
+      frac: 0.76792595
+  - - - '99'
+      - Zac Majors
+    - time: 2.611505 h
+      frac: 0.75328286
+  - - - '51'
+      - Gavin Myers
+    - time: 2.616491 h
+      frac: 0.74900031
+  - - - '52'
+      - Olav Olsen
+    - time: 2.642735 h
+      frac: 0.72702915
+  - - - '85'
+      - Kato Minoru
+    - time: 2.643107 h
+      frac: 0.72672448
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.790978 h
+      frac: 0.61606495
+  - - - '89'
+      - Gijs Wanders
+    - time: 2.807400 h
+      frac: 0.60479121
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 2.845952 h
+      frac: 0.5789339
+  - - - '103'
+      - Conrad Loten
+    - time: 2.884045 h
+      frac: 0.55414182
+  - - - '73'
+      - Harrison Rowntree
+    - time: 3.029900 h
+      frac: 0.46487645
+  - - - '8'
+      - Federico Martini
+    - time: 3.087515 h
+      frac: 0.43164047
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.093385 h
+      frac: 0.42830943
+  - - - '37'
+      - Jon snr Durand
+    - time: 3.097767 h
+      frac: 0.42582893
+  - - - '72'
+      - Grant Heaney
+    - time: 3.155314 h
+      frac: 0.39373211
+  - - - '36'
+      - Enda Murphy
+    - time: 3.180575 h
+      frac: 0.37991002
+  - - - '75'
+      - Josh Woods
+    - time: 3.181262 h
+      frac: 0.37953587
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.206498 h
+      frac: 0.36588333
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 3.215623 h
+      frac: 0.36098281
+  - - - '58'
+      - Mark Russell
+    - time: 3.229026 h
+      frac: 0.35381896
+  - - - '48'
+      - Victor Hare
+    - time: 3.366669 h
+      frac: 0.28239075
+  - - - '86'
+      - Takeshi Yokoyama
+    - time: 3.626095 h
+      frac: 0.15653843
+  - - - '20'
+      - Nils Vesk
+    - time: 3.708344 h
+      frac: 0.11858934
+  - - - '71'
+      - Chris Czajkowski
+    - time: 3.725799 h
+      frac: 0.11064078
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 3.740334 h
+      frac: 0.10404902
+- - - - '99'
+      - Zac Majors
+    - time: 4.513846 h
+      frac: 1
+  - - - '39'
+      - Jonny Durand
+    - time: 4.700288 h
+      frac: 0.80252403
+  - - - '52'
+      - Olav Olsen
+    - time: 4.707711 h
+      frac: 0.79731672
+  - - - '4'
+      - Jonas Lobitz
+    - time: 4.731921 h
+      frac: 0.78077566
+  - - - '62'
+      - Christian Voiblet
+    - time: 4.787348 h
+      frac: 0.74504827
+  - - - '98'
+      - Gordon Rigg
+    - time: 4.824796 h
+      frac: 0.72227673
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 4.833712 h
+      frac: 0.71699317
+  - - - '33'
+      - Filippo Oppici
+    - time: 4.903287 h
+      frac: 0.67731494
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 4.956993 h
+      frac: 0.64829102
+  - - - '42'
+      - Trent Brown
+    - time: 5.065814 h
+      frac: 0.5928443
+  - - - '37'
+      - Jon snr Durand
+    - time: 5.078987 h
+      frac: 0.58639158
+  - - - '85'
+      - Kato Minoru
+    - time: 5.272370 h
+      frac: 0.49673404
+  - - - '92'
+      - Simon Braithwaite
+    - time: 5.312941 h
+      frac: 0.47894503
+  - - - '79'
+      - Jochen Zeischka
+    - time: 5.317047 h
+      frac: 0.47716163
+  - - - '75'
+      - Josh Woods
+    - time: 5.387324 h
+      frac: 0.44709262
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 5.394786 h
+      frac: 0.44394805
+  - - - '30'
+      - Phil Schroder
+    - time: 5.404699 h
+      frac: 0.43978452
+  - - - '94'
+      - Olav Opsanger
+    - time: 5.475462 h
+      frac: 0.41049765
+  - - - '40'
+      - Lukas Bader
+    - time: 5.497520 h
+      frac: 0.40151682
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 5.536518 h
+      frac: 0.3858015
+  - - - '28'
+      - Guy Hubbard
+    - time: 5.562749 h
+      frac: 0.37534312
+  - - - '72'
+      - Grant Heaney
+    - time: 5.604989 h
+      frac: 0.35868383
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 5.779317 h
+      frac: 0.292077
+  - - - '18'
+      - Rohan Taylor
+    - time: 5.804806 h
+      frac: 0.28260277
+  - - - '87'
+      - Yoko Isomoto
+    - time: 6.026614 h
+      frac: 0.20261855
+  - - - '8'
+      - Federico Martini
+    - time: 6.211811 h
+      frac: 0.13880076
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 6.253642 h
+      frac: 0.12471373
+- - - - '3'
+      - Attila Bertok
+    - time: 3.329458 h
+      frac: 1
+- - - - '3'
+      - Attila Bertok
+    - time: 2.213298 h
+      frac: 1
+  - - - '39'
+      - Jonny Durand
+    - time: 2.339623 h
+      frac: 0.80681217
+  - - - '42'
+      - Trent Brown
+    - time: 2.339776 h
+      frac: 0.80665651
+  - - - '85'
+      - Kato Minoru
+    - time: 2.373423 h
+      frac: 0.77373116
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.430634 h
+      frac: 0.72262088
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.430809 h
+      frac: 0.72247195
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.442324 h
+      frac: 0.71276182
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 2.454263 h
+      frac: 0.70286374
+  - - - '6'
+      - Len Paton
+    - time: 2.511821 h
+      frac: 0.65725464
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.513280 h
+      frac: 0.65613889
+  - - - '37'
+      - Jon snr Durand
+    - time: 2.514369 h
+      frac: 0.65530728
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.572931 h
+      frac: 0.61194537
+  - - - '20'
+      - Nils Vesk
+    - time: 2.591081 h
+      frac: 0.59899636
+  - - - '92'
+      - Simon Braithwaite
+    - time: 2.629582 h
+      frac: 0.57219455
+  - - - '73'
+      - Harrison Rowntree
+    - time: 2.631034 h
+      frac: 0.57120052
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 2.641627 h
+      frac: 0.56398173
+  - - - '51'
+      - Gavin Myers
+    - time: 2.649397 h
+      frac: 0.55872451
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.650107 h
+      frac: 0.55824584
+  - - - '72'
+      - Grant Heaney
+    - time: 2.662616 h
+      frac: 0.54985177
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.687779 h
+      frac: 0.53319851
+  - - - '99'
+      - Zac Majors
+    - time: 2.704662 h
+      frac: 0.52218983
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.706455 h
+      frac: 0.52102812
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.711628 h
+      frac: 0.51768464
+  - - - '52'
+      - Olav Olsen
+    - time: 2.714417 h
+      frac: 0.51588658
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.726912 h
+      frac: 0.50787256
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 2.737476 h
+      frac: 0.50114731
+  - - - '40'
+      - Lukas Bader
+    - time: 2.783612 h
+      frac: 0.4722894
+  - - - '48'
+      - Victor Hare
+    - time: 2.808773 h
+      frac: 0.45688048
+  - - - '30'
+      - Phil Schroder
+    - time: 3.001590 h
+      frac: 0.34519629
+  - - - '8'
+      - Federico Martini
+    - time: 3.075883 h
+      frac: 0.304675
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.088491 h
+      frac: 0.29791615
+  - - - '5'
+      - Ryosuke Hattori
+    - time: 3.090044 h
+      frac: 0.29708578
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.109711 h
+      frac: 0.2866126
+  - - - '103'
+      - Conrad Loten
+    - time: 3.473314 h
+      frac: 0.10483306
+  - - - '87'
+      - Yoko Isomoto
+    - time: 3.842249 h
+      frac: 0
+gsSpeed:
+- - - - '3'
+      - Attila Bertok
+    - time: 2.616423 h
+      frac: 1
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.638494 h
+      frac: 0.94289913
+  - - - '39'
+      - Jonny Durand
+    - time: 2.666664 h
+      frac: 0.90119022
+  - - - '6'
+      - Len Paton
+    - time: 2.695771 h
+      frac: 0.86599501
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.715100 h
+      frac: 0.8450328
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 2.721615 h
+      frac: 0.83828482
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.810593 h
+      frac: 0.75665727
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.811928 h
+      frac: 0.755543
+  - - - '42'
+      - Trent Brown
+    - time: 2.855328 h
+      frac: 0.72058663
+  - - - '52'
+      - Olav Olsen
+    - time: 2.874801 h
+      frac: 0.70560236
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.932254 h
+      frac: 0.66343664
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.956287 h
+      frac: 0.64657222
+  - - - '89'
+      - Gijs Wanders
+    - time: 2.976938 h
+      frac: 0.63239652
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.997659 h
+      frac: 0.61844244
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.998159 h
+      frac: 0.6181089
+  - - - '99'
+      - Zac Majors
+    - time: 3.023863 h
+      frac: 0.6011528
+  - - - '2'
+      - Andrew Barnes
+    - time: 3.028542 h
+      frac: 0.59810515
+  - - - '51'
+      - Gavin Myers
+    - time: 3.031399 h
+      frac: 0.59625032
+  - - - '73'
+      - Harrison Rowntree
+    - time: 3.038386 h
+      frac: 0.5917307
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 3.042153 h
+      frac: 0.58930427
+  - - - '79'
+      - Jochen Zeischka
+    - time: 3.067498 h
+      frac: 0.57316198
+  - - - '85'
+      - Kato Minoru
+    - time: 3.098235 h
+      frac: 0.55398569
+  - - - '30'
+      - Phil Schroder
+    - time: 3.126861 h
+      frac: 0.5364898
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.136922 h
+      frac: 0.53041905
+  - - - '72'
+      - Grant Heaney
+    - time: 3.289971 h
+      frac: 0.44237436
+  - - - '20'
+      - Nils Vesk
+    - time: 3.306581 h
+      frac: 0.43324359
+  - - - '37'
+      - Jon snr Durand
+    - time: 3.320996 h
+      frac: 0.42537914
+  - - - '40'
+      - Lukas Bader
+    - time: 3.378593 h
+      frac: 0.39447519
+  - - - '103'
+      - Conrad Loten
+    - time: 3.452518 h
+      frac: 0.35592806
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 3.457264 h
+      frac: 0.35349289
+  - - - '58'
+      - Mark Russell
+    - time: 3.533560 h
+      frac: 0.31495327
+  - - - '80'
+      - Dale Regehr
+    - time: 3.820027 h
+      frac: 0.17885522
+  - - - '86'
+      - Takeshi Yokoyama
+    - time: 3.837703 h
+      frac: 0.17083521
+- - - - '99'
+      - Zac Majors
+    - time: 2.661878 h
+      frac: 1
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.722888 h
+      frac: 0.88817523
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.822874 h
+      frac: 0.78645899
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.939974 h
+      frac: 0.69257851
+  - - - '42'
+      - Trent Brown
+    - time: 2.971512 h
+      frac: 0.66975441
+  - - - '39'
+      - Jonny Durand
+    - time: 2.988566 h
+      frac: 0.65773696
+  - - - '3'
+      - Attila Bertok
+    - time: 3.018732 h
+      frac: 0.63697947
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 3.036734 h
+      frac: 0.62487077
+  - - - '103'
+      - Conrad Loten
+    - time: 3.183794 h
+      frac: 0.53225968
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.192918 h
+      frac: 0.52682431
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.206294 h
+      frac: 0.51891144
+  - - - '40'
+      - Lukas Bader
+    - time: 3.206957 h
+      frac: 0.51852137
+  - - - '94'
+      - Olav Opsanger
+    - time: 3.208433 h
+      frac: 0.51765226
+  - - - '85'
+      - Kato Minoru
+    - time: 3.236988 h
+      frac: 0.50099532
+  - - - '89'
+      - Gijs Wanders
+    - time: 3.242663 h
+      frac: 0.49771783
+  - - - '52'
+      - Olav Olsen
+    - time: 3.304154 h
+      frac: 0.46286276
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 3.384719 h
+      frac: 0.4188354
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 3.398000 h
+      frac: 0.41173806
+  - - - '8'
+      - Federico Martini
+    - time: 3.439057 h
+      frac: 0.3900632
+  - - - '33'
+      - Filippo Oppici
+    - time: 3.478564 h
+      frac: 0.36956405
+  - - - '20'
+      - Nils Vesk
+    - time: 3.513157 h
+      frac: 0.35188522
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 3.569081 h
+      frac: 0.32380228
+  - - - '58'
+      - Mark Russell
+    - time: 3.602983 h
+      frac: 0.30705904
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.619336 h
+      frac: 0.29905524
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.679506 h
+      frac: 0.26998773
+  - - - '51'
+      - Gavin Myers
+    - time: 3.729485 h
+      frac: 0.24627724
+  - - - '48'
+      - Victor Hare
+    - time: 3.779014 h
+      frac: 0.22314215
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.821394 h
+      frac: 0.20361716
+  - - - '30'
+      - Phil Schroder
+    - time: 4.067938 h
+      frac: 9.439279e-2
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 4.126051 h
+      frac: 6.960868e-2
+  - - - '73'
+      - Harrison Rowntree
+    - time: 4.205452 h
+      frac: 3.626947e-2
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 4.384183 h
+      frac: 0
+  - - - '2'
+      - Andrew Barnes
+    - time: 4.494998 h
+      frac: 0
+- - - - '39'
+      - Jonny Durand
+    - time: 2.429386 h
+      frac: 1
+  - - - '3'
+      - Attila Bertok
+    - time: 2.432261 h
+      frac: 0.98495762
+  - - - '6'
+      - Len Paton
+    - time: 2.467156 h
+      frac: 0.91625968
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.472854 h
+      frac: 0.90803608
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 2.477321 h
+      frac: 0.90183982
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 2.478084 h
+      frac: 0.90080006
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.479217 h
+      frac: 0.89926827
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.483794 h
+      frac: 0.89319036
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.486239 h
+      frac: 0.89001404
+  - - - '42'
+      - Trent Brown
+    - time: 2.491167 h
+      frac: 0.88374638
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.508037 h
+      frac: 0.86344639
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.508583 h
+      frac: 0.86281477
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.509581 h
+      frac: 0.86166502
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.513677 h
+      frac: 0.85699363
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.579935 h
+      frac: 0.78948336
+  - - - '92'
+      - Simon Braithwaite
+    - time: 2.602883 h
+      frac: 0.76859998
+  - - - '99'
+      - Zac Majors
+    - time: 2.614602 h
+      frac: 0.75829408
+  - - - '51'
+      - Gavin Myers
+    - time: 2.621702 h
+      frac: 0.75215581
+  - - - '85'
+      - Kato Minoru
+    - time: 2.648183 h
+      frac: 0.72989754
+  - - - '52'
+      - Olav Olsen
+    - time: 2.660493 h
+      frac: 0.71985889
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.815482 h
+      frac: 0.60557481
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 2.854660 h
+      frac: 0.57932476
+  - - - '103'
+      - Conrad Loten
+    - time: 2.911661 h
+      frac: 0.54252833
+  - - - '89'
+      - Gijs Wanders
+    - time: 2.932514 h
+      frac: 0.52943449
+  - - - '73'
+      - Harrison Rowntree
+    - time: 3.046616 h
+      frac: 0.46073853
+  - - - '8'
+      - Federico Martini
+    - time: 3.071708 h
+      frac: 0.44622098
+  - - - '37'
+      - Jon snr Durand
+    - time: 3.104455 h
+      frac: 0.42755522
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.116753 h
+      frac: 0.42062426
+  - - - '72'
+      - Grant Heaney
+    - time: 3.184552 h
+      frac: 0.38312632
+  - - - '36'
+      - Enda Murphy
+    - time: 3.198308 h
+      frac: 0.37565762
+  - - - '58'
+      - Mark Russell
+    - time: 3.224713 h
+      frac: 0.36144507
+  - - - '75'
+      - Josh Woods
+    - time: 3.226274 h
+      frac: 0.36060964
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.230074 h
+      frac: 0.35857829
+  - - - '14'
+      - Mikhail Karmazin
+    - time: 3.241211 h
+      frac: 0.35264432
+  - - - '48'
+      - Victor Hare
+    - time: 3.390956 h
+      frac: 0.27530511
+  - - - '86'
+      - Takeshi Yokoyama
+    - time: 3.683787 h
+      frac: 0.13478215
+  - - - '71'
+      - Chris Czajkowski
+    - time: 3.727455 h
+      frac: 0.11481695
+  - - - '20'
+      - Nils Vesk
+    - time: 3.737466 h
+      frac: 0.11027172
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 3.740218 h
+      frac: 0.109024
+- - - - '99'
+      - Zac Majors
+    - time: 4.517508 h
+      frac: 1
+  - - - '39'
+      - Jonny Durand
+    - time: 4.707256 h
+      frac: 0.80025086
+  - - - '52'
+      - Olav Olsen
+    - time: 4.721006 h
+      frac: 0.79071377
+  - - - '4'
+      - Jonas Lobitz
+    - time: 4.747478 h
+      frac: 0.77293648
+  - - - '62'
+      - Christian Voiblet
+    - time: 4.790381 h
+      frac: 0.74550787
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 4.859142 h
+      frac: 0.70437527
+  - - - '98'
+      - Gordon Rigg
+    - time: 4.892730 h
+      frac: 0.68530314
+  - - - '33'
+      - Filippo Oppici
+    - time: 4.909079 h
+      frac: 0.67622684
+  - - - '77'
+      - Gerolf Heinrichs
+    - time: 4.960895 h
+      frac: 0.64825925
+  - - - '42'
+      - Trent Brown
+    - time: 5.072786 h
+      frac: 0.59132892
+  - - - '37'
+      - Jon snr Durand
+    - time: 5.107207 h
+      frac: 0.57460988
+  - - - '85'
+      - Kato Minoru
+    - time: 5.278245 h
+      frac: 0.49589232
+  - - - '75'
+      - Josh Woods
+    - time: 5.294049 h
+      frac: 0.48893439
+  - - - '79'
+      - Jochen Zeischka
+    - time: 5.321512 h
+      frac: 0.47695471
+  - - - '92'
+      - Simon Braithwaite
+    - time: 5.323558 h
+      frac: 0.47606797
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 5.400481 h
+      frac: 0.4432435
+  - - - '30'
+      - Phil Schroder
+    - time: 5.414101 h
+      frac: 0.43753282
+  - - - '40'
+      - Lukas Bader
+    - time: 5.520654 h
+      frac: 0.39380865
+  - - - '94'
+      - Olav Opsanger
+    - time: 5.543672 h
+      frac: 0.38457064
+  - - - '28'
+      - Guy Hubbard
+    - time: 5.583772 h
+      frac: 0.36864043
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 5.603740 h
+      frac: 0.36078237
+  - - - '72'
+      - Grant Heaney
+    - time: 5.631084 h
+      frac: 0.3500995
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 5.797141 h
+      frac: 0.28699797
+  - - - '18'
+      - Rohan Taylor
+    - time: 5.826574 h
+      frac: 0.27610626
+  - - - '87'
+      - Yoko Isomoto
+    - time: 6.044637 h
+      frac: 0.19779706
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 6.259782 h
+      frac: 0.12411972
+  - - - '8'
+      - Federico Martini
+    - time: 6.282900 h
+      frac: 0.11638886
+- - - - '3'
+      - Attila Bertok
+    - time: 3.351363 h
+      frac: 1
+- - - - '3'
+      - Attila Bertok
+    - time: 2.217060 h
+      frac: 1
+  - - - '85'
+      - Kato Minoru
+    - time: 2.378029 h
+      frac: 0.7730647
+  - - - '95'
+      - Oyvind Ellefsen
+    - time: 2.433569 h
+      frac: 0.72348134
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.439657 h
+      frac: 0.71832216
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.454258 h
+      frac: 0.70613479
+  - - - '83'
+      - Tullio Gervasoni
+    - time: 2.461280 h
+      frac: 0.70036357
+  - - - '39'
+      - Jonny Durand
+    - time: 2.462175 h
+      frac: 0.69963236
+  - - - '6'
+      - Len Paton
+    - time: 2.517379 h
+      frac: 0.65607584
+  - - - '37'
+      - Jon snr Durand
+    - time: 2.527933 h
+      frac: 0.64806475
+  - - - '79'
+      - Jochen Zeischka
+    - time: 2.532735 h
+      frac: 0.64445047
+  - - - '42'
+      - Trent Brown
+    - time: 2.541513 h
+      frac: 0.63788893
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.579349 h
+      frac: 0.61025765
+  - - - '20'
+      - Nils Vesk
+    - time: 2.593725 h
+      frac: 0.60001449
+  - - - '92'
+      - Simon Braithwaite
+    - time: 2.639031 h
+      frac: 0.56855161
+  - - - '1'
+      - Yasuhiro Noma
+    - time: 2.654811 h
+      frac: 0.55786097
+  - - - '51'
+      - Gavin Myers
+    - time: 2.675469 h
+      frac: 0.54405804
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.676224 h
+      frac: 0.54355786
+  - - - '73'
+      - Harrison Rowntree
+    - time: 2.677056 h
+      frac: 0.54300663
+  - - - '72'
+      - Grant Heaney
+    - time: 2.679383 h
+      frac: 0.54146639
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.696068 h
+      frac: 0.53049956
+  - - - '99'
+      - Zac Majors
+    - time: 2.711029 h
+      frac: 0.52077374
+  - - - '98'
+      - Gordon Rigg
+    - time: 2.712070 h
+      frac: 0.52010122
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.737310 h
+      frac: 0.50392345
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.740292 h
+      frac: 0.50202993
+  - - - '52'
+      - Olav Olsen
+    - time: 2.748859 h
+      frac: 0.49660913
+  - - - '40'
+      - Lukas Bader
+    - time: 2.800719 h
+      frac: 0.46439222
+  - - - '48'
+      - Victor Hare
+    - time: 2.826488 h
+      frac: 0.44874097
+  - - - '97'
+      - Sasha Serebrennikova
+    - time: 2.866057 h
+      frac: 0.42513054
+  - - - '30'
+      - Phil Schroder
+    - time: 3.006514 h
+      frac: 0.34492373
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.096325 h
+      frac: 0.29613855
+  - - - '8'
+      - Federico Martini
+    - time: 3.111579 h
+      frac: 0.28802123
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.112221 h
+      frac: 0.28768043
+  - - - '5'
+      - Ryosuke Hattori
+    - time: 3.314606 h
+      frac: 0.18400188
+  - - - '103'
+      - Conrad Loten
+    - time: 3.478389 h
+      frac: 0.10471834
+  - - - '87'
+      - Yoko Isomoto
+    - time: 3.849124 h
+      frac: 0
+altStopped:
+- - - - '101'
+      - Adam Jones
+    - 242.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - 401.000 m
+  - - - '88'
+      - Emiel Jansen
+    - 367.000 m
+  - - - '8'
+      - Federico Martini
+    - 362.000 m
+  - - - '45'
+      - Geoff Robertson
+    - 559.000 m
+  - - - '75'
+      - Josh Woods
+    - 329.000 m
+  - - - '102'
+      - Peter Dall
+    - 0.000 m
+  - - - '69'
+      - Phil Seeley
+    - 441.000 m
+  - - - '18'
+      - Rohan Taylor
+    - 314.000 m
+  - - - '5'
+      - Ryosuke Hattori
+    - 391.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 333.000 m
+  - - - '97'
+      - Sasha Serebrennikova
+    - 487.000 m
+  - - - '92'
+      - Simon Braithwaite
+    - 580.000 m
+  - - - '96'
+      - Thomas Lindal
+    - 498.000 m
+  - - - '48'
+      - Victor Hare
+    - 395.000 m
+  - - - '93'
+      - Viv Clements
+    - 380.000 m
+  - - - '1'
+      - Yasuhiro Noma
+    - 0.000 m
+  - - - '87'
+      - Yoko Isomoto
+    - 320.000 m
+- - - - '71'
+      - Chris Czajkowski
+    - 273.000 m
+  - - - '80'
+      - Dale Regehr
+    - 271.000 m
+  - - - '88'
+      - Emiel Jansen
+    - 248.000 m
+  - - - '72'
+      - Grant Heaney
+    - 0.000 m
+  - - - '37'
+      - Jon snr Durand
+    - 316.000 m
+  - - - '75'
+      - Josh Woods
+    - 286.000 m
+  - - - '6'
+      - Len Paton
+    - 300.000 m
+  - - - '102'
+      - Peter Dall
+    - 0.000 m
+  - - - '5'
+      - Ryosuke Hattori
+    - 277.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 248.000 m
+  - - - '92'
+      - Simon Braithwaite
+    - 328.000 m
+  - - - '86'
+      - Takeshi Yokoyama
+    - 221.000 m
+  - - - '93'
+      - Viv Clements
+    - 212.000 m
+  - - - '1'
+      - Yasuhiro Noma
+    - 0.000 m
+  - - - '87'
+      - Yoko Isomoto
+    - 239.000 m
+- - - - '101'
+      - Adam Jones
+    - 195.000 m
+  - - - '80'
+      - Dale Regehr
+    - 220.000 m
+  - - - '88'
+      - Emiel Jansen
+    - 232.000 m
+  - - - '45'
+      - Geoff Robertson
+    - 225.000 m
+  - - - '40'
+      - Lukas Bader
+    - 217.000 m
+  - - - '102'
+      - Peter Dall
+    - 0.000 m
+  - - - '30'
+      - Phil Schroder
+    - 0.000 m
+  - - - '5'
+      - Ryosuke Hattori
+    - 226.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 226.000 m
+  - - - '96'
+      - Thomas Lindal
+    - 262.000 m
+  - - - '93'
+      - Viv Clements
+    - 229.000 m
+  - - - '87'
+      - Yoko Isomoto
+    - 194.000 m
+- - - - '101'
+      - Adam Jones
+    - 204.000 m
+  - - - '2'
+      - Andrew Barnes
+    - 188.000 m
+  - - - '3'
+      - Attila Bertok
+    - 0.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - 107.000 m
+  - - - '103'
+      - Conrad Loten
+    - 241.000 m
+  - - - '80'
+      - Dale Regehr
+    - 200.000 m
+  - - - '36'
+      - Enda Murphy
+    - 252.000 m
+  - - - '51'
+      - Gavin Myers
+    - 188.000 m
+  - - - '45'
+      - Geoff Robertson
+    - 0.000 m
+  - - - '89'
+      - Gijs Wanders
+    - 123.000 m
+  - - - '73'
+      - Harrison Rowntree
+    - 96.000 m
+  - - - '6'
+      - Len Paton
+    - 254.000 m
+  - - - '58'
+      - Mark Russell
+    - 141.000 m
+  - - - '14'
+      - Mikhail Karmazin
+    - 227.000 m
+  - - - '20'
+      - Nils Vesk
+    - 105.000 m
+  - - - '102'
+      - Peter Dall
+    - 0.000 m
+  - - - '69'
+      - Phil Seeley
+    - 168.000 m
+  - - - '5'
+      - Ryosuke Hattori
+    - 113.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 227.000 m
+  - - - '86'
+      - Takeshi Yokoyama
+    - 104.000 m
+  - - - '96'
+      - Thomas Lindal
+    - 296.000 m
+  - - - '83'
+      - Tullio Gervasoni
+    - 186.000 m
+  - - - '48'
+      - Victor Hare
+    - 109.000 m
+  - - - '93'
+      - Viv Clements
+    - 198.000 m
+- - - - '101'
+      - Adam Jones
+    - 224.000 m
+  - - - '2'
+      - Andrew Barnes
+    - 1345.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - 1496.000 m
+  - - - '62'
+      - Christian Voiblet
+    - 1375.000 m
+  - - - '103'
+      - Conrad Loten
+    - 223.000 m
+  - - - '80'
+      - Dale Regehr
+    - 1834.000 m
+  - - - '88'
+      - Emiel Jansen
+    - 203.000 m
+  - - - '36'
+      - Enda Murphy
+    - 904.000 m
+  - - - '8'
+      - Federico Martini
+    - 1078.000 m
+  - - - '33'
+      - Filippo Oppici
+    - 1315.000 m
+  - - - '51'
+      - Gavin Myers
+    - 1153.000 m
+  - - - '45'
+      - Geoff Robertson
+    - 1158.000 m
+  - - - '77'
+      - Gerolf Heinrichs
+    - 1481.000 m
+  - - - '89'
+      - Gijs Wanders
+    - 1102.000 m
+  - - - '34'
+      - Glen Mcfarlane
+    - 1653.000 m
+  - - - '98'
+      - Gordon Rigg
+    - 1271.000 m
+  - - - '72'
+      - Grant Heaney
+    - 0.000 m
+  - - - '28'
+      - Guy Hubbard
+    - 0.000 m
+  - - - '73'
+      - Harrison Rowntree
+    - 1054.000 m
+  - - - '79'
+      - Jochen Zeischka
+    - 991.000 m
+  - - - '37'
+      - Jon snr Durand
+    - 2028.000 m
+  - - - '4'
+      - Jonas Lobitz
+    - 1000.000 m
+  - - - '39'
+      - Jonny Durand
+    - 1661.000 m
+  - - - '75'
+      - Josh Woods
+    - 1329.000 m
+  - - - '85'
+      - Kato Minoru
+    - 1135.000 m
+  - - - '6'
+      - Len Paton
+    - 1158.000 m
+  - - - '40'
+      - Lukas Bader
+    - 2166.000 m
+  - - - '58'
+      - Mark Russell
+    - 207.000 m
+  - - - '14'
+      - Mikhail Karmazin
+    - 244.000 m
+  - - - '20'
+      - Nils Vesk
+    - 1907.000 m
+  - - - '52'
+      - Olav Olsen
+    - 1647.000 m
+  - - - '94'
+      - Olav Opsanger
+    - 1243.000 m
+  - - - '95'
+      - Oyvind Ellefsen
+    - 568.000 m
+  - - - '30'
+      - Phil Schroder
+    - 1755.000 m
+  - - - '69'
+      - Phil Seeley
+    - 1305.000 m
+  - - - '18'
+      - Rohan Taylor
+    - 0.000 m
+  - - - '5'
+      - Ryosuke Hattori
+    - 242.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 1001.000 m
+  - - - '97'
+      - Sasha Serebrennikova
+    - 1477.000 m
+  - - - '92'
+      - Simon Braithwaite
+    - 1663.000 m
+  - - - '24'
+      - Steve Blenkinsop
+    - 1080.000 m
+  - - - '86'
+      - Takeshi Yokoyama
+    - 1370.000 m
+  - - - '96'
+      - Thomas Lindal
+    - 1680.000 m
+  - - - '42'
+      - Trent Brown
+    - 1595.000 m
+  - - - '83'
+      - Tullio Gervasoni
+    - 1298.000 m
+  - - - '48'
+      - Victor Hare
+    - 1874.000 m
+  - - - '93'
+      - Viv Clements
+    - 1419.000 m
+  - - - '1'
+      - Yasuhiro Noma
+    - 0.000 m
+  - - - '87'
+      - Yoko Isomoto
+    - 1808.000 m
+  - - - '99'
+      - Zac Majors
+    - 906.000 m
+- - - - '101'
+      - Adam Jones
+    - 249.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - 373.000 m
+  - - - '80'
+      - Dale Regehr
+    - 244.000 m
+  - - - '88'
+      - Emiel Jansen
+    - 304.000 m
+  - - - '77'
+      - Gerolf Heinrichs
+    - 0.000 m
+  - - - '89'
+      - Gijs Wanders
+    - 364.000 m
+  - - - '34'
+      - Glen Mcfarlane
+    - 309.000 m
+  - - - '75'
+      - Josh Woods
+    - 313.000 m
+  - - - '58'
+      - Mark Russell
+    - 336.000 m
+  - - - '14'
+      - Mikhail Karmazin
+    - 291.000 m
+  - - - '69'
+      - Phil Seeley
+    - 280.000 m
+  - - - '90'
+      - Sander Van Schaik
+    - 240.000 m
+  - - - '86'
+      - Takeshi Yokoyama
+    - 261.000 m
+  - - - '96'
+      - Thomas Lindal
+    - 366.000 m
+  - - - '93'
+      - Viv Clements
+    - 274.000 m

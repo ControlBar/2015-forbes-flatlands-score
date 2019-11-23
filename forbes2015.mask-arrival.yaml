@@ -1,0 +1,680 @@
+pilotsAtEss:
+- 33
+- 33
+- 39
+- 27
+- 1
+- 35
+arrivalRank:
+- - - - '3'
+      - Attila Bertok
+    - rank: '1'
+      frac: 1
+  - - - '52'
+      - Olav Olsen
+    - rank: '2'
+      frac: 0.93530011
+  - - - '94'
+      - Olav Opsanger
+    - rank: '3'
+      frac: 0.87422089
+  - - - '77'
+      - Gerolf Heinrichs
+    - rank: '4'
+      frac: 0.81665665
+  - - - '89'
+      - Gijs Wanders
+    - rank: '5'
+      frac: 0.76250171
+  - - - '51'
+      - Gavin Myers
+    - rank: '6'
+      frac: 0.71165039
+  - - - '73'
+      - Harrison Rowntree
+    - rank: '7'
+      frac: 0.66399699
+  - - - '62'
+      - Christian Voiblet
+    - rank: '8'
+      frac: 0.61943585
+  - - - '95'
+      - Oyvind Ellefsen
+    - rank: '9'
+      frac: 0.57786126
+  - - - '85'
+      - Kato Minoru
+    - rank: '10'
+      frac: 0.53916754
+  - - - '28'
+      - Guy Hubbard
+    - rank: '11'
+      frac: 0.50324902
+  - - - '39'
+      - Jonny Durand
+    - rank: '12'
+      frac: 0.47
+  - - - '98'
+      - Gordon Rigg
+    - rank: '13'
+      frac: 0.4393148
+  - - - '6'
+      - Len Paton
+    - rank: '14'
+      frac: 0.41108774
+  - - - '33'
+      - Filippo Oppici
+    - rank: '15'
+      frac: 0.38521312
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '16'
+      frac: 0.36158527
+  - - - '4'
+      - Jonas Lobitz
+    - rank: '17'
+      frac: 0.34009851
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '18'
+      frac: 0.32064713
+  - - - '2'
+      - Andrew Barnes
+    - rank: '19'
+      frac: 0.30312547
+  - - - '72'
+      - Grant Heaney
+    - rank: '20'
+      frac: 0.28742783
+  - - - '83'
+      - Tullio Gervasoni
+    - rank: '21'
+      frac: 0.27344853
+  - - - '20'
+      - Nils Vesk
+    - rank: '22'
+      frac: 0.26108189
+  - - - '79'
+      - Jochen Zeischka
+    - rank: '23'
+      frac: 0.25022222
+  - - - '37'
+      - Jon snr Durand
+    - rank: '24'
+      frac: 0.24076384
+  - - - '42'
+      - Trent Brown
+    - rank: '25'
+      frac: 0.23260105
+  - - - '30'
+      - Phil Schroder
+    - rank: '26'
+      frac: 0.22562818
+  - - - '14'
+      - Mikhail Karmazin
+    - rank: '27'
+      frac: 0.21973954
+  - - - '99'
+      - Zac Majors
+    - rank: '28'
+      frac: 0.21482945
+  - - - '58'
+      - Mark Russell
+    - rank: '29'
+      frac: 0.21079222
+  - - - '40'
+      - Lukas Bader
+    - rank: '30'
+      frac: 0.20752216
+  - - - '103'
+      - Conrad Loten
+    - rank: '31'
+      frac: 0.2049136
+  - - - '80'
+      - Dale Regehr
+    - rank: '32'
+      frac: 0.20286084
+  - - - '86'
+      - Takeshi Yokoyama
+    - rank: '33'
+      frac: 0.2012582
+- - - - '99'
+      - Zac Majors
+    - rank: '1'
+      frac: 1
+  - - - '79'
+      - Jochen Zeischka
+    - rank: '2'
+      frac: 0.93530011
+  - - - '98'
+      - Gordon Rigg
+    - rank: '3'
+      frac: 0.87422089
+  - - - '103'
+      - Conrad Loten
+    - rank: '4'
+      frac: 0.81665665
+  - - - '4'
+      - Jonas Lobitz
+    - rank: '5'
+      frac: 0.76250171
+  - - - '62'
+      - Christian Voiblet
+    - rank: '6'
+      frac: 0.71165039
+  - - - '28'
+      - Guy Hubbard
+    - rank: '7'
+      frac: 0.66399699
+  - - - '40'
+      - Lukas Bader
+    - rank: '8'
+      frac: 0.61943585
+  - - - '94'
+      - Olav Opsanger
+    - rank: '9'
+      frac: 0.57786126
+  - - - '42'
+      - Trent Brown
+    - rank: '10'
+      frac: 0.53916754
+  - - - '85'
+      - Kato Minoru
+    - rank: '11'
+      frac: 0.50324902
+  - - - '39'
+      - Jonny Durand
+    - rank: '12'
+      frac: 0.47
+  - - - '89'
+      - Gijs Wanders
+    - rank: '13'
+      frac: 0.4393148
+  - - - '52'
+      - Olav Olsen
+    - rank: '14'
+      frac: 0.41108774
+  - - - '95'
+      - Oyvind Ellefsen
+    - rank: '15'
+      frac: 0.38521312
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '16'
+      frac: 0.36158527
+  - - - '20'
+      - Nils Vesk
+    - rank: '17'
+      frac: 0.34009851
+  - - - '3'
+      - Attila Bertok
+    - rank: '18'
+      frac: 0.32064713
+  - - - '77'
+      - Gerolf Heinrichs
+    - rank: '19'
+      frac: 0.30312547
+  - - - '83'
+      - Tullio Gervasoni
+    - rank: '20'
+      frac: 0.28742783
+  - - - '58'
+      - Mark Russell
+    - rank: '21'
+      frac: 0.27344853
+  - - - '45'
+      - Geoff Robertson
+    - rank: '22'
+      frac: 0.26108189
+  - - - '8'
+      - Federico Martini
+    - rank: '23'
+      frac: 0.25022222
+  - - - '33'
+      - Filippo Oppici
+    - rank: '24'
+      frac: 0.24076384
+  - - - '51'
+      - Gavin Myers
+    - rank: '25'
+      frac: 0.23260105
+  - - - '48'
+      - Victor Hare
+    - rank: '26'
+      frac: 0.22562818
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '27'
+      frac: 0.21973954
+  - - - '30'
+      - Phil Schroder
+    - rank: '28'
+      frac: 0.21482945
+  - - - '14'
+      - Mikhail Karmazin
+    - rank: '29'
+      frac: 0.21079222
+  - - - '2'
+      - Andrew Barnes
+    - rank: '30'
+      frac: 0.20752216
+  - - - '18'
+      - Rohan Taylor
+    - rank: '31'
+      frac: 0.2049136
+  - - - '73'
+      - Harrison Rowntree
+    - rank: '32'
+      frac: 0.20286084
+  - - - '97'
+      - Sasha Serebrennikova
+    - rank: '33'
+      frac: 0.2012582
+- - - - '39'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '3'
+      - Attila Bertok
+    - rank: '2'
+      frac: 0.94501563
+  - - - '6'
+      - Len Paton
+    - rank: '3'
+      frac: 0.89263521
+  - - - '98'
+      - Gordon Rigg
+    - rank: '4'
+      frac: 0.84279472
+  - - - '83'
+      - Tullio Gervasoni
+    - rank: '5'
+      frac: 0.79543013
+  - - - '77'
+      - Gerolf Heinrichs
+    - rank: '6'
+      frac: 0.75047742
+  - - - '33'
+      - Filippo Oppici
+    - rank: '7'
+      frac: 0.70787255
+  - - - '94'
+      - Olav Opsanger
+    - rank: '8'
+      frac: 0.66755151
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '9'
+      frac: 0.62945026
+  - - - '42'
+      - Trent Brown
+    - rank: '10'
+      frac: 0.59350478
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '11'
+      frac: 0.55965104
+  - - - '95'
+      - Oyvind Ellefsen
+    - rank: '12'
+      frac: 0.52782501
+  - - - '4'
+      - Jonas Lobitz
+    - rank: '13'
+      frac: 0.49796268
+  - - - '79'
+      - Jochen Zeischka
+    - rank: '14'
+      frac: 0.47
+  - - - '62'
+      - Christian Voiblet
+    - rank: '15'
+      frac: 0.44387296
+  - - - '92'
+      - Simon Braithwaite
+    - rank: '16'
+      frac: 0.41951752
+  - - - '51'
+      - Gavin Myers
+    - rank: '17'
+      frac: 0.39686967
+  - - - '52'
+      - Olav Olsen
+    - rank: '18'
+      frac: 0.37586537
+  - - - '2'
+      - Andrew Barnes
+    - rank: '19'
+      frac: 0.3564406
+  - - - '99'
+      - Zac Majors
+    - rank: '20'
+      frac: 0.33853133
+  - - - '103'
+      - Conrad Loten
+    - rank: '21'
+      frac: 0.32207353
+  - - - '73'
+      - Harrison Rowntree
+    - rank: '22'
+      frac: 0.30700319
+  - - - '8'
+      - Federico Martini
+    - rank: '23'
+      frac: 0.29325626
+  - - - '37'
+      - Jon snr Durand
+    - rank: '24'
+      frac: 0.28076873
+  - - - '28'
+      - Guy Hubbard
+    - rank: '25'
+      frac: 0.26947656
+  - - - '85'
+      - Kato Minoru
+    - rank: '26'
+      frac: 0.25931573
+  - - - '89'
+      - Gijs Wanders
+    - rank: '27'
+      frac: 0.25022222
+  - - - '72'
+      - Grant Heaney
+    - rank: '28'
+      frac: 0.242132
+  - - - '58'
+      - Mark Russell
+    - rank: '29'
+      frac: 0.23498103
+  - - - '14'
+      - Mikhail Karmazin
+    - rank: '30'
+      frac: 0.22870531
+  - - - '1'
+      - Yasuhiro Noma
+    - rank: '31'
+      frac: 0.22324078
+  - - - '48'
+      - Victor Hare
+    - rank: '32'
+      frac: 0.21852344
+  - - - '36'
+      - Enda Murphy
+    - rank: '33'
+      frac: 0.21448925
+  - - - '75'
+      - Josh Woods
+    - rank: '34'
+      frac: 0.21107419
+  - - - '71'
+      - Chris Czajkowski
+    - rank: '35'
+      frac: 0.20821423
+  - - - '18'
+      - Rohan Taylor
+    - rank: '36'
+      frac: 0.20584534
+  - - - '20'
+      - Nils Vesk
+    - rank: '37'
+      frac: 0.2039035
+  - - - '97'
+      - Sasha Serebrennikova
+    - rank: '38'
+      frac: 0.20232469
+  - - - '86'
+      - Takeshi Yokoyama
+    - rank: '39'
+      frac: 0.20104486
+- - - - '4'
+      - Jonas Lobitz
+    - rank: '1'
+      frac: 1
+  - - - '99'
+      - Zac Majors
+    - rank: '2'
+      frac: 0.92141777
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '3'
+      frac: 0.84820911
+  - - - '39'
+      - Jonny Durand
+    - rank: '4'
+      frac: 0.78018107
+  - - - '52'
+      - Olav Olsen
+    - rank: '5'
+      frac: 0.71714068
+  - - - '62'
+      - Christian Voiblet
+    - rank: '6'
+      frac: 0.65889499
+  - - - '37'
+      - Jon snr Durand
+    - rank: '7'
+      frac: 0.60525103
+  - - - '98'
+      - Gordon Rigg
+    - rank: '8'
+      frac: 0.55601585
+  - - - '33'
+      - Filippo Oppici
+    - rank: '9'
+      frac: 0.51099649
+  - - - '77'
+      - Gerolf Heinrichs
+    - rank: '10'
+      frac: 0.47
+  - - - '75'
+      - Josh Woods
+    - rank: '11'
+      frac: 0.43283341
+  - - - '40'
+      - Lukas Bader
+    - rank: '12'
+      frac: 0.39930376
+  - - - '85'
+      - Kato Minoru
+    - rank: '13'
+      frac: 0.36921811
+  - - - '79'
+      - Jochen Zeischka
+    - rank: '14'
+      frac: 0.34238348
+  - - - '42'
+      - Trent Brown
+    - rank: '15'
+      frac: 0.31860692
+  - - - '92'
+      - Simon Braithwaite
+    - rank: '16'
+      frac: 0.29769547
+  - - - '28'
+      - Guy Hubbard
+    - rank: '17'
+      frac: 0.27945618
+  - - - '72'
+      - Grant Heaney
+    - rank: '18'
+      frac: 0.26369608
+  - - - '95'
+      - Oyvind Ellefsen
+    - rank: '19'
+      frac: 0.25022222
+  - - - '30'
+      - Phil Schroder
+    - rank: '20'
+      frac: 0.23884164
+  - - - '94'
+      - Olav Opsanger
+    - rank: '21'
+      frac: 0.22936138
+  - - - '18'
+      - Rohan Taylor
+    - rank: '22'
+      frac: 0.22158848
+  - - - '1'
+      - Yasuhiro Noma
+    - rank: '23'
+      frac: 0.21532998
+  - - - '87'
+      - Yoko Isomoto
+    - rank: '24'
+      frac: 0.21039293
+  - - - '97'
+      - Sasha Serebrennikova
+    - rank: '25'
+      frac: 0.20658436
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '26'
+      frac: 0.20371132
+  - - - '8'
+      - Federico Martini
+    - rank: '27'
+      frac: 0.20158086
+- - - - '3'
+      - Attila Bertok
+    - rank: '1'
+      frac: 1
+- - - - '24'
+      - Steve Blenkinsop
+    - rank: '1'
+      frac: 1
+  - - - '45'
+      - Geoff Robertson
+    - rank: '2'
+      frac: 0.93889871
+  - - - '83'
+      - Tullio Gervasoni
+    - rank: '3'
+      frac: 0.88102148
+  - - - '39'
+      - Jonny Durand
+    - rank: '4'
+      frac: 0.82627974
+  - - - '3'
+      - Attila Bertok
+    - rank: '5'
+      frac: 0.77458491
+  - - - '37'
+      - Jon snr Durand
+    - rank: '6'
+      frac: 0.7258484
+  - - - '79'
+      - Jochen Zeischka
+    - rank: '7'
+      frac: 0.67998162
+  - - - '42'
+      - Trent Brown
+    - rank: '8'
+      frac: 0.636896
+  - - - '85'
+      - Kato Minoru
+    - rank: '9'
+      frac: 0.59650295
+  - - - '1'
+      - Yasuhiro Noma
+    - rank: '10'
+      frac: 0.55871389
+  - - - '51'
+      - Gavin Myers
+    - rank: '11'
+      frac: 0.52344023
+  - - - '28'
+      - Guy Hubbard
+    - rank: '12'
+      frac: 0.4905934
+  - - - '73'
+      - Harrison Rowntree
+    - rank: '13'
+      frac: 0.4600848
+  - - - '95'
+      - Oyvind Ellefsen
+    - rank: '14'
+      frac: 0.43182587
+  - - - '4'
+      - Jonas Lobitz
+    - rank: '15'
+      frac: 0.405728
+  - - - '99'
+      - Zac Majors
+    - rank: '16'
+      frac: 0.38170262
+  - - - '98'
+      - Gordon Rigg
+    - rank: '17'
+      frac: 0.35966115
+  - - - '94'
+      - Olav Opsanger
+    - rank: '18'
+      frac: 0.33951501
+  - - - '33'
+      - Filippo Oppici
+    - rank: '19'
+      frac: 0.3211756
+  - - - '52'
+      - Olav Olsen
+    - rank: '20'
+      frac: 0.30455436
+  - - - '6'
+      - Len Paton
+    - rank: '21'
+      frac: 0.28956268
+  - - - '40'
+      - Lukas Bader
+    - rank: '22'
+      frac: 0.276112
+  - - - '48'
+      - Victor Hare
+    - rank: '23'
+      frac: 0.26411373
+  - - - '2'
+      - Andrew Barnes
+    - rank: '24'
+      frac: 0.25347928
+  - - - '20'
+      - Nils Vesk
+    - rank: '25'
+      frac: 0.24412007
+  - - - '97'
+      - Sasha Serebrennikova
+    - rank: '26'
+      frac: 0.23594752
+  - - - '92'
+      - Simon Braithwaite
+    - rank: '27'
+      frac: 0.22887305
+  - - - '72'
+      - Grant Heaney
+    - rank: '28'
+      frac: 0.22280807
+  - - - '30'
+      - Phil Schroder
+    - rank: '29'
+      frac: 0.217664
+  - - - '62'
+      - Christian Voiblet
+    - rank: '30'
+      frac: 0.21335226
+  - - - '8'
+      - Federico Martini
+    - rank: '31'
+      frac: 0.20978426
+  - - - '18'
+      - Rohan Taylor
+    - rank: '32'
+      frac: 0.20687142
+  - - - '5'
+      - Ryosuke Hattori
+    - rank: '33'
+      frac: 0.20452515
+  - - - '103'
+      - Conrad Loten
+    - rank: '34'
+      frac: 0.20265689
+  - - - '87'
+      - Yoko Isomoto
+    - rank: '35'
+      frac: 0.20117803

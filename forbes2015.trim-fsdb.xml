@@ -1,0 +1,1444 @@
+<Fs version="3.4">
+  <FsCompetition id="3562" name="Forbes Flatlands Hang Gliding Championships 2015" location="Forbes, Australia" from="2015-01-01" to="2015-01-08" utc_offset="+11">
+    <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+    <FsParticipants>
+      <FsParticipant id="2" name="Andrew Barnes"/>
+      <FsParticipant id="5" name="Ryosuke Hattori"/>
+      <FsParticipant id="8" name="Federico Martini"/>
+      <FsParticipant id="14" name="Mikhail Karmazin"/>
+      <FsParticipant id="18" name="Rohan Taylor"/>
+      <FsParticipant id="20" name="Nils Vesk"/>
+      <FsParticipant id="24" name="Steve Blenkinsop"/>
+      <FsParticipant id="28" name="Guy Hubbard"/>
+      <FsParticipant id="30" name="Phil Schroder"/>
+      <FsParticipant id="33" name="Filippo Oppici"/>
+      <FsParticipant id="34" name="Glen Mcfarlane"/>
+      <FsParticipant id="36" name="Enda Murphy"/>
+      <FsParticipant id="37" name="Jon snr Durand"/>
+      <FsParticipant id="39" name="Jonny Durand"/>
+      <FsParticipant id="40" name="Lukas Bader"/>
+      <FsParticipant id="42" name="Trent Brown"/>
+      <FsParticipant id="45" name="Geoff Robertson"/>
+      <FsParticipant id="48" name="Victor Hare"/>
+      <FsParticipant id="51" name="Gavin Myers"/>
+      <FsParticipant id="52" name="Olav Olsen"/>
+      <FsParticipant id="58" name="Mark Russell"/>
+      <FsParticipant id="62" name="Christian Voiblet"/>
+      <FsParticipant id="69" name="Phil Seeley"/>
+      <FsParticipant id="71" name="Chris Czajkowski"/>
+      <FsParticipant id="72" name="Grant Heaney"/>
+      <FsParticipant id="73" name="Harrison Rowntree"/>
+      <FsParticipant id="75" name="Josh Woods"/>
+      <FsParticipant id="79" name="Jochen Zeischka"/>
+      <FsParticipant id="80" name="Dale Regehr"/>
+      <FsParticipant id="83" name="Tullio Gervasoni"/>
+      <FsParticipant id="85" name="Kato Minoru"/>
+      <FsParticipant id="86" name="Takeshi Yokoyama"/>
+      <FsParticipant id="87" name="Yoko Isomoto"/>
+      <FsParticipant id="88" name="Emiel Jansen"/>
+      <FsParticipant id="89" name="Gijs Wanders"/>
+      <FsParticipant id="90" name="Sander Van Schaik"/>
+      <FsParticipant id="92" name="Simon Braithwaite"/>
+      <FsParticipant id="93" name="Viv Clements"/>
+      <FsParticipant id="94" name="Olav Opsanger"/>
+      <FsParticipant id="95" name="Oyvind Ellefsen"/>
+      <FsParticipant id="96" name="Thomas Lindal"/>
+      <FsParticipant id="97" name="Sasha Serebrennikova"/>
+      <FsParticipant id="98" name="Gordon Rigg"/>
+      <FsParticipant id="99" name="Zac Majors"/>
+      <FsParticipant id="1" name="Yasuhiro Noma"/>
+      <FsParticipant id="101" name="Adam Jones"/>
+      <FsParticipant id="3" name="Attila Bertok"/>
+      <FsParticipant id="4" name="Jonas Lobitz"/>
+      <FsParticipant id="6" name="Len Paton"/>
+      <FsParticipant id="102" name="Peter Dall"/>
+      <FsParticipant id="103" name="Conrad Loten"/>
+      <FsParticipant id="77" name="Gerolf Heinrichs"/>
+    </FsParticipants>
+    <FsTasks>
+      <FsTask id="1" name="goong he fat choi" tracklog_folder="day 1">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-01T17:46:00+11:00" ss="2" es="5" goal="LINE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-01T12:00:00+11:00" close="2015-01-01T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="5000" open="2015-01-01T12:00:00+11:00" close="2015-01-01T20:00:00+11:00"/>
+          <FsTurnpoint id="CANOWI" lat="-33.55378" lon="148.67147" radius="400" open="2015-01-01T12:00:00+11:00" close="2015-01-01T20:00:00+11:00"/>
+          <FsTurnpoint id="MOLONG" lat="-33.11155" lon="148.8816" radius="5000" open="2015-01-01T12:00:00+11:00" close="2015-01-01T20:00:00+11:00"/>
+          <FsTurnpoint id="MANI15" lat="-33.185" lon="148.68153" radius="200" open="2015-01-01T12:00:00+11:00" close="2015-01-01T20:00:00+11:00"/>
+          <FsStartGate open="2015-01-01T13:45:00+11:00"/>
+          <FsStartGate open="2015-01-01T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-01T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-01T14:30:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-01T17:46:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="88">
+            <FsFlightData distance="48.563" started_ss="2015-01-01T13:47:34+11:00" finished_ss="" tracklog_filename="Emiel Jansen.20150101-072913.24338.88.igc" lc="6.06284405349146" iv="1423856"/>
+            <FsResult rank="46" points="131" distance="48.563" ss_time="00:00:00" distance_points="130.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T13:45:00+11:00" real_distance="48.563" last_distance="48.292"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="71.568" started_ss="2015-01-01T13:45:41+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150101-073020.13729.90.igc" lc="5.14534412429884" iv="1208382"/>
+            <FsResult rank="43" points="235" distance="71.568" ss_time="00:00:00" distance_points="235.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T13:45:00+11:00" real_distance="71.568" last_distance="71.129"/>
+          </FsParticipant>
+          <FsParticipant id="5">
+            <FsFlightData distance="48.682" started_ss="2015-01-01T14:02:42+11:00" finished_ss="" tracklog_filename="Ryosuke Hattori.20150101-080634.15164.5.igc" lc="6.10330587152266" iv="1433359"/>
+            <FsResult rank="46" points="131" distance="48.682" ss_time="00:00:00" distance_points="130.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="48.682" last_distance="48.283"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="45.971" started_ss="2015-01-01T14:01:28+11:00" finished_ss="" tracklog_filename="Yoko Isomoto.20150101-080745.12517.87.igc" lc="6.26203927375614" iv="1470637"/>
+            <FsResult rank="48" points="123" distance="45.971" ss_time="00:00:00" distance_points="123" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="45.971" last_distance="45.29"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="70.854" started_ss="2015-01-01T14:04:30+11:00" finished_ss="" tracklog_filename="Josh Woods.20150101-080954.42097.75.igc" lc="5.39419624458124" iv="1266825"/>
+            <FsResult rank="44" points="232" distance="70.854" ss_time="00:00:00" distance_points="232.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="70.854" last_distance="70.463"/>
+          </FsParticipant>
+          <FsParticipant id="93">
+            <FsFlightData distance="74.143" started_ss="2015-01-01T14:11:21+11:00" finished_ss="" tracklog_filename="Viv Clements.20150101-081846.[CIVLID].93.kml" lc="5.49059217398006" iv="1289463"/>
+            <FsResult rank="40" points="244" distance="74.143" ss_time="00:00:00" distance_points="244.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="74.143" last_distance="74.14"/>
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:59+11:00" finished_ss="2015-01-01T17:01:42+11:00" tracklog_filename="Andrew Barnes.20150101-082034.5800.2.igc" lc="3.58381461765448" iv="841657"/>
+            <FsResult rank="19" points="724" distance="135.063" ss_time="03:01:42" distance_points="383.2" time_points="258.3" arrival_points="23.4" leading_points="58.8" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:01:42+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="122.536" started_ss="2015-01-01T14:01:18+11:00" finished_ss="" tracklog_filename="Geoff Robertson.20150101-082150.12153.45.igc" lc="3.69234598303327" iv="867146"/>
+            <FsResult rank="34" points="414" distance="122.536" ss_time="00:00:00" distance_points="361.7" time_points="0" arrival_points="0" leading_points="52.4" started_ss="2015-01-01T14:00:00+11:00" real_distance="122.536" last_distance="122.213"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:54+11:00" finished_ss="2015-01-01T17:03:23+11:00" tracklog_filename="Nils Vesk.20150101-082305.7250.20.igc" lc="3.25621549566106" iv="764721"/>
+            <FsResult rank="25" points="672" distance="135.063" ss_time="03:18:23" distance_points="383.2" time_points="187.1" arrival_points="20.1" leading_points="81.8" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T17:03:23+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:15:28+11:00" finished_ss="2015-01-01T16:57:54+11:00" tracklog_filename="Glen Mcfarlane.20150101-082736.17641.34.igc" lc="3.83365069081529" iv="900331"/>
+            <FsResult rank="9" points="821" distance="135.063" ss_time="02:42:54" distance_points="383.2" time_points="364.9" arrival_points="27.9" leading_points="44.5" started_ss="2015-01-01T14:15:00+11:00" finished_ss="2015-01-01T16:57:54+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="71.678" started_ss="2015-01-01T14:15:27+11:00" finished_ss="" tracklog_filename="Rohan Taylor.20150101-082821.7545.18.igc" lc="5.3497977331453" iv="1256398"/>
+            <FsResult rank="42" points="236" distance="71.678" ss_time="00:00:00" distance_points="235.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:15:00+11:00" real_distance="71.678" last_distance="71.085"/>
+          </FsParticipant>
+          <FsParticipant id="62">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:11+11:00" finished_ss="2015-01-01T16:48:38+11:00" tracklog_filename="Christian Voiblet.20150101-082906.6040.62.igc" lc="3.45728479494413" iv="811942"/>
+            <FsResult rank="7" points="825" distance="135.063" ss_time="02:48:38" distance_points="383.2" time_points="326.7" arrival_points="47.8" leading_points="66.9" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:48:38+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:43:29+11:00" finished_ss="2015-01-01T17:12:26+11:00" tracklog_filename="Mikhail Karmazin.20150101-083143.7169.14.igc" lc="3.43186368008262" iv="805972"/>
+            <FsResult rank="28" points="585" distance="135.063" ss_time="03:28:57" distance_points="383.2" time_points="147.1" arrival_points="16.9" leading_points="68.6" started_ss="2015-01-01T13:43:29+11:00" finished_ss="2015-01-01T17:12:26+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:06+11:00" finished_ss="2015-01-01T16:59:53+11:00" tracklog_filename="Steve Blenkinsop.20150101-083139.7701.24.igc" lc="3.48781182291484" iv="819111"/>
+            <FsResult rank="16" points="740" distance="135.063" ss_time="02:59:53" distance_points="383.2" time_points="266.9" arrival_points="24.7" leading_points="64.9" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:59:53+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:49:34+11:00" finished_ss="2015-01-01T17:17:00+11:00" tracklog_filename="Mark Russell.20150101-083249.14776.58.igc" lc="3.73258876392315" iv="876597"/>
+            <FsResult rank="27" points="586" distance="135.063" ss_time="03:32:00" distance_points="383.2" time_points="136" arrival_points="16.3" leading_points="50.1" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T17:17:00+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="65.850" started_ss="2015-01-01T14:01:29+11:00" finished_ss="" tracklog_filename="Federico Martini.20150101-083259.6279.8.igc" lc="5.44281103627313" iv="1278242"/>
+            <FsResult rank="45" points="207" distance="65.85" ss_time="00:00:00" distance_points="206.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="65.85" last_distance="65.492"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:05+11:00" finished_ss="2015-01-01T17:27:09+11:00" tracklog_filename="Conrad Loten.20150101-084123.6067.103.igc" lc="4.12725831376061" iv="969285"/>
+            <FsResult rank="29" points="582" distance="135.063" ss_time="03:27:09" distance_points="383.2" time_points="153.7" arrival_points="15.8" leading_points="29.6" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:27:09+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:02:10+11:00" finished_ss="2015-01-01T17:04:02+11:00" tracklog_filename="Jochen Zeischka.20150101-084136.15187.79.igc" lc="3.48883998922536" iv="819353"/>
+            <FsResult rank="21" points="715" distance="135.063" ss_time="03:04:02" distance_points="383.2" time_points="247.5" arrival_points="19.3" leading_points="64.8" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:04:02+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:08+11:00" finished_ss="2015-01-01T16:43:36+11:00" tracklog_filename="Gijs Wanders.20150101-084313.13730.89.igc" lc="3.14763663198712" iv="739221"/>
+            <FsResult rank="10" points="807" distance="135.063" ss_time="02:58:36" distance_points="383.2" time_points="273.1" arrival_points="58.8" leading_points="91.9" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:43:36+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:02:43+11:00" finished_ss="2015-01-01T17:07:36+11:00" tracklog_filename="Phil Schroder.20150101-084307.7419.30.igc" lc="3.77969596083122" iv="887660"/>
+            <FsResult rank="23" points="680" distance="135.063" ss_time="03:07:36" distance_points="383.2" time_points="231.7" arrival_points="17.4" leading_points="47.5" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:07:36+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="104.817" started_ss="2015-01-01T13:38:14+11:00" finished_ss="" tracklog_filename="Phil Seeley.20150101-084904.36770.69.igc" lc="3.85036282142161" iv="904256"/>
+            <FsResult rank="50" points="30" distance="10" ss_time="00:00:00" distance_points="29.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T13:38:14+11:00" real_distance="104.817" last_distance="104.379"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="74.155" started_ss="2015-01-01T13:45:42+11:00" finished_ss="" tracklog_filename="Chris Czajkowski.20150101-085140.36202.71.igc" lc="4.9597176943099" iv="1164788"/>
+            <FsResult rank="40" points="244" distance="74.155" ss_time="00:00:00" distance_points="244.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T13:45:00+11:00" real_distance="74.155" last_distance="74.137"/>
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:00:57+11:00" finished_ss="2015-01-01T16:36:59+11:00" tracklog_filename="Attila Bertok.20150101-085236.5885.3.igc" lc="3.34021463363875" iv="784448"/>
+            <FsResult rank="1" points="967" distance="135.063" ss_time="02:36:59" distance_points="383.2" time_points="431.7" arrival_points="77.1" leading_points="75.1" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:36:59+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData distance="2.911" started_ss="" finished_ss="" tracklog_filename="Adam Jones.20150101-085835.36774.101.igc" lc="0" iv="0"/>
+            <FsResult rank="50" points="30" distance="10" ss_time="00:00:00" distance_points="29.8" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:59:03+11:00" finished_ss="2015-01-01T17:34:12+11:00" tracklog_filename="Dale Regehr.20150101-090033.30649.80.igc" lc="4.22713728912482" iv="992741"/>
+            <FsResult rank="31" points="501" distance="135.063" ss_time="03:49:12" distance_points="383.2" time_points="77.2" arrival_points="15.6" leading_points="24.8" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T17:34:12+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:03:08+11:00" finished_ss="2015-01-01T16:55:56+11:00" tracklog_filename="Gordon Rigg.20150101-090446.6433.98.igc" lc="3.48356736441149" iv="818114"/>
+            <FsResult rank="13" points="769" distance="135.063" ss_time="02:55:56" distance_points="383.2" time_points="286.4" arrival_points="33.9" leading_points="65.1" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:55:56+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="97.085" started_ss="2015-01-01T14:01:22+11:00" finished_ss="" tracklog_filename="Sasha Serebrennikova.20150101-090539.[CIVLID].97.igc" lc="4.65987222609777" iv="1094369"/>
+            <FsResult rank="37" points="303" distance="97.085" ss_time="00:00:00" distance_points="297.1" time_points="0" arrival_points="0" leading_points="5.6" started_ss="2015-01-01T14:00:00+11:00" real_distance="97.085" last_distance="95.836"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:15+11:00" finished_ss="2015-01-01T17:02:31+11:00" tracklog_filename="Tullio Gervasoni.20150101-090711.7865.83.igc" lc="3.51526048347308" iv="825557"/>
+            <FsResult rank="20" points="722" distance="135.063" ss_time="03:02:31" distance_points="383.2" time_points="254.5" arrival_points="21.1" leading_points="63.1" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:02:31+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:02:32+11:00" finished_ss="2015-01-01T16:57:22+11:00" tracklog_filename="Filippo Oppici.20150101-090951.6295.33.igc" lc="3.67687162106595" iv="863512"/>
+            <FsResult rank="15" points="745" distance="135.063" ss_time="02:57:22" distance_points="383.2" time_points="279.2" arrival_points="29.7" leading_points="53.3" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:57:22+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:48:19+11:00" finished_ss="2015-01-01T17:02:23+11:00" tracklog_filename="Grant Heaney.20150101-091026.6441.72.igc" lc="3.28794763201395" iv="772173"/>
+            <FsResult rank="24" points="676" distance="135.063" ss_time="03:17:23" distance_points="383.2" time_points="191" arrival_points="22.2" leading_points="79.2" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T17:02:23+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:18+11:00" finished_ss="2015-01-01T16:54:06+11:00" tracklog_filename="Guy Hubbard.20150101-091131.6467.28.igc" lc="3.13600131231251" iv="736489"/>
+            <FsResult rank="16" points="740" distance="135.063" ss_time="03:09:06" distance_points="383.2" time_points="225.2" arrival_points="38.8" leading_points="93.2" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:54:06+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:29+11:00" finished_ss="2015-01-01T16:46:53+11:00" tracklog_filename="Gavin Myers.20150101-091223.18334.51.igc" lc="3.14560433497899" iv="738744"/>
+            <FsResult rank="11" points="788" distance="135.063" ss_time="03:01:53" distance_points="383.2" time_points="257.4" arrival_points="54.9" leading_points="92.2" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:46:53+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:16:19+11:00" finished_ss="2015-01-01T16:56:44+11:00" tracklog_filename="Len Paton.20150101-091306.6946.6.igc" lc="3.71173718169351" iv="871700"/>
+            <FsResult rank="6" points="840" distance="135.063" ss_time="02:41:44" distance_points="383.2" time_points="374" arrival_points="31.7" leading_points="51.3" started_ss="2015-01-01T14:15:00+11:00" finished_ss="2015-01-01T16:56:44+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData distance="38.449" started_ss="2015-01-01T14:01:21+11:00" finished_ss="" tracklog_filename="Peter Dall.20150101-091359.7384.102.igc" lc="6.60082893882608" iv="1550202"/>
+            <FsResult rank="49" points="100" distance="38.449" ss_time="00:00:00" distance_points="99.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:00:00+11:00" real_distance="38.449" last_distance="38.405"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:02:35+11:00" finished_ss="2015-01-01T17:50:15+11:00" tracklog_filename="Takeshi Yokoyama.20150101-091948.7760.86.igc" lc="4.40779326780223" iv="1035168"/>
+            <FsResult rank="32" points="489" distance="135.063" ss_time="03:50:15" distance_points="383.2" time_points="73.8" arrival_points="15.5" leading_points="16.6" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:50:15+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:38+11:00" finished_ss="2015-01-01T16:50:53+11:00" tracklog_filename="Kato Minoru.20150101-092122.6848.85.igc" lc="3.17553597884707" iv="745773"/>
+            <FsResultPenalty penalty="0.3" penalty_points="0" penalty_reason="Altitude violation of 04:36min - 20%&#13;&#10;Altitude violation of 01:35min - 10%"/>
+            <FsResult rank="30" points="527" distance="135.063" ss_time="03:05:53" distance_points="383.2" time_points="239.2" arrival_points="41.6" leading_points="89.1" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:50:53+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="77">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:10+11:00" finished_ss="2015-01-01T16:43:17+11:00" tracklog_filename="Gerolf Heinrichs.20150101-092759.6405.77.igc" lc="3.33916726408759" iv="784202"/>
+            <FsResult rank="3" points="883" distance="135.063" ss_time="02:43:17" distance_points="383.2" time_points="362" arrival_points="63" leading_points="75.2" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:43:17+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="129.820" started_ss="2015-01-01T14:15:20+11:00" finished_ss="" tracklog_filename="Yasuhiro Noma.20150101-093119.7971.1.igc" lc="4.20090376899672" iv="986580"/>
+            <FsResult rank="36" points="402" distance="129.82" ss_time="00:00:00" distance_points="375.8" time_points="0" arrival_points="0" leading_points="26.1" started_ss="2015-01-01T14:15:00+11:00" real_distance="129.82" last_distance="129.816"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="78.920" started_ss="2015-01-01T14:16:57+11:00" finished_ss="" tracklog_filename="Victor Hare.20150101-093219.24476.48.igc" lc="5.0935154867825" iv="1196210"/>
+            <FsResult rank="39" points="258" distance="78.92" ss_time="00:00:00" distance_points="257.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T14:15:00+11:00" real_distance="78.92" last_distance="78.041"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:02:23+11:00" finished_ss="2015-01-01T16:59:51+11:00" tracklog_filename="Jonas Lobitz.20150101-093326.12354.4.igc" lc="3.62963791923555" iv="852419"/>
+            <FsResult rank="18" points="733" distance="135.063" ss_time="02:59:51" distance_points="383.2" time_points="267" arrival_points="26.2" leading_points="56.1" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:59:51+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="117.042" started_ss="2015-01-01T13:45:36+11:00" finished_ss="" tracklog_filename="Simon Braithwaite.20150101-093509.28188.92.igc" lc="3.49191722184803" iv="820075"/>
+            <FsResult rank="35" points="413" distance="117.042" ss_time="00:00:00" distance_points="348.3" time_points="0" arrival_points="0" leading_points="64.6" started_ss="2015-01-01T13:45:00+11:00" real_distance="117.042" last_distance="116.65"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:46:12+11:00" finished_ss="2015-01-01T16:47:18+11:00" tracklog_filename="Harrison Rowntree.20150101-093712.35158.73.igc" lc="3.18249115128186" iv="747407"/>
+            <FsResult rank="12" points="778" distance="135.063" ss_time="03:02:18" distance_points="383.2" time_points="255.5" arrival_points="51.2" leading_points="88.4" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:47:18+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:06+11:00" finished_ss="2015-01-01T17:04:15+11:00" tracklog_filename="Jon snr Durand.20150101-094028.6731.37.igc" lc="3.28173955952728" iv="770715"/>
+            <FsResult rank="26" points="665" distance="135.063" ss_time="03:19:15" distance_points="383.2" time_points="183.7" arrival_points="18.6" leading_points="79.7" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T17:04:15+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:15:22+11:00" finished_ss="2015-01-01T16:54:59+11:00" tracklog_filename="Jonny Durand.20150101-094057.2231.39.igc" lc="3.71694023409563" iv="872922"/>
+            <FsResult rank="5" points="860" distance="135.063" ss_time="02:39:59" distance_points="383.2" time_points="389.2" arrival_points="36.2" leading_points="51" started_ss="2015-01-01T14:15:00+11:00" finished_ss="2015-01-01T16:54:59+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:15:07+11:00" finished_ss="2015-01-01T17:06:19+11:00" tracklog_filename="Trent Brown.20150101-094120.7853.42.igc" lc="3.86031731582751" iv="906594"/>
+            <FsResult rank="14" points="755" distance="135.063" ss_time="02:51:19" distance_points="383.2" time_points="311.1" arrival_points="17.9" leading_points="43.1" started_ss="2015-01-01T14:15:00+11:00" finished_ss="2015-01-01T17:06:19+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:12+11:00" finished_ss="2015-01-01T17:22:42+11:00" tracklog_filename="Lukas Bader.20150101-094437.6992.40.igc" lc="4.05119032301713" iv="951420"/>
+            <FsResultPenalty penalty="0.2" penalty_points="0" penalty_reason="Altitude violation of 01:15 - 10%&#13;&#10;Altitude violation of 01:46 - 10%"/>
+            <FsResult rank="33" points="482" distance="135.063" ss_time="03:22:42" distance_points="383.2" time_points="170.4" arrival_points="16" leading_points="33.3" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T17:22:42+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="50" points="30" distance="10" ss_time="00:00:00" distance_points="29.8" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:15:12+11:00" finished_ss="2015-01-01T17:16:25+11:00" tracklog_filename="Zac Majors.20150101-212206.10613.99.igc" lc="3.86633651863694" iv="908007"/>
+            <FsResult rank="22" points="702" distance="135.063" ss_time="03:01:25" distance_points="383.2" time_points="259.6" arrival_points="16.6" leading_points="42.8" started_ss="2015-01-01T14:15:00+11:00" finished_ss="2015-01-01T17:16:25+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T13:45:35+11:00" finished_ss="2015-01-01T16:37:29+11:00" tracklog_filename="Olav Olsen.20150101-213220.7270.52.igc" lc="3.04839342694782" iv="715914"/>
+            <FsResult rank="4" points="868" distance="135.063" ss_time="02:52:29" distance_points="383.2" time_points="304.7" arrival_points="72.1" leading_points="107.9" started_ss="2015-01-01T13:45:00+11:00" finished_ss="2015-01-01T16:37:29+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:03:04+11:00" finished_ss="2015-01-01T16:38:19+11:00" tracklog_filename="Olav Opsanger.20150101-213248.7271.94.igc" lc="3.36448074936294" iv="790147"/>
+            <FsResult rank="2" points="931" distance="135.063" ss_time="02:38:19" distance_points="383.2" time_points="407" arrival_points="67.4" leading_points="73.4" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:38:19+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="135.064" started_ss="2015-01-01T14:01:18+11:00" finished_ss="2015-01-01T16:48:42+11:00" tracklog_filename="Oyvind Ellefsen.20150101-213147.7308.95.igc" lc="3.42530272158209" iv="804431"/>
+            <FsResult rank="8" points="823" distance="135.063" ss_time="02:48:42" distance_points="383.2" time_points="326.3" arrival_points="44.6" leading_points="69.1" started_ss="2015-01-01T14:00:00+11:00" finished_ss="2015-01-01T16:48:42+11:00" real_distance="135.063" last_distance="135.063"/>
+          </FsParticipant>
+          <FsParticipant id="96">
+            <FsFlightData distance="86.069" started_ss="2015-01-01T13:57:27+11:00" finished_ss="" tracklog_filename="Thomas Lindal.20150101-213413.25497.96.igc" lc="4.83159124176948" iv="1134697"/>
+            <FsResult rank="38" points="275" distance="86.069" ss_time="00:00:00" distance_points="275.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-01T13:45:00+11:00" real_distance="86.069" last_distance="85.941"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="130.471" task_distance="135.063" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="19" no_of_pilots_reaching_es="33" best_dist="135.063" best_time="2.61638888888889" sum_real_dist_over_min="5303.314" best_real_dist="135.063" arrival_weight="0.0770967290267979" leading_weight="0.107935420637517" time_weight="0.431741682550068" distance_weight="0.383226167785617" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.592"/>
+          <FsTaskDistToTp tp_no="3" distance="71.079"/>
+          <FsTaskDistToTp tp_no="4" distance="118.833"/>
+          <FsTaskDistToTp tp_no="5" distance="135.064"/>
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="2" name="mezzanine" tracklog_folder="day 2">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-02T17:40:00+11:00" ss="2" es="5" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-02T12:00:00+11:00" close="2015-01-02T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2015-01-02T12:00:00+11:00" close="2015-01-02T20:00:00+11:00"/>
+          <FsTurnpoint id="MARSDE" lat="-33.75343" lon="147.52865" radius="400" open="2015-01-02T12:00:00+11:00" close="2015-01-02T20:00:00+11:00"/>
+          <FsTurnpoint id="TYAGON" lat="-34.02107" lon="148.2233" radius="20000" open="2015-01-02T12:00:00+11:00" close="2015-01-02T20:00:00+11:00"/>
+          <FsTurnpoint id="STOC15" lat="-34.49992" lon="147.89652" radius="400" open="2015-01-02T12:00:00+11:00" close="2015-01-02T20:00:00+11:00"/>
+          <FsStartGate open="2015-01-02T13:45:00+11:00"/>
+          <FsStartGate open="2015-01-02T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-02T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-02T14:30:00+11:00"/>
+          <FsStartGate open="2015-01-02T14:45:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-02T17:40:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="93">
+            <FsFlightData distance="42.707" started_ss="2015-01-02T13:49:56+11:00" finished_ss="" tracklog_filename="Viv Clements.20150102-070725.[CIVLID].93.kml" lc="8.2992363003059" iv="2278459"/>
+            <FsResult rank="46" points="101" distance="42.707" ss_time="00:00:00" distance_points="100.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T13:45:00+11:00" real_distance="42.707" last_distance="42.448"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="26.758" started_ss="2015-01-02T14:28:02+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150102-072852.13729.90.igc" lc="9.34188549017398" iv="2564706"/>
+            <FsResult rank="47" points="71" distance="26.758" ss_time="00:00:00" distance_points="70.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" real_distance="26.758" last_distance="26.508"/>
+          </FsParticipant>
+          <FsParticipant id="88">
+            <FsFlightData distance="84.134" started_ss="2015-01-02T14:24:58+11:00" finished_ss="" tracklog_filename="Emiel Jansen.20150102-073126.24338.88.igc" lc="6.73076649791423" iv="1847853"/>
+            <FsResultPenalty penalty="0.1" penalty_points="0" penalty_reason="Altitude violation of 03:05 - 10%"/>
+            <FsResult rank="43" points="199" distance="84.134" ss_time="00:00:00" distance_points="221.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" real_distance="84.134" last_distance="83.798"/>
+          </FsParticipant>
+          <FsParticipant id="62">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:49:24+11:00" finished_ss="2015-01-02T16:56:34+11:00" tracklog_filename="Christian Voiblet.20150102-074823.6040.62.igc" lc="3.34750112535872" iv="919017"/>
+            <FsResult rank="7" points="728" distance="162.103" ss_time="03:11:34" distance_points="378.5" time_points="229.2" arrival_points="56.4" leading_points="63.7" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:56:34+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:01:55+11:00" finished_ss="2015-01-02T17:28:42+11:00" tracklog_filename="Filippo Oppici.20150102-074415.6295.33.igc" lc="4.13703353624647" iv="1135774"/>
+            <FsResult rank="22" points="580" distance="162.103" ss_time="03:28:42" distance_points="378.5" time_points="160.8" arrival_points="19.7" leading_points="20.6" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T17:28:42+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:45:36+11:00" finished_ss="2015-01-02T16:34:22+11:00" tracklog_filename="Gordon Rigg.20150102-074446.6433.98.igc" lc="3.06044320926283" iv="840209"/>
+            <FsResult rank="3" points="875" distance="162.103" ss_time="02:49:22" distance_points="378.5" time_points="342.1" arrival_points="68.4" leading_points="85.7" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:34:22+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:00:13+11:00" finished_ss="2015-01-02T16:56:23+11:00" tracklog_filename="Jonas Lobitz.20150102-074512.12354.4.igc" lc="3.39192912715059" iv="931215"/>
+            <FsResult rank="4" points="801" distance="162.103" ss_time="02:56:23" distance_points="378.5" time_points="301.3" arrival_points="60.2" leading_points="60.9" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T16:56:23+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:00:12+11:00" finished_ss="2015-01-02T16:59:18+11:00" tracklog_filename="Jonny Durand.20150102-074528.2231.39.igc" lc="3.75844338523901" iv="1031837"/>
+            <FsResult rank="6" points="742" distance="162.103" ss_time="02:59:18" distance_points="378.5" time_points="286.1" arrival_points="38.1" leading_points="39.5" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T16:59:18+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:23+11:00" finished_ss="2015-01-02T16:57:30+11:00" tracklog_filename="Olav Opsanger.20150102-074551.7271.94.igc" lc="3.38268060001652" iv="928675"/>
+            <FsResult rank="11" points="711" distance="162.103" ss_time="03:12:30" distance_points="378.5" time_points="225.2" arrival_points="46.3" leading_points="61.4" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:57:30+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:00:09+11:00" finished_ss="2015-01-02T16:58:17+11:00" tracklog_filename="Trent Brown.20150102-074609.7853.42.igc" lc="3.42767021929953" iv="941027"/>
+            <FsResult rank="5" points="772" distance="162.103" ss_time="02:58:17" distance_points="378.5" time_points="291.3" arrival_points="43.4" leading_points="58.6" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T16:58:17+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:23+11:00" finished_ss="2015-01-02T17:19:08+11:00" tracklog_filename="Tullio Gervasoni.20150102-074631.7865.83.igc" lc="3.77383884695778" iv="1036063"/>
+            <FsResult rank="21" points="582" distance="162.103" ss_time="03:34:08" distance_points="378.5" time_points="140.9" arrival_points="23.7" leading_points="38.7" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:19:08+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:49:13+11:00" finished_ss="2015-01-02T17:31:44+11:00" tracklog_filename="Victor Hare.20150102-074651.24476.48.igc" lc="3.92859229169442" iv="1078549"/>
+            <FsResult rank="26" points="525" distance="162.103" ss_time="03:46:44" distance_points="378.5" time_points="97" arrival_points="18.3" leading_points="30.7" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:31:44+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:20:10+11:00" finished_ss="2015-01-02T17:55:32+11:00" tracklog_filename="Jon snr Durand.20150102-075325.6731.37.igc" lc="4.78796008232701" iv="1314479"/>
+            <FsResult rank="28" points="513" distance="162.103" ss_time="03:40:32" distance_points="378.5" time_points="118.2" arrival_points="16.3" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" finished_ss="2015-01-02T17:55:32+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:10:07+11:00" finished_ss="2015-01-02T17:40:46+11:00" tracklog_filename="Glen Mcfarlane.20150102-075257.17641.34.igc" lc="4.55054872753745" iv="1249300"/>
+            <FsResult rank="27" points="516" distance="162.103" ss_time="03:40:46" distance_points="378.5" time_points="117.4" arrival_points="17.8" leading_points="2" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T17:40:46+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:58:36+11:00" finished_ss="2015-01-02T17:44:39+11:00" tracklog_filename="Simon Braithwaite.20150102-075120.28188.92.igc" lc="4.68967552919693" iv="1287496"/>
+            <FsResult rank="31" points="451" distance="162.103" ss_time="03:59:39" distance_points="378.5" time_points="54.9" arrival_points="17.3" leading_points="0" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:44:39+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:37+11:00" finished_ss="2015-01-02T17:49:04+11:00" tracklog_filename="Phil Schroder.20150102-075635.7419.30.igc" lc="4.20919514675464" iv="1155585"/>
+            <FsResult rank="30" points="454" distance="162.103" ss_time="04:04:04" distance_points="378.5" time_points="41" arrival_points="16.9" leading_points="17.2" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:49:04+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:45:38+11:00" finished_ss="2015-01-02T17:03:14+11:00" tracklog_filename="Olav Olsen.20150102-075542.7270.52.igc" lc="3.39530599132692" iv="932142"/>
+            <FsResult rank="15" points="674" distance="162.103" ss_time="03:18:14" distance_points="378.5" time_points="201.4" arrival_points="33.5" leading_points="60.6" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:03:14+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:34+11:00" finished_ss="2015-01-02T17:21:10+11:00" tracklog_filename="Mark Russell.20150102-075509.14776.58.igc" lc="3.70355917620875" iv="1016769"/>
+            <FsResult rank="23" points="577" distance="162.103" ss_time="03:36:10" distance_points="378.5" time_points="133.6" arrival_points="22.5" leading_points="42.5" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:21:10+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:27+11:00" finished_ss="2015-01-02T17:08:04+11:00" tracklog_filename="Oyvind Ellefsen.20150102-075610.7308.95.igc" lc="3.41996123608751" iv="938910"/>
+            <FsResult rank="16" points="651" distance="162.103" ss_time="03:23:04" distance_points="378.5" time_points="182.2" arrival_points="31.5" leading_points="59.1" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:08:04+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:46:15+11:00" finished_ss="2015-01-02T16:24:42+11:00" tracklog_filename="Zac Majors.20150102-075908.10613.99.igc" lc="2.89511487731873" iv="794820"/>
+            <FsResult rank="1" points="1000" distance="162.103" ss_time="02:39:42" distance_points="378.5" time_points="435" arrival_points="77.7" leading_points="108.8" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:24:42+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:46:11+11:00" finished_ss="2015-01-02T17:22:09+11:00" tracklog_filename="Geoff Robertson.20150102-080111.12153.45.igc" lc="3.78662748656659" iv="1039574"/>
+            <FsResult rank="24" points="568" distance="162.103" ss_time="03:37:09" distance_points="378.5" time_points="130.1" arrival_points="21.4" leading_points="38" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:22:09+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:47:00+11:00" finished_ss="2015-01-02T17:15:47+11:00" tracklog_filename="Nils Vesk.20150102-080158.7250.20.igc" lc="3.75367658909977" iv="1030528"/>
+            <FsResult rank="18" points="599" distance="162.103" ss_time="03:30:47" distance_points="378.5" time_points="153.1" arrival_points="27.9" leading_points="39.8" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:15:47+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:47:37+11:00" finished_ss="2015-01-02T16:59:33+11:00" tracklog_filename="Gijs Wanders.20150102-080132.13730.89.igc" lc="3.47020741570995" iv="952705"/>
+            <FsResult rank="14" points="687" distance="162.103" ss_time="03:14:33" distance_points="378.5" time_points="216.5" arrival_points="35.7" leading_points="55.9" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:59:33+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:45:55+11:00" finished_ss="2015-01-02T18:14:41+11:00" tracklog_filename="Andrew Barnes.20150102-080046.5800.2.igc" lc="4.821463204328" iv="1323676"/>
+            <FsResult rank="34" points="395" distance="162.103" ss_time="04:29:41" distance_points="378.5" time_points="0" arrival_points="16.1" leading_points="0" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T18:14:41+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="26.644" started_ss="2015-01-02T14:39:33+11:00" finished_ss="" tracklog_filename="Yoko Isomoto.20150102-084703.12517.87.igc" lc="9.35074868299258" iv="2567139"/>
+            <FsResult rank="47" points="71" distance="26.644" ss_time="00:00:00" distance_points="70.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" real_distance="26.644" last_distance="26.442"/>
+          </FsParticipant>
+          <FsParticipant id="5">
+            <FsFlightData distance="96.762" started_ss="2015-01-02T14:42:44+11:00" finished_ss="" tracklog_filename="Ryosuke Hattori.20150102-084809.15164.5.igc" lc="6.99141687148122" iv="1919412"/>
+            <FsResult rank="41" points="269" distance="96.762" ss_time="00:00:00" distance_points="269.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" real_distance="96.762" last_distance="96.335"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="100.876" started_ss="2015-01-02T14:42:43+11:00" finished_ss="" tracklog_filename="Dale Regehr.20150102-093103.30649.80.igc" lc="6.90057976654779" iv="1894474"/>
+            <FsResult rank="39" points="281" distance="100.876" ss_time="00:00:00" distance_points="281.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" real_distance="100.876" last_distance="100.707"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="109.743" started_ss="2015-01-02T14:22:16+11:00" finished_ss="" tracklog_filename="Josh Woods.20150102-093729.42097.75.igc" lc="6.61185205979731" iv="1815207"/>
+            <FsResultPenalty penalty="0.1" penalty_points="0" penalty_reason="Altitude violation of 01:41 - 10%"/>
+            <FsResult rank="40" points="274" distance="109.743" ss_time="00:00:00" distance_points="304.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" real_distance="109.743" last_distance="109.38"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="104.978" started_ss="2015-01-02T14:29:16+11:00" finished_ss="" tracklog_filename="Chris Czajkowski.20150102-093904.36202.71.igc" lc="6.74466693224237" iv="1851670"/>
+            <FsResult rank="38" points="293" distance="104.978" ss_time="00:00:00" distance_points="292.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" real_distance="104.978" last_distance="104.733"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:45:23+11:00" finished_ss="2015-01-02T16:56:01+11:00" tracklog_filename="Conrad Loten.20150102-095108.6067.103.igc" lc="3.37078388637755" iv="925409"/>
+            <FsResultPenalty penalty="0.2" penalty_points="0" penalty_reason="Altitude violation of 01:21 - 10%&#13;&#10;Altitude violation of 01:30 - 10%"/>
+            <FsResult rank="19" points="589" distance="162.103" ss_time="03:11:01" distance_points="378.5" time_points="231.5" arrival_points="64.2" leading_points="62.2" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:56:01+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:20:01+11:00" finished_ss="2015-01-02T17:16:07+11:00" tracklog_filename="Attila Bertok.20150102-095244.5885.3.igc" lc="4.26216885694462" iv="1170129"/>
+            <FsResult rank="13" points="697" distance="162.103" ss_time="03:01:07" distance_points="378.5" time_points="277.1" arrival_points="26.4" leading_points="14.8" started_ss="2015-01-02T14:15:00+11:00" finished_ss="2015-01-02T17:16:07+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:09:23+11:00" finished_ss="2015-01-02T17:26:20+11:00" tracklog_filename="Federico Martini.20150102-102841.6279.8.igc" lc="4.22597386401489" iv="1160192"/>
+            <FsResult rank="20" points="585" distance="162.103" ss_time="03:26:20" distance_points="378.5" time_points="169.7" arrival_points="20.5" leading_points="16.4" started_ss="2015-01-02T14:00:00+11:00" finished_ss="2015-01-02T17:26:20+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData distance="96.442" started_ss="2015-01-02T14:31:16+11:00" finished_ss="" tracklog_filename="Peter Dall.20150102-103320.7384.102.igc" lc="6.32151970318592" iv="1735499"/>
+            <FsResult rank="42" points="268" distance="96.442" ss_time="00:00:00" distance_points="268" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" real_distance="96.442" last_distance="96.278"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:45:46+11:00" finished_ss="2015-01-02T16:57:22+11:00" tracklog_filename="Guy Hubbard.20150102-103502.6467.28.igc" lc="3.34560141649463" iv="918496"/>
+            <FsResult rank="8" points="721" distance="162.103" ss_time="03:12:22" distance_points="378.5" time_points="225.7" arrival_points="52.8" leading_points="63.9" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:57:22+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:46:28+11:00" finished_ss="2015-01-02T17:28:46+11:00" tracklog_filename="Gavin Myers.20150102-103645.18334.51.igc" lc="3.86361033412829" iv="1060709"/>
+            <FsResult rank="25" points="539" distance="162.103" ss_time="03:43:46" distance_points="378.5" time_points="107.1" arrival_points="19" leading_points="34" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:28:46+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="114.669" started_ss="2015-01-02T14:24:37+11:00" finished_ss="" tracklog_filename="Yasuhiro Noma.20150102-103943.7971.1.igc" lc="6.07923478689871" iv="1668983"/>
+            <FsResult rank="37" points="315" distance="114.669" ss_time="00:00:00" distance_points="314.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" real_distance="114.669" last_distance="114.299"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:52:33+11:00" finished_ss="2015-01-02T17:52:33+11:00" tracklog_filename="Mikhail Karmazin.20150102-104152.7169.14.igc" lc="4.29692680312417" iv="1179671"/>
+            <FsResult rank="32" points="439" distance="162.103" ss_time="04:07:33" distance_points="378.5" time_points="30.3" arrival_points="16.6" leading_points="13.2" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:52:33+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="69.635" started_ss="2015-01-02T13:46:23+11:00" finished_ss="" tracklog_filename="Grant Heaney.20150102-104232.6441.72.igc" lc="6.77339521861426" iv="1859557"/>
+            <FsResult rank="45" points="169" distance="69.635" ss_time="00:00:00" distance_points="169.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T13:45:00+11:00" real_distance="69.635" last_distance="69.438"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="70.869" started_ss="2015-01-02T13:47:24+11:00" finished_ss="" tracklog_filename="Takeshi Yokoyama.20150102-104338.7760.86.igc" lc="6.81900938015755" iv="1872079"/>
+            <FsResult rank="44" points="173" distance="70.869" ss_time="00:00:00" distance_points="173.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-02T13:45:00+11:00" real_distance="70.869" last_distance="69.286"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="134.294" started_ss="2015-01-02T13:47:38+11:00" finished_ss="" tracklog_filename="Len Paton.20150102-104458.6946.6.igc" lc="4.19672845482392" iv="1152163"/>
+            <FsResult rank="35" points="364" distance="134.294" ss_time="00:00:00" distance_points="346.1" time_points="0" arrival_points="0" leading_points="17.8" started_ss="2015-01-02T13:45:00+11:00" real_distance="134.294" last_distance="134.084"/>
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="49" points="30" distance="10" ss_time="00:00:00" distance_points="29.5" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:46:05+11:00" finished_ss="2015-01-02T17:08:52+11:00" tracklog_filename="Steve Blenkinsop.20150102-105532.7701.24.igc" lc="3.49669072715413" iv="959976"/>
+            <FsResult rank="17" points="642" distance="162.103" ss_time="03:23:52" distance_points="378.5" time_points="179.1" arrival_points="29.7" leading_points="54.3" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T17:08:52+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:09+11:00" finished_ss="2015-01-02T16:59:13+11:00" tracklog_filename="Kato Minoru.20150102-110526.6848.85.igc" lc="3.19273924745987" iv="876529"/>
+            <FsResult rank="10" points="712" distance="162.103" ss_time="03:14:13" distance_points="378.5" time_points="217.9" arrival_points="40.7" leading_points="74.7" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:59:13+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:19+11:00" finished_ss="2015-01-02T16:57:24+11:00" tracklog_filename="Lukas Bader.20150102-110625.6992.40.igc" lc="3.38422793514536" iv="929100"/>
+            <FsResult rank="9" points="715" distance="162.103" ss_time="03:12:24" distance_points="378.5" time_points="225.6" arrival_points="49.5" leading_points="61.3" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:57:24+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T13:48:24+11:00" finished_ss="2015-01-02T16:28:22+11:00" tracklog_filename="Jochen Zeischka.20150102-210710.15187.79.igc" lc="2.94970147819398" iv="809806"/>
+            <FsResult rank="2" points="936" distance="162.103" ss_time="02:43:22" distance_points="378.5" time_points="386.3" arrival_points="72.9" leading_points="97.8" started_ss="2015-01-02T13:45:00+11:00" finished_ss="2015-01-02T16:28:22+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:34:12+11:00" finished_ss="2015-01-02T18:19:16+11:00" tracklog_filename="Rohan Taylor.20150102-211058.7545.18.igc" lc="5.41404590222527" iv="1486363"/>
+            <FsResult rank="29" points="483" distance="162.103" ss_time="03:49:16" distance_points="378.5" time_points="88.6" arrival_points="15.9" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" finished_ss="2015-01-02T18:19:16+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="49" points="30" distance="10" ss_time="00:00:00" distance_points="29.5" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="96"/>
+          <FsParticipant id="77">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:15:25+11:00" finished_ss="2015-01-02T17:17:12+11:00" tracklog_filename="Gerolf Heinrichs.20150102-213737.6405.77.igc" lc="3.94659707952257" iv="1083492"/>
+            <FsResult rank="12" points="705" distance="162.103" ss_time="03:02:12" distance_points="378.5" time_points="271.8" arrival_points="25" leading_points="29.8" started_ss="2015-01-02T14:15:00+11:00" finished_ss="2015-01-02T17:17:12+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:33:46+11:00" finished_ss="2015-01-02T18:53:03+11:00" tracklog_filename="Sasha Serebrennikova.20150102-213809.30169.97.igc" lc="5.94036089461532" iv="1630857"/>
+            <FsResultPenalty penalty="0.1" penalty_points="0" penalty_reason="Altitude violation of 01:55 - 10%"/>
+            <FsResult rank="36" points="355" distance="162.103" ss_time="04:23:03" distance_points="378.5" time_points="0" arrival_points="15.6" leading_points="0" started_ss="2015-01-02T14:30:00+11:00" finished_ss="2015-01-02T18:53:03+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="162.104" started_ss="2015-01-02T14:16:48+11:00" finished_ss="2015-01-02T18:27:19+11:00" tracklog_filename="Harrison Rowntree.20150102-215026.35158.73.igc" lc="5.43214201055781" iv="1491331"/>
+            <FsResult rank="33" points="410" distance="162.103" ss_time="04:12:19" distance_points="378.5" time_points="15.8" arrival_points="15.7" leading_points="0" started_ss="2015-01-02T14:15:00+11:00" finished_ss="2015-01-02T18:27:19+11:00" real_distance="162.103" last_distance="162.103"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="152.521" task_distance="162.103" no_of_pilots_present="50" no_of_pilots_flying="50" no_of_pilots_lo="15" no_of_pilots_reaching_es="35" best_dist="162.103" best_time="2.66166666666667" sum_real_dist_over_min="6272.151" best_real_dist="162.103" arrival_weight="0.077684669" leading_weight="0.1087585366" time_weight="0.4350341464" distance_weight="0.378522648" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.582"/>
+          <FsTaskDistToTp tp_no="3" distance="56.671"/>
+          <FsTaskDistToTp tp_no="4" distance="107.148"/>
+          <FsTaskDistToTp tp_no="5" distance="162.104"/>
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="3" name="Forbes BBQ Champions" tracklog_folder="day 3">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-03T18:03:00+11:00" ss="2" es="5" goal="LINE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-03T12:00:00+11:00" close="2015-01-03T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2015-01-03T12:00:00+11:00" close="2015-01-03T20:00:00+11:00"/>
+          <FsTurnpoint id="BARME" lat="-34.1527" lon="147.3974" radius="400" open="2015-01-03T12:00:00+11:00" close="2015-01-03T20:00:00+11:00"/>
+          <FsTurnpoint id="ARDLE" lat="-34.4125" lon="146.8543" radius="400" open="2015-01-03T12:00:00+11:00" close="2015-01-03T20:00:00+11:00"/>
+          <FsTurnpoint id="GRON15" lat="-34.71592" lon="146.77547" radius="600" open="2015-01-03T12:00:00+11:00" close="2015-01-03T20:00:00+11:00"/>
+          <FsStartGate open="2015-01-03T13:45:00+11:00"/>
+          <FsStartGate open="2015-01-03T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-03T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-03T14:30:00+11:00"/>
+          <FsStartGate open="2015-01-03T14:45:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-03T18:03:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData distance="148.918" started_ss="2015-01-03T14:15:36+11:00" finished_ss="" tracklog_filename="Adam Jones.20150103-071017.36774.101.igc" lc="4.39429642076453" iv="1444521"/>
+            <FsResult rank="46" points="306" distance="148.918" ss_time="00:00:00" distance_points="306.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:15:00+11:00" real_distance="148.918" last_distance="123.823"/>
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:29+11:00" finished_ss="2015-01-03T16:33:55+11:00" tracklog_filename="Andrew Barnes.20150103-071035.5800.2.igc" lc="2.95769267424273" iv="972272"/>
+            <FsResult rank="20" points="735" distance="192.208" ss_time="02:48:55" distance_points="367.2" time_points="268.2" arrival_points="28.2" leading_points="71.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:33:55+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="62">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:23+11:00" finished_ss="2015-01-03T16:19:47+11:00" tracklog_filename="Christian Voiblet.20150103-071059.6040.62.igc" lc="2.72722034123623" iv="896509"/>
+            <FsResult rank="15" points="844" distance="192.208" ss_time="02:34:47" distance_points="367.2" time_points="349.7" arrival_points="35.1" leading_points="91.7" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:19:47+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:12+11:00" finished_ss="2015-01-03T16:13:45+11:00" tracklog_filename="Filippo Oppici.20150103-071116.6295.33.igc" lc="2.66118204902985" iv="874801"/>
+            <FsResult rank="7" points="922" distance="192.208" ss_time="02:28:45" distance_points="367.2" time_points="398.3" arrival_points="56" leading_points="100" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:13:45+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:19+11:00" finished_ss="2015-01-03T16:22:18+11:00" tracklog_filename="Gavin Myers.20150103-071136.18334.51.igc" lc="2.76165683036049" iv="907830"/>
+            <FsResult rank="17" points="820" distance="192.208" ss_time="02:37:18" distance_points="367.2" time_points="333.1" arrival_points="31.4" leading_points="88.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:22:18+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:07:32+11:00" finished_ss="2015-01-03T16:55:57+11:00" tracklog_filename="Gijs Wanders.20150103-071200.13730.89.igc" lc="3.65014237165203" iv="1199898"/>
+            <FsResult rank="25" points="650" distance="192.208" ss_time="02:55:57" distance_points="367.2" time_points="234.5" arrival_points="19.8" leading_points="28.3" started_ss="2015-01-03T14:00:00+11:00" finished_ss="2015-01-03T16:55:57+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:21+11:00" finished_ss="2015-01-03T16:15:28+11:00" tracklog_filename="Glen Mcfarlane.20150103-071217.17641.34.igc" lc="2.71700809363845" iv="893152"/>
+            <FsResult rank="12" points="887" distance="192.208" ss_time="02:30:28" distance_points="367.2" time_points="382.5" arrival_points="44.3" leading_points="92.8" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:15:28+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:00+11:00" finished_ss="2015-01-03T16:47:47+11:00" tracklog_filename="Harrison Rowntree.20150103-071238.35158.73.igc" lc="3.18392486633835" iv="1046640"/>
+            <FsResult rank="24" points="651" distance="192.208" ss_time="03:02:47" distance_points="367.2" time_points="204.1" arrival_points="24.3" leading_points="55.3" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:47:47+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:32+11:00" finished_ss="2015-01-03T16:51:16+11:00" tracklog_filename="Jon snr Durand.20150103-071256.6731.37.igc" lc="3.21918088624065" iv="1058230"/>
+            <FsResult rank="26" points="632" distance="192.208" ss_time="03:06:16" distance_points="367.2" time_points="189.3" arrival_points="22.2" leading_points="53.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:51:16+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:09+11:00" finished_ss="2015-01-03T16:15:34+11:00" tracklog_filename="Jonas Lobitz.20150103-071315.12354.4.igc" lc="2.73327898963342" iv="898501"/>
+            <FsResult rank="13" points="879" distance="192.208" ss_time="02:30:34" distance_points="367.2" time_points="381.7" arrival_points="39.4" leading_points="91" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:15:34+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:12+11:00" finished_ss="2015-01-03T16:10:45+11:00" tracklog_filename="Jonny Durand.20150103-071354.2231.39.igc" lc="2.68031094089057" iv="881089"/>
+            <FsResult rank="2" points="987" distance="192.208" ss_time="02:25:45" distance_points="367.2" time_points="443" arrival_points="79.1" leading_points="97.3" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:10:45+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:44:44+11:00" finished_ss="2015-01-03T16:58:28+11:00" tracklog_filename="Mark Russell.20150103-071413.14776.58.igc" lc="3.62417337080908" iv="1191362"/>
+            <FsResult rank="32" points="569" distance="192.208" ss_time="03:13:44" distance_points="367.2" time_points="159.1" arrival_points="18.6" leading_points="29.7" started_ss="2015-01-03T13:44:44+11:00" finished_ss="2015-01-03T16:58:28+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:46+11:00" finished_ss="2015-01-03T17:29:14+11:00" tracklog_filename="Nils Vesk.20150103-071453.7250.20.igc" lc="4.13766829970962" iv="1360161"/>
+            <FsResult rank="39" points="436" distance="192.208" ss_time="03:44:14" distance_points="367.2" time_points="48.8" arrival_points="16.1" leading_points="4.2" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T17:29:14+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:05+11:00" finished_ss="2015-01-03T16:24:37+11:00" tracklog_filename="Olav Olsen.20150103-071516.7270.52.igc" lc="2.76091001412786" iv="907584"/>
+            <FsResult rank="18" points="804" distance="192.208" ss_time="02:39:37" distance_points="367.2" time_points="318.9" arrival_points="29.7" leading_points="88.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:24:37+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:37+11:00" finished_ss="2015-01-03T16:14:01+11:00" tracklog_filename="Olav Opsanger.20150103-071534.7271.94.igc" lc="2.67542129265302" iv="879482"/>
+            <FsResult rank="8" points="914" distance="192.208" ss_time="02:29:01" distance_points="367.2" time_points="395.6" arrival_points="52.8" leading_points="98" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:14:01+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:29+11:00" finished_ss="2015-01-03T16:21:10+11:00" tracklog_filename="Simon Braithwaite.20150103-071553.28188.92.igc" lc="2.81239943603544" iv="924510"/>
+            <FsResult rank="16" points="824" distance="192.208" ss_time="02:36:10" distance_points="367.2" time_points="340.4" arrival_points="33.2" leading_points="83.2" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:21:10+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:17+11:00" finished_ss="2015-01-03T16:14:10+11:00" tracklog_filename="Steve Blenkinsop.20150103-071609.7701.24.igc" lc="2.66494632596148" iv="876038"/>
+            <FsResult rank="9" points="911" distance="192.208" ss_time="02:29:10" distance_points="367.2" time_points="394.2" arrival_points="49.8" leading_points="99.4" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:14:10+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:13+11:00" finished_ss="2015-01-03T16:14:28+11:00" tracklog_filename="Trent Brown.20150103-071625.7853.42.igc" lc="2.67151620514875" iv="878198"/>
+            <FsResult rank="10" points="904" distance="192.208" ss_time="02:29:28" distance_points="367.2" time_points="391.4" arrival_points="46.9" leading_points="98.5" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:14:28+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:17+11:00" finished_ss="2015-01-03T16:13:38+11:00" tracklog_filename="Tullio Gervasoni.20150103-071639.7865.83.igc" lc="2.66830792295852" iv="877143"/>
+            <FsResult rank="6" points="928" distance="192.208" ss_time="02:28:38" distance_points="367.2" time_points="399.4" arrival_points="62.9" leading_points="98.9" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:13:38+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:32+11:00" finished_ss="2015-01-03T17:08:27+11:00" tracklog_filename="Victor Hare.20150103-071657.24476.48.igc" lc="3.55756696262211" iv="1169466"/>
+            <FsResult rank="35" points="540" distance="192.208" ss_time="03:23:27" distance_points="367.2" time_points="121.9" arrival_points="17.3" leading_points="33.3" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T17:08:27+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:00:12+11:00" finished_ss="2015-01-03T16:36:52+11:00" tracklog_filename="Zac Majors.20150103-083333.10613.99.igc" lc="3.23940741944957" iv="1064879"/>
+            <FsResult rank="19" points="782" distance="192.208" ss_time="02:36:52" distance_points="367.2" time_points="335.9" arrival_points="26.8" leading_points="51.8" started_ss="2015-01-03T14:00:00+11:00" finished_ss="2015-01-03T16:36:52+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:01:04+11:00" finished_ss="2015-01-03T17:11:53+11:00" tracklog_filename="Enda Murphy.20150103-091609.295.36.igc" lc="3.72228420990125" iv="1223613"/>
+            <FsResult rank="31" points="575" distance="192.208" ss_time="03:11:53" distance_points="367.2" time_points="166.4" arrival_points="17" leading_points="24.5" started_ss="2015-01-03T14:00:00+11:00" finished_ss="2015-01-03T17:11:53+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="5">
+            <FsFlightData distance="88.422" started_ss="2015-01-03T13:46:29+11:00" finished_ss="" tracklog_filename="Ryosuke Hattori.20150103-091834.15164.5.igc" lc="5.1920328092719" iv="1706758"/>
+            <FsResult rank="48" points="143" distance="88.422" ss_time="00:00:00" distance_points="142.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T13:45:00+11:00" real_distance="88.422" last_distance="88.197"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="44.666" started_ss="2015-01-03T13:46:22+11:00" finished_ss="" tracklog_filename="Yoko Isomoto.20150103-091923.12517.87.igc" lc="6.65051435452297" iv="2186200"/>
+            <FsResult rank="50" points="77" distance="44.666" ss_time="00:00:00" distance_points="76.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T13:45:00+11:00" real_distance="44.666" last_distance="44.586"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:44:03+11:00" finished_ss="2015-01-03T16:49:18+11:00" tracklog_filename="Federico Martini.20150103-092950.6279.8.igc" lc="3.21208419252727" iv="1055897"/>
+            <FsResult rank="28" points="619" distance="192.208" ss_time="03:05:15" distance_points="367.2" time_points="193.6" arrival_points="23.2" leading_points="53.5" started_ss="2015-01-03T13:44:03+11:00" finished_ss="2015-01-03T16:49:18+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:46+11:00" finished_ss="2015-01-03T16:56:04+11:00" tracklog_filename="Grant Heaney.20150103-095643.6441.72.igc" lc="3.23459638421134" iv="1063297"/>
+            <FsResult rank="29" points="608" distance="192.208" ss_time="03:11:04" distance_points="367.2" time_points="169.7" arrival_points="19.2" leading_points="52.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:56:04+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:24+11:00" finished_ss="2015-01-03T16:52:00+11:00" tracklog_filename="Guy Hubbard.20150103-095801.6467.28.igc" lc="3.27247224191346" iv="1075748"/>
+            <FsResult rank="27" points="625" distance="192.208" ss_time="03:07:00" distance_points="367.2" time_points="186.3" arrival_points="21.3" leading_points="49.7" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:52:00+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:42+11:00" finished_ss="2015-01-03T16:39:41+11:00" tracklog_filename="Conrad Loten.20150103-095925.6067.103.igc" lc="3.14012937732554" iv="1032244"/>
+            <FsResult rank="22" points="691" distance="192.208" ss_time="02:54:41" distance_points="367.2" time_points="240.3" arrival_points="25.5" leading_points="58.2" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:39:41+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:46:34+11:00" finished_ss="2015-01-03T16:59:28+11:00" tracklog_filename="Mikhail Karmazin.20150103-100225.7169.14.igc" lc="3.44590931758046" iv="1132761"/>
+            <FsResult rank="30" points="581" distance="192.208" ss_time="03:14:28" distance_points="367.2" time_points="156.2" arrival_points="18.1" leading_points="39.5" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:59:28+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:14+11:00" finished_ss="2015-01-03T16:13:01+11:00" tracklog_filename="Len Paton.20150103-100311.6946.6.igc" lc="2.6321564088291" iv="865259"/>
+            <FsResult rank="3" points="948" distance="192.208" ss_time="02:28:01" distance_points="367.2" time_points="405.9" arrival_points="70.6" leading_points="104.8" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:13:01+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:42+11:00" finished_ss="2015-01-03T16:10:56+11:00" tracklog_filename="Attila Bertok.20150103-100345.5885.3.igc" lc="2.61230155781074" iv="858733"/>
+            <FsResult rank="1" points="989" distance="192.208" ss_time="02:25:56" distance_points="367.2" time_points="436" arrival_points="74.8" leading_points="110.7" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:10:56+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:14+11:00" finished_ss="2015-01-03T16:13:22+11:00" tracklog_filename="Gordon Rigg.20150103-100946.6433.98.igc" lc="2.66059102884979" iv="874607"/>
+            <FsResult rank="4" points="936" distance="192.208" ss_time="02:28:22" distance_points="367.2" time_points="402.2" arrival_points="66.7" leading_points="100.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:13:22+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:01+11:00" finished_ss="2015-01-03T17:29:24+11:00" tracklog_filename="Sasha Serebrennikova.20150103-101004.30169.97.igc" lc="3.41351620777739" iv="1122113"/>
+            <FsResult rank="36" points="473" distance="192.208" ss_time="03:44:24" distance_points="367.2" time_points="48.3" arrival_points="16" leading_points="41.3" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T17:29:24+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:15:33+11:00" finished_ss="2015-01-03T17:06:16+11:00" tracklog_filename="Yasuhiro Noma.20150103-104952.7971.1.igc" lc="3.8721874657864" iv="1272890"/>
+            <FsResult rank="23" points="658" distance="192.208" ss_time="02:51:16" distance_points="367.2" time_points="256.6" arrival_points="17.7" leading_points="16.9" started_ss="2015-01-03T14:15:00+11:00" finished_ss="2015-01-03T17:06:16+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData distance="154.772" started_ss="2015-01-03T13:57:40+11:00" finished_ss="" tracklog_filename="Peter Dall.20150103-105040.7384.102.igc" lc="4.13336442933882" iv="1358746"/>
+            <FsResult rank="43" points="327" distance="154.772" ss_time="00:00:00" distance_points="322.2" time_points="0" arrival_points="0" leading_points="4.4" started_ss="2015-01-03T13:45:00+11:00" real_distance="154.772" last_distance="123.962"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:03:29+11:00" finished_ss="2015-01-03T17:41:01+11:00" tracklog_filename="Takeshi Yokoyama.20150103-110254.7760.86.igc" lc="4.55310974079096" iv="1496728"/>
+            <FsResult rank="38" points="443" distance="192.208" ss_time="03:41:01" distance_points="367.2" time_points="59.7" arrival_points="15.9" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" finished_ss="2015-01-03T17:41:01+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:15:19+11:00" finished_ss="2015-01-03T16:53:53+11:00" tracklog_filename="Kato Minoru.20150103-110501.6848.85.igc" lc="3.84345956622986" iv="1263447"/>
+            <FsResult rank="21" points="729" distance="192.208" ss_time="02:38:53" distance_points="367.2" time_points="323.3" arrival_points="20.5" leading_points="18.4" started_ss="2015-01-03T14:15:00+11:00" finished_ss="2015-01-03T16:53:53+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:16:26+11:00" finished_ss="2015-01-03T17:28:48+11:00" tracklog_filename="Rohan Taylor.20150103-111202.7545.18.igc" lc="4.46570504476946" iv="1467995"/>
+            <FsResult rank="34" points="542" distance="192.208" ss_time="03:13:48" distance_points="367.2" time_points="158.8" arrival_points="16.3" leading_points="0" started_ss="2015-01-03T14:15:00+11:00" finished_ss="2015-01-03T17:28:48+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T14:02:42+11:00" finished_ss="2015-01-03T17:13:34+11:00" tracklog_filename="Josh Woods.20150103-111304.42097.75.igc" lc="3.97755315427886" iv="1307527"/>
+            <FsResult rank="33" points="555" distance="192.208" ss_time="03:13:34" distance_points="367.2" time_points="159.7" arrival_points="16.7" leading_points="11.8" started_ss="2015-01-03T14:00:00+11:00" finished_ss="2015-01-03T17:13:34+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="170.270" started_ss="2015-01-03T14:16:42+11:00" finished_ss="" tracklog_filename="Geoff Robertson.20150103-111428.12153.45.igc" lc="4.3111809048331" iv="1417199"/>
+            <FsResult rank="41" points="346" distance="170.27" ss_time="00:00:00" distance_points="346.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:15:00+11:00" real_distance="170.27" last_distance="170.225"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:14+11:00" finished_ss="2015-01-03T17:28:38+11:00" tracklog_filename="Chris Czajkowski.20150103-111728.36202.71.igc" lc="3.46194945960713" iv="1138034"/>
+            <FsResult rank="36" points="473" distance="192.208" ss_time="03:43:38" distance_points="367.2" time_points="50.9" arrival_points="16.5" leading_points="38.6" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T17:28:38+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="156.677" started_ss="2015-01-03T14:02:24+11:00" finished_ss="" tracklog_filename="Dale Regehr.20150103-112252.30649.80.igc" lc="4.8295683231309" iv="1587607"/>
+            <FsResult rank="44" points="326" distance="156.677" ss_time="00:00:00" distance_points="326" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" real_distance="156.677" last_distance="156.488"/>
+          </FsParticipant>
+          <FsParticipant id="93">
+            <FsFlightData distance="69.491" started_ss="2015-01-03T14:31:07+11:00" finished_ss="" tracklog_filename="Viv Clements.20150103-113020.[CIVLID].93.kml" lc="6.34980722199661" iv="2087350"/>
+            <FsResult rank="49" points="118" distance="69.491" ss_time="00:00:00" distance_points="118.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:30:00+11:00" real_distance="69.491" last_distance="68.923"/>
+          </FsParticipant>
+          <FsParticipant id="96">
+            <FsFlightData distance="22.390" started_ss="2015-01-03T14:02:06+11:00" finished_ss="" tracklog_filename="Thomas Lindal.20150103-114314.25497.96.igc" lc="7.53380067717563" iv="2476559"/>
+            <FsResult rank="51" points="41" distance="22.39" ss_time="00:00:00" distance_points="40.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" real_distance="22.39" last_distance="21.936"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:07+11:00" finished_ss="2015-01-03T16:15:30+11:00" tracklog_filename="Oyvind Ellefsen.20150103-114252.7308.95.igc" lc="2.68705569280878" iv="883306"/>
+            <FsResult rank="11" points="888" distance="192.208" ss_time="02:30:30" distance_points="367.2" time_points="382.2" arrival_points="41.8" leading_points="96.4" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:15:30+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="153.012" started_ss="2015-01-03T13:44:46+11:00" finished_ss="" tracklog_filename="Lukas Bader.20150103-210814.6992.40.igc" lc="3.49058766578667" iv="1147448"/>
+            <FsResult rank="40" points="350" distance="153.012" ss_time="00:00:00" distance_points="318.1" time_points="0" arrival_points="0" leading_points="37" started_ss="2015-01-03T13:44:46+11:00" real_distance="153.012" last_distance="124.023"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="147.301" started_ss="2015-01-03T14:13:38+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150103-115309.13729.90.kml" lc="4.82914758395173" iv="1587468"/>
+            <FsResult rank="47" points="301" distance="147.301" ss_time="00:00:00" distance_points="300.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" real_distance="147.301" last_distance="147.181"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:13+11:00" finished_ss="2015-01-03T16:15:49+11:00" tracklog_filename="Jochen Zeischka.20150103-211608.15187.79.igc" lc="2.71721247435631" iv="893220"/>
+            <FsResult rank="14" points="877" distance="192.208" ss_time="02:30:49" distance_points="367.2" time_points="379.6" arrival_points="37.2" leading_points="92.8" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:15:49+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="88">
+            <FsFlightData distance="163.795" started_ss="2015-01-03T14:12:15+11:00" finished_ss="" tracklog_filename="Emiel Jansen.20150103-211818.24338.88.igc" lc="4.46972286215848" iv="1469316"/>
+            <FsResult rank="42" points="338" distance="163.795" ss_time="00:00:00" distance_points="337.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" real_distance="163.795" last_distance="163.545"/>
+          </FsParticipant>
+          <FsParticipant id="77">
+            <FsFlightData distance="192.209" started_ss="2015-01-03T13:45:28+11:00" finished_ss="2015-01-03T16:13:41+11:00" tracklog_filename="Gerolf Heinrichs.20150103-212150.6405.77.igc" lc="2.64151075147992" iv="868334"/>
+            <FsResult rank="5" points="929" distance="192.208" ss_time="02:28:41" distance_points="367.2" time_points="398.9" arrival_points="59.4" leading_points="103.1" started_ss="2015-01-03T13:45:00+11:00" finished_ss="2015-01-03T16:13:41+11:00" real_distance="192.208" last_distance="192.208"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="52" points="20" distance="10" ss_time="00:00:00" distance_points="20.1" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="151.193" started_ss="2015-01-03T14:13:35+11:00" finished_ss="" tracklog_filename="Phil Schroder.20150103-221258.7419.30.igc" lc="4.75324017036406" iv="1562516"/>
+            <FsResult rank="45" points="313" distance="151.193" ss_time="00:00:00" distance_points="313.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-03T14:00:00+11:00" real_distance="151.193" last_distance="150.895"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="182.625" task_distance="192.208" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="13" no_of_pilots_reaching_es="39" best_dist="192.208" best_time="2.42916666666667" sum_real_dist_over_min="8457.058" best_real_dist="192.208" arrival_weight="0.079103515625" leading_weight="0.110744921875" time_weight="0.4429796875" distance_weight="0.367171875" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.582"/>
+          <FsTaskDistToTp tp_no="3" distance="100.175"/>
+          <FsTaskDistToTp tp_no="4" distance="157.626"/>
+          <FsTaskDistToTp tp_no="5" distance="192.208"/>
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="4" name="Moyes Delta Gliders" tracklog_folder="day 6">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-06T20:35:00+11:00" ss="2" es="5" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-06T12:00:00+11:00" close="2015-01-06T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="5000" open="2015-01-06T12:00:00+11:00" close="2015-01-06T20:00:00+11:00"/>
+          <FsTurnpoint id="TULLIB" lat="-33.44923" lon="146.72102" radius="5000" open="2015-01-06T12:00:00+11:00" close="2015-01-06T20:00:00+11:00"/>
+          <FsTurnpoint id="RANKIN" lat="-33.84193" lon="146.27055" radius="5000" open="2015-01-06T12:00:00+11:00" close="2015-01-06T21:00:00+11:00"/>
+          <FsTurnpoint id="GUNBAR" lat="-34.0414" lon="145.41037" radius="400" open="2015-01-06T12:00:00+11:00" close="2015-01-06T21:00:00+11:00"/>
+          <FsStartGate open="2015-01-06T13:45:00+11:00"/>
+          <FsStartGate open="2015-01-06T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-06T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-06T14:30:00+11:00"/>
+          <FsStartGate open="2015-01-06T14:45:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-06T20:35:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData distance="4.841" started_ss="2015-01-06T13:51:57+11:00" finished_ss="" tracklog_filename="Adam Jones.20150106-100534.36774.101.igc" lc="14.0816530748888" iv="6211286"/>
+            <FsResult rank="50" points="31" distance="10" ss_time="00:00:00" distance_points="31.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="10" last_distance="1.625"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="237.305" started_ss="2015-01-06T13:56:01+11:00" finished_ss="" tracklog_filename="Chris Czajkowski.20150106-210108.36202.71.igc" lc="8.29471142547209" iv="3658720"/>
+            <FsResult rank="33" points="402" distance="237.305" ss_time="00:00:00" distance_points="401.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="237.305" last_distance="237.091"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="94.055" started_ss="2015-01-06T13:45:40+11:00" finished_ss="" tracklog_filename="Conrad Loten.20150106-094313.6067.103.igc" lc="9.96561583294945" iv="4395740"/>
+            <FsResult rank="43" points="157" distance="94.055" ss_time="00:00:00" distance_points="156.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="94.055" last_distance="93.863"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="25.427" started_ss="2015-01-06T14:07:46+11:00" finished_ss="" tracklog_filename="Dale Regehr.20150106-100405.30649.80.igc" lc="13.0883161880858" iv="5773134"/>
+            <FsResult rank="48" points="68" distance="25.427" ss_time="00:00:00" distance_points="68.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:00:00+11:00" real_distance="25.427" last_distance="24.838"/>
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="104.802" started_ss="2015-01-06T14:03:40+11:00" finished_ss="" tracklog_filename="Enda Murphy.20150106-095017.295.36.igc" lc="10.2014280597568" iv="4499755"/>
+            <FsResult rank="42" points="172" distance="104.802" ss_time="00:00:00" distance_points="171.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:00:00+11:00" real_distance="104.802" last_distance="104.802"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:21+11:00" finished_ss="2015-01-06T18:54:32+11:00" tracklog_filename="Filippo Oppici.20150106-094050.6295.33.igc" lc="6.03969453930898" iv="2664053"/>
+            <FsResult rank="9" points="792" distance="249.641" ss_time="04:54:32" distance_points="415.1" time_points="276.9" arrival_points="35.3" leading_points="64.8" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:54:32+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:45:56+11:00" finished_ss="2015-01-06T18:46:48+11:00" tracklog_filename="Gijs Wanders.20150106-094200.13730.89.igc" lc="5.77916837530247" iv="2549137"/>
+            <FsResult rank="8" points="794" distance="249.641" ss_time="05:01:48" distance_points="415.1" time_points="250.8" arrival_points="48.9" leading_points="78.7" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T18:46:48+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:31+11:00" finished_ss="2015-01-06T18:36:32+11:00" tracklog_filename="Glen Mcfarlane.20150106-094755.17641.34.igc" lc="5.55734516032887" iv="2451293"/>
+            <FsResult rank="5" points="862" distance="249.641" ss_time="04:51:32" distance_points="415.1" time_points="288.4" arrival_points="62.4" leading_points="95.7" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T18:36:32+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:42+11:00" finished_ss="2015-01-06T18:51:25+11:00" tracklog_filename="Jon snr Durand.20150106-095606.6731.37.igc" lc="5.77507661758838" iv="2547332"/>
+            <FsResult rank="11" points="771" distance="249.641" ss_time="05:06:25" distance_points="415.1" time_points="235.3" arrival_points="41.5" leading_points="78.9" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T18:51:25+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:45:57+11:00" finished_ss="2015-01-06T18:29:50+11:00" tracklog_filename="Jonas Lobitz.20150106-095630.12354.4.igc" lc="5.51859159651207" iv="2434199"/>
+            <FsResult rank="2" points="907" distance="249.641" ss_time="04:44:50" distance_points="415.1" time_points="316.5" arrival_points="73.1" leading_points="102.4" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T18:29:50+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:24+11:00" finished_ss="2015-01-06T18:42:26+11:00" tracklog_filename="Jonny Durand.20150106-095654.2231.39.igc" lc="5.89013109069082" iv="2598082"/>
+            <FsResult rank="3" points="873" distance="249.641" ss_time="04:42:26" distance_points="415.1" time_points="327.6" arrival_points="57.6" leading_points="72.4" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:42:26+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:39:24+11:00" finished_ss="2015-01-06T19:02:38+11:00" tracklog_filename="Josh Woods.20150106-095709.42097.75.igc" lc="5.72646279883522" iv="2525889"/>
+            <FsResult rank="50" points="31" distance="10" ss_time="00:00:00" distance_points="31.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:39:24+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:48+11:00" finished_ss="2015-01-06T18:43:15+11:00" tracklog_filename="Olav Olsen.20150106-095730.7270.52.igc" lc="5.88304021789605" iv="2594954"/>
+            <FsResult rank="4" points="865" distance="249.641" ss_time="04:43:15" distance_points="415.1" time_points="323.8" arrival_points="53.1" leading_points="72.8" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:43:15+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:20+11:00" finished_ss="2015-01-06T19:24:01+11:00" tracklog_filename="Oyvind Ellefsen.20150106-095747.7308.95.igc" lc="6.45935739478122" iv="2849162"/>
+            <FsResult rank="17" points="662" distance="249.641" ss_time="05:24:01" distance_points="415.1" time_points="181.5" arrival_points="18.9" leading_points="46.7" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:24:01+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="27.264" started_ss="2015-01-06T13:49:12+11:00" finished_ss="" tracklog_filename="Phil Seeley.20150106-100459.36770.69.igc" lc="12.8863341340565" iv="5684042"/>
+            <FsResult rank="47" points="72" distance="27.264" ss_time="00:00:00" distance_points="71.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="27.264" last_distance="27.08"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:37+11:00" finished_ss="2015-01-06T19:19:24+11:00" tracklog_filename="Simon Braithwaite.20150106-095905.28188.92.igc" lc="6.42282047707594" iv="2833046"/>
+            <FsResult rank="14" points="681" distance="249.641" ss_time="05:19:24" distance_points="415.1" time_points="194.9" arrival_points="22.6" leading_points="48.2" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:19:24+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="96">
+            <FsFlightData distance="114.334" started_ss="2015-01-06T13:49:14+11:00" finished_ss="" tracklog_filename="Thomas Lindal.20150106-095506.25497.96.igc" lc="9.82819212279077" iv="4335124"/>
+            <FsResult rank="41" points="183" distance="114.334" ss_time="00:00:00" distance_points="182.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="114.334" last_distance="109.497"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:15:24+11:00" finished_ss="2015-01-06T19:19:22+11:00" tracklog_filename="Trent Brown.20150106-095923.7853.42.igc" lc="6.52005379497676" iv="2875935"/>
+            <FsResult rank="12" points="726" distance="249.641" ss_time="05:04:22" distance_points="415.1" time_points="242.1" arrival_points="24.1" leading_points="44.3" started_ss="2015-01-06T14:15:00+11:00" finished_ss="2015-01-06T19:19:22+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="51.860" started_ss="2015-01-06T14:00:43+11:00" finished_ss="" tracklog_filename="Tullio Gervasoni.20150106-095937.7865.83.igc" lc="11.7175952387218" iv="5168522"/>
+            <FsResult rank="44" points="103" distance="51.86" ss_time="00:00:00" distance_points="102.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:00:00+11:00" real_distance="51.86" last_distance="51.569"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:14+11:00" finished_ss="2015-01-06T18:31:03+11:00" tracklog_filename="Zac Majors.20150106-100127.10613.99.igc" lc="5.70463541428625" iv="2516261"/>
+            <FsResult rank="1" points="976" distance="249.641" ss_time="04:31:03" distance_points="415.1" time_points="409.4" arrival_points="67.6" leading_points="83.4" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:31:03+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:20+11:00" finished_ss="2015-01-06T19:34:35+11:00" tracklog_filename="Rohan Taylor.20150106-211431.7545.18.igc" lc="6.54276957597265" iv="2885955"/>
+            <FsResult rank="23" points="588" distance="249.641" ss_time="05:49:35" distance_points="415.1" time_points="113.1" arrival_points="16.6" leading_points="43.5" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T19:34:35+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:45:22+11:00" finished_ss="2015-01-06T20:00:35+11:00" tracklog_filename="Steve Blenkinsop.20150106-211520.7701.24.igc" lc="7.64707639213289" iv="3373054"/>
+            <FsResult rank="27" points="488" distance="249.641" ss_time="06:15:35" distance_points="415.1" time_points="50.8" arrival_points="15.1" leading_points="6.5" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T20:00:35+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:04:05+11:00" finished_ss="2015-01-06T19:32:37+11:00" tracklog_filename="Olav Opsanger.20150106-211553.7271.94.igc" lc="6.64225542274686" iv="2929837"/>
+            <FsResult rank="21" points="630" distance="249.641" ss_time="05:32:37" distance_points="415.1" time_points="157.5" arrival_points="17.2" leading_points="39.7" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:32:37+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="164.597" started_ss="2015-01-06T14:19:09+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150106-211622.13729.90.igc" lc="9.10410299224635" iv="4015735"/>
+            <FsResult rank="37" points="269" distance="164.597" ss_time="00:00:00" distance_points="268.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:15:00+11:00" real_distance="164.597" last_distance="164.296"/>
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="152.484" started_ss="2015-01-06T14:00:13+11:00" finished_ss="" tracklog_filename="Attila Bertok.20150106-212133.5885.3.igc" lc="7.97555728925253" iv="3517944"/>
+            <FsResult rank="39" points="251" distance="152.484" ss_time="00:00:00" distance_points="250.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:00:00+11:00" real_distance="152.484" last_distance="152.343"/>
+          </FsParticipant>
+          <FsParticipant id="62">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:11+11:00" finished_ss="2015-01-06T18:47:25+11:00" tracklog_filename="Christian Voiblet.20150106-212221.6040.62.igc" lc="5.98073285162258" iv="2638045"/>
+            <FsResult rank="6" points="833" distance="249.641" ss_time="04:47:25" distance_points="415.1" time_points="305.2" arrival_points="45.1" leading_points="67.7" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:47:25+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="77">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:13+11:00" finished_ss="2015-01-06T18:57:39+11:00" tracklog_filename="Gerolf Heinrichs.20150106-212253.6405.77.igc" lc="6.02763655792328" iv="2658734"/>
+            <FsResult rank="10" points="779" distance="249.641" ss_time="04:57:39" distance_points="415.1" time_points="265.4" arrival_points="32.6" leading_points="65.4" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:57:39+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:04:04+11:00" finished_ss="2015-01-06T18:53:33+11:00" tracklog_filename="Gordon Rigg.20150106-212326.6433.98.igc" lc="6.07424774218814" iv="2679294"/>
+            <FsResult rank="7" points="797" distance="249.641" ss_time="04:53:33" distance_points="415.1" time_points="280.6" arrival_points="38.3" leading_points="63.2" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T18:53:33+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:15+11:00" finished_ss="2015-01-06T19:19:17+11:00" tracklog_filename="Jochen Zeischka.20150106-212355.15187.79.igc" lc="6.68384286887272" iv="2948181"/>
+            <FsResult rank="15" points="675" distance="249.641" ss_time="05:19:17" distance_points="415.1" time_points="195.3" arrival_points="25.9" leading_points="38.2" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:19:17+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="148.350" started_ss="2015-01-06T13:52:47+11:00" finished_ss="" tracklog_filename="Mikhail Karmazin.20150106-212424.7169.14.igc" lc="8.58925919863562" iv="3788642"/>
+            <FsResult rank="40" points="242" distance="148.35" ss_time="00:00:00" distance_points="242.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="148.35" last_distance="147.716"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:24+11:00" finished_ss="2015-01-06T19:16:14+11:00" tracklog_filename="Lukas Bader.20150106-212510.6992.40.igc" lc="6.13521334233819" iv="2706185"/>
+            <FsResult rank="16" points="667" distance="249.641" ss_time="05:31:14" distance_points="415.1" time_points="161.2" arrival_points="30.1" leading_points="60.4" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T19:16:14+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:04:15+11:00" finished_ss="2015-01-06T20:16:58+11:00" tracklog_filename="Federico Martini.20150106-212543.6279.8.igc" lc="7.02771147723521" iv="3099858"/>
+            <FsResult rank="26" points="504" distance="249.641" ss_time="06:16:58" distance_points="415.1" time_points="47.7" arrival_points="14.9" leading_points="26.1" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T20:16:58+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="203.326" started_ss="2015-01-06T14:18:38+11:00" finished_ss="" tracklog_filename="Mark Russell.20150106-212609.14776.58.igc" lc="8.50893329878169" iv="3753211"/>
+            <FsResult rank="35" points="314" distance="203.326" ss_time="00:00:00" distance_points="314.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:15:00+11:00" real_distance="203.326" last_distance="203.182"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:01:05+11:00" finished_ss="2015-01-06T19:47:49+11:00" tracklog_filename="Sasha Serebrennikova.20150106-212647.30169.97.igc" lc="6.86953953973165" iv="3030090"/>
+            <FsResult rank="24" points="579" distance="249.641" ss_time="05:47:49" distance_points="415.1" time_points="117.5" arrival_points="15.3" leading_points="31.5" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:47:49+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="93">
+            <FsFlightData distance="31.189" started_ss="2015-01-06T14:29:05+11:00" finished_ss="" tracklog_filename="Viv Clements.20150106-212728.[CIVLID].93.igc" lc="12.8306597776112" iv="5659484"/>
+            <FsResult rank="46" points="79" distance="31.189" ss_time="00:00:00" distance_points="78.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:15:00+11:00" real_distance="31.189" last_distance="30.954"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="24.997" started_ss="2015-01-06T13:46:03+11:00" finished_ss="" tracklog_filename="Gavin Myers.20150106-212953.18334.51.igc" lc="12.9902302214482" iv="5729869"/>
+            <FsResult rank="49" points="67" distance="24.997" ss_time="00:00:00" distance_points="67.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="24.997" last_distance="24.194"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="235.953" started_ss="2015-01-06T14:00:26+11:00" finished_ss="" tracklog_filename="Takeshi Yokoyama.20150106-215904.7760.86.igc" lc="7.24199850420945" iv="3194378"/>
+            <FsResult rank="30" points="419" distance="235.953" ss_time="00:00:00" distance_points="399.5" time_points="0" arrival_points="0" leading_points="19.1" started_ss="2015-01-06T14:00:00+11:00" real_distance="235.953" last_distance="235.522"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:20+11:00" finished_ss="2015-01-06T19:16:41+11:00" tracklog_filename="Kato Minoru.20150106-220047.6848.85.igc" lc="6.16226811436589" iv="2718119"/>
+            <FsResult rank="13" points="705" distance="249.641" ss_time="05:16:41" distance_points="415.1" time_points="203.1" arrival_points="27.9" leading_points="59.1" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:16:41+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:04:01+11:00" finished_ss="2015-01-06T19:36:13+11:00" tracklog_filename="Yasuhiro Noma.20150106-220327.7971.1.igc" lc="6.67703876837401" iv="2945179"/>
+            <FsResult rank="22" points="617" distance="249.641" ss_time="05:36:13" distance_points="415.1" time_points="147.7" arrival_points="16.1" leading_points="38.4" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:36:13+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="5">
+            <FsFlightData distance="235.379" started_ss="2015-01-06T13:48:59+11:00" finished_ss="" tracklog_filename="Ryosuke Hattori.20150106-220535.15164.5.igc" lc="7.06573823800534" iv="3116631"/>
+            <FsResult rank="29" points="423" distance="235.379" ss_time="00:00:00" distance_points="398.2" time_points="0" arrival_points="0" leading_points="24.9" started_ss="2015-01-06T13:45:00+11:00" real_distance="235.379" last_distance="234.581"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:04+11:00" finished_ss="2015-01-06T19:47:40+11:00" tracklog_filename="Yoko Isomoto.20150106-220711.12517.87.igc" lc="6.96492590059123" iv="3072164"/>
+            <FsResult rank="25" points="540" distance="249.641" ss_time="06:02:40" distance_points="415.1" time_points="81" arrival_points="15.7" leading_points="28.3" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T19:47:40+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="235.832" started_ss="2015-01-06T14:04:26+11:00" finished_ss="" tracklog_filename="Nils Vesk.20150106-221038.7250.20.igc" lc="7.74511745128091" iv="3416299"/>
+            <FsResult rank="32" points="403" distance="235.832" ss_time="00:00:00" distance_points="399.2" time_points="0" arrival_points="0" leading_points="3.6" started_ss="2015-01-06T14:00:00+11:00" real_distance="235.832" last_distance="235.665"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="226.118" started_ss="2015-01-06T13:49:15+11:00" finished_ss="" tracklog_filename="Victor Hare.20150106-221315.24476.48.igc" lc="7.1837271803768" iv="3168675"/>
+            <FsResult rank="34" points="395" distance="226.118" ss_time="00:00:00" distance_points="374.1" time_points="0" arrival_points="0" leading_points="21" started_ss="2015-01-06T13:45:00+11:00" real_distance="226.118" last_distance="225.882"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="246.487" started_ss="2015-01-06T14:01:36+11:00" finished_ss="" tracklog_filename="Harrison Rowntree.20150106-221540.35158.73.igc" lc="6.64660081755371" iv="2931754"/>
+            <FsResult rank="28" points="452" distance="246.487" ss_time="00:00:00" distance_points="412.5" time_points="0" arrival_points="0" leading_points="39.6" started_ss="2015-01-06T14:00:00+11:00" real_distance="246.487" last_distance="246.321"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:17+11:00" finished_ss="2015-01-06T19:20:01+11:00" tracklog_filename="Guy Hubbard.20150106-221942.6467.28.igc" lc="6.2166183849459" iv="2742092"/>
+            <FsResult rank="19" points="644" distance="249.641" ss_time="05:35:01" distance_points="415.1" time_points="150.9" arrival_points="21.2" leading_points="56.7" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T19:20:01+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T13:46:33+11:00" finished_ss="2015-01-06T19:22:51+11:00" tracklog_filename="Grant Heaney.20150106-221927.6441.72.igc" lc="6.03814058312605" iv="2663367"/>
+            <FsResult rank="20" points="643" distance="249.641" ss_time="05:37:51" distance_points="415.1" time_points="143.4" arrival_points="20" leading_points="64.9" started_ss="2015-01-06T13:45:00+11:00" finished_ss="2015-01-06T19:22:51+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+          <FsParticipant id="88">
+            <FsFlightData distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="50" points="31" distance="10" ss_time="00:00:00" distance_points="31.2" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="170.965" started_ss="2015-01-06T14:00:25+11:00" finished_ss="" tracklog_filename="Len Paton.20150106-225505.6946.6.igc" lc="7.77954941316676" iv="3431487"/>
+            <FsResult rank="36" points="278" distance="170.965" ss_time="00:00:00" distance_points="275.8" time_points="0" arrival_points="0" leading_points="2.6" started_ss="2015-01-06T14:00:00+11:00" real_distance="170.965" last_distance="170.149"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="238.673" started_ss="2015-01-06T13:45:52+11:00" finished_ss="" tracklog_filename="Geoff Robertson.20150106-230132.12153.45.igc" lc="7.52917802171377" iv="3321050"/>
+            <FsResult rank="31" points="414" distance="238.673" ss_time="00:00:00" distance_points="403.7" time_points="0" arrival_points="0" leading_points="10.1" started_ss="2015-01-06T13:45:00+11:00" real_distance="238.673" last_distance="238.304"/>
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="34.728" started_ss="2015-01-06T14:01:20+11:00" finished_ss="" tracklog_filename="Andrew Barnes.20150106-230433.5800.2.igc" lc="12.5309838016752" iv="5527300"/>
+            <FsResult rank="45" points="84" distance="34.728" ss_time="00:00:00" distance_points="83.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T14:00:00+11:00" real_distance="34.728" last_distance="33.95"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData distance="155.615" started_ss="2015-01-06T13:55:48+11:00" finished_ss="" tracklog_filename="Peter Dall.20150106-233710.7384.102.igc" lc="8.72357550972039" iv="3847888"/>
+            <FsResult rank="38" points="256" distance="155.615" ss_time="00:00:00" distance_points="255.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-06T13:45:00+11:00" real_distance="155.615" last_distance="155.507"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="249.642" started_ss="2015-01-06T14:00:33+11:00" finished_ss="2015-01-06T19:24:50+11:00" tracklog_filename="Phil Schroder.20150107-091056.7419.30.igc" lc="6.47184824750102" iv="2854672"/>
+            <FsResult rank="18" points="659" distance="249.641" ss_time="05:24:50" distance_points="415.1" time_points="179.2" arrival_points="18" leading_points="46.2" started_ss="2015-01-06T14:00:00+11:00" finished_ss="2015-01-06T19:24:50+11:00" real_distance="249.641" last_distance="249.641"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="245.05" task_distance="249.641" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="24" no_of_pilots_reaching_es="28" best_dist="249.641" best_time="4.5175" sum_real_dist_over_min="9649.716" best_real_dist="249.641" arrival_weight="0.0731080708423418" leading_weight="0.102351299179279" time_weight="0.409405196717114" distance_weight="0.415135433261265" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.592"/>
+          <FsTaskDistToTp tp_no="3" distance="107.448"/>
+          <FsTaskDistToTp tp_no="4" distance="164.532"/>
+          <FsTaskDistToTp tp_no="5" distance="249.642"/>
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="5" name="no money" tracklog_folder="day 7">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="STOPPED" goal_altitude="200" score_back_time="10" cancel_reason="" stop_time="2015-01-07T16:15:00+11:00" ss="2" es="4" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-07T12:00:00+11:00" close="2015-01-07T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2015-01-07T12:00:00+11:00" close="2015-01-07T20:00:00+11:00"/>
+          <FsTurnpoint id="BARME" lat="-34.1527" lon="147.3974" radius="400" open="2015-01-07T12:00:00+11:00" close="2015-01-07T20:00:00+11:00"/>
+          <FsTurnpoint id="ARDLE" lat="-34.4125" lon="146.8543" radius="400" open="2015-01-07T12:00:00+11:00" close="2015-01-07T20:00:00+11:00"/>
+          <FsStartGate open="2015-01-07T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-07T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-07T14:30:00+11:00"/>
+          <FsStartGate open="2015-01-07T14:45:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="STOPPED" goal_altitude="200" score_back_time="10" cancel_reason="" stop_time="2015-01-07T16:15:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="62">
+            <FsFlightData distance="103.908" started_ss="2015-01-07T14:01:35+11:00" finished_ss="" tracklog_filename="Christian Voiblet.20150107-080151.6040.62.igc" lc="2.44104478708944" iv="492857"/>
+            <FsResult rank="12" points="871" distance="103.908" ss_time="00:00:00" distance_points="857.1" time_points="0" arrival_points="0" leading_points="14.3" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.908" last_distance="103.881"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="56.805" started_ss="2015-01-07T14:01:45+11:00" finished_ss="" tracklog_filename="Conrad Loten.20150107-073219.6067.103.igc" lc="2.88371482390736" iv="582234"/>
+            <FsResult rank="45" points="299" distance="56.805" ss_time="00:00:00" distance_points="290.5" time_points="0" arrival_points="0" leading_points="8.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="56.805" last_distance="56.584"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="91.116" started_ss="2015-01-07T14:00:39+11:00" finished_ss="" tracklog_filename="Gavin Myers.20150107-074823.18334.51.igc" lc="2.68419406287635" iv="541950"/>
+            <FsResult rank="32" points="585" distance="91.116" ss_time="00:00:00" distance_points="574" time_points="0" arrival_points="0" leading_points="10.8" started_ss="2015-01-07T14:00:00+11:00" real_distance="91.116" last_distance="91.116"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="99.211" started_ss="2015-01-07T14:01:18+11:00" finished_ss="" tracklog_filename="Glen Mcfarlane.20150107-075728.17641.34.igc" lc="2.48356804264444" iv="501443"/>
+            <FsResult rank="20" points="751" distance="99.211" ss_time="00:00:00" distance_points="737.7" time_points="0" arrival_points="0" leading_points="13.6" started_ss="2015-01-07T14:00:00+11:00" real_distance="99.211" last_distance="99.211"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="91.495" started_ss="2015-01-07T14:02:00+11:00" finished_ss="" tracklog_filename="Grant Heaney.20150107-075039.6441.72.igc" lc="2.57266451474603" iv="519432"/>
+            <FsResult rank="31" points="591" distance="91.495" ss_time="00:00:00" distance_points="578.9" time_points="0" arrival_points="0" leading_points="12.2" started_ss="2015-01-07T14:00:00+11:00" real_distance="91.495" last_distance="91.475"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="54.000" started_ss="2015-01-07T14:01:27+11:00" finished_ss="" tracklog_filename="Guy Hubbard.20150107-075147.6467.28.igc" lc="2.90224208762678" iv="585975"/>
+            <FsResult rank="46" points="283" distance="54" ss_time="00:00:00" distance_points="274.7" time_points="0" arrival_points="0" leading_points="8.3" started_ss="2015-01-07T14:00:00+11:00" real_distance="54" last_distance="53.943"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="102.852" started_ss="2015-01-07T14:04:09+11:00" finished_ss="" tracklog_filename="Len Paton.20150107-075252.6946.6.igc" lc="2.39492358461338" iv="483545"/>
+            <FsResult rank="17" points="848" distance="102.852" ss_time="00:00:00" distance_points="833" time_points="0" arrival_points="0" leading_points="15.2" started_ss="2015-01-07T14:00:00+11:00" real_distance="102.852" last_distance="102.852"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="103.928" started_ss="2015-01-07T14:01:50+11:00" finished_ss="" tracklog_filename="Steve Blenkinsop.20150107-080007.7701.24.igc" lc="2.4266273921481" iv="489946"/>
+            <FsResult rank="4" points="872" distance="103.928" ss_time="00:00:00" distance_points="857.2" time_points="0" arrival_points="0" leading_points="14.6" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.928" last_distance="103.896"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="95.294" started_ss="2015-01-07T14:01:39+11:00" finished_ss="" tracklog_filename="Simon Braithwaite.20150107-081509.28188.92.igc" lc="2.4708852552034" iv="498882"/>
+            <FsResult rank="26" points="659" distance="95.294" ss_time="00:00:00" distance_points="645.3" time_points="0" arrival_points="0" leading_points="13.8" started_ss="2015-01-07T14:00:00+11:00" real_distance="95.294" last_distance="95.23"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="103.853" started_ss="2015-01-07T14:01:33+11:00" finished_ss="" tracklog_filename="Jonas Lobitz.20150107-081646.12354.4.igc" lc="2.40891970187962" iv="486371"/>
+            <FsResult rank="12" points="871" distance="103.853" ss_time="00:00:00" distance_points="856.3" time_points="0" arrival_points="0" leading_points="14.9" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.853" last_distance="103.853"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="94.291" started_ss="2015-01-07T14:01:15+11:00" finished_ss="" tracklog_filename="Victor Hare.20150107-081805.24476.48.igc" lc="2.68976276440228" iv="543074"/>
+            <FsResult rank="29" points="638" distance="94.291" ss_time="00:00:00" distance_points="626.9" time_points="0" arrival_points="0" leading_points="10.7" started_ss="2015-01-07T14:00:00+11:00" real_distance="94.291" last_distance="94.291"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="103.896" started_ss="2015-01-07T14:02:00+11:00" finished_ss="" tracklog_filename="Harrison Rowntree.20150107-082115.35158.73.igc" lc="2.43664365657624" iv="491968"/>
+            <FsResult rank="12" points="871" distance="103.896" ss_time="00:00:00" distance_points="857" time_points="0" arrival_points="0" leading_points="14.4" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.896" last_distance="103.844"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="103.744" started_ss="2015-01-07T14:01:38+11:00" finished_ss="" tracklog_filename="Filippo Oppici.20150107-083355.6295.33.igc" lc="2.40131939404442" iv="484836"/>
+            <FsResult rank="15" points="869" distance="103.744" ss_time="00:00:00" distance_points="854.3" time_points="0" arrival_points="0" leading_points="15.1" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.744" last_distance="103.744"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="103.951" started_ss="2015-01-07T14:01:10+11:00" finished_ss="" tracklog_filename="Zac Majors.20150107-083421.10613.99.igc" lc="2.43015187957654" iv="490658"/>
+            <FsResult rank="4" points="872" distance="103.951" ss_time="00:00:00" distance_points="857.3" time_points="0" arrival_points="0" leading_points="14.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.951" last_distance="103.951"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="103.888" started_ss="2015-01-07T14:01:42+11:00" finished_ss="" tracklog_filename="Tullio Gervasoni.20150107-083449.7865.83.igc" lc="2.40774247181753" iv="486133"/>
+            <FsResult rank="4" points="872" distance="103.888" ss_time="00:00:00" distance_points="856.9" time_points="0" arrival_points="0" leading_points="14.9" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.888" last_distance="103.82"/>
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="63.024" started_ss="2015-01-07T14:19:08+11:00" finished_ss="" tracklog_filename="Enda Murphy.20150107-084444.295.36.igc" lc="3.36072399791302" iv="678544"/>
+            <FsResult rank="44" points="344" distance="63.024" ss_time="00:00:00" distance_points="340.1" time_points="0" arrival_points="0" leading_points="3.9" started_ss="2015-01-07T14:15:00+11:00" real_distance="63.024" last_distance="63.016"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="81.558" started_ss="2015-01-07T14:14:24+11:00" finished_ss="" tracklog_filename="Geoff Robertson.20150107-084729.12153.45.igc" lc="2.98773294719947" iv="603236"/>
+            <FsResult rank="34" points="493" distance="81.558" ss_time="00:00:00" distance_points="486" time_points="0" arrival_points="0" leading_points="7.4" started_ss="2015-01-07T14:00:00+11:00" real_distance="81.558" last_distance="81.558"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="95.856" started_ss="2015-01-07T14:00:20+11:00" finished_ss="" tracklog_filename="Rohan Taylor.20150107-084815.7545.18.igc" lc="2.45832123728608" iv="496345"/>
+            <FsResult rank="25" points="668" distance="95.856" ss_time="00:00:00" distance_points="653.5" time_points="0" arrival_points="0" leading_points="14" started_ss="2015-01-07T14:00:00+11:00" real_distance="95.856" last_distance="95.642"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="81.240" started_ss="2015-01-07T14:15:25+11:00" finished_ss="" tracklog_filename="Nils Vesk.20150107-084930.7250.20.igc" lc="3.05466985941397" iv="616750"/>
+            <FsResult rank="35" points="491" distance="81.24" ss_time="00:00:00" distance_points="484.4" time_points="0" arrival_points="0" leading_points="6.8" started_ss="2015-01-07T14:15:00+11:00" real_distance="81.24" last_distance="81.24"/>
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="95.212" started_ss="2015-01-07T14:01:25+11:00" finished_ss="" tracklog_filename="Andrew Barnes.20150107-085058.5800.2.igc" lc="2.61746335630824" iv="528477"/>
+            <FsResult rank="28" points="656" distance="95.212" ss_time="00:00:00" distance_points="644.1" time_points="0" arrival_points="0" leading_points="11.6" started_ss="2015-01-07T14:00:00+11:00" real_distance="95.212" last_distance="95.169"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="95.272" started_ss="2015-01-07T14:01:22+11:00" finished_ss="" tracklog_filename="Jonny Durand.20150107-085159.2231.39.igc" lc="2.56722052781586" iv="518332"/>
+            <FsResult rank="27" points="657" distance="95.272" ss_time="00:00:00" distance_points="645" time_points="0" arrival_points="0" leading_points="12.3" started_ss="2015-01-07T14:00:00+11:00" real_distance="95.272" last_distance="95.272"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="93.141" started_ss="2015-01-07T14:00:07+11:00" finished_ss="" tracklog_filename="Jon snr Durand.20150107-085325.6731.37.igc" lc="2.65653083329824" iv="536364"/>
+            <FsResult rank="30" points="617" distance="93.141" ss_time="00:00:00" distance_points="605.5" time_points="0" arrival_points="0" leading_points="11.1" started_ss="2015-01-07T14:00:00+11:00" real_distance="93.141" last_distance="93.141"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="103.901" started_ss="2015-01-07T14:01:27+11:00" finished_ss="" tracklog_filename="Yasuhiro Noma.20150107-085654.7971.1.igc" lc="2.38201826647005" iv="480939"/>
+            <FsResult rank="3" points="873" distance="103.901" ss_time="00:00:00" distance_points="857.1" time_points="0" arrival_points="0" leading_points="15.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.901" last_distance="103.866"/>
+          </FsParticipant>
+          <FsParticipant id="5">
+            <FsFlightData distance="44.402" started_ss="2015-01-07T14:12:17+11:00" finished_ss="" tracklog_filename="Ryosuke Hattori.20150107-090330.15164.5.igc" lc="3.41572403794647" iv="689649"/>
+            <FsResult rank="48" points="222" distance="44.402" ss_time="00:00:00" distance_points="218.9" time_points="0" arrival_points="0" leading_points="3.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="44.402" last_distance="41.59"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="80.170" started_ss="2015-01-07T14:02:29+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150107-090713.13729.90.igc" lc="2.99257469466056" iv="604213"/>
+            <FsResult rank="36" points="485" distance="80.17" ss_time="00:00:00" distance_points="477.3" time_points="0" arrival_points="0" leading_points="7.4" started_ss="2015-01-07T14:00:00+11:00" real_distance="80.17" last_distance="80.17"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="103.911" started_ss="2015-01-07T14:01:23+11:00" finished_ss="" tracklog_filename="Jochen Zeischka.20150107-090814.15187.79.igc" lc="2.39230864587531" iv="483017"/>
+            <FsResult rank="4" points="872" distance="103.911" ss_time="00:00:00" distance_points="857.1" time_points="0" arrival_points="0" leading_points="15.3" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.911" last_distance="103.899"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="98.571" started_ss="2015-01-07T14:00:05+11:00" finished_ss="" tracklog_filename="Gijs Wanders.20150107-090940.13730.89.igc" lc="2.52538520878742" iv="509886"/>
+            <FsResult rank="22" points="731" distance="98.571" ss_time="00:00:00" distance_points="718.2" time_points="0" arrival_points="0" leading_points="12.9" started_ss="2015-01-07T14:00:00+11:00" real_distance="98.571" last_distance="98.571"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="98.415" started_ss="2015-01-07T14:00:37+11:00" finished_ss="" tracklog_filename="Phil Schroder.20150107-091138.7419.30.igc" lc="2.5847214377151" iv="521866"/>
+            <FsResult rank="24" points="725" distance="98.415" ss_time="00:00:00" distance_points="713.3" time_points="0" arrival_points="0" leading_points="12.1" started_ss="2015-01-07T14:00:00+11:00" real_distance="98.415" last_distance="98.415"/>
+          </FsParticipant>
+          <FsParticipant id="88">
+            <FsFlightData distance="46.946" started_ss="2015-01-07T14:12:29+11:00" finished_ss="" tracklog_filename="Emiel Jansen.20150107-092150.24338.88.igc" lc="3.37378887807692" iv="681182"/>
+            <FsResult rank="47" points="236" distance="46.946" ss_time="00:00:00" distance_points="232.5" time_points="0" arrival_points="0" leading_points="3.8" started_ss="2015-01-07T14:00:00+11:00" real_distance="46.946" last_distance="44.562"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="72.384" started_ss="2015-01-07T14:13:13+11:00" finished_ss="" tracklog_filename="Takeshi Yokoyama.20150107-092941.7760.86.igc" lc="3.11402911537602" iv="628735"/>
+            <FsResult rank="40" points="418" distance="72.384" ss_time="00:00:00" distance_points="411.6" time_points="0" arrival_points="0" leading_points="6.2" started_ss="2015-01-07T14:00:00+11:00" real_distance="72.384" last_distance="72.298"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="98.476" started_ss="2015-01-07T14:02:18+11:00" finished_ss="" tracklog_filename="Yoko Isomoto.20150107-093059.12517.87.igc" lc="2.58027273555242" iv="520968"/>
+            <FsResult rank="23" points="727" distance="98.476" ss_time="00:00:00" distance_points="715.2" time_points="0" arrival_points="0" leading_points="12.1" started_ss="2015-01-07T14:00:00+11:00" real_distance="98.476" last_distance="98.476"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="103.936" started_ss="2015-01-07T14:01:38+11:00" finished_ss="" tracklog_filename="Kato Minoru.20150107-093209.6848.85.igc" lc="2.42554622027331" iv="489728"/>
+            <FsResult rank="4" points="872" distance="103.936" ss_time="00:00:00" distance_points="857.3" time_points="0" arrival_points="0" leading_points="14.6" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.936" last_distance="103.895"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="75.930" started_ss="2015-01-07T14:16:13+11:00" finished_ss="" tracklog_filename="Mikhail Karmazin.20150107-095025.7169.14.igc" lc="3.01720053487535" iv="609185"/>
+            <FsResult rank="37" points="451" distance="75.93" ss_time="00:00:00" distance_points="443.4" time_points="0" arrival_points="0" leading_points="7.1" started_ss="2015-01-07T14:15:00+11:00" real_distance="75.93" last_distance="75.347"/>
+          </FsParticipant>
+          <FsParticipant id="102"/>
+          <FsParticipant id="3">
+            <FsFlightData distance="104.658" started_ss="2015-01-07T14:01:21+11:00" finished_ss="" tracklog_filename="Attila Bertok.20150107-100903.5885.3.igc" lc="2.39612589074343" iv="483788"/>
+            <FsResult rank="2" points="876" distance="104.658" ss_time="00:00:00" distance_points="861" time_points="0" arrival_points="0" leading_points="15.2" started_ss="2015-01-07T14:00:00+11:00" real_distance="104.658" last_distance="104.658"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="112.169" started_ss="2015-01-07T14:00:33+11:00" finished_ss="" tracklog_filename="Trent Brown.20150107-101006.7853.42.igc" lc="2.32237067557023" iv="468896"/>
+            <FsResult rank="1" points="918" distance="112.169" ss_time="00:00:00" distance_points="900" time_points="0" arrival_points="0" leading_points="17.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="112.169" last_distance="112.169"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="75.160" started_ss="2015-01-07T14:05:32+11:00" finished_ss="" tracklog_filename="Chris Czajkowski.20150107-102131.36202.71.igc" lc="3.00389511236821" iv="606499"/>
+            <FsResult rank="38" points="444" distance="75.16" ss_time="00:00:00" distance_points="436.2" time_points="0" arrival_points="0" leading_points="7.3" started_ss="2015-01-07T14:00:00+11:00" real_distance="75.16" last_distance="75.16"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="63.294" started_ss="2015-01-07T14:12:10+11:00" finished_ss="" tracklog_filename="Dale Regehr.20150107-102241.30649.80.igc" lc="3.37432207453258" iv="681289"/>
+            <FsResult rank="43" points="346" distance="63.294" ss_time="00:00:00" distance_points="342.1" time_points="0" arrival_points="0" leading_points="3.8" started_ss="2015-01-07T14:00:00+11:00" real_distance="63.294" last_distance="63.294"/>
+          </FsParticipant>
+          <FsParticipant id="96">
+            <FsFlightData distance="68.303" started_ss="2015-01-07T14:00:29+11:00" finished_ss="" tracklog_filename="Thomas Lindal.20150107-103214.25497.96.igc" lc="3.19185880107259" iv="644449"/>
+            <FsResult rank="41" points="381" distance="68.303" ss_time="00:00:00" distance_points="375.1" time_points="0" arrival_points="0" leading_points="5.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="68.303" last_distance="68.303"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="103.909" started_ss="2015-01-07T14:01:44+11:00" finished_ss="" tracklog_filename="Gordon Rigg.20150107-103522.6433.98.igc" lc="2.4242868594769" iv="489473"/>
+            <FsResult rank="4" points="872" distance="103.909" ss_time="00:00:00" distance_points="857.1" time_points="0" arrival_points="0" leading_points="14.6" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.909" last_distance="103.909"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="99.147" started_ss="2015-01-07T14:00:42+11:00" finished_ss="" tracklog_filename="Olav Olsen.20150107-103538.7270.52.igc" lc="2.57432168398072" iv="519766"/>
+            <FsResult rank="21" points="748" distance="99.147" ss_time="00:00:00" distance_points="735.9" time_points="0" arrival_points="0" leading_points="12.2" started_ss="2015-01-07T14:00:00+11:00" real_distance="99.147" last_distance="99.147"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="103.894" started_ss="2015-01-07T14:01:40+11:00" finished_ss="" tracklog_filename="Olav Opsanger.20150107-103553.7271.94.igc" lc="2.41847829129058" iv="488301"/>
+            <FsResult rank="4" points="872" distance="103.894" ss_time="00:00:00" distance_points="857" time_points="0" arrival_points="0" leading_points="14.7" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.894" last_distance="103.873"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="100.753" started_ss="2015-01-07T14:01:32+11:00" finished_ss="" tracklog_filename="Oyvind Ellefsen.20150107-103506.7308.95.igc" lc="2.42998693495446" iv="490624"/>
+            <FsResult rank="18" points="794" distance="100.753" ss_time="00:00:00" distance_points="779.8" time_points="0" arrival_points="0" leading_points="14.5" started_ss="2015-01-07T14:00:00+11:00" real_distance="100.753" last_distance="100.283"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData distance="26.456" started_ss="2015-01-07T14:14:08+11:00" finished_ss="" tracklog_filename="Adam Jones.20150107-103809.36774.101.igc" lc="3.66415533433169" iv="739808"/>
+            <FsResult rank="50" points="125" distance="26.456" ss_time="00:00:00" distance_points="123.8" time_points="0" arrival_points="0" leading_points="1.4" started_ss="2015-01-07T14:00:00+11:00" real_distance="26.456" last_distance="26.112"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="64.918" started_ss="2015-01-07T14:12:50+11:00" finished_ss="" tracklog_filename="Phil Seeley.20150107-103828.36770.69.igc" lc="3.30433734397721" iv="667159"/>
+            <FsResult rank="42" points="357" distance="64.918" ss_time="00:00:00" distance_points="353" time_points="0" arrival_points="0" leading_points="4.4" started_ss="2015-01-07T14:00:00+11:00" real_distance="64.918" last_distance="64.889"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="16.631" started_ss="2015-01-07T14:04:23+11:00" finished_ss="" tracklog_filename="Mark Russell.20150107-105214.14776.58.igc" lc="3.9257558998586" iv="792626"/>
+            <FsResult rank="51" points="76" distance="16.631" ss_time="00:00:00" distance_points="75.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-07T14:00:00+11:00" real_distance="16.631" last_distance="16.432"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="99.970" started_ss="2015-01-07T14:02:15+11:00" finished_ss="" tracklog_filename="Lukas Bader.20150107-212331.6992.40.igc" lc="2.47740122350053" iv="500197"/>
+            <FsResult rank="19" points="773" distance="99.97" ss_time="00:00:00" distance_points="758.9" time_points="0" arrival_points="0" leading_points="13.7" started_ss="2015-01-07T14:00:00+11:00" real_distance="99.97" last_distance="99.97"/>
+          </FsParticipant>
+          <FsParticipant id="77">
+            <FsFlightData distance="103.933" started_ss="2015-01-07T14:01:09+11:00" finished_ss="" tracklog_filename="Gerolf Heinrichs.20150107-212310.6405.77.igc" lc="2.4068058565396" iv="485944"/>
+            <FsResult rank="4" points="872" distance="103.933" ss_time="00:00:00" distance_points="857.2" time_points="0" arrival_points="0" leading_points="15" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.933" last_distance="103.933"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="89.388" started_ss="2015-01-07T14:03:30+11:00" finished_ss="" tracklog_filename="Sasha Serebrennikova.20150107-212539.30169.97.igc" lc="2.6887251531573" iv="542865"/>
+            <FsResult rank="33" points="559" distance="89.388" ss_time="00:00:00" distance_points="548.6" time_points="0" arrival_points="0" leading_points="10.7" started_ss="2015-01-07T14:00:00+11:00" real_distance="89.388" last_distance="89.388"/>
+          </FsParticipant>
+          <FsParticipant id="93">
+            <FsFlightData distance="44.089" started_ss="2015-01-07T14:21:40+11:00" finished_ss="" tracklog_filename="Viv Clements.20150107-212623.[CIVLID].93.igc" lc="3.61413730889631" iv="729709"/>
+            <FsResult rank="49" points="219" distance="44.089" ss_time="00:00:00" distance_points="216.8" time_points="0" arrival_points="0" leading_points="1.8" started_ss="2015-01-07T14:15:00+11:00" real_distance="44.089" last_distance="44.089"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="74.585" started_ss="2015-01-07T14:03:30+11:00" finished_ss="" tracklog_filename="Federico Martini.20150107-213841.6279.8.igc" lc="2.75166968427043" iv="555573"/>
+            <FsResult rank="39" points="441" distance="74.585" ss_time="00:00:00" distance_points="430.6" time_points="0" arrival_points="0" leading_points="10" started_ss="2015-01-07T14:00:00+11:00" real_distance="74.585" last_distance="74.462"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="103.684" started_ss="2015-01-07T14:00:20+11:00" finished_ss="" tracklog_filename="Josh Woods.20150107-222308.42097.75.igc" lc="2.41780023638831" iv="488164"/>
+            <FsResult rank="16" points="868" distance="103.684" ss_time="00:00:00" distance_points="853" time_points="0" arrival_points="0" leading_points="14.7" started_ss="2015-01-07T14:00:00+11:00" real_distance="103.684" last_distance="103.684"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="148.043" task_distance="157.626" no_of_pilots_present="51" no_of_pilots_flying="51" no_of_pilots_lo="51" no_of_pilots_reaching_es="0" best_dist="112.169" best_time="0" sum_real_dist_over_min="3889.518" best_real_dist="112.169" arrival_weight="0" leading_weight="0.0175" time_weight="0" distance_weight="0.9" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.582"/>
+          <FsTaskDistToTp tp_no="3" distance="100.175"/>
+          <FsTaskDistToTp tp_no="4" distance="157.626"/>
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="6" name="no money" tracklog_folder="day 8">
+        <FsScoreFormula id="GAP2011" use_leading_points="1" use_arrival_position_points="1" min_dist="10" nom_dist="100" nom_time="1.50" nom_goal="0.25" jump_the_gun_factor="3" jump_the_gun_max="300"/>
+        <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-08T17:48:00+11:00" ss="2" es="5" goal="LINE" groundstart="0">
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2015-01-08T12:00:00+11:00" close="2015-01-08T20:00:00+11:00"/>
+          <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2015-01-08T12:00:00+11:00" close="2015-01-08T20:00:00+11:00"/>
+          <FsTurnpoint id="GRENF" lat="-33.8596" lon="148.1121" radius="5000" open="2015-01-08T12:00:00+11:00" close="2015-01-08T20:00:00+11:00"/>
+          <FsTurnpoint id="CARAGA" lat="-33.83613" lon="147.73937" radius="15000" open="2015-01-08T12:00:00+11:00" close="2015-01-08T20:00:00+11:00"/>
+          <FsTurnpoint id="GOOL15" lat="-33.61847" lon="148.40897" radius="400" open="2015-01-08T12:00:00+11:00" close="2015-01-08T20:00:00+11:00"/>
+          <FsStartGate open="2015-01-08T13:45:00+11:00"/>
+          <FsStartGate open="2015-01-08T14:00:00+11:00"/>
+          <FsStartGate open="2015-01-08T14:15:00+11:00"/>
+          <FsStartGate open="2015-01-08T14:30:00+11:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2015-01-08T17:48:00+11:00"/>
+        <FsParticipants>
+          <FsParticipant id="2">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:24+11:00" finished_ss="2015-01-08T16:34:45+11:00" tracklog_filename="Andrew Barnes.20150108-065601.5800.2.igc" lc="3.25478303877351" iv="654421"/>
+            <FsResult rank="17" points="714" distance="121.284" ss_time="02:34:45" distance_points="372.5" time_points="268.1" arrival_points="19.6" leading_points="54.1" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:34:45+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="71">
+            <FsFlightData distance="53.836" started_ss="2015-01-08T14:14:33+11:00" finished_ss="" tracklog_filename="Chris Czajkowski.20150108-065111.36202.71.igc" lc="5.65516393889909" iv="1137053"/>
+            <FsResult rank="43" points="203" distance="53.836" ss_time="00:00:00" distance_points="202.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T14:00:00+11:00" real_distance="53.836" last_distance="50.476"/>
+          </FsParticipant>
+          <FsParticipant id="62">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:30+11:00" finished_ss="2015-01-08T16:50:46+11:00" tracklog_filename="Christian Voiblet.20150108-065616.6040.62.igc" lc="2.99091181804839" iv="601366"/>
+            <FsResult rank="31" points="592" distance="121.284" ss_time="03:05:46" distance_points="372.5" time_points="130.1" arrival_points="16.7" leading_points="72.2" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:50:46+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="90">
+            <FsFlightData distance="9.608" started_ss="2015-01-08T13:57:41+11:00" finished_ss="" tracklog_filename="Sander Van Schaik.20150108-065543.13729.90.igc" lc="7.76557114750284" iv="1561381"/>
+            <FsResult rank="46" points="48" distance="10" ss_time="00:00:00" distance_points="48.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T13:45:00+11:00" real_distance="10" last_distance="9.608"/>
+          </FsParticipant>
+          <FsParticipant id="33">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:44+11:00" finished_ss="2015-01-08T16:29:25+11:00" tracklog_filename="Filippo Oppici.20150108-070020.6295.33.igc" lc="2.8397083742095" iv="570965"/>
+            <FsResult rank="21" points="703" distance="121.284" ss_time="02:44:25" distance_points="372.5" time_points="220.5" arrival_points="24.6" leading_points="85" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:29:25+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="89">
+            <FsFlightData distance="58.073" started_ss="2015-01-08T13:47:21+11:00" finished_ss="" tracklog_filename="Gijs Wanders.20150108-070412.13730.89.igc" lc="5.11630361416509" iv="1028707"/>
+            <FsResult rank="41" points="217" distance="58.073" ss_time="00:00:00" distance_points="216.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T13:45:00+11:00" real_distance="58.073" last_distance="58.068"/>
+          </FsParticipant>
+          <FsParticipant id="88">
+            <FsFlightData distance="95.807" started_ss="2015-01-08T13:58:59+11:00" finished_ss="" tracklog_filename="Emiel Jansen.20150108-070944.24338.88.igc" lc="3.96550819373241" iv="797323"/>
+            <FsResult rank="39" points="322" distance="95.807" ss_time="00:00:00" distance_points="306.5" time_points="0" arrival_points="0" leading_points="15.4" started_ss="2015-01-08T13:45:00+11:00" real_distance="95.807" last_distance="94.786"/>
+          </FsParticipant>
+          <FsParticipant id="51">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:34+11:00" finished_ss="2015-01-08T16:25:31+11:00" tracklog_filename="Gavin Myers.20150108-071351.18334.51.igc" lc="2.9185282083251" iv="586812"/>
+            <FsResult rank="15" points="729" distance="121.284" ss_time="02:40:31" distance_points="372.5" time_points="239" arrival_points="39.2" leading_points="78" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:25:31+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:42+11:00" finished_ss="2015-01-08T16:12:15+11:00" tracklog_filename="Geoff Robertson.20150108-071405.12153.45.igc" lc="2.79376085472541" iv="561726"/>
+            <FsResult rank="4" points="846" distance="121.284" ss_time="02:27:15" distance_points="372.5" time_points="310.1" arrival_points="73.8" leading_points="89.6" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:12:15+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:30+11:00" finished_ss="2015-01-08T16:20:36+11:00" tracklog_filename="Glen Mcfarlane.20150108-071421.17641.34.igc" lc="2.76071733321025" iv="555082"/>
+            <FsResult rank="11" points="777" distance="121.284" ss_time="02:35:36" distance_points="372.5" time_points="263.6" arrival_points="47.5" leading_points="93.2" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:20:36+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:22+11:00" finished_ss="2015-01-08T16:27:43+11:00" tracklog_filename="Gordon Rigg.20150108-071436.6433.98.igc" lc="3.04198115753314" iv="611634"/>
+            <FsResult rank="23" points="697" distance="121.284" ss_time="02:42:43" distance_points="372.5" time_points="228.4" arrival_points="27.4" leading_points="68.4" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:27:43+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:47:48+11:00" finished_ss="2015-01-08T16:25:37+11:00" tracklog_filename="Harrison Rowntree.20150108-071527.35158.73.igc" lc="2.74645345539978" iv="552214"/>
+            <FsResult rank="13" points="743" distance="121.284" ss_time="02:40:37" distance_points="372.5" time_points="238.5" arrival_points="36.9" leading_points="94.9" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:25:37+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:47+11:00" finished_ss="2015-01-08T16:16:40+11:00" tracklog_filename="Jon snr Durand.20150108-071545.6731.37.igc" lc="2.8198398033192" iv="566970"/>
+            <FsResult rank="8" points="802" distance="121.284" ss_time="02:31:40" distance_points="372.5" time_points="284.7" arrival_points="57.4" leading_points="86.9" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:16:40+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:31+11:00" finished_ss="2015-01-08T16:26:45+11:00" tracklog_filename="Jonas Lobitz.20150108-071600.12354.4.igc" lc="2.92095325197573" iv="587300"/>
+            <FsResult rank="17" points="714" distance="121.284" ss_time="02:41:45" distance_points="372.5" time_points="233" arrival_points="30.7" leading_points="77.8" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:26:45+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:52:24+11:00" finished_ss="2015-01-08T16:12:43+11:00" tracklog_filename="Jonny Durand.20150108-071614.2231.39.igc" lc="2.66486431187543" iv="535810"/>
+            <FsResult rank="3" points="855" distance="121.284" ss_time="02:27:43" distance_points="372.5" time_points="307.3" arrival_points="65.2" leading_points="109.8" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:12:43+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="85">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:17+11:00" finished_ss="2015-01-08T16:22:40+11:00" tracklog_filename="Kato Minoru.20150108-071649.6848.85.igc" lc="2.91663046201813" iv="586431"/>
+            <FsResult rank="6" points="835" distance="121.284" ss_time="02:22:40" distance_points="372.5" time_points="339.6" arrival_points="44.5" leading_points="78.2" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:22:40+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="6">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:25+11:00" finished_ss="2015-01-08T16:31:02+11:00" tracklog_filename="Len Paton.20150108-071702.6946.6.igc" lc="3.03117168575826" iv="609461"/>
+            <FsResult rank="12" points="752" distance="121.284" ss_time="02:31:02" distance_points="372.5" time_points="288.2" arrival_points="22.3" leading_points="69.2" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:31:02+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="20">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:11+11:00" finished_ss="2015-01-08T16:35:37+11:00" tracklog_filename="Nils Vesk.20150108-071721.7250.20.igc" lc="3.25929126719242" iv="655328"/>
+            <FsResult rank="20" points="709" distance="121.284" ss_time="02:35:37" distance_points="372.5" time_points="263.5" arrival_points="18.9" leading_points="53.8" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:35:37+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="96">
+            <FsFlightData distance="57.080" started_ss="2015-01-08T14:00:14+11:00" finished_ss="" tracklog_filename="Thomas Lindal.20150108-072402.25497.96.igc" lc="5.17694777555168" iv="1040901"/>
+            <FsResult rank="42" points="214" distance="57.08" ss_time="00:00:00" distance_points="214.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T14:00:00+11:00" real_distance="57.08" last_distance="56.521"/>
+          </FsParticipant>
+          <FsParticipant id="18">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:09+11:00" finished_ss="2015-01-08T16:51:43+11:00" tracklog_filename="Rohan Taylor.20150108-072615.7545.18.igc" lc="3.1137476430562" iv="626064"/>
+            <FsResult rank="32" points="578" distance="121.284" ss_time="03:06:43" distance_points="372.5" time_points="126.4" arrival_points="16.2" leading_points="63.3" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:51:43+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="77">
+            <FsFlightData distance="50.410" started_ss="2015-01-08T13:45:22+11:00" finished_ss="" tracklog_filename="Gerolf Heinrichs.20150108-073133.6405.77.igc" lc="5.32670419088971" iv="1071011"/>
+            <FsResult rank="44" points="189" distance="50.41" ss_time="00:00:00" distance_points="188.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T13:45:00+11:00" real_distance="50.41" last_distance="50.41"/>
+          </FsParticipant>
+          <FsParticipant id="52">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:47:05+11:00" finished_ss="2015-01-08T16:29:55+11:00" tracklog_filename="Olav Olsen.20150108-072750.7270.52.igc" lc="2.81943223306672" iv="566888"/>
+            <FsResult rank="22" points="701" distance="121.284" ss_time="02:44:55" distance_points="372.5" time_points="218.2" arrival_points="23.3" leading_points="87" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:29:55+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="94">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:36+11:00" finished_ss="2015-01-08T16:29:14+11:00" tracklog_filename="Olav Opsanger.20150108-072808.7271.94.igc" lc="2.94279095926393" iv="591691"/>
+            <FsResult rank="24" points="696" distance="121.284" ss_time="02:44:14" distance_points="372.5" time_points="221.3" arrival_points="25.9" leading_points="76" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:29:14+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="79">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:12+11:00" finished_ss="2015-01-08T16:16:57+11:00" tracklog_filename="Jochen Zeischka.20150108-073250.15187.79.igc" lc="2.67600299300386" iv="538049"/>
+            <FsResult rank="7" points="815" distance="121.284" ss_time="02:31:57" distance_points="372.5" time_points="283.1" arrival_points="53.9" leading_points="105.8" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:16:57+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="9.545" started_ss="2015-01-08T14:20:48+11:00" finished_ss="" tracklog_filename="Takeshi Yokoyama.20150108-073342.7760.86.igc" lc="0" iv="0"/>
+            <FsResult rank="46" points="48" distance="10" ss_time="00:00:00" distance_points="48.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T14:15:00+11:00" real_distance="10" last_distance="8.929"/>
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:49+11:00" finished_ss="2015-01-08T16:24:17+11:00" tracklog_filename="Yasuhiro Noma.20150108-073539.7971.1.igc" lc="2.86442045992669" iv="575933"/>
+            <FsResult rank="14" points="742" distance="121.284" ss_time="02:39:17" distance_points="372.5" time_points="245" arrival_points="41.8" leading_points="82.7" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:24:17+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:47:09+11:00" finished_ss="2015-01-08T16:51:41+11:00" tracklog_filename="Federico Martini.20150108-073709.6279.8.igc" lc="3.21658889023565" iv="646742"/>
+            <FsResult rank="33" points="572" distance="121.284" ss_time="03:06:41" distance_points="372.5" time_points="126.5" arrival_points="16.4" leading_points="56.5" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:51:41+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="58">
+            <FsFlightData distance="111.640" started_ss="2015-01-08T14:00:44+11:00" finished_ss="" tracklog_filename="Mark Russell.20150108-073941.14776.58.igc" lc="3.78447097224809" iv="760923"/>
+            <FsResult rank="38" points="376" distance="111.64" ss_time="00:00:00" distance_points="351.5" time_points="0" arrival_points="0" leading_points="24.4" started_ss="2015-01-08T14:00:00+11:00" real_distance="111.64" last_distance="111.462"/>
+          </FsParticipant>
+          <FsParticipant id="14">
+            <FsFlightData distance="6.137" started_ss="" finished_ss="" tracklog_filename="Mikhail Karmazin.20150108-074435.7169.14.igc" lc="0" iv="0"/>
+            <FsResult rank="46" points="48" distance="10" ss_time="00:00:00" distance_points="48.3" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="1.609"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:11+11:00" finished_ss="2015-01-08T16:26:00+11:00" tracklog_filename="Oyvind Ellefsen.20150108-074032.7308.95.igc" lc="2.93858954757858" iv="590846"/>
+            <FsResult rank="9" points="799" distance="121.284" ss_time="02:26:00" distance_points="372.5" time_points="317.8" arrival_points="32.6" leading_points="76.4" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:26:00+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="30">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:16+11:00" finished_ss="2015-01-08T16:45:23+11:00" tracklog_filename="Phil Schroder.20150108-074047.7419.30.igc" lc="3.12777408067563" iv="628884"/>
+            <FsResult rank="30" points="603" distance="121.284" ss_time="03:00:23" distance_points="372.5" time_points="151.5" arrival_points="17" leading_points="62.4" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:45:23+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="92">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:35+11:00" finished_ss="2015-01-08T16:38:20+11:00" tracklog_filename="Simon Braithwaite.20150108-074100.28188.92.igc" lc="3.28125580575863" iv="659744"/>
+            <FsResult rank="25" points="692" distance="121.284" ss_time="02:38:20" distance_points="372.5" time_points="249.7" arrival_points="17.8" leading_points="52.4" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:38:20+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="24">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:36+11:00" finished_ss="2015-01-08T16:11:22+11:00" tracklog_filename="Steve Blenkinsop.20150108-074113.7701.24.igc" lc="2.78734110865943" iv="560435"/>
+            <FsResult rank="2" points="857" distance="121.284" ss_time="02:26:22" distance_points="372.5" time_points="315.5" arrival_points="78.4" leading_points="90.2" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:11:22+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:57:07+11:00" finished_ss="2015-01-08T16:17:29+11:00" tracklog_filename="Trent Brown.20150108-074130.7853.42.igc" lc="2.87265910600566" iv="577590"/>
+            <FsResult rank="10" points="785" distance="121.284" ss_time="02:32:29" distance_points="372.5" time_points="280.2" arrival_points="50.6" leading_points="82" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:17:29+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="83">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:23+11:00" finished_ss="2015-01-08T16:12:40+11:00" tracklog_filename="Tullio Gervasoni.20150108-074144.7865.83.igc" lc="2.80324272321622" iv="563633"/>
+            <FsResult rank="5" points="838" distance="121.284" ss_time="02:27:40" distance_points="372.5" time_points="307.6" arrival_points="69.3" leading_points="88.6" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:12:40+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="48">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:04+11:00" finished_ss="2015-01-08T16:34:35+11:00" tracklog_filename="Victor Hare.20150108-074202.24476.48.igc" lc="3.11447427272809" iv="626210"/>
+            <FsResult rank="28" points="653" distance="121.284" ss_time="02:49:35" distance_points="372.5" time_points="197.1" arrival_points="20.4" leading_points="63.3" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:34:35+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:19+11:00" finished_ss="2015-01-08T17:13:42+11:00" tracklog_filename="Conrad Loten.20150108-074803.6067.103.igc" lc="3.40301522607515" iv="684226"/>
+            <FsResult rank="35" points="480" distance="121.284" ss_time="03:28:42" distance_points="372.5" time_points="46" arrival_points="15.9" leading_points="45.1" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T17:13:42+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="75">
+            <FsFlightData distance="121.201" started_ss="2015-01-08T13:46:43+11:00" finished_ss="" tracklog_filename="Josh Woods2.20150108-071635.42097.75.igc" lc="3.22149891832504" iv="647729"/>
+            <FsResult rank="36" points="429" distance="121.201" ss_time="00:00:00" distance_points="372.4" time_points="0" arrival_points="0" leading_points="56.2" started_ss="2015-01-08T13:45:00+11:00" real_distance="121.201" last_distance="121.201"/>
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:00:14+11:00" finished_ss="2015-01-08T16:13:01+11:00" tracklog_filename="Attila Bertok.20150108-075100.5885.3.igc" lc="2.76513417237243" iv="555970"/>
+            <FsResult rank="1" points="966" distance="121.284" ss_time="02:13:01" distance_points="372.5" time_points="439.2" arrival_points="61.2" leading_points="92.7" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:13:01+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="36"/>
+          <FsParticipant id="101">
+            <FsFlightData distance="0.669" started_ss="" finished_ss="" tracklog_filename="Adam Jones.20150108-075840.36774.101.igc" lc="0" iv="0"/>
+            <FsResult rank="46" points="48" distance="10" ss_time="00:00:00" distance_points="48.3" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T14:01:01+11:00" finished_ss="2015-01-08T16:40:45+11:00" tracklog_filename="Grant Heaney.20150108-075911.6441.72.igc" lc="3.31893840003005" iv="667321"/>
+            <FsResult rank="26" points="678" distance="121.284" ss_time="02:40:45" distance_points="372.5" time_points="237.9" arrival_points="17.4" leading_points="50.1" started_ss="2015-01-08T14:00:00+11:00" finished_ss="2015-01-08T16:40:45+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:36+11:00" finished_ss="2015-01-08T16:25:42+11:00" tracklog_filename="Guy Hubbard.20150108-075925.6467.28.igc" lc="2.88888990504742" iv="580853"/>
+            <FsResult rank="16" points="726" distance="121.284" ss_time="02:40:42" distance_points="372.5" time_points="238.1" arrival_points="34.7" leading_points="80.6" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:25:42+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="69">
+            <FsFlightData distance="36.347" started_ss="2015-01-08T14:01:35+11:00" finished_ss="" tracklog_filename="Phil Seeley.20150108-075857.36770.69.igc" lc="6.30443579063292" iv="1267598"/>
+            <FsResult rank="45" points="126" distance="36.347" ss_time="00:00:00" distance_points="126" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T14:00:00+11:00" real_distance="36.347" last_distance="35.343"/>
+          </FsParticipant>
+          <FsParticipant id="97">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:52:44+11:00" finished_ss="2015-01-08T16:36:57+11:00" tracklog_filename="Sasha Serebrennikova.20150108-075958.30169.97.igc" lc="3.14533956755055" iv="632416"/>
+            <FsResult rank="29" points="639" distance="121.284" ss_time="02:51:57" distance_points="372.5" time_points="186.8" arrival_points="18.3" leading_points="61.2" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:36:57+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="87">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:27+11:00" finished_ss="2015-01-08T17:35:56+11:00" tracklog_filename="Yoko Isomoto.20150108-080102.12517.87.igc" lc="3.95691848041921" iv="795596"/>
+            <FsResult rank="37" points="404" distance="121.284" ss_time="03:50:56" distance_points="372.5" time_points="0" arrival_points="15.8" leading_points="15.8" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T17:35:56+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="99">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:45:24+11:00" finished_ss="2015-01-08T16:27:39+11:00" tracklog_filename="Zac Majors.20150108-075942.10613.99.igc" lc="2.85670763296681" iv="574383"/>
+            <FsResult rank="17" points="714" distance="121.284" ss_time="02:42:39" distance_points="372.5" time_points="228.8" arrival_points="29" leading_points="83.4" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:27:39+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="102"/>
+          <FsParticipant id="5">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:58:29+11:00" finished_ss="2015-01-08T17:03:52+11:00" tracklog_filename="Ryosuke Hattori.20150108-080220.15164.5.igc" lc="3.52034952166542" iv="707817"/>
+            <FsResult rank="34" points="508" distance="121.284" ss_time="03:18:52" distance_points="372.5" time_points="80.8" arrival_points="16" leading_points="38.4" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T17:03:52+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+          <FsParticipant id="93">
+            <FsFlightData distance="69.820" started_ss="2015-01-08T14:01:25+11:00" finished_ss="" tracklog_filename="Viv_Clements.20150108-082424.[CIVLID].93.kml" lc="4.94393551377581" iv="994050"/>
+            <FsResult rank="40" points="243" distance="69.82" ss_time="00:00:00" distance_points="242.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T14:00:00+11:00" real_distance="69.82" last_distance="69.375"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="10.747" started_ss="2015-01-08T13:42:55+11:00" finished_ss="" tracklog_filename="Dale Regehr.20150108-082805.30649.80.kml" lc="7.69106454258593" iv="1546400"/>
+            <FsResult rank="46" points="48" distance="10.747" ss_time="00:00:00" distance_points="50.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2015-01-08T13:42:55+11:00" real_distance="10.747" last_distance="10.463"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="121.285" started_ss="2015-01-08T13:46:05+11:00" finished_ss="2015-01-08T16:33:02+11:00" tracklog_filename="Lukas Bader.20150108-082931.6992.40.kml" lc="2.93837509558454" iv="590803"/>
+            <FsResult rank="27" points="674" distance="121.284" ss_time="02:48:02" distance_points="372.5" time_points="204" arrival_points="21.3" leading_points="76.4" started_ss="2015-01-08T13:45:00+11:00" finished_ss="2015-01-08T16:33:02+11:00" real_distance="121.284" last_distance="121.284"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="111.702" task_distance="121.284" no_of_pilots_present="50" no_of_pilots_flying="50" no_of_pilots_lo="14" no_of_pilots_reaching_es="36" best_dist="121.284" best_time="2.21694444444444" sum_real_dist_over_min="4571.221" best_real_dist="121.284" arrival_weight="0.078433875" leading_weight="0.109807425" time_weight="0.4392297" distance_weight="0.372529" time_validity="1" launch_validity="1" distance_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.582"/>
+          <FsTaskDistToTp tp_no="3" distance="52.505"/>
+          <FsTaskDistToTp tp_no="4" distance="69.045"/>
+          <FsTaskDistToTp tp_no="5" distance="121.285"/>
+        </FsTaskScoreParams>
+      </FsTask>
+    </FsTasks>
+  </FsCompetition>
+</Fs>
