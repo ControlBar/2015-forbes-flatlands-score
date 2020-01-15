@@ -2,6 +2,7 @@ SET COMP="forbes2015"
 
 fs-filter --file=%COMP%
 fs-route --file=%COMP%
+fs-arrival --file=%COMP%
 fs-effort --file=%COMP%
 fs-score --file=%COMP%
 
