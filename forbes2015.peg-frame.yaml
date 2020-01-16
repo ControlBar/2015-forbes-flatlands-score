@@ -2238,7 +2238,9 @@ stopFlying:
       - 2015-01-06T07:33:42Z
 - - - - '101'
       - Adam Jones
-    - scoredFixes: null
+    - scoredFixes:
+      - 5
+      - 305
       scoredSeconds:
       - 150
       - 3240
@@ -2247,7 +2249,9 @@ stopFlying:
       - 2015-01-07T03:39:13Z
   - - - '2'
       - Andrew Barnes
-    - scoredFixes: null
+    - scoredFixes:
+      - 9
+      - 1762
       scoredSeconds:
       - 45
       - 8842
@@ -2256,7 +2260,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '3'
       - Attila Bertok
-    - scoredFixes: null
+    - scoredFixes:
+      - 185
+      - 3853
       scoredSeconds:
       - 555
       - 11599
@@ -2265,7 +2271,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '71'
       - Chris Czajkowski
-    - scoredFixes: null
+    - scoredFixes:
+      - 7
+      - 1163
       scoredSeconds:
       - 211
       - 11821
@@ -2274,7 +2282,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '62'
       - Christian Voiblet
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 3338
       scoredSeconds:
       - 0
       - 10300
@@ -2283,7 +2293,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '103'
       - Conrad Loten
-    - scoredFixes: null
+    - scoredFixes:
+      - 24
+      - 601
       scoredSeconds:
       - 241
       - 6022
@@ -2292,7 +2304,9 @@ stopFlying:
       - 2015-01-07T04:14:07Z
   - - - '80'
       - Dale Regehr
-    - scoredFixes: null
+    - scoredFixes:
+      - 9
+      - 840
       scoredSeconds:
       - 271
       - 8596
@@ -2301,7 +2315,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '88'
       - Emiel Jansen
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 3821
       scoredSeconds:
       - 0
       - 7703
@@ -2310,7 +2326,9 @@ stopFlying:
       - 2015-01-07T04:52:53Z
   - - - '36'
       - Enda Murphy
-    - scoredFixes: null
+    - scoredFixes:
+      - 25
+      - 2060
       scoredSeconds:
       - 100
       - 8304
@@ -2319,7 +2337,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '8'
       - Federico Martini
-    - scoredFixes: null
+    - scoredFixes:
+      - 23
+      - 3794
       scoredSeconds:
       - 47
       - 8603
@@ -2328,7 +2348,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '33'
       - Filippo Oppici
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 5189
       scoredSeconds:
       - 0
       - 10697
@@ -2337,7 +2359,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '51'
       - Gavin Myers
-    - scoredFixes: null
+    - scoredFixes:
+      - 27
+      - 1884
       scoredSeconds:
       - 137
       - 9446
@@ -2346,7 +2370,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '45'
       - Geoff Robertson
-    - scoredFixes: null
+    - scoredFixes:
+      - 4
+      - 804
       scoredSeconds:
       - 120
       - 8220
@@ -2355,7 +2381,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '77'
       - Gerolf Heinrichs
-    - scoredFixes: null
+    - scoredFixes:
+      - 131
+      - 3593
       scoredSeconds:
       - 392
       - 10796
@@ -2364,7 +2392,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '89'
       - Gijs Wanders
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 3261
       scoredSeconds:
       - 0
       - 10074
@@ -2373,7 +2403,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '34'
       - Glen Mcfarlane
-    - scoredFixes: null
+    - scoredFixes:
+      - 2
+      - 5332
       scoredSeconds:
       - 60
       - 10964
@@ -2382,7 +2414,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '98'
       - Gordon Rigg
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 2008
       scoredSeconds:
       - 0
       - 10400
@@ -2391,7 +2425,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '72'
       - Grant Heaney
-    - scoredFixes: null
+    - scoredFixes:
+      - 658
+      - 2554
       scoredSeconds:
       - 3290
       - 12770
@@ -2400,7 +2436,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '28'
       - Guy Hubbard
-    - scoredFixes: null
+    - scoredFixes:
+      - 2
+      - 1923
       scoredSeconds:
       - 9
       - 7692
@@ -2409,7 +2447,9 @@ stopFlying:
       - 2015-01-07T03:58:46Z
   - - - '73'
       - Harrison Rowntree
-    - scoredFixes: null
+    - scoredFixes:
+      - 9
+      - 3123
       scoredSeconds:
       - 272
       - 9665
@@ -2418,7 +2458,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '79'
       - Jochen Zeischka
-    - scoredFixes: null
+    - scoredFixes:
+      - 15
+      - 1050
       scoredSeconds:
       - 151
       - 10505
@@ -2427,7 +2469,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '37'
       - Jon snr Durand
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 987
       scoredSeconds:
       - 0
       - 10059
@@ -2436,7 +2480,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '4'
       - Jonas Lobitz
-    - scoredFixes: null
+    - scoredFixes:
+      - 17
+      - 2005
       scoredSeconds:
       - 86
       - 10025
@@ -2445,7 +2491,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '39'
       - Jonny Durand
-    - scoredFixes: null
+    - scoredFixes:
+      - 18
+      - 1000
       scoredSeconds:
       - 180
       - 9993
@@ -2454,7 +2502,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '75'
       - Josh Woods
-    - scoredFixes: null
+    - scoredFixes:
+      - 9
+      - 959
       scoredSeconds:
       - 270
       - 9785
@@ -2463,7 +2513,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '85'
       - Kato Minoru
-    - scoredFixes: null
+    - scoredFixes:
+      - 6
+      - 2168
       scoredSeconds:
       - 30
       - 10868
@@ -2472,7 +2524,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '6'
       - Len Paton
-    - scoredFixes: null
+    - scoredFixes:
+      - 10
+      - 905
       scoredSeconds:
       - 301
       - 9252
@@ -2481,7 +2535,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '40'
       - Lukas Bader
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 9356
       scoredSeconds:
       - 0
       - 9356
@@ -2490,7 +2546,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '58'
       - Mark Russell
-    - scoredFixes: null
+    - scoredFixes:
+      - 10
+      - 315
       scoredSeconds:
       - 301
       - 3340
@@ -2499,7 +2557,9 @@ stopFlying:
       - 2015-01-07T03:20:24Z
   - - - '14'
       - Mikhail Karmazin
-    - scoredFixes: null
+    - scoredFixes:
+      - 23
+      - 3984
       scoredSeconds:
       - 46
       - 8016
@@ -2508,7 +2568,9 @@ stopFlying:
       - 2015-01-07T04:52:20Z
   - - - '20'
       - Nils Vesk
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 942
       scoredSeconds:
       - 0
       - 9400
@@ -2517,7 +2579,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '52'
       - Olav Olsen
-    - scoredFixes: null
+    - scoredFixes:
+      - 4
+      - 3492
       scoredSeconds:
       - 12
       - 10486
@@ -2526,7 +2590,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '94'
       - Olav Opsanger
-    - scoredFixes: null
+    - scoredFixes:
+      - 26
+      - 2132
       scoredSeconds:
       - 130
       - 10665
@@ -2535,7 +2601,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '95'
       - Oyvind Ellefsen
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 2180
       scoredSeconds:
       - 0
       - 11095
@@ -2544,7 +2612,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '30'
       - Phil Schroder
-    - scoredFixes: null
+    - scoredFixes:
+      - 2
+      - 970
       scoredSeconds:
       - 62
       - 9957
@@ -2553,7 +2623,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '69'
       - Phil Seeley
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 7864
       scoredSeconds:
       - 0
       - 7894
@@ -2562,7 +2634,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '18'
       - Rohan Taylor
-    - scoredFixes: null
+    - scoredFixes:
+      - 88
+      - 2325
       scoredSeconds:
       - 440
       - 11630
@@ -2571,7 +2645,9 @@ stopFlying:
       - 2015-01-07T04:54:36Z
   - - - '5'
       - Ryosuke Hattori
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 2462
       scoredSeconds:
       - 0
       - 10131
@@ -2580,7 +2656,9 @@ stopFlying:
       - 2015-01-07T04:30:57Z
   - - - '90'
       - Sander Van Schaik
-    - scoredFixes: null
+    - scoredFixes:
+      - 15
+      - 1119
       scoredSeconds:
       - 150
       - 11216
@@ -2589,7 +2667,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '97'
       - Sasha Serebrennikova
-    - scoredFixes: null
+    - scoredFixes:
+      - 23
+      - 4275
       scoredSeconds:
       - 47
       - 8603
@@ -2598,7 +2678,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '92'
       - Simon Braithwaite
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 967
       scoredSeconds:
       - 0
       - 9876
@@ -2607,7 +2689,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '24'
       - Steve Blenkinsop
-    - scoredFixes: null
+    - scoredFixes:
+      - 10
+      - 3525
       scoredSeconds:
       - 307
       - 10957
@@ -2616,7 +2700,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '86'
       - Takeshi Yokoyama
-    - scoredFixes: null
+    - scoredFixes:
+      - 27
+      - 847
       scoredSeconds:
       - 271
       - 8484
@@ -2625,7 +2711,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '96'
       - Thomas Lindal
-    - scoredFixes: null
+    - scoredFixes:
+      - 6
+      - 3834
       scoredSeconds:
       - 18
       - 11600
@@ -2634,7 +2722,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '42'
       - Trent Brown
-    - scoredFixes: null
+    - scoredFixes:
+      - 10
+      - 2086
       scoredSeconds:
       - 50
       - 10480
@@ -2643,7 +2733,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '83'
       - Tullio Gervasoni
-    - scoredFixes: null
+    - scoredFixes:
+      - 3
+      - 1155
       scoredSeconds:
       - 90
       - 11729
@@ -2652,7 +2744,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '48'
       - Victor Hare
-    - scoredFixes: null
+    - scoredFixes:
+      - 10
+      - 1115
       scoredSeconds:
       - 300
       - 11350
@@ -2661,7 +2755,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '93'
       - Viv Clements
-    - scoredFixes: null
+    - scoredFixes:
+      - 0
+      - 7965
       scoredSeconds:
       - 0
       - 7965
@@ -2670,7 +2766,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '1'
       - Yasuhiro Noma
-    - scoredFixes: null
+    - scoredFixes:
+      - 130
+      - 3163
       scoredSeconds:
       - 390
       - 9489
@@ -2679,7 +2777,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '87'
       - Yoko Isomoto
-    - scoredFixes: null
+    - scoredFixes:
+      - 7
+      - 2243
       scoredSeconds:
       - 210
       - 11482
@@ -2688,7 +2788,9 @@ stopFlying:
       - 2015-01-07T05:00:00Z
   - - - '99'
       - Zac Majors
-    - scoredFixes: null
+    - scoredFixes:
+      - 3
+      - 4981
       scoredSeconds:
       - 90
       - 10256
