@@ -300,10 +300,10 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '69'
-      - Phil Seeley
     - - '36'
       - Enda Murphy
+    - - '69'
+      - Phil Seeley
     downward: 4
     rel: 4.6522e-4
     frac: 4.698767e-2

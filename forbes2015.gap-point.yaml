@@ -1736,9 +1736,30 @@ score:
         flown: 38.495 km
       landedMade: 38.452 km
       stoppedAlt: 0.000 m
+  - - - '36'
+      - Enda Murphy
+    - place: '51'
+      total: 19
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 5.25
+        arrival: 0
+        time: 0
+        reach: 14.189
+        distance: 19.439
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '101'
       - Adam Jones
-    - place: 51=
+    - place: '52'
       total: 14
       jump: null
       penaltiesJump: []
@@ -1765,27 +1786,6 @@ score:
         flown: 2.957 km
       landedMade: -0.315 km
       stoppedAlt: 242.000 m
-  - - - '36'
-      - Enda Murphy
-    - place: 51=
-      total: 14
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.103
-        arrival: 0
-        time: 0
-        reach: 14.189
-        distance: 14.292
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '99'
       - Zac Majors
     - place: '1'
@@ -3186,17 +3186,17 @@ score:
   - - - '36'
       - Enda Murphy
     - place: 49=
-      total: 11
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 17.504
         arrival: 0
         time: 0
         reach: 11.493
-        distance: 11.493
+        distance: 28.997
         leading: 0
       velocity: null
       reach:
@@ -3207,17 +3207,17 @@ score:
   - - - '69'
       - Phil Seeley
     - place: 49=
-      total: 11
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 17.504
         arrival: 0
         time: 0
         reach: 11.493
-        distance: 11.493
+        distance: 28.997
         leading: 0
       velocity: null
       reach:
@@ -4710,17 +4710,17 @@ score:
   - - - '69'
       - Phil Seeley
     - place: '52'
-      total: 10
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 10.617
         arrival: 0
         time: 0
         reach: 9.551
-        distance: 9.551
+        distance: 20.168
         leading: 0
       velocity: null
       reach:
@@ -6179,9 +6179,30 @@ score:
         flown: 25.012 km
       landedMade: 24.210 km
       stoppedAlt: 188.000 m
+  - - - '88'
+      - Emiel Jansen
+    - place: '51'
+      total: 26
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 17.856
+        arrival: 0
+        time: 0
+        reach: 8.181
+        distance: 26.037
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '101'
       - Adam Jones
-    - place: '51'
+    - place: '52'
       total: 11
       jump: null
       penaltiesJump: []
@@ -6208,27 +6229,6 @@ score:
         flown: 4.857 km
       landedMade: 1.642 km
       stoppedAlt: 204.000 m
-  - - - '88'
-      - Emiel Jansen
-    - place: '52'
-      total: 8
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 8.181
-        distance: 8.181
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '3'
       - Attila Bertok
     - place: '1'
@@ -17938,17 +17938,17 @@ scoreDfNoTrack:
 - - - - '36'
       - Enda Murphy
     - place: '1'
-      total: 14
+      total: 19
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.103
+        effort: 5.25
         arrival: 0
         time: 0
         reach: 14.189
-        distance: 14.292
+        distance: 19.439
         leading: 0
       velocity: null
       reach:
@@ -17959,17 +17959,17 @@ scoreDfNoTrack:
 - - - - '36'
       - Enda Murphy
     - place: 1=
-      total: 11
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 17.504
         arrival: 0
         time: 0
         reach: 11.493
-        distance: 11.493
+        distance: 28.997
         leading: 0
       velocity: null
       reach:
@@ -17980,17 +17980,17 @@ scoreDfNoTrack:
   - - - '69'
       - Phil Seeley
     - place: 1=
-      total: 11
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 17.504
         arrival: 0
         time: 0
         reach: 11.493
-        distance: 11.493
+        distance: 28.997
         leading: 0
       velocity: null
       reach:
@@ -18001,17 +18001,17 @@ scoreDfNoTrack:
 - - - - '69'
       - Phil Seeley
     - place: '1'
-      total: 10
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 10.617
         arrival: 0
         time: 0
         reach: 9.551
-        distance: 9.551
+        distance: 20.168
         leading: 0
       velocity: null
       reach:
@@ -18022,17 +18022,17 @@ scoreDfNoTrack:
 - - - - '88'
       - Emiel Jansen
     - place: '1'
-      total: 8
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 17.856
         arrival: 0
         time: 0
         reach: 8.181
-        distance: 8.181
+        distance: 26.037
         leading: 0
       velocity: null
       reach:
