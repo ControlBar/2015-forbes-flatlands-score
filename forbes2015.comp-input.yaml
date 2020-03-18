@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  leadingAreaDistanceSquared: false
   leadingWeightScaling: null
 tasks:
 - taskName: goong he fat choi
@@ -109,6 +110,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -213,6 +215,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -320,6 +323,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -431,6 +435,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -511,6 +516,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -601,6 +607,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
