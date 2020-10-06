@@ -69,16 +69,16 @@ ssSpeed:
       frac: 0.68980732
   - - - '98'
       - Gordon Rigg
-    - time: 2.879454 h
-      frac: 0.67879925
+    - time: 2.885074 h
+      frac: 0.674702
   - - - '33'
       - Filippo Oppici
-    - time: 2.914059 h
-      frac: 0.65396373
+    - time: 2.921382 h
+      frac: 0.6488227
   - - - '4'
       - Jonas Lobitz
-    - time: 2.957501 h
-      frac: 0.62399175
+    - time: 2.966807 h
+      frac: 0.61772727
   - - - '89'
       - Gijs Wanders
     - time: 2.974656 h
@@ -113,8 +113,8 @@ ssSpeed:
       frac: 0.57621776
   - - - '30'
       - Phil Schroder
-    - time: 3.080782 h
-      frac: 0.54469901
+    - time: 3.085241 h
+      frac: 0.54196414
   - - - '85'
       - Kato Minoru
     - time: 3.087569 h
@@ -153,8 +153,8 @@ ssSpeed:
       frac: 0.32315918
   - - - '80'
       - Dale Regehr
-    - time: 3.584367 h
-      frac: 0.27263978
+    - time: 3.588719 h
+      frac: 0.2705264
   - - - '86'
       - Takeshi Yokoyama
     - time: 3.793826 h
@@ -225,8 +225,8 @@ ssSpeed:
       frac: 0.4618981
   - - - '52'
       - Olav Olsen
-    - time: 3.292898 h
-      frac: 0.45584144
+    - time: 3.301691 h
+      frac: 0.45096225
   - - - '95'
       - Oyvind Ellefsen
     - time: 3.326435 h
@@ -239,10 +239,6 @@ ssSpeed:
       - Filippo Oppici
     - time: 3.446458 h
       frac: 0.37348056
-  - - - '20'
-      - Nils Vesk
-    - time: 3.478805 h
-      frac: 0.35682518
   - - - '34'
       - Glen Mcfarlane
     - time: 3.510427 h
@@ -251,6 +247,10 @@ ssSpeed:
       - Tullio Gervasoni
     - time: 3.511842 h
       frac: 0.34003422
+  - - - '20'
+      - Nils Vesk
+    - time: 3.514688 h
+      frac: 0.33859757
   - - - '58'
       - Mark Russell
     - time: 3.542804 h
@@ -277,8 +277,8 @@ ssSpeed:
       frac: 0.22437551
   - - - '92'
       - Simon Braithwaite
-    - time: 3.766490 h
-      frac: 0.21700258
+    - time: 3.928433 h
+      frac: 0.14361381
   - - - '14'
       - Mikhail Karmazin
     - time: 3.999600 h
@@ -309,8 +309,8 @@ ssSpeed:
       frac: 0.97842975
   - - - '6'
       - Len Paton
-    - time: 2.462262 h
-      frac: 0.91011438
+    - time: 2.466758 h
+      frac: 0.90379809
   - - - '98'
       - Gordon Rigg
     - time: 2.468285 h
@@ -323,10 +323,6 @@ ssSpeed:
       - Tullio Gervasoni
     - time: 2.471763 h
       frac: 0.89700183
-  - - - '94'
-      - Olav Opsanger
-    - time: 2.473481 h
-      frac: 0.89472051
   - - - '33'
       - Filippo Oppici
     - time: 2.475758 h
@@ -335,14 +331,14 @@ ssSpeed:
       - Steve Blenkinsop
     - time: 2.481452 h
       frac: 0.88443996
+  - - - '94'
+      - Olav Opsanger
+    - time: 2.482147 h
+      frac: 0.88356582
   - - - '42'
       - Trent Brown
     - time: 2.486709 h
       frac: 0.87790499
-  - - - '4'
-      - Jonas Lobitz
-    - time: 2.489399 h
-      frac: 0.87462749
   - - - '34'
       - Glen Mcfarlane
     - time: 2.501693 h
@@ -355,6 +351,10 @@ ssSpeed:
       - Jochen Zeischka
     - time: 2.509441 h
       frac: 0.85141504
+  - - - '4'
+      - Jonas Lobitz
+    - time: 2.509847 h
+      frac: 0.85096488
   - - - '62'
       - Christian Voiblet
     - time: 2.573329 h
@@ -403,14 +403,14 @@ ssSpeed:
       - Federico Martini
     - time: 3.086337 h
       frac: 0.4319878
-  - - - '28'
-      - Guy Hubbard
-    - time: 3.092597 h
-      frac: 0.42843388
   - - - '37'
       - Jon snr Durand
     - time: 3.095385 h
       frac: 0.42685516
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.099051 h
+      frac: 0.42478155
   - - - '72'
       - Grant Heaney
     - time: 3.154688 h
@@ -579,10 +579,6 @@ ssSpeed:
       - Jonny Durand
     - time: 2.337848 h
       frac: 0.80796992
-  - - - '42'
-      - Trent Brown
-    - time: 2.339023 h
-      frac: 0.80677022
   - - - '85'
       - Kato Minoru
     - time: 2.372664 h
@@ -603,6 +599,10 @@ ssSpeed:
       - Tullio Gervasoni
     - time: 2.452637 h
       frac: 0.70366065
+  - - - '42'
+      - Trent Brown
+    - time: 2.476836 h
+      frac: 0.68405875
   - - - '6'
       - Len Paton
     - time: 2.510139 h
@@ -631,14 +631,14 @@ ssSpeed:
       - Simon Braithwaite
     - time: 2.628984 h
       frac: 0.57213723
-  - - - '73'
-      - Harrison Rowntree
-    - time: 2.630321 h
-      frac: 0.57122117
   - - - '1'
       - Yasuhiro Noma
     - time: 2.640759 h
       frac: 0.56410629
+  - - - '73'
+      - Harrison Rowntree
+    - time: 2.640983 h
+      frac: 0.5639545
   - - - '51'
       - Gavin Myers
     - time: 2.648681 h
