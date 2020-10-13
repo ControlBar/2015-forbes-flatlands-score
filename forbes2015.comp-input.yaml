@@ -542,7 +542,7 @@ tasks:
   - 2015-01-07T03:45:00Z
   stopped:
     announced: 2015-01-07T05:15:00Z
-    retroactive: 2015-01-07T05:15:00Z
+    retroactive: 2015-01-07T05:00:00Z
   taskTweak:
     arrivalRank: true
     arrivalTime: false
