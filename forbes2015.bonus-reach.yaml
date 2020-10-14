@@ -1869,60 +1869,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 95.277715 km
-  - - - '33'
-      - Filippo Oppici
-    - togo:
-        distance: 69.434000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 88.192715 km
-  - - - '79'
-      - Jochen Zeischka
-    - togo:
-        distance: 69.097000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 88.529715 km
-  - - - '62'
-      - Christian Voiblet
-    - togo:
-        distance: 69.339000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 88.287715 km
-  - - - '94'
-      - Olav Opsanger
-    - togo:
-        distance: 69.515000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 88.111715 km
-  - - - '75'
-      - Josh Woods
-    - togo:
-        distance: 69.852000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 87.774715 km
-  - - - '83'
-      - Tullio Gervasoni
-    - togo:
-        distance: 69.928000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 87.698715 km
   - - - '6'
       - Len Paton
     - togo:
@@ -1941,24 +1887,24 @@ nigh:
         legsSum: []
         waypoints: []
       made: 89.475715 km
-  - - - '73'
-      - Harrison Rowntree
+  - - - '79'
+      - Jochen Zeischka
     - togo:
-        distance: 72.954000 km
+        distance: 69.097000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 84.672715 km
-  - - - '4'
-      - Jonas Lobitz
+      made: 88.529715 km
+  - - - '62'
+      - Christian Voiblet
     - togo:
-        distance: 72.567000 km
+        distance: 69.339000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 85.059715 km
+      made: 88.287715 km
   - - - '85'
       - Kato Minoru
     - togo:
@@ -1968,6 +1914,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 88.329715 km
+  - - - '33'
+      - Filippo Oppici
+    - togo:
+        distance: 69.434000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 88.192715 km
+  - - - '3'
+      - Attila Bertok
+    - togo:
+        distance: 0.000000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 157.626715 km
+  - - - '94'
+      - Olav Opsanger
+    - togo:
+        distance: 69.515000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 88.111715 km
   - - - '77'
       - Gerolf Heinrichs
     - togo:
@@ -1977,6 +1950,24 @@ nigh:
         legsSum: []
         waypoints: []
       made: 88.037715 km
+  - - - '75'
+      - Josh Woods
+    - togo:
+        distance: 69.852000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.774715 km
+  - - - '83'
+      - Tullio Gervasoni
+    - togo:
+        distance: 69.928000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.698715 km
   - - - '24'
       - Steve Blenkinsop
     - togo:
@@ -1995,6 +1986,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 87.592715 km
+  - - - '1'
+      - Yasuhiro Noma
+    - togo:
+        distance: 70.107000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.519715 km
   - - - '95'
       - Oyvind Ellefsen
     - togo:
@@ -2013,33 +2013,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 87.545715 km
-  - - - '1'
-      - Yasuhiro Noma
-    - togo:
-        distance: 70.107000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 87.519715 km
-  - - - '40'
-      - Lukas Bader
-    - togo:
-        distance: 75.074000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 82.552715 km
-  - - - '89'
-      - Gijs Wanders
-    - togo:
-        distance: 76.509000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 81.117715 km
   - - - '34'
       - Glen Mcfarlane
     - togo:
@@ -2049,6 +2022,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 85.359715 km
+  - - - '4'
+      - Jonas Lobitz
+    - togo:
+        distance: 72.567000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 85.059715 km
+  - - - '73'
+      - Harrison Rowntree
+    - togo:
+        distance: 72.954000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.672715 km
+  - - - '40'
+      - Lukas Bader
+    - togo:
+        distance: 75.074000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 82.552715 km
   - - - '92'
       - Simon Braithwaite
     - togo:
@@ -2067,6 +2067,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 81.528715 km
+  - - - '89'
+      - Gijs Wanders
+    - togo:
+        distance: 76.509000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 81.117715 km
   - - - '39'
       - Jonny Durand
     - togo:
@@ -2112,15 +2121,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 79.339715 km
-  - - - '37'
-      - Jon snr Durand
-    - togo:
-        distance: 83.011000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 74.615715 km
   - - - '48'
       - Victor Hare
     - togo:
@@ -2130,6 +2130,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 77.241715 km
+  - - - '37'
+      - Jon snr Durand
+    - togo:
+        distance: 83.011000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 74.615715 km
   - - - '51'
       - Gavin Myers
     - togo:
@@ -2148,15 +2157,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 73.105715 km
-  - - - '20'
-      - Nils Vesk
-    - togo:
-        distance: 90.206000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 67.420715 km
   - - - '90'
       - Sander Van Schaik
     - togo:
@@ -2193,6 +2193,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 69.024715 km
+  - - - '20'
+      - Nils Vesk
+    - togo:
+        distance: 90.206000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 67.420715 km
   - - - '71'
       - Chris Czajkowski
     - togo:
@@ -2229,15 +2238,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 55.194715 km
-  - - - '80'
-      - Dale Regehr
-    - togo:
-        distance: 104.529000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 53.097715 km
   - - - '28'
       - Guy Hubbard
     - togo:
@@ -2256,6 +2256,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 53.806715 km
+  - - - '80'
+      - Dale Regehr
+    - togo:
+        distance: 104.529000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 53.097715 km
   - - - '36'
       - Enda Murphy
     - togo:

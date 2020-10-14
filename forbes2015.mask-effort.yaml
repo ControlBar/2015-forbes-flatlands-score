@@ -292,124 +292,128 @@ land:
       made: 1.641543 km
 - - - - '42'
       - Trent Brown
-    - togo: 59.930439 km
-      made: 97.696276 km
-  - - - '33'
-      - Filippo Oppici
-    - togo: 65.256156 km
-      made: 92.370559 km
-  - - - '79'
-      - Jochen Zeischka
-    - togo: 65.267555 km
-      made: 92.359160 km
-  - - - '62'
-      - Christian Voiblet
-    - togo: 65.380412 km
-      made: 92.246303 km
-  - - - '94'
-      - Olav Opsanger
-    - togo: 65.441206 km
-      made: 92.185509 km
-  - - - '75'
-      - Josh Woods
-    - togo: 65.857068 km
-      made: 91.769647 km
-  - - - '83'
-      - Tullio Gervasoni
-    - togo: 65.933724 km
-      made: 91.692991 km
+    - togo: 62.348838 km
+      made: 95.277877 km
   - - - '6'
       - Len Paton
-    - togo: 67.353748 km
-      made: 90.272967 km
+    - togo: 67.915677 km
+      made: 89.711038 km
   - - - '18'
       - Rohan Taylor
     - togo: 68.151400 km
       made: 89.475315 km
-  - - - '73'
-      - Harrison Rowntree
-    - togo: 68.535069 km
-      made: 89.091646 km
-  - - - '4'
-      - Jonas Lobitz
-    - togo: 68.602551 km
-      made: 89.024164 km
+  - - - '79'
+      - Jochen Zeischka
+    - togo: 69.097482 km
+      made: 88.529233 km
+  - - - '62'
+      - Christian Voiblet
+    - togo: 69.339120 km
+      made: 88.287595 km
   - - - '85'
       - Kato Minoru
-    - togo: 69.296573 km
-      made: 88.330142 km
+    - togo: 69.423165 km
+      made: 88.203550 km
+  - - - '33'
+      - Filippo Oppici
+    - togo: 69.433665 km
+      made: 88.193050 km
+  - - - '3'
+      - Attila Bertok
+    - togo: 69.490627 km
+      made: 88.136088 km
+  - - - '94'
+      - Olav Opsanger
+    - togo: 69.515158 km
+      made: 88.111557 km
   - - - '77'
       - Gerolf Heinrichs
-    - togo: 69.355682 km
-      made: 88.271033 km
+    - togo: 69.589380 km
+      made: 88.037335 km
+  - - - '75'
+      - Josh Woods
+    - togo: 69.852181 km
+      made: 87.774534 km
+  - - - '83'
+      - Tullio Gervasoni
+    - togo: 69.927918 km
+      made: 87.698797 km
   - - - '24'
       - Steve Blenkinsop
-    - togo: 69.698826 km
-      made: 87.927889 km
+    - togo: 69.991920 km
+      made: 87.634795 km
   - - - '99'
       - Zac Majors
-    - togo: 69.707045 km
-      made: 87.919670 km
-  - - - '95'
-      - Oyvind Ellefsen
-    - togo: 69.740070 km
-      made: 87.886645 km
-  - - - '98'
-      - Gordon Rigg
-    - togo: 69.854625 km
-      made: 87.772090 km
+    - togo: 70.033558 km
+      made: 87.593157 km
   - - - '1'
       - Yasuhiro Noma
-    - togo: 70.116555 km
-      made: 87.510160 km
-  - - - '40'
-      - Lukas Bader
-    - togo: 70.672565 km
-      made: 86.954150 km
-  - - - '89'
-      - Gijs Wanders
-    - togo: 72.201646 km
-      made: 85.425069 km
+    - togo: 70.117504 km
+      made: 87.509211 km
+  - - - '95'
+      - Oyvind Ellefsen
+    - togo: 70.138294 km
+      made: 87.488421 km
+  - - - '98'
+      - Gordon Rigg
+    - togo: 70.171593 km
+      made: 87.455122 km
   - - - '34'
       - Glen Mcfarlane
-    - togo: 72.206086 km
-      made: 85.420629 km
+    - togo: 72.266810 km
+      made: 85.359905 km
+  - - - '4'
+      - Jonas Lobitz
+    - togo: 72.566439 km
+      made: 85.060276 km
+  - - - '73'
+      - Harrison Rowntree
+    - togo: 72.953703 km
+      made: 84.673012 km
+  - - - '40'
+      - Lukas Bader
+    - togo: 75.073725 km
+      made: 82.552990 km
   - - - '92'
       - Simon Braithwaite
-    - togo: 75.080556 km
-      made: 82.546159 km
+    - togo: 75.162438 km
+      made: 82.464277 km
   - - - '72'
       - Grant Heaney
-    - togo: 76.128876 km
-      made: 81.497839 km
+    - togo: 76.388600 km
+      made: 81.238115 km
+  - - - '89'
+      - Gijs Wanders
+    - togo: 76.517494 km
+      made: 81.109221 km
   - - - '39'
       - Jonny Durand
-    - togo: 77.316895 km
-      made: 80.309820 km
+    - togo: 77.502022 km
+      made: 80.124693 km
   - - - '87'
       - Yoko Isomoto
-    - togo: 77.516312 km
-      made: 80.110403 km
+    - togo: 77.682339 km
+      made: 79.944376 km
   - - - '52'
       - Olav Olsen
-    - togo: 77.779286 km
-      made: 79.847429 km
+    - togo: 77.951681 km
+      made: 79.675034 km
   - - - '30'
       - Phil Schroder
-    - togo: 77.884202 km
-      made: 79.742513 km
+    - togo: 78.081684 km
+      made: 79.545031 km
   - - - '2'
       - Andrew Barnes
-    - togo: 78.166384 km
-      made: 79.460331 km
-  - - - '37'
-      - Jon snr Durand
-    - togo: 79.755647 km
-      made: 77.871068 km
+    - togo: 78.357001 km
+      made: 79.269714 km
   - - - '48'
       - Victor Hare
     - togo: 80.385424 km
       made: 77.241291 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 83.011051 km
+      made: 74.615664 km
   - - - '51'
       - Gavin Myers
     - togo: 84.515908 km
@@ -418,10 +422,6 @@ land:
       - Sasha Serebrennikova
     - togo: 84.567220 km
       made: 73.059495 km
-  - - - '20'
-      - Nils Vesk
-    - togo: 85.456205 km
-      made: 72.170510 km
   - - - '90'
       - Sander Van Schaik
     - togo: 87.579410 km
@@ -438,6 +438,10 @@ land:
       - Geoff Robertson
     - togo: 88.656112 km
       made: 68.970603 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 90.205521 km
+      made: 67.421194 km
   - - - '71'
       - Chris Czajkowski
     - togo: 91.047124 km
@@ -454,10 +458,6 @@ land:
       - Phil Seeley
     - togo: 102.432454 km
       made: 55.194261 km
-  - - - '80'
-      - Dale Regehr
-    - togo: 102.554896 km
-      made: 55.071819 km
   - - - '28'
       - Guy Hubbard
     - togo: 103.680274 km
@@ -466,6 +466,10 @@ land:
       - Thomas Lindal
     - togo: 104.014593 km
       made: 53.612122 km
+  - - - '80'
+      - Dale Regehr
+    - togo: 104.528850 km
+      made: 53.097865 km
   - - - '36'
       - Enda Murphy
     - togo: 108.827230 km

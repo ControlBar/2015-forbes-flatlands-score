@@ -3,7 +3,7 @@ pilotsAtEss:
 - 35
 - 39
 - 28
-- 1
+- 0
 - 36
 arrivalRank:
 - - - - '3'
@@ -681,11 +681,7 @@ arrivalRank:
     - lag: 1.785417 h
       rank: '28'
       frac: 0.20151608
-- - - - '3'
-      - Attila Bertok
-    - lag: 0.000000 h
-      rank: '1'
-      frac: 1
+- []
 - - - - '24'
       - Steve Blenkinsop
     - lag: 0.000000 h

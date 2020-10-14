@@ -3,14 +3,14 @@ ssBestTime:
 - 2.640609 h
 - 2.420337 h
 - 4.513526 h
-- 3.328788 h
+- null
 - 2.212675 h
 gsBestTime:
 - 2.616423 h
 - 2.661857 h
 - 2.429386 h
 - 4.517488 h
-- 3.351340 h
+- null
 - 2.217060 h
 taskDistance:
 - 135.044651 km
@@ -567,10 +567,7 @@ ssSpeed:
       - Steve Blenkinsop
     - time: 6.253271 h
       frac: 0.12471067
-- - - - '3'
-      - Attila Bertok
-    - time: 3.328788 h
-      frac: 1
+- []
 - - - - '3'
       - Attila Bertok
     - time: 2.212675 h
@@ -1256,10 +1253,7 @@ gsSpeed:
       - Federico Martini
     - time: 6.282876 h
       frac: 0.11638908
-- - - - '3'
-      - Attila Bertok
-    - time: 3.351340 h
-      frac: 1
+- []
 - - - - '3'
       - Attila Bertok
     - time: 2.217060 h
@@ -1609,6 +1603,9 @@ altStopped:
   - - - '2'
       - Andrew Barnes
     - 2277.000 m
+  - - - '3'
+      - Attila Bertok
+    - 0.000 m
   - - - '71'
       - Chris Czajkowski
     - 1360.000 m
