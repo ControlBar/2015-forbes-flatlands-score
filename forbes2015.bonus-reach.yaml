@@ -11,9 +11,9 @@ bolster:
 - max: 249.642409 km
   mean: 195.574913 km
   stdDev: 82.628593 km
-- max: 157.626715 km
-  mean: 74.974186 km
-  stdDev: 20.943833 km
+- max: 95.277715 km
+  mean: 73.611617 km
+  stdDev: 17.499551 km
 - max: 121.183199 km
   mean: 101.361887 km
   stdDev: 37.432283 km
@@ -30,9 +30,9 @@ reach:
 - max: 249.642409 km
   mean: 195.283709 km
   stdDev: 83.294126 km
-- max: 157.626715 km
-  mean: 74.974186 km
-  stdDev: 20.943833 km
+- max: 95.277715 km
+  mean: 73.611617 km
+  stdDev: 17.499551 km
 - max: 121.183199 km
   mean: 101.103579 km
   stdDev: 38.082296 km
@@ -861,209 +861,209 @@ reachRank:
       - Emiel Jansen
     - frac: 0
       reach: 0.000000 km
-- - - - '3'
-      - Attila Bertok
-    - frac: 1
-      reach: 157.626715 km
-  - - - '42'
+- - - - '42'
       - Trent Brown
-    - frac: 0.60445157
+    - frac: 1
       reach: 95.277715 km
   - - - '6'
       - Len Paton
-    - frac: 0.56913395
+    - frac: 0.94157081
       reach: 89.710715 km
   - - - '18'
       - Rohan Taylor
-    - frac: 0.56764309
+    - frac: 0.93910433
       reach: 89.475715 km
   - - - '79'
       - Jochen Zeischka
-    - frac: 0.56164157
+    - frac: 0.92917546
       reach: 88.529715 km
   - - - '85'
       - Kato Minoru
-    - frac: 0.56037275
+    - frac: 0.92707634
       reach: 88.329715 km
   - - - '62'
       - Christian Voiblet
-    - frac: 0.56010629
+    - frac: 0.92663552
       reach: 88.287715 km
   - - - '33'
       - Filippo Oppici
-    - frac: 0.5595036
+    - frac: 0.92563843
       reach: 88.192715 km
+  - - - '3'
+      - Attila Bertok
+    - frac: 0.92504018
+      reach: 88.135715 km
   - - - '94'
       - Olav Opsanger
-    - frac: 0.55898973
+    - frac: 0.92478829
       reach: 88.111715 km
   - - - '77'
       - Gerolf Heinrichs
-    - frac: 0.55852027
+    - frac: 0.92401161
       reach: 88.037715 km
   - - - '75'
       - Josh Woods
-    - frac: 0.55685177
+    - frac: 0.92125126
       reach: 87.774715 km
   - - - '24'
       - Steve Blenkinsop
-    - frac: 0.55642037
+    - frac: 0.92053756
       reach: 87.706715 km
   - - - '83'
       - Tullio Gervasoni
-    - frac: 0.55636962
+    - frac: 0.92045359
       reach: 87.698715 km
   - - - '99'
       - Zac Majors
-    - frac: 0.55569714
+    - frac: 0.91934105
       reach: 87.592715 km
   - - - '98'
       - Gordon Rigg
-    - frac: 0.55539897
+    - frac: 0.91884776
       reach: 87.545715 km
   - - - '1'
       - Yasuhiro Noma
-    - frac: 0.55523402
+    - frac: 0.91857487
       reach: 87.519715 km
   - - - '95'
       - Oyvind Ellefsen
-    - frac: 0.55503736
+    - frac: 0.91824951
       reach: 87.488715 km
   - - - '34'
       - Glen Mcfarlane
-    - frac: 0.54153076
+    - frac: 0.8959043
       reach: 85.359715 km
   - - - '4'
       - Jonas Lobitz
-    - frac: 0.53962753
+    - frac: 0.89275561
       reach: 85.059715 km
   - - - '73'
       - Harrison Rowntree
-    - frac: 0.53717236
+    - frac: 0.8886938
       reach: 84.672715 km
   - - - '40'
       - Lukas Bader
-    - frac: 0.52372287
+    - frac: 0.86644306
       reach: 82.552715 km
   - - - '92'
       - Simon Braithwaite
-    - frac: 0.52316459
+    - frac: 0.86551944
       reach: 82.464715 km
   - - - '72'
       - Grant Heaney
-    - frac: 0.51722651
+    - frac: 0.85569553
       reach: 81.528715 km
   - - - '89'
       - Gijs Wanders
-    - frac: 0.51461908
+    - frac: 0.85138183
       reach: 81.117715 km
   - - - '39'
       - Jonny Durand
-    - frac: 0.50831939
+    - frac: 0.84095966
       reach: 80.124715 km
   - - - '87'
       - Yoko Isomoto
-    - frac: 0.50717745
+    - frac: 0.83907045
       reach: 79.944715 km
   - - - '52'
       - Olav Olsen
-    - frac: 0.50546454
+    - frac: 0.83623663
       reach: 79.674715 km
   - - - '30'
       - Phil Schroder
-    - frac: 0.50463981
+    - frac: 0.83487219
       reach: 79.544715 km
   - - - '2'
       - Andrew Barnes
-    - frac: 0.50333927
+    - frac: 0.83272059
       reach: 79.339715 km
   - - - '48'
       - Victor Hare
-    - frac: 0.49002934
+    - frac: 0.81070075
       reach: 77.241715 km
   - - - '37'
       - Jon snr Durand
-    - frac: 0.47336973
+    - frac: 0.78313922
       reach: 74.615715 km
   - - - '51'
       - Gavin Myers
-    - frac: 0.46407562
+    - frac: 0.76776311
       reach: 73.150715 km
   - - - '97'
       - Sasha Serebrennikova
-    - frac: 0.46379013
+    - frac: 0.76729081
       reach: 73.105715 km
   - - - '90'
       - Sander Van Schaik
-    - frac: 0.44438987
+    - frac: 0.73519516
       reach: 70.047715 km
   - - - '8'
       - Federico Martini
-    - frac: 0.44308933
+    - frac: 0.73304356
       reach: 69.842715 km
   - - - '14'
       - Mikhail Karmazin
-    - frac: 0.44156674
+    - frac: 0.7305246
       reach: 69.602715 km
   - - - '45'
       - Geoff Robertson
-    - frac: 0.43789985
+    - frac: 0.72445813
       reach: 69.024715 km
   - - - '20'
       - Nils Vesk
-    - frac: 0.42772391
+    - frac: 0.70762313
       reach: 67.420715 km
   - - - '71'
       - Chris Czajkowski
-    - frac: 0.42281358
+    - frac: 0.69949951
       reach: 66.646715 km
   - - - '86'
       - Takeshi Yokoyama
-    - frac: 0.3804096
+    - frac: 0.62934669
       reach: 59.962715 km
   - - - '103'
       - Conrad Loten
-    - frac: 0.36039395
+    - frac: 0.59623297
       reach: 56.807715 km
   - - - '69'
       - Phil Seeley
-    - frac: 0.35016092
+    - frac: 0.57930351
       reach: 55.194715 km
   - - - '28'
       - Guy Hubbard
-    - frac: 0.34259875
+    - frac: 0.56679272
       reach: 54.002715 km
   - - - '96'
       - Thomas Lindal
-    - frac: 0.3413553
+    - frac: 0.56473557
       reach: 53.806715 km
   - - - '80'
       - Dale Regehr
-    - frac: 0.33685733
+    - frac: 0.55729417
       reach: 53.097715 km
   - - - '36'
       - Enda Murphy
-    - frac: 0.30959038
+    - frac: 0.51218394
       reach: 48.799715 km
   - - - '88'
       - Emiel Jansen
-    - frac: 0.29784745
+    - frac: 0.49275652
       reach: 46.948715 km
   - - - '5'
       - Ryosuke Hattori
-    - frac: 0.2817144
+    - frac: 0.46606612
       reach: 44.405715 km
   - - - '93'
       - Viv Clements
-    - frac: 0.25739745
+    - frac: 0.42583636
       reach: 40.572715 km
   - - - '101'
       - Adam Jones
-    - frac: 0.16785679
+    - frac: 0.27770098
       reach: 26.458715 km
   - - - '58'
       - Mark Russell
-    - frac: 0.10553233
+    - frac: 0.17459188
       reach: 16.634715 km
 - - - - '24'
       - Steve Blenkinsop
@@ -1926,12 +1926,12 @@ nigh:
   - - - '3'
       - Attila Bertok
     - togo:
-        distance: 0.000000 km
+        distance: 69.491000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 157.626715 km
+      made: 88.135715 km
   - - - '94'
       - Olav Opsanger
     - togo:

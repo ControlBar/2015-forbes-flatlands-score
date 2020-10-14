@@ -71,7 +71,7 @@ sumDistance:
 - 6272.121192 km
 - 8456.997122 km
 - 9649.895450 km
-- 3313.683465 km
+- 3244.192465 km
 - 4568.094353 km
 leadAreaToCoef:
 - 0.00000425893704 km^-1 s^-1
@@ -1108,6 +1108,11 @@ leadRank:
     - area: 678647.7315 km s
       coef: 2.54701672
       frac: 0.93780359
+  - - - '3'
+      - Attila Bertok
+    - area: 678805.7838 km s
+      coef: 2.5476099
+      frac: 0.93680915
   - - - '33'
       - Filippo Oppici
     - area: 679501.8233 km s
@@ -1263,11 +1268,6 @@ leadRank:
     - area: 730368.3499 km s
       coef: 2.74112814
       frac: 0.73329954
-  - - - '3'
-      - Attila Bertok
-    - area: 741347.2955 km s
-      coef: 2.78233296
-      frac: 0.7007797
   - - - '71'
       - Chris Czajkowski
     - area: 771387.9144 km s
