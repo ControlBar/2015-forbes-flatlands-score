@@ -2041,9 +2041,54 @@ score:
       subtotal: 247.143
       landedMade: 78.964 km
       stoppedAlt: 395.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - place: 40=
+      total: 233.927
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 128.646
+        arrival: 0
+        time: 0
+        reach: 105.281
+        distance: 233.927
+        leading: 0
+      velocity:
+        ss: 2015-01-01T02:45:44.54335645032Z
+        gs: 2015-01-01T02:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 74.200 km
+        flown: 74.200 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 233.927
+      landedMade: 74.200 km
+      stoppedAlt: 401.000 m
   - - - '93'
       - Viv Clements
-    - place: '40'
+    - place: 40=
       total: 233.91
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2088,7 +2133,7 @@ score:
       stoppedAlt: 380.000 m
   - - - '18'
       - Rohan Taylor
-    - place: '41'
+    - place: '42'
       total: 225.545
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2133,7 +2178,7 @@ score:
       stoppedAlt: 314.000 m
   - - - '90'
       - Sander Van Schaik
-    - place: '42'
+    - place: '43'
       total: 225.109
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2178,7 +2223,7 @@ score:
       stoppedAlt: 333.000 m
   - - - '75'
       - Josh Woods
-    - place: '43'
+    - place: '44'
       total: 221.665
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2223,7 +2268,7 @@ score:
       stoppedAlt: 329.000 m
   - - - '8'
       - Federico Martini
-    - place: '44'
+    - place: '45'
       total: 196.696
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2268,7 +2313,7 @@ score:
       stoppedAlt: 362.000 m
   - - - '5'
       - Ryosuke Hattori
-    - place: 45=
+    - place: 46=
       total: 121.44
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2313,7 +2358,7 @@ score:
       stoppedAlt: 391.000 m
   - - - '88'
       - Emiel Jansen
-    - place: 45=
+    - place: 46=
       total: 121.176
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2358,7 +2403,7 @@ score:
       stoppedAlt: 367.000 m
   - - - '87'
       - Yoko Isomoto
-    - place: '47'
+    - place: '48'
       total: 113.57
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -2401,51 +2446,6 @@ score:
       subtotal: 113.57
       landedMade: 46.017 km
       stoppedAlt: 320.000 m
-  - - - '71'
-      - Chris Czajkowski
-    - place: '48'
-      total: 105.281
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 105.281
-        distance: 105.281
-        leading: 0
-      velocity:
-        ss: 2015-01-01T02:45:44.54335645032Z
-        gs: 2015-01-01T02:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 74.200 km
-        flown: 74.200 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 105.281
-      landedMade: 74.200 km
-      stoppedAlt: 401.000 m
   - - - '102'
       - Peter Dall
     - place: '49'
@@ -11562,9 +11562,54 @@ score:
       subtotal: 275.116
       landedMade: 53.098 km
       stoppedAlt: 896.000 m
+  - - - '36'
+      - Enda Murphy
+    - place: '46'
+      total: 235.929
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 44.95
+        arrival: 0
+        time: 0
+        reach: 184.182
+        distance: 229.132
+        leading: 6.8
+      velocity:
+        ss: 2015-01-07T03:19:10.774373446776Z
+        gs: 2015-01-07T03:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 48.800 km
+        flown: 48.800 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 235.929
+      landedMade: 48.800 km
+      stoppedAlt: 1317.000 m
   - - - '88'
       - Emiel Jansen
-    - place: '46'
+    - place: '47'
       total: 224.364
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -11609,7 +11654,7 @@ score:
       stoppedAlt: 1098.000 m
   - - - '5'
       - Ryosuke Hattori
-    - place: '47'
+    - place: '48'
       total: 208.275
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -11652,51 +11697,6 @@ score:
       subtotal: 208.275
       landedMade: 44.406 km
       stoppedAlt: 242.000 m
-  - - - '36'
-      - Enda Murphy
-    - place: '48'
-      total: 190.979
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 184.182
-        distance: 184.182
-        leading: 6.8
-      velocity:
-        ss: 2015-01-07T03:19:10.774373446776Z
-        gs: 2015-01-07T03:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 48.800 km
-        flown: 48.800 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 190.979
-      landedMade: 48.800 km
-      stoppedAlt: 1317.000 m
   - - - '93'
       - Viv Clements
     - place: '49'
@@ -15851,9 +15851,54 @@ scoreDf:
       subtotal: 247.143
       landedMade: 78.964 km
       stoppedAlt: 395.000 m
+  - - - '71'
+      - Chris Czajkowski
+    - place: 40=
+      total: 233.927
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 128.646
+        arrival: 0
+        time: 0
+        reach: 105.281
+        distance: 233.927
+        leading: 0
+      velocity:
+        ss: 2015-01-01T02:45:44.54335645032Z
+        gs: 2015-01-01T02:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 74.200 km
+        flown: 74.200 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 233.927
+      landedMade: 74.200 km
+      stoppedAlt: 401.000 m
   - - - '93'
       - Viv Clements
-    - place: '40'
+    - place: 40=
       total: 233.91
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15898,7 +15943,7 @@ scoreDf:
       stoppedAlt: 380.000 m
   - - - '18'
       - Rohan Taylor
-    - place: '41'
+    - place: '42'
       total: 225.545
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15943,7 +15988,7 @@ scoreDf:
       stoppedAlt: 314.000 m
   - - - '90'
       - Sander Van Schaik
-    - place: '42'
+    - place: '43'
       total: 225.109
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15988,7 +16033,7 @@ scoreDf:
       stoppedAlt: 333.000 m
   - - - '75'
       - Josh Woods
-    - place: '43'
+    - place: '44'
       total: 221.665
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -16033,7 +16078,7 @@ scoreDf:
       stoppedAlt: 329.000 m
   - - - '8'
       - Federico Martini
-    - place: '44'
+    - place: '45'
       total: 196.696
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -16078,7 +16123,7 @@ scoreDf:
       stoppedAlt: 362.000 m
   - - - '5'
       - Ryosuke Hattori
-    - place: 45=
+    - place: 46=
       total: 121.44
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -16123,7 +16168,7 @@ scoreDf:
       stoppedAlt: 391.000 m
   - - - '88'
       - Emiel Jansen
-    - place: 45=
+    - place: 46=
       total: 121.176
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -16168,7 +16213,7 @@ scoreDf:
       stoppedAlt: 367.000 m
   - - - '87'
       - Yoko Isomoto
-    - place: '47'
+    - place: '48'
       total: 113.57
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -16211,51 +16256,6 @@ scoreDf:
       subtotal: 113.57
       landedMade: 46.017 km
       stoppedAlt: 320.000 m
-  - - - '71'
-      - Chris Czajkowski
-    - place: '48'
-      total: 105.281
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 105.281
-        distance: 105.281
-        leading: 0
-      velocity:
-        ss: 2015-01-01T02:45:44.54335645032Z
-        gs: 2015-01-01T02:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 74.200 km
-        flown: 74.200 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 105.281
-      landedMade: 74.200 km
-      stoppedAlt: 401.000 m
   - - - '102'
       - Peter Dall
     - place: '49'
@@ -25187,9 +25187,54 @@ scoreDf:
       subtotal: 275.116
       landedMade: 53.098 km
       stoppedAlt: 896.000 m
+  - - - '36'
+      - Enda Murphy
+    - place: '46'
+      total: 235.929
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 44.95
+        arrival: 0
+        time: 0
+        reach: 184.182
+        distance: 229.132
+        leading: 6.8
+      velocity:
+        ss: 2015-01-07T03:19:10.774373446776Z
+        gs: 2015-01-07T03:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 48.800 km
+        flown: 48.800 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 235.929
+      landedMade: 48.800 km
+      stoppedAlt: 1317.000 m
   - - - '88'
       - Emiel Jansen
-    - place: '46'
+    - place: '47'
       total: 224.364
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -25234,7 +25279,7 @@ scoreDf:
       stoppedAlt: 1098.000 m
   - - - '5'
       - Ryosuke Hattori
-    - place: '47'
+    - place: '48'
       total: 208.275
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -25277,51 +25322,6 @@ scoreDf:
       subtotal: 208.275
       landedMade: 44.406 km
       stoppedAlt: 242.000 m
-  - - - '36'
-      - Enda Murphy
-    - place: '48'
-      total: 190.979
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 184.182
-        distance: 184.182
-        leading: 6.8
-      velocity:
-        ss: 2015-01-07T03:19:10.774373446776Z
-        gs: 2015-01-07T03:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 48.800 km
-        flown: 48.800 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 190.979
-      landedMade: 48.800 km
-      stoppedAlt: 1317.000 m
   - - - '93'
       - Viv Clements
     - place: '49'
